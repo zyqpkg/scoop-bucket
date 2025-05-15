@@ -8,18 +8,18 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://github.com/langgenius/dify-plugin-daemon/releases/download/0.0.9/dify-plugin-windows-amd64.exe"
+      "url": "https://github.com/langgenius/dify-plugin-daemon/releases/download/0.0.9/dify-plugin-windows-amd64.exe",
+      "bin": [
+        ["dify-plugin-windows-amd64.exe", "dify-plugin"]
+      ]
     }
   },
-  "extract_dir": "PFiles\\dify-plugin",
-  "shortcuts": [
-    [
-      "dify-plugin.exe",
-      "dify-plugin"
-    ]
-  ],
   "checkver": "github",
   "autoupdate": {
-    "url": "https://github.com/langgenius/dify-plugin-daemon/releases/download/$version/dify-plugin-windows-amd64.exe"
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/langgenius/dify-plugin-daemon/releases/download/$version/dify-plugin-windows-amd64.exe"
+      }
+    }
   }
 }
