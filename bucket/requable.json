@@ -1,0 +1,24 @@
+{
+  "version": "v3.0.28",
+  "description": "Next-Gen API Development Tool",
+  "homepage": "https://reqable.com",
+  "license": "GPL-3.0-or-later",
+  "architecture": {
+    "64bit": {
+      "url": "https://app.reqable.com/download?platform=windows&arch=x86_64&ext=zip&locale=zh-CN"
+    }
+  },
+  "bin": "Reqable.exe",
+  "shortcuts": [["Reqable.exe", "Reqable"]],
+  "checkver": {
+    "url": "https://reqable.com/download",
+    "regex": "v([\\d.]+)"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://app.reqable.com/download?platform=windows&arch=x86_64&ext=zip&locale=zh-CN"
+      }
+    }
+  }
+}
