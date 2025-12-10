@@ -6,17 +6,10 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/Apollo199999999/LauncherX/releases/download/v2.1.2/LauncherX_2.1.2_x64_Setup.exe",
-      "hash": ""
+      "hash": "09ce557f2abe9e1a9c818851140b47ec6ccbccfe296dc507300b941355140d6b"
     }
   },
-  "installer": {
-    "script": [
-      "$file = (Get-ChildItem \"$dir\" 'LauncherX*.exe' | Select-Object -First 1).FullName",
-      "Expand-7ZipArchive \"$file\" \"$dir\\\" -Removal",
-      "Expand-7ZipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\" -Removal",
-      "Remove-Item \"$dir\\`$PLUGINSDIR\",\"$dir\\`$R0\"  -Force -Recurse"
-    ]
-  },
+  "innosetup": true,
   "shortcuts": [
     [
       "LauncherX.exe",
@@ -27,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://github.com/Apollo199999999/LauncherX/releases/download/v$version/LauncherX-$version-windows-x64.exe"
+        "url": "https://github.com/Apollo199999999/LauncherX/releases/download/v$version/LauncherX_$version_x64_Setup.exe"
       }
     }
   }
