@@ -1,0 +1,48 @@
+{
+  "version": "8.0",
+  "description": "A complete, cross-platform solution to record, convert and stream audio and video. (BtbN build with FDK-AAC)",
+  "homepage": "https://github.com/BtbN/FFmpeg-Builds",
+  "license": {
+    "identifier": "Nonfree",
+    "url": "https://ffmpeg.org/legal.html"
+  },
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-n8.0-latest-win64-gpl-shared-8.0.zip",
+      "hash": "d4657ac67005dffac55aa9d1865b78d151d4aed95a054f5f48ac8f8f68d1f95b",
+      "extract_dir": "ffmpeg-n8.0-latest-win64-gpl-shared-8.0"
+    },
+    "arm64": {
+      "url": "https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-n8.0-latest-winarm64-gpl-shared-8.0.zip",
+      "hash": "eab470db756582aa9ef4f56c0b4c0a93e15f33f01ca75e65cc2b45aad83dd045",
+      "extract_dir": "ffmpeg-n8.0-latest-winarm64-gpl-shared-8.0"
+    }
+  },
+  "bin": [
+    "bin\\ffmpeg.exe",
+    "bin\\ffplay.exe",
+    "bin\\ffprobe.exe"
+  ],
+  "checkver": {
+    "url": "https://api.github.com/repos/BtbN/FFmpeg-Builds/releases/latest",
+    "jsonpath": "$.assets[?(@.name =~ /ffmpeg-n([\\d.]+)-latest-win64-gpl-shared/)].name",
+    "regex": "ffmpeg-n([\\d.]+)-latest"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-n$version-latest-win64-gpl-shared-$version.zip",
+        "extract_dir": "ffmpeg-n$version-latest-win64-gpl-shared-$version"
+      },
+      "arm64": {
+        "url": "https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-n$version-latest-winarm64-gpl-shared-$version.zip",
+        "extract_dir": "ffmpeg-n$version-latest-winarm64-gpl-shared-$version"
+      }
+    }
+  },
+  "notes": [
+    "This build includes FDK-AAC and other GPL-licensed codecs.",
+    "To use FDK-AAC: ffmpeg -i input.m4a -c:a libfdk_aac -vbr 5 output.m4a",
+    "VBR quality range: 1 (lowest) to 5 (highest, ~192kbps)"
+  ]
+}
