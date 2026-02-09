@@ -5,6 +5,13 @@
     "license": "MIT",
     "url": "https://github.com/zyqfork/yaak/releases/download/v2026.2.9/Yaak_2026.2.9_x64-setup.exe",
     "hash": "sha256:dfd73febdeeca5935e51e20234057b47167c20a48e9237d3a86583f7dd2afac6",
+    "installer": {
+        "script": [
+            "$exe = Get-ChildItem \"$dir\\Yaak_*_x64-setup.exe\" -ErrorAction SilentlyContinue | Select-Object -First 1",
+            "if ($exe) { Start-Process -FilePath $exe.FullName -ArgumentList '/S', \"/D=$dir\" -Wait -NoNewWindow }"
+        ]
+    },
+    "post_install": "Remove-Item \"$dir\\Yaak_*_x64-setup.exe\" -Force -ErrorAction SilentlyContinue",
     "shortcuts": [
         [
             "Yaak.exe",

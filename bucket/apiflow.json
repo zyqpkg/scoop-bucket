@@ -3,8 +3,8 @@
     "description": "Free, AI-Powered API Tool like Postman. Supports API testing, mocking, WebSocket, AI agents, team collaboration and OpenAPI 3.0.",
     "homepage": "https://github.com/trueleaf/apiflow",
     "license": "MIT",
-    "url": "https://github.com/trueleaf/apiflow/releases/download/v0.9.7-beta.12/ApiFlow-0.9.7-beta.12-x64.zip",
-    "hash": "sha256:692cd85449aac47c923911a41f4e04606b9bfaed93fd0fe1aa6cbc2b342dc3b4",
+    "url": "https://github.com/trueleaf/apiflow/releases/download/v0.9.7-beta.12/ApiFlow-0.9.7-beta.12-x64.exe",
+    "hash": "sha256:8ed2c24b2eaa473926328f1a2a6782f2abbca7ff541b0bbc99f63b6207a974b0",
     "shortcuts": [
         [
             "ApiFlow.exe",
@@ -15,6 +15,6 @@
         "github": "https://github.com/trueleaf/apiflow"
     },
     "autoupdate": {
-        "url": "https://github.com/trueleaf/apiflow/releases/download/v$version/ApiFlow-$version-x64.zip"
+        "url": "https://github.com/trueleaf/apiflow/releases/download/v$version/ApiFlow-$version-x64.exe"
     }
 }
