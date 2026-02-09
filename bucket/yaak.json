@@ -1,0 +1,20 @@
+{
+    "version": "2026.2.9",
+    "description": "A fast, privacy-first API client for REST, GraphQL, SSE, WebSocket, and gRPC – built with Tauri, Rust, and React.",
+    "homepage": "https://github.com/zyqfork/yaak",
+    "license": "MIT",
+    "url": "https://github.com/zyqfork/yaak/releases/download/v2026.2.9/Yaak_2026.2.9_x64-setup.exe",
+    "hash": "sha256:dfd73febdeeca5935e51e20234057b47167c20a48e9237d3a86583f7dd2afac6",
+    "shortcuts": [
+        [
+            "Yaak.exe",
+            "Yaak"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/zyqfork/yaak"
+    },
+    "autoupdate": {
+        "url": "https://github.com/zyqfork/yaak/releases/download/v$version/Yaak_$version_x64-setup.exe"
+    }
+}
