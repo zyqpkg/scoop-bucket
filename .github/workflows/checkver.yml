@@ -2,9 +2,11 @@
 name: Checkver (Update Manifests)
 
 on:
+  push:
+    branches: [ main, master ]
   schedule:
-    # 每天 UTC 2:00 运行（北京时间 10:00）
-    - cron: '0 2 * * *'
+    # 每 2 小时运行一次
+    - cron: '0 */2 * * *'
   workflow_dispatch:
     # 支持手动触发
 
