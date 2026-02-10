@@ -21,6 +21,7 @@
     "jsonpath": "$.ver_info.version"
   },
   "autoupdate": {
-    "url": "https://download.pixpinapp.com/PixPin_zh-cn_$version.zip"
+    "url": "https://download.pixpinapp.com/PixPin_$version.zip",
+    "extract_dir": "PixPin"
   }
 }
