@@ -1,10 +1,10 @@
 {
-    "version": "2.1.1",
+    "version": "2.2.0",
     "description": "高性能、可扩展的应用启动器和插件平台，uTools 的开源实现，支持 macOS 和 Windows",
     "homepage": "https://github.com/ZToolsCenter/ZTools",
     "license": "MIT",
-    "url": "https://github.com/ZToolsCenter/ZTools/releases/download/v2.1.1/ZTools-2.1.1-win-x64.zip",
-    "hash": "fa52d9bd46b4fbbcbb3ff3859da69bb4adeefe70c08b467a8ea3c688b8fff090",
+    "url": "https://github.com/ZToolsCenter/ZTools/releases/download/v2.2.0/ZTools-2.2.0-win-x64.zip",
+    "hash": "f60d34f93240a083f6bc138c76c7e2572dbdf7d55390692c2bbd02108943cc2b",
     "shortcuts": [
         [
             "ZTools.exe",
