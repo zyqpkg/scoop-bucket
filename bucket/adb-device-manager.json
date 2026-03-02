@@ -1,0 +1,28 @@
+{
+    "version": "1.5.1",
+    "description": "ADB Device Manager - 将 Android 与 Windows 连接为一体化控制系统，支持屏幕镜像、Scrcpy、文件传输、通知/通话/SMS 等（ADB 模式 + App 模式）",
+    "homepage": "https://github.com/Shrey113/Adb-Device-Manager-2",
+    "license": "Apache-2.0",
+    "url": "https://github.com/Shrey113/Adb-Device-Manager-2/releases/download/ADB-Device-Manager-v.1.5.1/ADB_Device_Manager_PC_Setup.exe",
+    "hash": "8c0eadc3f9a001603fb212f5d4e56070a3a3484ae756b93357ba2d810adc38be",
+    "installer": {
+        "script": [
+            "$exe = Get-ChildItem \"$dir\\ADB_Device_Manager_PC_Setup.exe\" -ErrorAction SilentlyContinue | Select-Object -First 1",
+            "if ($exe) { Start-Process -FilePath $exe.FullName -ArgumentList '/S', \"/D=$dir\" -Wait -NoNewWindow }"
+        ]
+    },
+    "post_install": "Remove-Item \"$dir\\ADB_Device_Manager_PC_Setup.exe\" -Force -ErrorAction SilentlyContinue",
+    "shortcuts": [
+        [
+            "ADB Device Manager.exe",
+            "ADB Device Manager"
+        ]
+    ],
+    "checkver": {
+        "url": "https://github.com/Shrey113/Adb-Device-Manager-2/releases",
+        "regex": "tag/ADB-Device-Manager-v\\.([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://github.com/Shrey113/Adb-Device-Manager-2/releases/download/ADB-Device-Manager-v.$version/ADB_Device_Manager_PC_Setup.exe"
+    }
+}
