@@ -8,7 +8,9 @@
     "installer": {
         "script": [
             "$exe = Get-ChildItem \"$dir\\ADB_Device_Manager_PC_Setup.exe\" -ErrorAction SilentlyContinue | Select-Object -First 1",
-            "if ($exe) { Start-Process -FilePath $exe.FullName -ArgumentList '/S', \"/D=$dir\" -Wait -NoNewWindow }"
+            "if (-not $exe) { throw 'Setup exe not found' }",
+            "$installDir = $dir.TrimEnd('\\')",
+            "Start-Process -FilePath $exe.FullName -ArgumentList '/S', \"/D=$installDir\" -Wait -NoNewWindow"
         ]
     },
     "post_install": "Remove-Item \"$dir\\ADB_Device_Manager_PC_Setup.exe\" -Force -ErrorAction SilentlyContinue",
