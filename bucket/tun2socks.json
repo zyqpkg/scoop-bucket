@@ -2,7 +2,7 @@
     "version": "2.6.0",
     "description": "tun2socks - powered by gVisor TCP/IP stack.",
     "homepage": "https://github.com/xjasonlyu/tun2socks",
-    "license": "MIT ",
+    "license": "MIT",
     "architecture": {
         "64bit": {
             "url": "https://github.com/xjasonlyu/tun2socks/releases/download/v2.6.0/tun2socks-windows-amd64.zip",
