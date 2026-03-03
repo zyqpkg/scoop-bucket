@@ -1,0 +1,37 @@
+{
+    "version": "2.12.0",
+    "description": "GO Simple Tunnel - 多协议隧道与代理，支持 HTTP/SOCKS5/Shadowsocks/端口转发等",
+    "homepage": "https://github.com/ginuerzh/gost",
+    "license": "MIT",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/ginuerzh/gost/releases/download/v2.12.0/gost_2.12.0_windows_386.zip",
+            "hash": "f7732f53c1acaeaee1265ed7b48250ddc59f713c1d4f93e3dfb73387c4544fd8",
+            "bin": [["gost.exe", "gost"]]
+        },
+        "64bit": {
+            "url": "https://github.com/ginuerzh/gost/releases/download/v2.12.0/gost_2.12.0_windows_amd64.zip",
+            "hash": "2ebe0cb6ac5e966647b222a1f5ac1ae4ce1f340e190f5f69e381c4f694526d43",
+            "bin": [["gost.exe", "gost"]]
+        },
+        "arm64": {
+            "url": "https://github.com/ginuerzh/gost/releases/download/v2.12.0/gost_2.12.0_windows_arm64.zip",
+            "hash": "6fa65251f64b498653a25a462bcaa945c4262083814af77b4077fc9e940b2a2e",
+            "bin": [["gost.exe", "gost"]]
+        }
+    },
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "32bit": {
+                "url": "https://github.com/ginuerzh/gost/releases/download/v$version/gost_$version_windows_386.zip"
+            },
+            "64bit": {
+                "url": "https://github.com/ginuerzh/gost/releases/download/v$version/gost_$version_windows_amd64.zip"
+            },
+            "arm64": {
+                "url": "https://github.com/ginuerzh/gost/releases/download/v$version/gost_$version_windows_arm64.zip"
+            }
+        }
+    }
+}
