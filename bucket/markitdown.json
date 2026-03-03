@@ -8,7 +8,6 @@
     "bin": [
         ["markitdown-windows-amd64.exe", "markitdown"]
     ],
-    "bin": "markitdown.exe",
     "checkver": {
         "github": "https://github.com/zyqfork/markitdown"
     },
