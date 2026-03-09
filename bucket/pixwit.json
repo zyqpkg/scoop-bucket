@@ -9,7 +9,6 @@
       "hash": "479626ce212445dc81438cae7b5ed0ebc5e12228d42548d758efbf1e49113d52"
     }
   },
-  "extract_dir": "PixWit-1.11.2-Portable",
   "bin": "PixWit.exe",
   "shortcuts": [
     [
@@ -31,7 +30,6 @@
       "64bit": {
         "url": "https://github.com/yun-cun-li/PixWit/releases/download/v$version/PixWit-$version-Portable.7z"
       }
-    },
-    "extract_dir": "PixWit-$version-Portable"
+    }
   }
 }
