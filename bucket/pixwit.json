@@ -6,15 +6,13 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/yun-cun-li/PixWit/releases/download/v1.11.2/PixWit-1.11.2-Portable.7z",
-      "hash": "479626ce212445dc81438cae7b5ed0ebc5e12228d42548d758efbf1e49113d52"
+      "hash": "479626ce212445dc81438cae7b5ed0ebc5e12228d42548d758efbf1e49113d52",
+      "extract_dir": "PixWit"
     }
   },
   "bin": "PixWit.exe",
   "shortcuts": [
-    [
-      "PixWit.exe",
-      "PixWit"
-    ]
+    ["PixWit.exe", "PixWit"]
   ],
   "persist": [
     "Config",
@@ -28,7 +26,8 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://github.com/yun-cun-li/PixWit/releases/download/v$version/PixWit-$version-Portable.7z"
+        "url": "https://github.com/yun-cun-li/PixWit/releases/download/v$version/PixWit-$version-Portable.7z",
+        "extract_dir": "PixWit"
       }
     }
   }
