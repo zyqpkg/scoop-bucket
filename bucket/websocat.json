@@ -1,28 +1,28 @@
 {
-  "version": "1.13.0",
-  "description": "A command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions.",
-  "homepage": "https://github.com/vi/websocat",
-  "license": "MIT",
-  "architecture": {
-    "64bit": {
-      "url": "https://github.com/vi/websocat/releases/download/v1.13.0/websocat.x86_64-pc-windows-gnu.exe#/websocat.exe",
-      "hash": "c59e5bc297fbde87dd3f4277d73e163c9e9b4f60df77e06a74bb2c386fe7f78c"
-    },
-    "32bit": {
-      "url": "https://github.com/vi/websocat/releases/download/v1.13.0/websocat.i686-pc-windows-gnu.exe#/websocat.exe",
-      "hash": "29fe52ed15ef75eb9c8e1802b3411bf050c190b327c3c1929c72766f23f1d6cb"
-    }
-  },
-  "bin": "websocat.exe",
-  "checkver": "github",
-  "autoupdate": {
+    "version": "1.14.1",
+    "description": "A command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions.",
+    "homepage": "https://github.com/vi/websocat",
+    "license": "MIT",
     "architecture": {
-      "64bit": {
-        "url": "https://github.com/vi/websocat/releases/download/v$version/websocat.x86_64-pc-windows-gnu.exe#/websocat.exe"
-      },
-      "32bit": {
-        "url": "https://github.com/vi/websocat/releases/download/v$version/websocat.i686-pc-windows-gnu.exe#/websocat.exe"
-      }
+        "64bit": {
+            "url": "https://github.com/vi/websocat/releases/download/v1.14.1/websocat.x86_64-pc-windows-gnu.exe#/websocat.exe",
+            "hash": "284339b5b86f2b11496137d97b6705bb2ef27e64f21527c1ba240bdb6177ba3b"
+        },
+        "32bit": {
+            "url": "https://github.com/vi/websocat/releases/download/v1.14.1/websocat.i686-pc-windows-gnu.exe#/websocat.exe",
+            "hash": "06001c992fbbb5194ab162de6b47e9dad1dd8804c9840236a74fa72ea327f223"
+        }
+    },
+    "bin": "websocat.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/vi/websocat/releases/download/v$version/websocat.x86_64-pc-windows-gnu.exe#/websocat.exe"
+            },
+            "32bit": {
+                "url": "https://github.com/vi/websocat/releases/download/v$version/websocat.i686-pc-windows-gnu.exe#/websocat.exe"
+            }
+        }
     }
-  }
 }
