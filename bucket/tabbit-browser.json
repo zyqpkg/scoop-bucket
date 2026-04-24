@@ -11,7 +11,7 @@
     "installer": {
         "script": [
             "$exe = Get-ChildItem \"$dir\\Tabbit*.exe\" -ErrorAction SilentlyContinue | Select-Object -First 1",
-            "if ($exe) { Start-Process -FilePath $exe.FullName -ArgumentList '/S', \"/D=$dir\" -Wait -NoNewWindow }"
+            "if ($exe) { Start-Process -FilePath $exe.FullName -ArgumentList '/VERYSILENT', '/SUPPRESSMSGBOXES', '/NORESTART', '/SP-', \"/DIR=$dir\" -Wait -NoNewWindow }"
         ]
     },
     "post_install": "Remove-Item \"$dir\\Tabbit*.exe\" -Force -ErrorAction SilentlyContinue",
