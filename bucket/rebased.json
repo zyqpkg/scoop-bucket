@@ -9,10 +9,19 @@
       "hash": "f8a2f4ac0bac2b446283fe1b0f19957df605d1e8f1b7949cfa56a308e7d035ef"
     }
   },
-  "bin": "rebased.exe",
+  "installer": {
+    "script": [
+      "$installer = Get-ChildItem \"$dir\\rebased.exe\" -ErrorAction SilentlyContinue | Select-Object -First 1",
+      "if ($installer) {",
+      "    Start-Process -FilePath $installer.FullName -ArgumentList '/S', \"/D=$dir\" -Wait -NoNewWindow",
+      "}"
+    ]
+  },
+  "post_install": "if (Test-Path \"$dir\\rebased.exe\") { Remove-Item \"$dir\\rebased.exe\" -Force -ErrorAction SilentlyContinue }",
+  "bin": "bin\\idea64.exe",
   "shortcuts": [
     [
-      "rebased.exe",
+      "bin\\idea64.exe",
       "Rebased"
     ]
   ],
