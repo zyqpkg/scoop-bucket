@@ -13,7 +13,14 @@
     "script": [
       "$installer = Get-ChildItem \"$dir\\rebased.exe\" -ErrorAction SilentlyContinue | Select-Object -First 1",
       "if ($installer) {",
-      "    Start-Process -FilePath $installer.FullName -ArgumentList '/S', \"/D=$dir\" -Wait -NoNewWindow",
+      "    $extract = Join-Path $dir '_extract'",
+      "    if (Test-Path $extract) { Remove-Item $extract -Recurse -Force -ErrorAction SilentlyContinue }",
+      "    New-Item -ItemType Directory -Path $extract | Out-Null",
+      "    Start-Process -FilePath $installer.FullName -ArgumentList '/S', \"/D=$extract\" -Wait -NoNewWindow",
+      "    if (Test-Path \"$extract\\*\") {",
+      "        Move-Item \"$extract\\*\" \"$dir\\\" -Force",
+      "    }",
+      "    Remove-Item $extract -Recurse -Force -ErrorAction SilentlyContinue",
       "}"
     ]
   },
