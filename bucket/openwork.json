@@ -34,5 +34,12 @@
         "url": "https://api.github.com/repos/different-ai/openwork/releases/latest",
         "jsonpath": "$.tag_name",
         "regex": "v([\\d.]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/different-ai/openwork/releases/download/v$version/openwork-desktop-windows-x64.msi"
+            }
+        }
     }
 }

@@ -26,6 +26,16 @@
     "jsonpath": "$.tag_name",
     "regex": "([\\d-]+)"
   },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/AnimMouse/ffmpeg-autobuild/releases/download/$version/ffmpeg-$matchHead-win64-nonfree.7z#/dl.7z"
+      },
+      "32bit": {
+        "url": "https://github.com/AnimMouse/ffmpeg-autobuild/releases/download/$version/ffmpeg-$matchHead-win32-nonfree.7z#/dl.7z"
+      }
+    }
+  },
   "notes": [
     "FFmpeg nonfree build with FDK-AAC and DeckLink support",
     "Static builds - no external dependencies required",
