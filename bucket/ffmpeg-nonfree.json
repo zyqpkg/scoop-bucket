@@ -24,16 +24,16 @@
   "checkver": {
     "url": "https://api.github.com/repos/AnimMouse/ffmpeg-autobuild/releases/latest",
     "jsonpath": "$.tag_name",
-    "regex": "^(.+)-(\\w{7}-\\w{7})$",
-    "replace": "${1}"
+    "regex": "(?<tag>.+)-(?<hash>\\w{7}-\\w{7})",
+    "replace": "${tag}"
   },
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://github.com/AnimMouse/ffmpeg-autobuild/releases/download/$match1/ffmpeg-$match2-win64-nonfree.7z#/dl.7z"
+        "url": "https://github.com/AnimMouse/ffmpeg-autobuild/releases/download/$matchTag/ffmpeg-$matchHash-win64-nonfree.7z#/dl.7z"
       },
       "32bit": {
-        "url": "https://github.com/AnimMouse/ffmpeg-autobuild/releases/download/$match1/ffmpeg-$match2-win32-nonfree.7z#/dl.7z"
+        "url": "https://github.com/AnimMouse/ffmpeg-autobuild/releases/download/$matchTag/ffmpeg-$matchHash-win32-nonfree.7z#/dl.7z"
       }
     }
   },
