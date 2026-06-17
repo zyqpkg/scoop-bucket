@@ -12,6 +12,6 @@
         "regex": "cli/v([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://github.com/google/magika/releases/download/cli/v$version/magika-x86_64-pc-windows-msvc.zip"
+        "url": "https://github.com/google/magika/releases/download/cli/v$version/magika-cli-x86_64-pc-windows-msvc.zip"
     }
 }

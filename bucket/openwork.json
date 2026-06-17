@@ -38,7 +38,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/different-ai/openwork/releases/download/v$version/openwork-desktop-windows-x64.msi"
+                "url": "https://github.com/different-ai/openwork/releases/download/v$version/openwork-win-x64-$version.exe"
             }
         }
     }
