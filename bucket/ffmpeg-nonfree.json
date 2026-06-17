@@ -1,54 +1,54 @@
 {
-  "version": "2026.03.15",
-  "description": "FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimMouse)",
-  "homepage": "https://github.com/AnimMouse/ffmpeg-autobuild",
-  "license": {
-    "identifier": "Nonfree",
-    "url": "https://ffmpeg.org/legal.html"
-  },
-  "architecture": {
-    "64bit": {
-      "url": "https://github.com/AnimMouse/ffmpeg-autobuild/releases/download/2026-03-15-12-26-482395f-c6e5733/ffmpeg-482395f-c6e5733-win64-nonfree.7z#/dl.7z",
-      "hash": "cdea6a496fe6d042a07acd22ac49410cae58d6d72f296eed4c41127dece7ce95"
+    "version": "2026-06-14-15-36-b1d2190-f860bd9",
+    "description": "FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimMouse)",
+    "homepage": "https://github.com/AnimMouse/ffmpeg-autobuild",
+    "license": {
+        "identifier": "Nonfree",
+        "url": "https://ffmpeg.org/legal.html"
     },
-    "32bit": {
-      "url": "https://github.com/AnimMouse/ffmpeg-autobuild/releases/download/2026-03-15-12-26-482395f-c6e5733/ffmpeg-482395f-c6e5733-win32-nonfree.7z#/dl.7z",
-      "hash": "0a11ff5905714aeef32a7f467e8824bd07bee7b4ae70e0fed05096dd5f100c0d"
-    }
-  },
-  "bin": [
-    "bin\\ffmpeg.exe",
-    "bin\\ffplay.exe",
-    "bin\\ffprobe.exe"
-  ],
-  "checkver": {
-    "url": "https://api.github.com/repos/AnimMouse/ffmpeg-autobuild/releases/latest",
-    "jsonpath": "$.tag_name",
-    "regex": "(?<tag>.+)-(?<hash>\\w{7}-\\w{7})",
-    "replace": "${tag}"
-  },
-  "autoupdate": {
     "architecture": {
-      "64bit": {
-        "url": "https://github.com/AnimMouse/ffmpeg-autobuild/releases/download/$matchTag/ffmpeg-$matchHash-win64-nonfree.7z#/dl.7z"
-      },
-      "32bit": {
-        "url": "https://github.com/AnimMouse/ffmpeg-autobuild/releases/download/$matchTag/ffmpeg-$matchHash-win32-nonfree.7z#/dl.7z"
-      }
-    }
-  },
-  "notes": [
-    "FFmpeg nonfree build with FDK-AAC and DeckLink support",
-    "Static builds - no external dependencies required",
-    "",
-    "🎵 FDK-AAC Usage:",
-    "  ffmpeg -i input.m4a -c:a libfdk_aac -vbr 5 output.m4a",
-    "  VBR modes: 1 (lowest) to 5 (highest quality, ~192kbps)",
-    "",
-    "📺 DeckLink Support:",
-    "  Hardware video capture/playback via Blackmagic DeckLink cards",
-    "",
-    "🔄 Updates: Weekly on Sundays at 11:07 UTC",
-    "📦 Retention: Releases kept for 2 years"
-  ]
+        "64bit": {
+            "url": "https://github.com/AnimMouse/ffmpeg-autobuild/releases/download/2026-06-14-15-36-b1d2190-f860bd9/ffmpeg-b1d2190-f860bd9-win64-nonfree.7z#/dl.7z",
+            "hash": "727834637a1384b36097c5afe23989b2d49f37d4bc94943ff15869353ae5f4de"
+        },
+        "32bit": {
+            "url": "https://github.com/AnimMouse/ffmpeg-autobuild/releases/download/2026-06-14-15-36-b1d2190-f860bd9/ffmpeg-b1d2190-f860bd9-win32-nonfree.7z#/dl.7z",
+            "hash": "3fc370bcdb5634d0a34d266b4d3e7c6a086c3b345a6668b151d959f79a967f06"
+        }
+    },
+    "bin": [
+        "bin\\ffmpeg.exe",
+        "bin\\ffplay.exe",
+        "bin\\ffprobe.exe"
+    ],
+    "checkver": {
+        "url": "https://api.github.com/repos/AnimMouse/ffmpeg-autobuild/releases/latest",
+        "jsonpath": "$.tag_name",
+        "regex": "(?<date>\\d{4}-\\d{2}-\\d{2}-\\d{2}-\\d{2})-(?<fullhash>\\w{7}-\\w{7})",
+        "replace": "${date}-${fullhash}"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/AnimMouse/ffmpeg-autobuild/releases/download/$version/ffmpeg-$matchFullhash-win64-nonfree.7z#/dl.7z"
+            },
+            "32bit": {
+                "url": "https://github.com/AnimMouse/ffmpeg-autobuild/releases/download/$version/ffmpeg-$matchFullhash-win32-nonfree.7z#/dl.7z"
+            }
+        }
+    },
+    "notes": [
+        "FFmpeg nonfree build with FDK-AAC and DeckLink support",
+        "Static builds - no external dependencies required",
+        "",
+        "🎵 FDK-AAC Usage:",
+        "  ffmpeg -i input.m4a -c:a libfdk_aac -vbr 5 output.m4a",
+        "  VBR modes: 1 (lowest) to 5 (highest quality, ~192kbps)",
+        "",
+        "📺 DeckLink Support:",
+        "  Hardware video capture/playback via Blackmagic DeckLink cards",
+        "",
+        "🔄 Updates: Weekly on Sundays at 11:07 UTC",
+        "📦 Retention: Releases kept for 2 years"
+    ]
 }
