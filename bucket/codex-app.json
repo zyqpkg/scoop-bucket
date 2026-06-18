@@ -3,7 +3,9 @@
     "description": "Focused desktop experience for working on Codex threads in parallel.",
     "homepage": "https://developers.openai.com/codex/app",
     "license": "Proprietary",
-    "notes": "This manifest installs the Microsoft Store package through WinGet. The app is managed by Windows, not inside Scoop's app directory.",
+    "url": "https://developers.openai.com/codex/app#/codex-app.html",
+    "hash": "skip",
+    "notes": "This manifest uses the official Codex app page as a small placeholder download, then installs the Microsoft Store package through WinGet. The app is managed by Windows, not inside Scoop's app directory.",
     "installer": {
         "script": [
             "if (!(Get-Command winget -ErrorAction SilentlyContinue)) { error 'WinGet is required to install Codex from Microsoft Store.' }",
