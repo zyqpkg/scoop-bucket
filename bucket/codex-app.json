@@ -5,9 +5,15 @@
     "license": "Proprietary",
     "notes": "This manifest installs the Microsoft Store package through WinGet. The app is managed by Windows, not inside Scoop's app directory.",
     "installer": {
-        "script": "winget install 9PLM9XGG6VKS --source msstore --accept-source-agreements --accept-package-agreements"
+        "script": [
+            "if (!(Get-Command winget -ErrorAction SilentlyContinue)) { error 'WinGet is required to install Codex from Microsoft Store.' }",
+            "winget install 9PLM9XGG6VKS --source msstore --accept-source-agreements --accept-package-agreements"
+        ]
     },
     "uninstaller": {
-        "script": "winget uninstall 9PLM9XGG6VKS --source msstore"
+        "script": [
+            "if (!(Get-Command winget -ErrorAction SilentlyContinue)) { error 'WinGet is required to uninstall Codex from Microsoft Store.' }",
+            "winget uninstall 9PLM9XGG6VKS --source msstore"
+        ]
     }
 }
