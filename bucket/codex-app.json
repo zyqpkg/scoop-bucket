@@ -4,7 +4,6 @@
     "homepage": "https://developers.openai.com/codex/app",
     "license": "Proprietary",
     "url": "https://developers.openai.com/codex/app#/codex-app.html",
-    "hash": "skip",
     "notes": "This manifest uses the official Codex app page as a small placeholder download, then installs the Microsoft Store package through WinGet. The app is managed by Windows, not inside Scoop's app directory.",
     "installer": {
         "script": [
