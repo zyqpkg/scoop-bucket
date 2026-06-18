@@ -3,14 +3,11 @@
     "description": "Focused desktop experience for working on Codex threads in parallel.",
     "homepage": "https://developers.openai.com/codex/app",
     "license": "Proprietary",
-    "url": "https://get.microsoft.com/installer/download/9PLM9XGG6VKS?cid=website_cta_psi#/codex-installer.exe",
-    "hash": "skip",
+    "notes": "This manifest installs the Microsoft Store package through WinGet. The app is managed by Windows, not inside Scoop's app directory.",
     "installer": {
-        "script": [
-            "$installer = Get-ChildItem \"$dir\" 'codex-installer.exe' | Select-Object -First 1",
-            "if (!$installer) { error 'Codex installer was not downloaded.' }",
-            "Start-Process -FilePath $installer.FullName -Wait"
-        ]
+        "script": "winget install 9PLM9XGG6VKS --source msstore --accept-source-agreements --accept-package-agreements"
     },
-    "post_install": "Remove-Item \"$dir\\codex-installer.exe\" -Force -ErrorAction SilentlyContinue"
+    "uninstaller": {
+        "script": "winget uninstall 9PLM9XGG6VKS --source msstore"
+    }
 }
