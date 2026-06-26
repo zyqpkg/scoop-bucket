@@ -38,12 +38,60 @@ jobs:
           $bucketDir = Join-Path $env:GITHUB_WORKSPACE 'bucket'
           & "$env:USERPROFILE\scoop\apps\scoop\current\bin\checkver.ps1" -Dir $bucketDir -App '*' -Update
 
+      - name: Regenerate README.md
+        shell: pwsh
+        run: |
+          $bucketDir = Join-Path $env:GITHUB_WORKSPACE 'bucket'
+          $rows = Get-ChildItem "$bucketDir\*.json" | Sort-Object Name | ForEach-Object {
+            $app = $_.BaseName
+            $manifest = Get-Content $_.FullName -Raw | ConvertFrom-Json
+            $version = $manifest.version
+            $desc = if ($manifest.description) { $manifest.description -replace '\|', '\|' } else { '' }
+            # truncate long descriptions
+            if ($desc.Length -gt 60) { $desc = $desc.Substring(0, 57) + '...' }
+            $homepage = $manifest.homepage
+            $lastUpdated = git log --format="%ad" --date=short -- "bucket/$($_.Name)" | Select-Object -First 1
+            if (-not $lastUpdated) { $lastUpdated = '—' }
+            $homepageLabel = ([uri]$homepage).Host -replace '^www\.', ''
+            "| [$app](bucket/$($_.Name)) | $desc | $version | [$homepageLabel]($homepage) | $lastUpdated |"
+          }
+
+          $table = $rows -join "`n"
+
+          $readme = @"
+          # zyqpkg scoop bucket
+
+          A personal [Scoop](https://scoop.sh/) bucket for Windows apps not available in official buckets.
+
+          ## Add this bucket
+
+          ``````powershell
+          scoop bucket add zyqpkg https://github.com/zyqpkg/scoop-bucket
+          ``````
+
+          ## Install an app
+
+          ``````powershell
+          scoop install zyqpkg/<app-name>
+          ``````
+
+          ## Apps
+
+          | App | Description | Version | Homepage | Last Updated |
+          |-----|-------------|---------|----------|--------------|
+          $table
+          "@
+
+          # Remove leading spaces from heredoc indentation
+          $readme = $readme -replace '(?m)^          ', ''
+          Set-Content -Path (Join-Path $env:GITHUB_WORKSPACE 'README.md') -Value $readme -Encoding UTF8
+
       - name: Commit and push if changed
         shell: pwsh
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add bucket/
+          git add bucket/ README.md
           $status = git status --porcelain
           if ($status) {
             git commit -m "chore(bucket): checkver - update manifests to latest versions"
