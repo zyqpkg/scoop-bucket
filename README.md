@@ -24,7 +24,7 @@ scoop install zyqpkg/<app-name>
 | [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.2.1.123 | [github.com](https://github.com/martona/clipp) | 2026-06-24 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.9.14.31414011 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-06-26 |
 | [codebuddycn](bucket/codebuddycn.json) | An AI-powered IDE | 4.9.10 | [codebuddy.cn](https://www.codebuddy.cn/ide/) | 2026-05-27 |
-| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.18 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-06-21 |
+| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.19 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-06-21 |
 | [ContextMenuManager](bucket/ContextMenuManager.json) | 🖱️ 纯粹的 Windows 右键菜单管理程序。A pure Windows context menu mana... | 3.3.3.1 | [github.com](https://github.com/BluePointLilac/ContextMenuManager) | 2025-09-15 |
 | [deepchat](bucket/deepchat.json) | A smart assistant that connects powerful AI to your perso... | 1.0.7 | [github.com](https://github.com/thinkinaixyz/deepchat) | 2026-06-25 |
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.3 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-06-25 |
@@ -32,7 +32,7 @@ scoop install zyqpkg/<app-name>
 | [efibooteditor](bucket/efibooteditor.json) | EFI Boot Editor - tool for managing UEFI boot entries | 1.5.7 | [github.com](https://github.com/Neverous/efibooteditor) | 2026-06-26 |
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 7.70.12 | [feishu.cn](https://www.feishu.cn/) | 2026-06-26 |
 | [ferrite](bucket/ferrite.json) | A fast, lightweight text editor for Markdown, JSON, YAML,... | 0.3.0 | [github.com](https://github.com/OlaProeis/Ferrite) | 2026-05-22 |
-| [ffmpeg-nonfree](bucket/ffmpeg-nonfree.json) | FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimM... | 2026-06-25-11-21-f947bc9-f860bd9 | [github.com](https://github.com/AnimMouse/ffmpeg-autobuild) | 2026-06-25 |
+| [ffmpeg-nonfree](bucket/ffmpeg-nonfree.json) | FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimM... | 2026-06-27-07-40-d26ba53-f860bd9 | [github.com](https://github.com/AnimMouse/ffmpeg-autobuild) | 2026-06-25 |
 | [gost](bucket/gost.json) | GO Simple Tunnel - 多协议隧道与代理，支持 HTTP/SOCKS5/Shadowsocks/端口... | 3.2.6 | [github.com](https://github.com/go-gost/gost) | 2026-03-03 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.3.54 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-06-23 |
 | [launcherx](bucket/launcherx.json) | LauncherX - Modern app launcher for Windows | 2.2.0 | [github.com](https://github.com/Apollo199999999/LauncherX) | 2026-02-09 |
