@@ -32,7 +32,7 @@ scoop install zyqpkg/<app-name>
 | [efibooteditor](bucket/efibooteditor.json) | EFI Boot Editor - tool for managing UEFI boot entries | 1.5.7 | [github.com](https://github.com/Neverous/efibooteditor) | 2026-06-26 |
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 7.70.12 | [feishu.cn](https://www.feishu.cn/) | 2026-06-26 |
 | [ferrite](bucket/ferrite.json) | A fast, lightweight text editor for Markdown, JSON, YAML,... | 0.3.0 | [github.com](https://github.com/OlaProeis/Ferrite) | 2026-05-22 |
-| [ffmpeg-nonfree](bucket/ffmpeg-nonfree.json) | FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimM... | 2026-06-27-07-40-d26ba53-f860bd9 | [github.com](https://github.com/AnimMouse/ffmpeg-autobuild) | 2026-06-27 |
+| [ffmpeg-nonfree](bucket/ffmpeg-nonfree.json) | FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimM... | 2026-06-28-14-04-87bd15d-f860bd9 | [github.com](https://github.com/AnimMouse/ffmpeg-autobuild) | 2026-06-27 |
 | [gost](bucket/gost.json) | GO Simple Tunnel - 多协议隧道与代理，支持 HTTP/SOCKS5/Shadowsocks/端口... | 3.2.6 | [github.com](https://github.com/go-gost/gost) | 2026-03-03 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.3.54 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-06-23 |
 | [launcherx](bucket/launcherx.json) | LauncherX - Modern app launcher for Windows | 2.2.0 | [github.com](https://github.com/Apollo199999999/LauncherX) | 2026-02-09 |
