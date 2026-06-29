@@ -40,15 +40,15 @@ scoop install zyqpkg/<app-name>
 | [magika](bucket/magika.json) | Fast and accurate AI-powered file content type detection ... | 1.1.0 | [github.com](https://github.com/google/magika) | 2026-06-17 |
 | [markitdown](bucket/markitdown.json) | Python tool for converting files and office documents (PD... | 1.0.3 | [github.com](https://github.com/zyqfork/markitdown) | 2026-03-03 |
 | [microsoft-coreutils](bucket/microsoft-coreutils.json) | UNIX-style core utilities for Windows (Microsoft-maintain... | 2026.6.16 | [github.com](https://github.com/microsoft/coreutils) | 2026-06-17 |
-| [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.4 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-06-24 |
+| [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.4 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-06-29 |
 | [neatchat](bucket/neatchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 1.2.0 | [github.com](https://github.com/zyqfork/NeatChat) | 2025-06-05 |
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.7.3 | [github.com](https://github.com/cxasm/notepad--) | 2026-06-05 |
 | [pi-mono](bucket/pi-mono.json) | Pi Monorepo - AI agent toolkit with coding agent CLI, uni... | 0.80.2 | [github.com](https://github.com/badlogic/pi-mono) | 2026-06-23 |
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.2.3.1 | [pixpin.cn](https://pixpin.cn/) | 2026-06-05 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.11.2 | [pixwit.cn](https://pixwit.cn/) | 2026-03-09 |
 | [processon](bucket/processon.json) | ProcessOn is a free online flowchart, mind map, and colla... | 5.14.14 | [processon.com](https://www.processon.com) | 2026-03-17 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.0.33 | [qoder.com](https://qoder.com) | 2026-06-27 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.0.33 | [qoder.com.cn](https://qoder.com.cn) | 2026-06-27 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.0.33 | [qoder.com](https://qoder.com) | 2026-06-29 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.0.33 | [qoder.com.cn](https://qoder.com.cn) | 2026-06-29 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.12 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-02-09 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.4 | [github.com](https://github.com/DetachHead/rebased) | 2026-06-22 |
 | [tabbit-browser](bucket/tabbit-browser.json) | Tabbit AI Browser for Windows | 0.29.50 | [tabbit-ai.com](https://www.tabbit-ai.com/) | 2026-04-28 |
