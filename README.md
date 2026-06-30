@@ -24,7 +24,7 @@ scoop install zyqpkg/<app-name>
 | [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.2.1.125 | [github.com](https://github.com/martona/clipp) | 2026-06-29 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.9.14.31414011 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-06-26 |
 | [codebuddycn](bucket/codebuddycn.json) | An AI-powered IDE | 4.9.10 | [codebuddy.cn](https://www.codebuddy.cn/ide/) | 2026-05-27 |
-| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.25 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-06-29 |
+| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.25 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-06-30 |
 | [ContextMenuManager](bucket/ContextMenuManager.json) | 🖱️ 纯粹的 Windows 右键菜单管理程序。A pure Windows context menu mana... | 3.3.3.1 | [github.com](https://github.com/BluePointLilac/ContextMenuManager) | 2025-09-15 |
 | [deepchat](bucket/deepchat.json) | A smart assistant that connects powerful AI to your perso... | 1.0.7 | [github.com](https://github.com/thinkinaixyz/deepchat) | 2026-06-25 |
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.3 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-06-25 |
@@ -43,7 +43,7 @@ scoop install zyqpkg/<app-name>
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.4 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-06-29 |
 | [neatchat](bucket/neatchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 1.2.0 | [github.com](https://github.com/zyqfork/NeatChat) | 2025-06-05 |
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.7.3 | [github.com](https://github.com/cxasm/notepad--) | 2026-06-05 |
-| [pi-mono](bucket/pi-mono.json) | Pi Monorepo - AI agent toolkit with coding agent CLI, uni... | 0.80.2 | [github.com](https://github.com/badlogic/pi-mono) | 2026-06-23 |
+| [pi-mono](bucket/pi-mono.json) | Pi Monorepo - AI agent toolkit with coding agent CLI, uni... | 0.80.3 | [github.com](https://github.com/badlogic/pi-mono) | 2026-06-23 |
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.2.3.1 | [pixpin.cn](https://pixpin.cn/) | 2026-06-05 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.11.2 | [pixwit.cn](https://pixwit.cn/) | 2026-03-09 |
 | [processon](bucket/processon.json) | ProcessOn is a free online flowchart, mind map, and colla... | 5.14.14 | [processon.com](https://www.processon.com) | 2026-03-17 |
