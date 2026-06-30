@@ -50,7 +50,7 @@ scoop install zyqpkg/<app-name>
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.0.33 | [qoder.com](https://qoder.com) | 2026-06-29 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.0.33 | [qoder.com.cn](https://qoder.com.cn) | 2026-06-29 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.12 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-02-09 |
-| [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.4 | [github.com](https://github.com/DetachHead/rebased) | 2026-06-22 |
+| [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.5 | [github.com](https://github.com/DetachHead/rebased) | 2026-06-22 |
 | [tabbit-browser](bucket/tabbit-browser.json) | Tabbit AI Browser for Windows | 0.29.50 | [tabbit-ai.com](https://www.tabbit-ai.com/) | 2026-04-28 |
 | [tegrarcmgui](bucket/tegrarcmgui.json) | C++ GUI for TegraRcmSmash by rajkosto | 2.6 | [github.com](https://github.com/eliboa/TegraRcmGUI) | 2026-01-02 |
 | [tim](bucket/tim.json) | Tencent TIM, lightweight alternative to QQ | 3.5.0.22143 | [office.qq.com](https://office.qq.com/) | 2026-03-11 |
