@@ -30,7 +30,7 @@ scoop install zyqpkg/<app-name>
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.3 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-06-25 |
 | [earthlivesharp](bucket/earthlivesharp.json) | Earth Live Sharp fetches live satellite images from Himaw... | 3.10 | [github.com](https://github.com/bitdust/EarthLiveSharp) | 2023-12-14 |
 | [efibooteditor](bucket/efibooteditor.json) | EFI Boot Editor - tool for managing UEFI boot entries | 1.5.7 | [github.com](https://github.com/Neverous/efibooteditor) | 2026-06-26 |
-| [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 7.71.12 | [feishu.cn](https://www.feishu.cn/) | 2026-06-26 |
+| [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 7.71.12 | [feishu.cn](https://www.feishu.cn/) | 2026-07-06 |
 | [ferrite](bucket/ferrite.json) | A fast, lightweight text editor for Markdown, JSON, YAML,... | 0.3.0 | [github.com](https://github.com/OlaProeis/Ferrite) | 2026-05-22 |
 | [ffmpeg-nonfree](bucket/ffmpeg-nonfree.json) | FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimM... | 2026-07-05-12-57-97cbffe-f860bd9 | [github.com](https://github.com/AnimMouse/ffmpeg-autobuild) | 2026-07-05 |
 | [gost](bucket/gost.json) | GO Simple Tunnel - 多协议隧道与代理，支持 HTTP/SOCKS5/Shadowsocks/端口... | 3.2.6 | [github.com](https://github.com/go-gost/gost) | 2026-03-03 |
@@ -58,6 +58,7 @@ scoop install zyqpkg/<app-name>
 | [tun2socks](bucket/tun2socks.json) | tun2socks - powered by gVisor TCP/IP stack. | 2.6.0 | [github.com](https://github.com/xjasonlyu/tun2socks) | 2026-03-06 |
 | [weasel](bucket/weasel.json) | Rime for Windows | 0.17.4 | [rime.im](https://rime.im/) | 2025-08-25 |
 | [websocat](bucket/websocat.json) | A command-line client for WebSockets, like netcat (or cur... | 1.14.1 | [github.com](https://github.com/vi/websocat) | 2026-03-23 |
+| [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.1.7.31711488-dc01bf2f | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-07-06 |
 | [wsl-dashboard](bucket/wsl-dashboard.json) | A modern, high-performance, lightweight, and low-memory W... | 0.9.1 | [github.com](https://github.com/owu/wsl-dashboard) | 2026-06-20 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.4.24 | [github.com](https://github.com/zyqfork/yaak) | 2026-04-24 |
 | [ztools](bucket/ztools.json) | 高性能、可扩展的应用启动器和插件平台，uTools 的开源实现，支持 macOS 和 Windows | 2.6.1 | [github.com](https://github.com/ZToolsCenter/ZTools) | 2026-06-05 |
