@@ -42,7 +42,7 @@ scoop install zyqpkg/<app-name>
 | [microsoft-coreutils](bucket/microsoft-coreutils.json) | UNIX-style core utilities for Windows (Microsoft-maintain... | 2026.6.16 | [github.com](https://github.com/microsoft/coreutils) | 2026-06-17 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.4 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-06-29 |
 | [neatchat](bucket/neatchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 1.2.0 | [github.com](https://github.com/zyqfork/NeatChat) | 2025-06-05 |
-| [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.7.3 | [github.com](https://github.com/cxasm/notepad--) | 2026-06-05 |
+| [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.7.3 | [github.com](https://github.com/cxasm/notepad--) | 2026-07-07 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.1.13 | [nyaterm.app](https://nyaterm.app) | 2026-07-07 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.45 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-07-06 |
 | [pi-mono](bucket/pi-mono.json) | Pi Monorepo - AI agent toolkit with coding agent CLI, uni... | 0.80.3 | [github.com](https://github.com/badlogic/pi-mono) | 2026-06-30 |
