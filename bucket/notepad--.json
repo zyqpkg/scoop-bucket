@@ -21,7 +21,8 @@
         ]
     ],
     "checkver": {
-        "github": "https://github.com/cxasm/notepad--"
+        "github": "https://github.com/cxasm/notepad--",
+        "regex": "notepad-v([\\d.]+)"
     },
     "autoupdate": {
         "architecture": {
