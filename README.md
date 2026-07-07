@@ -45,7 +45,7 @@ scoop install zyqpkg/<app-name>
 | [neatchat](bucket/neatchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 1.2.0 | [github.com](https://github.com/zyqfork/NeatChat) | 2025-06-05 |
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.8.0 | [github.com](https://github.com/cxasm/notepad--) | 2026-07-07 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.1.13 | [nyaterm.app](https://nyaterm.app) | 2026-07-07 |
-| [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.46 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-07-06 |
+| [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.46 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-07-07 |
 | [pi-mono](bucket/pi-mono.json) | Pi Monorepo - AI agent toolkit with coding agent CLI, uni... | 0.80.3 | [github.com](https://github.com/badlogic/pi-mono) | 2026-06-30 |
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.2.3.1 | [pixpin.cn](https://pixpin.cn/) | 2026-06-05 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.13.10 | [pixwit.cn](https://pixwit.cn/) | 2026-07-05 |
