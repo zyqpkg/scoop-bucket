@@ -1,0 +1,37 @@
+{
+    "version": "1.1.13",
+    "description": "A modern remote terminal workspace - SSH/SFTP/Telnet/Serial client with tabbed workspace, AI assistant, GPU/Docker/process monitoring",
+    "homepage": "https://nyaterm.app",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/nyakang/nyaterm/releases/download/v1.1.13/NyaTerm_1.1.13_windows_x64_portable.zip",
+            "hash": "8bfb02c9ce50a8c2e9cc6d0f702bff5c527a64870b3f13a58707d41be539e04f"
+        },
+        "arm64": {
+            "url": "https://github.com/nyakang/nyaterm/releases/download/v1.1.13/NyaTerm_1.1.13_windows_arm64_portable.zip",
+            "hash": "2eaecaa3527223a8c5fcf25616f5c2ca34d38cff9158d9752c2267e30eb0a762"
+        }
+    },
+    "bin": "NyaTerm.exe",
+    "shortcuts": [
+        [
+            "NyaTerm.exe",
+            "NyaTerm"
+        ]
+    ],
+    "persist": "data",
+    "checkver": {
+        "github": "https://github.com/nyakang/nyaterm"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/nyakang/nyaterm/releases/download/v$version/NyaTerm_$version_windows_x64_portable.zip"
+            },
+            "arm64": {
+                "url": "https://github.com/nyakang/nyaterm/releases/download/v$version/NyaTerm_$version_windows_arm64_portable.zip"
+            }
+        }
+    }
+}
