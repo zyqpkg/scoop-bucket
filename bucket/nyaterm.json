@@ -13,6 +13,10 @@
             "hash": "2eaecaa3527223a8c5fcf25616f5c2ca34d38cff9158d9752c2267e30eb0a762"
         }
     },
+    "pre_install": [
+        "Get-ChildItem -Path \"$dir\\NyaTerm-portable\" -Force | Move-Item -Destination \"$dir\" -Force",
+        "Remove-Item -Path \"$dir\\NyaTerm-portable\" -Force -Recurse"
+    ],
     "bin": "NyaTerm.exe",
     "shortcuts": [
         [
