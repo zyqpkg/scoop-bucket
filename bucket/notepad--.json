@@ -23,7 +23,7 @@
     "checkver": {
         "url": "https://api.github.com/repos/cxasm/notepad--/releases",
         "jsonpath": "$.[0].assets[*].browser_download_url",
-        "regex": "/releases/download/notepad-v([\\d.]+)/(?!.*plugin|.*mac|.*kylin|.*AppImage|.*deb|.*dmg)Notepad--v([\\d.]+)-win10-portable\\.zip"
+        "regex": "/releases/download/notepad-v([\\d.]+)/Notepad--v([\\d.]+)-win10-portable\\.zip"
     },
     "autoupdate": {
         "architecture": {
