@@ -61,7 +61,7 @@ scoop install zyqpkg/<app-name>
 | [tun2socks](bucket/tun2socks.json) | tun2socks - powered by gVisor TCP/IP stack. | 2.6.0 | [github.com](https://github.com/xjasonlyu/tun2socks) | 2026-03-06 |
 | [weasel](bucket/weasel.json) | Rime for Windows | 0.17.4 | [rime.im](https://rime.im/) | 2025-08-25 |
 | [websocat](bucket/websocat.json) | A command-line client for WebSockets, like netcat (or cur... | 1.14.1 | [github.com](https://github.com/vi/websocat) | 2026-03-23 |
-| [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.2.3.32357678-3865830d | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-07-06 |
+| [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.2.3.32357678-3865830d | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-07-07 |
 | [wsl-dashboard](bucket/wsl-dashboard.json) | A modern, high-performance, lightweight, and low-memory W... | 0.9.1 | [github.com](https://github.com/owu/wsl-dashboard) | 2026-06-20 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.4.24 | [github.com](https://github.com/zyqfork/yaak) | 2026-04-24 |
 | [ztools](bucket/ztools.json) | 高性能、可扩展的应用启动器和插件平台，uTools 的开源实现，支持 macOS 和 Windows | 2.6.1 | [github.com](https://github.com/ZToolsCenter/ZTools) | 2026-06-05 |
