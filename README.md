@@ -55,7 +55,7 @@ scoop install zyqpkg/<app-name>
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.0.40 | [qoder.com](https://qoder.com) | 2026-07-08 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.0.40 | [qoder.com.cn](https://qoder.com.cn) | 2026-07-08 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.12 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-02-09 |
-| [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.7 | [github.com](https://github.com/DetachHead/rebased) | 2026-07-02 |
+| [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.7 | [github.com](https://github.com/DetachHead/rebased) | 2026-07-08 |
 | [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.1.7 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-07-07 |
 | [tabbit-browser](bucket/tabbit-browser.json) | Tabbit AI Browser for Windows | 0.29.50 | [tabbit-ai.com](https://www.tabbit-ai.com/) | 2026-04-28 |
 | [tegrarcmgui](bucket/tegrarcmgui.json) | C++ GUI for TegraRcmSmash by rajkosto | 2.6 | [github.com](https://github.com/eliboa/TegraRcmGUI) | 2026-01-02 |
@@ -64,7 +64,7 @@ scoop install zyqpkg/<app-name>
 | [tun2socks](bucket/tun2socks.json) | tun2socks - powered by gVisor TCP/IP stack. | 2.6.0 | [github.com](https://github.com/xjasonlyu/tun2socks) | 2026-03-06 |
 | [weasel](bucket/weasel.json) | Rime for Windows | 0.17.4 | [rime.im](https://rime.im/) | 2025-08-25 |
 | [websocat](bucket/websocat.json) | A command-line client for WebSockets, like netcat (or cur... | 1.14.1 | [github.com](https://github.com/vi/websocat) | 2026-03-23 |
-| [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.2.5.32793105-1067a2de | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-07-07 |
+| [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.2.5.32793105-1067a2de | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-07-08 |
 | [wsl-dashboard](bucket/wsl-dashboard.json) | A modern, high-performance, lightweight, and low-memory W... | 0.9.1 | [github.com](https://github.com/owu/wsl-dashboard) | 2026-06-20 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.4.24 | [github.com](https://github.com/zyqfork/yaak) | 2026-04-24 |
 | [ztools](bucket/ztools.json) | 高性能、可扩展的应用启动器和插件平台，uTools 的开源实现，支持 macOS 和 Windows | 2.6.1 | [github.com](https://github.com/ZToolsCenter/ZTools) | 2026-06-05 |
