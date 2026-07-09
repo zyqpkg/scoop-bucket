@@ -1,5 +1,5 @@
 {
-    "version": "2.0.0-rc.5",
+    "version": "2.0.0-rc.6",
     "description": "The high-performance AI coding terminal — desktop workspace for Codex, Claude Code, and 8+ AI coding CLIs",
     "homepage": "https://github.com/duxweb/codux",
     "license": "GPL-3.0",
@@ -9,8 +9,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/duxweb/codux/releases/download/v2.0.0-rc.5/codux-2.0.0-rc.5-windows-x86_64-setup.exe",
-            "hash": "a09ccd2bbda2e54fd09fff6505abc4474e15b8c10915f134339774f86416d5aa"
+            "url": "https://github.com/duxweb/codux/releases/download/v2.0.0-rc.6/codux-2.0.0-rc.6-windows-x86_64-setup.exe",
+            "hash": "1bebc42dee75411c5ad8c0babc7e7789d9a920896a08347c1595cdb9d47883c0"
         }
     },
     "installer": {
