@@ -25,7 +25,7 @@
     "bin": "codux-agent.exe",
     "checkver": {
         "github": "https://github.com/duxweb/codux",
-        "regex": "tag/v([\\d.]+(?:-rc\\.\\d+)?)"
+        "regex": "v([\\d.]+(?:-rc\\.\\d+)?)"
     },
     "autoupdate": {
         "architecture": {
