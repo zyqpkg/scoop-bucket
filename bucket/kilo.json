@@ -18,7 +18,7 @@
     ],
     "checkver": {
         "github": "https://github.com/Kilo-Org/kilocode",
-        "regex": "tag/v([\d.]+)"
+        "regex": "tag/v([\\d.]+)"
     },
     "autoupdate": {
         "architecture": {
