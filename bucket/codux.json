@@ -29,7 +29,7 @@
     ],
     "checkver": {
         "github": "https://github.com/duxweb/codux",
-        "regex": "v([\\d.]+(?:-rc\\.\\d+)?)"
+        "regex": "download/v([0-9]+\\.[0-9]+\\.[0-9]+(?:-(?:beta|rc)\\.[0-9]+)?)/codux-[0-9]+\\.[0-9]+\\.[0-9]+(?:-(?:beta|rc)\\.[0-9]+)?-windows-x86_64-setup\\.exe"
     },
     "autoupdate": {
         "architecture": {
