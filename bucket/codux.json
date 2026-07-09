@@ -28,7 +28,8 @@
         ]
     ],
     "checkver": {
-        "github": "https://github.com/duxweb/codux"
+        "github": "https://github.com/duxweb/codux",
+        "regex": "tag/v([\d.]+(?:-rc\.[\d]+)?)"
     },
     "autoupdate": {
         "architecture": {
