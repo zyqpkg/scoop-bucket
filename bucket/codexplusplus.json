@@ -1,11 +1,11 @@
 {
-    "version": "1.2.32",
+    "version": "1.2.34",
     "description": "Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件",
     "homepage": "https://github.com/BigPizzaV3/CodexPlusPlus",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.32/CodexPlusPlus-1.2.32-windows-x64-setup.exe",
-            "hash": "4f390107a33d3d507cc7872848915fd12ed35975ecc278d2ddc0853fd54f79e2"
+            "url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.34/CodexPlusPlus-1.2.34-windows-x64-setup.exe",
+            "hash": "5d11accdebc83e992b0f9cc4d9d81a7ca2d029b8b738c1af27c280cc195d4172"
         }
     },
     "installer": {
