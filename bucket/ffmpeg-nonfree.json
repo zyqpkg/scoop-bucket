@@ -1,5 +1,5 @@
 {
-    "version": "2026-07-10-10-01-d09d5af-f860bd9",
+    "version": "2026-07-12-12-50-a09be9b-f860bd9",
     "description": "FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimMouse)",
     "homepage": "https://github.com/AnimMouse/ffmpeg-autobuild",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/AnimMouse/ffmpeg-autobuild/releases/download/2026-07-10-10-01-d09d5af-f860bd9/ffmpeg-d09d5af-f860bd9-win64-nonfree.7z#/dl.7z",
-            "hash": "301ee8b15dcdeecdc69b7fb689830b965277948dafe0413762aa7673443c50a6"
+            "url": "https://github.com/AnimMouse/ffmpeg-autobuild/releases/download/2026-07-12-12-50-a09be9b-f860bd9/ffmpeg-a09be9b-f860bd9-win64-nonfree.7z#/dl.7z",
+            "hash": "83134083410473ee65ab5a5696c76a2fbc3a834f50c69efaa0bda6bafb578f48"
         },
         "32bit": {
-            "url": "https://github.com/AnimMouse/ffmpeg-autobuild/releases/download/2026-07-10-10-01-d09d5af-f860bd9/ffmpeg-d09d5af-f860bd9-win32-nonfree.7z#/dl.7z",
-            "hash": "a27200d389ef7087c67256bbbe7839c4c404fad39de8b13fc972c5f80d32ed6c"
+            "url": "https://github.com/AnimMouse/ffmpeg-autobuild/releases/download/2026-07-12-12-50-a09be9b-f860bd9/ffmpeg-a09be9b-f860bd9-win32-nonfree.7z#/dl.7z",
+            "hash": "11cf01696cd288d272401b8d7217e8070e5b1f6111da27149519ce2ed2c05255"
         }
     },
     "bin": [
