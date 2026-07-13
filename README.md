@@ -48,7 +48,7 @@ scoop install zyqpkg/<app-name>
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.8.0 | [github.com](https://github.com/cxasm/notepad--) | 2026-07-07 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.1.14 | [nyaterm.app](https://nyaterm.app) | 2026-07-13 |
 | [oh-my-pi](bucket/oh-my-pi.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 16.4.8 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-13 |
-| [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.46 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-07-07 |
+| [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.48 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-07-07 |
 | [paseo](bucket/paseo.json) | One interface for Claude Code, Codex, Copilot, OpenCode, ... | 0.1.107 | [github.com](https://github.com/getpaseo/paseo) | 2026-07-13 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.80.6 | [github.com](https://github.com/earendil-works/pi) | 2026-07-10 |
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.2.3.1 | [pixpin.cn](https://pixpin.cn/) | 2026-06-05 |
