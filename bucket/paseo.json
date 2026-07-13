@@ -1,16 +1,16 @@
 {
-    "version": "0.1.104",
+    "version": "0.1.107",
     "description": "One interface for Claude Code, Codex, Copilot, OpenCode, and Pi agents.",
     "homepage": "https://github.com/getpaseo/paseo",
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/getpaseo/paseo/releases/download/v0.1.104/Paseo-Setup-0.1.104-x64.zip",
-            "hash": "f237e658472872274416f573e3a7f1adf5143fe9ddd7868c28bcbc8189e6b693"
+            "url": "https://github.com/getpaseo/paseo/releases/download/v0.1.107/Paseo-Setup-0.1.107-x64.zip",
+            "hash": "95bd22be6107bec31256df06d19a24d2f96734c51961a4581140061e529e5786"
         },
         "arm64": {
-            "url": "https://github.com/getpaseo/paseo/releases/download/v0.1.104/Paseo-Setup-0.1.104-arm64.zip",
-            "hash": "80ae24eff146792fc243c16c05f076b8c08a4eee7caf6b4a2b17613ee6960937"
+            "url": "https://github.com/getpaseo/paseo/releases/download/v0.1.107/Paseo-Setup-0.1.107-arm64.zip",
+            "hash": "869fcfeda562f0425a29f187ff2e1dad901627effc4fa380d34849e333f5e314"
         }
     },
     "installer": {
