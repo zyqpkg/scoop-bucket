@@ -28,6 +28,7 @@ scoop install zyqpkg/<app-name>
 | [codux-agent](bucket/codux-agent.json) | Codux headless host agent for remote terminals, Git, and ... | 2.0.0-rc.6 | [github.com](https://github.com/duxweb/codux) | 2026-07-09 |
 | [codux](bucket/codux.json) | The high-performance AI coding terminal — desktop workspa... | 2.0.0-rc.6 | [github.com](https://github.com/duxweb/codux) | 2026-07-09 |
 | [ContextMenuManager](bucket/ContextMenuManager.json) | 🖱️ 纯粹的 Windows 右键菜单管理程序。A pure Windows context menu mana... | 3.3.3.1 | [github.com](https://github.com/BluePointLilac/ContextMenuManager) | 2025-09-15 |
+| [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.07.09-a3815c0 | [cursor.com](https://cursor.com/cli) | 2026-07-14 |
 | [deepchat](bucket/deepchat.json) | A smart assistant that connects powerful AI to your perso... | 1.0.9 | [github.com](https://github.com/thinkinaixyz/deepchat) | 2026-07-10 |
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.3 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-06-25 |
 | [earthlivesharp](bucket/earthlivesharp.json) | Earth Live Sharp fetches live satellite images from Himaw... | 3.10 | [github.com](https://github.com/bitdust/EarthLiveSharp) | 2023-12-14 |
@@ -67,7 +68,7 @@ scoop install zyqpkg/<app-name>
 | [voicebox](bucket/voicebox.json) | The open-source voice synthesis studio | 0.5.0 | [voicebox.sh](https://voicebox.sh/) | 2026-07-14 |
 | [weasel](bucket/weasel.json) | Rime for Windows | 0.17.4 | [rime.im](https://rime.im/) | 2025-08-25 |
 | [websocat](bucket/websocat.json) | A command-line client for WebSockets, like netcat (or cur... | 1.14.1 | [github.com](https://github.com/vi/websocat) | 2026-03-23 |
-| [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.2.6.33159827-8ee6bc11 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-07-08 |
+| [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.2.6.33159827-8ee6bc11 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-07-14 |
 | [wsl-dashboard](bucket/wsl-dashboard.json) | A modern, high-performance, lightweight, and low-memory W... | 0.9.1 | [github.com](https://github.com/owu/wsl-dashboard) | 2026-06-20 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.4.24 | [github.com](https://github.com/zyqfork/yaak) | 2026-04-24 |
 | [ztools](bucket/ztools.json) | 高性能、可扩展的应用启动器和插件平台，uTools 的开源实现，支持 macOS 和 Windows | 2.6.1 | [github.com](https://github.com/ZToolsCenter/ZTools) | 2026-06-05 |
