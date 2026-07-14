@@ -51,12 +51,12 @@ scoop install zyqpkg/<app-name>
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.48 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-07-13 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 16.5.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-14 |
 | [paseo](bucket/paseo.json) | One interface for Claude Code, Codex, Copilot, OpenCode, ... | 0.1.107 | [github.com](https://github.com/getpaseo/paseo) | 2026-07-13 |
-| [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.80.6 | [github.com](https://github.com/earendil-works/pi) | 2026-07-10 |
+| [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.80.7 | [github.com](https://github.com/earendil-works/pi) | 2026-07-10 |
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.2.3.1 | [pixpin.cn](https://pixpin.cn/) | 2026-06-05 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.13.10 | [pixwit.cn](https://pixwit.cn/) | 2026-07-05 |
 | [processon](bucket/processon.json) | ProcessOn is a free online flowchart, mind map, and colla... | 5.14.14 | [processon.com](https://www.processon.com) | 2026-03-17 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.0.45 | [qoder.com](https://qoder.com) | 2026-07-13 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.0.45 | [qoder.com.cn](https://qoder.com.cn) | 2026-07-13 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.0.45 | [qoder.com](https://qoder.com) | 2026-07-14 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.0.45 | [qoder.com.cn](https://qoder.com.cn) | 2026-07-14 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.12 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-02-09 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.7 | [github.com](https://github.com/DetachHead/rebased) | 2026-07-08 |
 | [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.1.8 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-07-11 |
