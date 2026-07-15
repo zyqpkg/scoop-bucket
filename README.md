@@ -34,12 +34,12 @@ scoop install zyqpkg/<app-name>
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.3 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-06-25 |
 | [earthlivesharp](bucket/earthlivesharp.json) | Earth Live Sharp fetches live satellite images from Himaw... | 3.10 | [github.com](https://github.com/bitdust/EarthLiveSharp) | 2023-12-14 |
 | [efibooteditor](bucket/efibooteditor.json) | EFI Boot Editor - tool for managing UEFI boot entries | 1.5.7 | [github.com](https://github.com/Neverous/efibooteditor) | 2026-06-26 |
-| [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 7.72.8 | [feishu.cn](https://www.feishu.cn/) | 2026-07-06 |
+| [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 7.72.8 | [feishu.cn](https://www.feishu.cn/) | 2026-07-15 |
 | [ferrite](bucket/ferrite.json) | A fast, lightweight text editor for Markdown, JSON, YAML,... | 0.3.0 | [github.com](https://github.com/OlaProeis/Ferrite) | 2026-05-22 |
 | [ffmpeg-nonfree](bucket/ffmpeg-nonfree.json) | FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimM... | 2026-07-12-12-50-a09be9b-f860bd9 | [github.com](https://github.com/AnimMouse/ffmpeg-autobuild) | 2026-07-12 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.07.01 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-07-10 |
 | [gost](bucket/gost.json) | GO Simple Tunnel - 多协议隧道与代理，支持 HTTP/SOCKS5/Shadowsocks/端口... | 3.2.6 | [github.com](https://github.com/go-gost/gost) | 2026-03-03 |
-| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.7 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-07-13 |
+| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.8 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-07-13 |
 | [launcherx](bucket/launcherx.json) | LauncherX - Modern app launcher for Windows | 2.2.0 | [github.com](https://github.com/Apollo199999999/LauncherX) | 2026-02-09 |
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.24.0 | [github.com](https://github.com/zyqfork/llmchat) | 2026-06-14 |
 | [magika](bucket/magika.json) | Fast and accurate AI-powered file content type detection ... | 1.1.0 | [github.com](https://github.com/google/magika) | 2026-06-17 |
@@ -56,8 +56,8 @@ scoop install zyqpkg/<app-name>
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.2.3.1 | [pixpin.cn](https://pixpin.cn/) | 2026-06-05 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.13.10 | [pixwit.cn](https://pixwit.cn/) | 2026-07-05 |
 | [processon](bucket/processon.json) | ProcessOn is a free online flowchart, mind map, and colla... | 5.14.14 | [processon.com](https://www.processon.com) | 2026-03-17 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.0.45 | [qoder.com](https://qoder.com) | 2026-07-14 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.0.45 | [qoder.com.cn](https://qoder.com.cn) | 2026-07-14 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.0.46 | [qoder.com](https://qoder.com) | 2026-07-14 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.0.46 | [qoder.com.cn](https://qoder.com.cn) | 2026-07-14 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.12 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-02-09 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.7 | [github.com](https://github.com/DetachHead/rebased) | 2026-07-08 |
 | [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.1.8 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-07-11 |
