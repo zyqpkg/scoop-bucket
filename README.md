@@ -51,7 +51,7 @@ scoop install zyqpkg/<app-name>
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.1.15 | [nyaterm.app](https://nyaterm.app) | 2026-07-14 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.48 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-07-13 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.0.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-15 |
-| [paseo](bucket/paseo.json) | One interface for Claude Code, Codex, Copilot, OpenCode, ... | 0.1.108 | [github.com](https://github.com/getpaseo/paseo) | 2026-07-13 |
+| [paseo](bucket/paseo.json) | One interface for Claude Code, Codex, Copilot, OpenCode, ... | 0.1.108 | [github.com](https://github.com/getpaseo/paseo) | 2026-07-15 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.80.7 | [github.com](https://github.com/earendil-works/pi) | 2026-07-14 |
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.2.3.1 | [pixpin.cn](https://pixpin.cn/) | 2026-06-05 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.13.10 | [pixwit.cn](https://pixwit.cn/) | 2026-07-05 |
