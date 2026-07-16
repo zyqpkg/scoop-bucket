@@ -25,7 +25,7 @@ scoop install zyqpkg/<app-name>
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.3.7 | [github.com](https://github.com/Ruszero01/clippi) | 2026-07-15 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.10.1.33158423 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-07-12 |
 | [codebuddycn](bucket/codebuddycn.json) | An AI-powered IDE | 4.9.10 | [codebuddy.cn](https://www.codebuddy.cn/ide/) | 2026-05-27 |
-| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.38 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-07-15 |
+| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.38 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-07-16 |
 | [codux-agent](bucket/codux-agent.json) | Codux headless host agent for remote terminals, Git, and ... | 2.0.0-rc.6 | [github.com](https://github.com/duxweb/codux) | 2026-07-09 |
 | [codux](bucket/codux.json) | The high-performance AI coding terminal — desktop workspa... | 2.0.0-rc.6 | [github.com](https://github.com/duxweb/codux) | 2026-07-09 |
 | [ContextMenuManager](bucket/ContextMenuManager.json) | 🖱️ 纯粹的 Windows 右键菜单管理程序。A pure Windows context menu mana... | 3.3.3.1 | [github.com](https://github.com/BluePointLilac/ContextMenuManager) | 2025-09-15 |
@@ -56,8 +56,8 @@ scoop install zyqpkg/<app-name>
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.2.3.1 | [pixpin.cn](https://pixpin.cn/) | 2026-06-05 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.13.10 | [pixwit.cn](https://pixwit.cn/) | 2026-07-05 |
 | [processon](bucket/processon.json) | ProcessOn is a free online flowchart, mind map, and colla... | 5.14.14 | [processon.com](https://www.processon.com) | 2026-03-17 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.0.46 | [qoder.com](https://qoder.com) | 2026-07-15 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.0.46 | [qoder.com.cn](https://qoder.com.cn) | 2026-07-15 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.0.47 | [qoder.com](https://qoder.com) | 2026-07-15 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.0.47 | [qoder.com.cn](https://qoder.com.cn) | 2026-07-15 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.12 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-02-09 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.7 | [github.com](https://github.com/DetachHead/rebased) | 2026-07-08 |
 | [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.1.8 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-07-11 |
