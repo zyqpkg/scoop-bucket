@@ -29,7 +29,7 @@ scoop install zyqpkg/<app-name>
 | [codux-agent](bucket/codux-agent.json) | Codux headless host agent for remote terminals, Git, and ... | 2.0.0-rc.6 | [github.com](https://github.com/duxweb/codux) | 2026-07-09 |
 | [codux](bucket/codux.json) | The high-performance AI coding terminal — desktop workspa... | 2.0.0-rc.6 | [github.com](https://github.com/duxweb/codux) | 2026-07-09 |
 | [ContextMenuManager](bucket/ContextMenuManager.json) | 🖱️ 纯粹的 Windows 右键菜单管理程序。A pure Windows context menu mana... | 3.3.3.1 | [github.com](https://github.com/BluePointLilac/ContextMenuManager) | 2025-09-15 |
-| [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.07.16-899851b | [cursor.com](https://cursor.com/cli) | 2026-07-17 |
+| [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.07.17-3e2a980 | [cursor.com](https://cursor.com/cli) | 2026-07-17 |
 | [deepchat](bucket/deepchat.json) | A smart assistant that connects powerful AI to your perso... | 1.0.9 | [github.com](https://github.com/thinkinaixyz/deepchat) | 2026-07-10 |
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.4 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-07-17 |
 | [earthlivesharp](bucket/earthlivesharp.json) | Earth Live Sharp fetches live satellite images from Himaw... | 3.10 | [github.com](https://github.com/bitdust/EarthLiveSharp) | 2023-12-14 |
@@ -45,7 +45,7 @@ scoop install zyqpkg/<app-name>
 | [magika](bucket/magika.json) | Fast and accurate AI-powered file content type detection ... | 1.1.0 | [github.com](https://github.com/google/magika) | 2026-06-17 |
 | [markitdown](bucket/markitdown.json) | Python tool for converting files and office documents (PD... | 1.0.3 | [github.com](https://github.com/zyqfork/markitdown) | 2026-03-03 |
 | [microsoft-coreutils](bucket/microsoft-coreutils.json) | UNIX-style core utilities for Windows (Microsoft-maintain... | 2026.6.16 | [github.com](https://github.com/microsoft/coreutils) | 2026-06-17 |
-| [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.7 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-07-15 |
+| [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.7 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-07-20 |
 | [neatchat](bucket/neatchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 1.2.0 | [github.com](https://github.com/zyqfork/NeatChat) | 2025-06-05 |
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.8.0 | [github.com](https://github.com/cxasm/notepad--) | 2026-07-07 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.1.15 | [nyaterm.app](https://nyaterm.app) | 2026-07-14 |
