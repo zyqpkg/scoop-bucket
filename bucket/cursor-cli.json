@@ -1,5 +1,5 @@
 {
-    "version": "2026.07.09-a3815c0",
+    "version": "2026.07.16-899851b",
     "description": "Cursor CLI - run Cursor agents from the terminal",
     "homepage": "https://cursor.com/cli",
     "license": {
@@ -12,12 +12,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://downloads.cursor.com/lab/2026.07.09-a3815c0/windows/x64/agent-cli-package.zip",
-            "hash": "798fbeea54d3a77a3becf6746147a944f917a62e534c85912e9a171f7bc15e1f"
+            "url": "https://downloads.cursor.com/lab/2026.07.16-899851b/windows/x64/agent-cli-package.zip",
+            "hash": "8c31b4420ea1cbc994b5c5e6535897e3c85818dd5f975e252aac69470e589ecf"
         },
         "arm64": {
-            "url": "https://downloads.cursor.com/lab/2026.07.09-a3815c0/windows/arm64/agent-cli-package.zip",
-            "hash": "d6feba13c902d6096eb98610519b8fb61193d59d178da52104017d8fb75483f9"
+            "url": "https://downloads.cursor.com/lab/2026.07.16-899851b/windows/arm64/agent-cli-package.zip",
+            "hash": "4918351f7df24c98bedfe83de9e16a46d153e1d09d6e4383f561af3c3a50bb2f"
         }
     },
     "extract_dir": "dist-package",
