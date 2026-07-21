@@ -12,6 +12,12 @@
     "installer": {
         "script": "Start-Process msiexec.exe -ArgumentList '/i', \"`\"$dir\\Chat2DB-Community-$version.msi`\"\", '/qn', '/norestart' -Wait -NoNewWindow"
     },
+    "shortcuts": [
+        [
+            "Chat2DB Community\\Chat2DB Community.exe",
+            "Chat2DB"
+        ]
+    ],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
