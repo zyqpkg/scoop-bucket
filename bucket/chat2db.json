@@ -1,0 +1,25 @@
+{
+    "version": "5.3.1",
+    "description": "Chat2DB is a free and open-source multi-platform database client tool. It supports AI-assisted database management, SQL editing, and data visualization.",
+    "homepage": "https://github.com/OtterMind/Chat2DB",
+    "license": "NOASSERTION",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/OtterMind/Chat2DB/releases/download/v5.3.1/Chat2DB-Community-5.3.1.msi",
+            "hash": "9b0ce419580d7cf9a0ce6b6d60422690387b0c90f1b1ef5c4946ce6cef5229f4"
+        }
+    },
+    "installer": {
+        "script": "Start-Process msiexec.exe -ArgumentList '/i', \"`\"$dir\\Chat2DB-Community-$version.msi`\"\", '/qn', '/norestart' -Wait -NoNewWindow"
+    },
+    "checkver": {
+        "github": "https://github.com/OtterMind/Chat2DB"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/OtterMind/Chat2DB/releases/download/v$version/Chat2DB-Community-$version.msi"
+            }
+        }
+    }
+}
