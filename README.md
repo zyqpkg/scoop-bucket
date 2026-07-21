@@ -31,7 +31,7 @@ scoop install zyqpkg/<app-name>
 | [ContextMenuManager](bucket/ContextMenuManager.json) | 🖱️ 纯粹的 Windows 右键菜单管理程序。A pure Windows context menu mana... | 3.3.3.1 | [github.com](https://github.com/BluePointLilac/ContextMenuManager) | 2025-09-15 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.07.17-3e2a980 | [cursor.com](https://cursor.com/cli) | 2026-07-20 |
 | [deepchat](bucket/deepchat.json) | A smart assistant that connects powerful AI to your perso... | 1.0.9 | [github.com](https://github.com/thinkinaixyz/deepchat) | 2026-07-10 |
-| [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.4 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-07-17 |
+| [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.5 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-07-17 |
 | [earthlivesharp](bucket/earthlivesharp.json) | Earth Live Sharp fetches live satellite images from Himaw... | 3.10 | [github.com](https://github.com/bitdust/EarthLiveSharp) | 2023-12-14 |
 | [efibooteditor](bucket/efibooteditor.json) | EFI Boot Editor - tool for managing UEFI boot entries | 1.5.7 | [github.com](https://github.com/Neverous/efibooteditor) | 2026-06-26 |
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 7.72.8 | [feishu.cn](https://www.feishu.cn/) | 2026-07-15 |
