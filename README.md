@@ -41,10 +41,10 @@ scoop install zyqpkg/<app-name>
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 7.72.8 | [feishu.cn](https://www.feishu.cn/) | 2026-07-15 |
 | [ferrite](bucket/ferrite.json) | A fast, lightweight text editor for Markdown, JSON, YAML,... | 0.3.0 | [github.com](https://github.com/OlaProeis/Ferrite) | 2026-05-22 |
 | [ffmpeg-nonfree](bucket/ffmpeg-nonfree.json) | FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimM... | 2026-07-12-12-50-a09be9b-f860bd9 | [github.com](https://github.com/AnimMouse/ffmpeg-autobuild) | 2026-07-12 |
-| [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.0.0 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-07-21 |
-| [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.07.03 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-07-21 |
+| [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.0.0 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-07-22 |
+| [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.07.03 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-07-22 |
 | [gost](bucket/gost.json) | GO Simple Tunnel - 多协议隧道与代理，支持 HTTP/SOCKS5/Shadowsocks/端口... | 3.2.6 | [github.com](https://github.com/go-gost/gost) | 2026-03-03 |
-| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.13 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-07-20 |
+| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.15 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-07-20 |
 | [launcherx](bucket/launcherx.json) | LauncherX - Modern app launcher for Windows | 2.2.0 | [github.com](https://github.com/Apollo199999999/LauncherX) | 2026-02-09 |
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.24.0 | [github.com](https://github.com/zyqfork/llmchat) | 2026-06-14 |
 | [magika](bucket/magika.json) | Fast and accurate AI-powered file content type detection ... | 1.1.0 | [github.com](https://github.com/google/magika) | 2026-06-17 |
@@ -53,7 +53,7 @@ scoop install zyqpkg/<app-name>
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.7 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-07-20 |
 | [neatchat](bucket/neatchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 1.2.0 | [github.com](https://github.com/zyqfork/NeatChat) | 2025-06-05 |
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.8.0 | [github.com](https://github.com/cxasm/notepad--) | 2026-07-07 |
-| [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.1.17 | [nyaterm.app](https://nyaterm.app) | 2026-07-21 |
+| [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.1.17 | [nyaterm.app](https://nyaterm.app) | 2026-07-22 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.48 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-07-13 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.0.7 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-21 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.150 | [github.com](https://github.com/stablyai/orca) | 2026-07-22 |
@@ -62,8 +62,8 @@ scoop install zyqpkg/<app-name>
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.3.5.7 | [pixpin.cn](https://pixpin.cn/) | 2026-07-21 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.14.0 | [pixwit.cn](https://pixwit.cn/) | 2026-07-19 |
 | [processon](bucket/processon.json) | ProcessOn is a free online flowchart, mind map, and colla... | 5.14.14 | [processon.com](https://www.processon.com) | 2026-03-17 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.2 | [qoder.com](https://qoder.com) | 2026-07-21 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.2 | [qoder.com.cn](https://qoder.com.cn) | 2026-07-21 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.3 | [qoder.com](https://qoder.com) | 2026-07-21 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.3 | [qoder.com.cn](https://qoder.com.cn) | 2026-07-21 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.12 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-02-09 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.8 | [github.com](https://github.com/DetachHead/rebased) | 2026-07-18 |
 | [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.1.9 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-07-18 |
