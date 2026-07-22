@@ -25,7 +25,7 @@ scoop install zyqpkg/<app-name>
 | [cascadia-next-nerd-font-tc](bucket/cascadia-next-nerd-font-tc.json) | Cascadia Next Nerd Font - Traditional Chinese (TC) varian... | 1.0.1 | [github.com](https://github.com/LiLittleCat/Cascadia-Next-Nerd-Font) | 2026-07-21 |
 | [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.0 | [github.com](https://github.com/chat2db/Chat2DB) | 2026-07-21 |
 | [clipdiary](bucket/clipdiary.json) | A clipboard manager with history and snippets for frequen... | 5.7 | [clipdiary.com](https://clipdiary.com/) | 2026-03-17 |
-| [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.3.1.142 | [github.com](https://github.com/martona/clipp) | 2026-07-18 |
+| [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.3.1.142 | [github.com](https://github.com/martona/clipp) | 2026-07-22 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.3.8 | [github.com](https://github.com/Ruszero01/clippi) | 2026-07-20 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.10.4.33993995 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-07-22 |
 | [codebuddycn](bucket/codebuddycn.json) | An AI-powered IDE | 4.9.10 | [codebuddy.cn](https://www.codebuddy.cn/ide/) | 2026-05-27 |
