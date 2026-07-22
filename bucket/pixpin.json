@@ -1,6 +1,6 @@
 {
     "version": "3.3.5.7",
-    "homepage": "https://pixpin.cn/",
+    "homepage": "https://pixpin.com/",
     "description": "截图、录屏、OCR - 一款快速灵活的工具",
     "license": "Freeware",
     "architecture": {
@@ -23,7 +23,7 @@
         "History"
     ],
     "checkver": {
-        "url": "https://pixpin.cn/download",
+        "url": "https://pixpin.com/download/",
         "regex": "PixPin_win_([\\d\\.]+)\\.zip"
     },
     "autoupdate": {
