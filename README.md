@@ -33,7 +33,7 @@ scoop install zyqpkg/<app-name>
 | [codux-agent](bucket/codux-agent.json) | Codux headless host agent for remote terminals, Git, and ... | 2.0.0-rc.6 | [github.com](https://github.com/duxweb/codux) | 2026-07-09 |
 | [codux](bucket/codux.json) | The high-performance AI coding terminal — desktop workspa... | 2.0.0-rc.6 | [github.com](https://github.com/duxweb/codux) | 2026-07-09 |
 | [ContextMenuManager](bucket/ContextMenuManager.json) | 🖱️ 纯粹的 Windows 右键菜单管理程序。A pure Windows context menu mana... | 3.3.3.1 | [github.com](https://github.com/BluePointLilac/ContextMenuManager) | 2025-09-15 |
-| [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.07.17-3e2a980 | [cursor.com](https://cursor.com/cli) | 2026-07-20 |
+| [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.07.20-8cc9c0b | [cursor.com](https://cursor.com/cli) | 2026-07-20 |
 | [deepchat](bucket/deepchat.json) | A smart assistant that connects powerful AI to your perso... | 1.0.9 | [github.com](https://github.com/thinkinaixyz/deepchat) | 2026-07-10 |
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.5 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-07-21 |
 | [earthlivesharp](bucket/earthlivesharp.json) | Earth Live Sharp fetches live satellite images from Himaw... | 3.10 | [github.com](https://github.com/bitdust/EarthLiveSharp) | 2023-12-14 |
@@ -56,7 +56,7 @@ scoop install zyqpkg/<app-name>
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.1.16 | [nyaterm.app](https://nyaterm.app) | 2026-07-21 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.48 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-07-13 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.0.7 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-21 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.148 | [github.com](https://github.com/stablyai/orca) | 2026-07-21 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.149 | [github.com](https://github.com/stablyai/orca) | 2026-07-21 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.1.110 | [paseo.sh](https://paseo.sh) | 2026-07-16 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.81.1 | [github.com](https://github.com/earendil-works/pi) | 2026-07-21 |
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.3.5.7 | [pixpin.cn](https://pixpin.cn/) | 2026-07-21 |
