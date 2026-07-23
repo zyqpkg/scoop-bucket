@@ -24,6 +24,7 @@ scoop install zyqpkg/<app-name>
 | [cascadia-next-nerd-font-sc](bucket/cascadia-next-nerd-font-sc.json) | Cascadia Next Nerd Font - Simplified Chinese (SC) variant... | 1.0.1 | [github.com](https://github.com/LiLittleCat/Cascadia-Next-Nerd-Font) | 2026-07-21 |
 | [cascadia-next-nerd-font-tc](bucket/cascadia-next-nerd-font-tc.json) | Cascadia Next Nerd Font - Traditional Chinese (TC) varian... | 1.0.1 | [github.com](https://github.com/LiLittleCat/Cascadia-Next-Nerd-Font) | 2026-07-21 |
 | [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.0 | [github.com](https://github.com/chat2db/Chat2DB) | 2026-07-21 |
+| [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.0 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-07-23 |
 | [clipdiary](bucket/clipdiary.json) | A clipboard manager with history and snippets for frequen... | 5.7 | [clipdiary.com](https://clipdiary.com/) | 2026-03-17 |
 | [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.3.1.142 | [github.com](https://github.com/martona/clipp) | 2026-07-22 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.3.9 | [github.com](https://github.com/Ruszero01/clippi) | 2026-07-23 |
@@ -50,7 +51,7 @@ scoop install zyqpkg/<app-name>
 | [magika](bucket/magika.json) | Fast and accurate AI-powered file content type detection ... | 1.1.0 | [github.com](https://github.com/google/magika) | 2026-06-17 |
 | [markitdown](bucket/markitdown.json) | Python tool for converting files and office documents (PD... | 1.0.3 | [github.com](https://github.com/zyqfork/markitdown) | 2026-03-03 |
 | [microsoft-coreutils](bucket/microsoft-coreutils.json) | UNIX-style core utilities for Windows (Microsoft-maintain... | 2026.6.16 | [github.com](https://github.com/microsoft/coreutils) | 2026-06-17 |
-| [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.7 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-07-20 |
+| [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.8 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-07-20 |
 | [neatchat](bucket/neatchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 1.2.0 | [github.com](https://github.com/zyqfork/NeatChat) | 2025-06-05 |
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.8.0 | [github.com](https://github.com/cxasm/notepad--) | 2026-07-07 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.1.17 | [nyaterm.app](https://nyaterm.app) | 2026-07-22 |
@@ -75,7 +76,8 @@ scoop install zyqpkg/<app-name>
 | [voicebox](bucket/voicebox.json) | The open-source voice synthesis studio | 0.5.0 | [voicebox.sh](https://voicebox.sh/) | 2026-07-14 |
 | [weasel](bucket/weasel.json) | Rime for Windows | 0.17.4 | [rime.im](https://rime.im/) | 2025-08-25 |
 | [websocat](bucket/websocat.json) | A command-line client for WebSockets, like netcat (or cur... | 1.14.1 | [github.com](https://github.com/vi/websocat) | 2026-03-23 |
-| [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.3.3.33961208-5801cce5 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-07-14 |
+| [wintun](bucket/wintun.json) | Layer 3 TUN Driver for Windows | 0.14.1 | [wintun.net](https://www.wintun.net/) | 2026-07-23 |
+| [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.3.3.33961208-5801cce5 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-07-23 |
 | [wsl-dashboard](bucket/wsl-dashboard.json) | A modern, high-performance, lightweight, and low-memory W... | 0.10.0 | [github.com](https://github.com/owu/wsl-dashboard) | 2026-07-20 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.4.24 | [github.com](https://github.com/zyqfork/yaak) | 2026-04-24 |
 | [ztools](bucket/ztools.json) | 高性能、可扩展的应用启动器和插件平台，uTools 的开源实现，支持 macOS 和 Windows | 3.0.1 | [github.com](https://github.com/ZToolsCenter/ZTools) | 2026-07-21 |
