@@ -56,15 +56,15 @@ scoop install zyqpkg/<app-name>
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.8.0 | [github.com](https://github.com/cxasm/notepad--) | 2026-07-07 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.1.17 | [nyaterm.app](https://nyaterm.app) | 2026-07-22 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.48 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-07-13 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.0.8 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-23 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.0.9 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-23 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.152 | [github.com](https://github.com/stablyai/orca) | 2026-07-23 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.1.110 | [paseo.sh](https://paseo.sh) | 2026-07-16 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.81.1 | [github.com](https://github.com/earendil-works/pi) | 2026-07-21 |
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.3.5.7 | [pixpin.com](https://pixpin.com/) | 2026-07-22 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.14.0 | [pixwit.cn](https://pixwit.cn/) | 2026-07-19 |
 | [processon](bucket/processon.json) | ProcessOn is a free online flowchart, mind map, and colla... | 5.14.14 | [processon.com](https://www.processon.com) | 2026-03-17 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.4 | [qoder.com](https://qoder.com) | 2026-07-22 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.4 | [qoder.com.cn](https://qoder.com.cn) | 2026-07-22 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.4 | [qoder.com](https://qoder.com) | 2026-07-23 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.4 | [qoder.com.cn](https://qoder.com.cn) | 2026-07-23 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.12 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-02-09 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.8 | [github.com](https://github.com/DetachHead/rebased) | 2026-07-18 |
 | [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.1.9 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-07-18 |
