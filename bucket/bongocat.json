@@ -38,8 +38,7 @@
         ]
     ],
     "checkver": {
-        "github": "https://api.github.com/repos/ayangweb/BongoCat/releases",
-        "jp": "$[0].tag_name",
+        "github": "https://github.com/ayangweb/BongoCat",
         "regex": "v([\\d.]+)"
     },
     "autoupdate": {
