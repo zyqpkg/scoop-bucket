@@ -36,9 +36,9 @@ scoop install zyqpkg/<app-name>
 | [scrcpy-gui](bucket/scrcpy-gui.json) | A simple & beautiful GUI application for scrcpy | 1.5.1 | [tomotoes.com](http://tomotoes.com/scrcpy-gui/) | 2026-07-24 |
 | [innounpacker](bucket/innounpacker.json) | Inno Setup Unpacker | 2.1.8 | [rathlev-home.de](https://www.rathlev-home.de/index-e.html?tools/prog-e.html#unpack) | 2026-07-24 |
 | [bongocat](bucket/bongocat.json) | 跨平台桌宠 BongoCat，为桌面增添乐趣！ | 1.1.0 | [github.com](https://github.com/ayangweb/BongoCat) | 2026-07-24 |
-| [javafx](bucket/javafx.json) | OpenJFX is an open source, next generation client applica... | 17.0.19 | [openjfx.io](https://openjfx.io/) | 2026-07-24 |
+| [javafx](bucket/javafx.json) | OpenJFX is an open source, next generation client applica... | 17.0.20 | [openjfx.io](https://openjfx.io/) | 2026-07-24 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.82.0 | [github.com](https://github.com/earendil-works/pi) | 2026-07-24 |
-| [nekoray](bucket/nekoray.json) | Qt based cross-platform GUI proxy configuration manager (... | 4.3.7 | [github.com](https://github.com/Mahdi-zarei/nekoray) | 2026-07-24 |
+| [nekoray](bucket/nekoray.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.2.0 | [github.com](https://github.com/throneproj/Throne) | 2026-07-24 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.07.04 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-07-23 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.07.23-e383d2b | [cursor.com](https://cursor.com/cli) | 2026-07-23 |
 | [wintun](bucket/wintun.json) | Layer 3 TUN Driver for Windows | 0.14.1 | [wintun.net](https://www.wintun.net/) | 2026-07-23 |
