@@ -18,9 +18,10 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.1.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-24 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.2.3 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-07-24 |
+| [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.7.24 | [github.com](https://github.com/zyqfork/yaak) | 2026-07-24 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.152 | [github.com](https://github.com/stablyai/orca) | 2026-07-23 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.1.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-23 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.8 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-07-23 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.4 | [qoder.com](https://qoder.com) | 2026-07-23 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.0 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-07-23 |
@@ -66,7 +67,6 @@ scoop install zyqpkg/<app-name>
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.24.0 | [github.com](https://github.com/zyqfork/llmchat) | 2026-06-14 |
 | [codebuddycn](bucket/codebuddycn.json) | An AI-powered IDE | 4.9.10 | [codebuddy.cn](https://www.codebuddy.cn/ide/) | 2026-05-27 |
 | [ferrite](bucket/ferrite.json) | A fast, lightweight text editor for Markdown, JSON, YAML,... | 0.3.0 | [github.com](https://github.com/OlaProeis/Ferrite) | 2026-05-22 |
-| [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.7.24 | [github.com](https://github.com/zyqfork/yaak) | 2026-04-24 |
 | [websocat](bucket/websocat.json) | A command-line client for WebSockets, like netcat (or cur... | 1.14.1 | [github.com](https://github.com/vi/websocat) | 2026-03-23 |
 | [5ire](bucket/5ire.json) | 5ire is a cross-platform desktop AI assistant, MCP client... | 0.15.4 | [5ire.app](https://5ire.app/) | 2026-03-18 |
 | [clipdiary](bucket/clipdiary.json) | A clipboard manager with history and snippets for frequen... | 5.7 | [clipdiary.com](https://clipdiary.com/) | 2026-03-17 |
