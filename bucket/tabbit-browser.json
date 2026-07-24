@@ -1,12 +1,12 @@
 {
-    "version": "0.29.50",
+    "version": "1.6.20",
     "description": "Tabbit AI Browser for Windows",
     "homepage": "https://www.tabbit-ai.com/",
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://releases.tabbit-ai.com/upgrade/windows/stable_x64_cn/Tabbit%20Browser_stable_x64_cn_0.29.50.exe",
-            "hash": "1be81ff154373a3b45278233b847ab0265a492d08c7c0dfbe6ea334847eee505"
+            "url": "https://releases.tabbit.com/upgrade/windows/downloader/TabbitBrowserSetup.exe",
+            "hash": "01e534f25c0fbde775a1713a402d02a3f053e5930c92cfbaea8eb4a6c4bf94c4"
         }
     },
     "installer": {
@@ -20,7 +20,7 @@
             "Remove-Item \"$dir\\`$PLUGINSDIR\",\"$dir\\`$R0\" -Force -Recurse -ErrorAction SilentlyContinue"
         ]
     },
-    "post_install": "Remove-Item \"$dir\\Tabbit Browser_stable_x64_cn_*.exe\" -Force -ErrorAction SilentlyContinue",
+    "post_install": "Remove-Item \"$dir\\Tabbit*.exe\" -Force -ErrorAction SilentlyContinue",
     "shortcuts": [
         [
             "Tabbit Browser.exe",
@@ -30,7 +30,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://releases.tabbit-ai.com/upgrade/windows/stable_x64_cn/Tabbit%20Browser_stable_x64_cn_$version.exe"
+                "url": "https://releases.tabbit.com/upgrade/windows/downloader/TabbitBrowserSetup.exe"
             }
         }
     }
