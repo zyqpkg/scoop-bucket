@@ -19,7 +19,7 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.0.212 | [kiro.dev](https://kiro.dev) | 2026-07-24 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.1.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-24 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.1.1 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-24 |
 | [escrcpy](bucket/escrcpy.json) | Graphical Scrcpy to display and control Android devices, ... | 2.11.1 | [github.com](https://github.com/viarotel-org/escrcpy) | 2026-07-24 |
 | [tcpview](bucket/tcpview.json) | Active socket command-line viewer. | 4.19 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/tcpview) | 2026-07-24 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.16.3 | [openchamber.dev](https://openchamber.dev/) | 2026-07-24 |
