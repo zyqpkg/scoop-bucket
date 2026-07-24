@@ -18,42 +18,43 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
-| [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.2.3 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-07-24 |
-| [tcpview](bucket/tcpview.json) | Active socket command-line viewer. | 4.19 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/tcpview) | 2026-07-24 |
-| [javafx](bucket/javafx.json) | OpenJFX is an open source, next generation client applica... | 17.0.19 | [openjfx.io](https://openjfx.io/) | 2026-07-24 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.1.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-24 |
+| [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.0.212 | [kiro.dev](https://kiro.dev) | 2026-07-24 |
 | [escrcpy](bucket/escrcpy.json) | Graphical Scrcpy to display and control Android devices, ... | 2.11.1 | [github.com](https://github.com/viarotel-org/escrcpy) | 2026-07-24 |
+| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.16.3 | [openchamber.dev](https://openchamber.dev/) | 2026-07-24 |
+| [tcpview](bucket/tcpview.json) | Active socket command-line viewer. | 4.19 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/tcpview) | 2026-07-24 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.7.24 | [github.com](https://github.com/zyqfork/yaak) | 2026-07-24 |
 | [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.2.6.33159827-8ee6bc11 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-07-24 |
 | [tiny-rdm](bucket/tiny-rdm.json) | Tiny RDM is a modern lightweight cross-platform Redis des... | 1.2.7 | [redis.tinycraft.cc](https://redis.tinycraft.cc/) | 2026-07-24 |
-| [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.0.212 | [kiro.dev](https://kiro.dev) | 2026-07-24 |
-| [nekoray](bucket/nekoray.json) | Qt based cross-platform GUI proxy configuration manager (... | 4.3.7 | [github.com](https://github.com/Mahdi-zarei/nekoray) | 2026-07-24 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.1.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-24 |
+| [RevokeMsgPatcher](bucket/RevokeMsgPatcher.json) | PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）。 | 2.1 | [github.com](https://github.com/huiyadanli/RevokeMsgPatcher) | 2026-07-24 |
+| [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.2.3 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-07-24 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.21.1 | [chatboxai.app](https://chatboxai.app/) | 2026-07-24 |
 | [PingFangSC](bucket/PingFangSC.json) |  | 19.0d5e3 | [blog.dsrkafuu.net](https://blog.dsrkafuu.net/post/2020/extract-sf-pingfang) | 2026-07-24 |
-| [hfs](bucket/hfs.json) | A web file server to run on your computer | 3.2.1 | [rejetto.com](https://rejetto.com/hfs) | 2026-07-24 |
-| [scrcpy-gui](bucket/scrcpy-gui.json) | A simple & beautiful GUI application for scrcpy | 1.5.1 | [tomotoes.com](http://tomotoes.com/scrcpy-gui/) | 2026-07-24 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.16.038 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-07-24 |
-| [bongocat](bucket/bongocat.json) | 跨平台桌宠 BongoCat，为桌面增添乐趣！ | 1.1.0 | [github.com](https://github.com/ayangweb/BongoCat) | 2026-07-24 |
+| [scrcpy-gui](bucket/scrcpy-gui.json) | A simple & beautiful GUI application for scrcpy | 1.5.1 | [tomotoes.com](http://tomotoes.com/scrcpy-gui/) | 2026-07-24 |
 | [innounpacker](bucket/innounpacker.json) | Inno Setup Unpacker | 2.1.8 | [rathlev-home.de](https://www.rathlev-home.de/index-e.html?tools/prog-e.html#unpack) | 2026-07-24 |
-| [RevokeMsgPatcher](bucket/RevokeMsgPatcher.json) | PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）。 | 2.1 | [github.com](https://github.com/huiyadanli/RevokeMsgPatcher) | 2026-07-24 |
-| [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.8 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-07-23 |
-| [tun2proxy](bucket/tun2proxy.json) |  | 0.8.3 | [github.com](https://github.com/tun2proxy/tun2proxy) | 2026-07-23 |
+| [bongocat](bucket/bongocat.json) | 跨平台桌宠 BongoCat，为桌面增添乐趣！ | 1.1.0 | [github.com](https://github.com/ayangweb/BongoCat) | 2026-07-24 |
+| [javafx](bucket/javafx.json) | OpenJFX is an open source, next generation client applica... | 17.0.19 | [openjfx.io](https://openjfx.io/) | 2026-07-24 |
+| [hfs](bucket/hfs.json) | A web file server to run on your computer | 3.2.1 | [rejetto.com](https://rejetto.com/hfs) | 2026-07-24 |
+| [nekoray](bucket/nekoray.json) | Qt based cross-platform GUI proxy configuration manager (... | 4.3.7 | [github.com](https://github.com/Mahdi-zarei/nekoray) | 2026-07-24 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.07.04 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-07-23 |
-| [wintun](bucket/wintun.json) | Layer 3 TUN Driver for Windows | 0.14.1 | [wintun.net](https://www.wintun.net/) | 2026-07-23 |
+| [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.9 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-07-23 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.07.23-e383d2b | [cursor.com](https://cursor.com/cli) | 2026-07-23 |
+| [wintun](bucket/wintun.json) | Layer 3 TUN Driver for Windows | 0.14.1 | [wintun.net](https://www.wintun.net/) | 2026-07-23 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.152 | [github.com](https://github.com/stablyai/orca) | 2026-07-23 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.3.9 | [github.com](https://github.com/Ruszero01/clippi) | 2026-07-23 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.0 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-07-23 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.4 | [qoder.com](https://qoder.com) | 2026-07-23 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.4 | [qoder.com.cn](https://qoder.com.cn) | 2026-07-23 |
+| [tun2proxy](bucket/tun2proxy.json) |  | 0.8.3 | [github.com](https://github.com/tun2proxy/tun2proxy) | 2026-07-23 |
+| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.15 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-07-22 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.42 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-07-22 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.10.4.33993995 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-07-22 |
 | [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.0.0 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-07-22 |
 | [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.3.1.142 | [github.com](https://github.com/martona/clipp) | 2026-07-22 |
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.3.5.7 | [pixpin.com](https://pixpin.com/) | 2026-07-22 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.1.17 | [nyaterm.app](https://nyaterm.app) | 2026-07-22 |
-| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.15 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-07-22 |
-| [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.81.1 | [github.com](https://github.com/earendil-works/pi) | 2026-07-21 |
+| [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.82.0 | [github.com](https://github.com/earendil-works/pi) | 2026-07-21 |
 | [ztools](bucket/ztools.json) | 高性能、可扩展的应用启动器和插件平台，uTools 的开源实现，支持 macOS 和 Windows | 3.0.1 | [github.com](https://github.com/ZToolsCenter/ZTools) | 2026-07-21 |
 | [cascadia-next-nerd-font-jp](bucket/cascadia-next-nerd-font-jp.json) | Cascadia Next Nerd Font - Japanese (JP) variant. A Nerd F... | 1.0.1 | [github.com](https://github.com/LiLittleCat/Cascadia-Next-Nerd-Font) | 2026-07-21 |
 | [cascadia-next-nerd-font-sc](bucket/cascadia-next-nerd-font-sc.json) | Cascadia Next Nerd Font - Simplified Chinese (SC) variant... | 1.0.1 | [github.com](https://github.com/LiLittleCat/Cascadia-Next-Nerd-Font) | 2026-07-21 |
