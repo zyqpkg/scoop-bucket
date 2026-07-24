@@ -46,7 +46,7 @@ scoop install zyqpkg/<app-name>
 | [tun2proxy](bucket/tun2proxy.json) |  | 0.8.3 | [github.com](https://github.com/tun2proxy/tun2proxy) | 2026-07-23 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.07.23-e383d2b | [cursor.com](https://cursor.com/cli) | 2026-07-23 |
 | [wintun](bucket/wintun.json) | Layer 3 TUN Driver for Windows | 0.14.1 | [wintun.net](https://www.wintun.net/) | 2026-07-23 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.152 | [github.com](https://github.com/stablyai/orca) | 2026-07-23 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.155 | [github.com](https://github.com/stablyai/orca) | 2026-07-23 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.3.9 | [github.com](https://github.com/Ruszero01/clippi) | 2026-07-23 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.07.04 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-07-23 |
 | [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.0.0 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-07-22 |
