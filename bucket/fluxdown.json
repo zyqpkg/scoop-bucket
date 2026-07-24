@@ -26,7 +26,7 @@
   ],
   "checkver": {
     "github": "https://github.com/zerx-lab/FluxDown",
-    "regex": "v([\\d.]+)"
+    "regex": "tag/v([\\d.]+)"
   },
   "autoupdate": {
     "architecture": {

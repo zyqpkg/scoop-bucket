@@ -1,15 +1,15 @@
 {
-    "version": "4.3.7",
+    "version": "1.2.0",
     "description": "Qt based cross-platform GUI proxy configuration manager (backend: sing-box)",
-    "homepage": "https://github.com/Mahdi-zarei/nekoray",
+    "homepage": "https://github.com/throneproj/Throne",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Mahdi-zarei/nekoray/releases/download/4.3.7/nekoray-4.3.7-2025-07-08-windows64.zip",
-            "hash": "f83ceb8f786b6b435ad1bb8a8ea7a2af3166611364496855282e8264352dd419"
+            "url": "https://github.com/throneproj/Throne/releases/download/1.2.0/Throne-1.2.0-windows64.zip",
+            "hash": "skip"
         }
     },
-    "extract_dir": "nekoray",
+    "extract_dir": "Throne",
     "bin": [
         "nekobox_core.exe",
         "nekoray.exe"
@@ -22,14 +22,14 @@
     ],
     "persist": "config",
     "checkver": {
-        "github": "https://github.com/Mahdi-zarei/nekoray",
-        "regex": "nekoray-([\\d.]+)-(?<extra>[\\d-]+)-windows64"
+        "github": "https://github.com/throneproj/Throne",
+        "regex": "Throne-([\\d.]+)-windows64"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/Mahdi-zarei/nekoray/releases/download/$version/nekoray-$version-$matchExtra-windows64.zip",
-                "extract_dir": "nekoray"
+                "url": "https://github.com/throneproj/Throne/releases/download/$version/Throne-$version-windows64.zip",
+                "extract_dir": "Throne"
             }
         }
     }

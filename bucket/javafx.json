@@ -1,24 +1,25 @@
 {
     "description": "OpenJFX is an open source, next generation client application platform for desktop, mobile and embedded systems built on Java.",
     "homepage": "https://openjfx.io/",
-    "version": "17.0.19",
+    "version": "17.0.20",
     "license": "GPL-2.0-only",
     "suggest": {
         "JDK": "java/openjdk"
     },
     "architecture": {
         "64bit": {
-            "url": "https://download2.gluonhq.com/openjfx/17.0.19/openjfx-17.0.19_windows-x64_bin-sdk.zip",
-            "hash": "a84c91bb01a3d86b2723d2bad3caaf6551a07b6e83e064b0952269ed4917e4ec"
+            "url": "https://download2.gluonhq.com/openjfx/17.0.20/openjfx-17.0.20_windows-x64_bin-sdk.zip",
+            "hash": "skip"
         }
     },
-    "extract_dir": "javafx-sdk-17.0.19",
+    "extract_dir": "javafx-sdk-17.0.20",
     "env_set": {
         "PATH_TO_FX": "$dir\\lib"
     },
     "checkver": {
-        "github": "https://github.com/openjdk/jfx",
-        "regex": "/tag/([\\d.]+)"
+        "url": "https://gluonhq.com/products/javafx/",
+        "regex": "17\\.0\\.\\d+",
+        "reverse": true
     },
     "autoupdate": {
         "architecture": {
