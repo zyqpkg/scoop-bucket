@@ -21,10 +21,7 @@
         ]
     ],
     "persist": "config",
-    "checkver": {
-        "github": "https://github.com/throneproj/Throne",
-        "regex": "Throne-([\\d.]+)-windows64"
-    },
+    "checkver": "github",
     "autoupdate": {
         "architecture": {
             "64bit": {
