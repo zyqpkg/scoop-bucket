@@ -19,7 +19,6 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.2.3 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-07-24 |
-| [tabbit-browser](bucket/tabbit-browser.json) | Tabbit AI Browser for Windows | 1.6.20 | [tabbit-ai.com](https://www.tabbit-ai.com/) | 2026-07-24 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.152 | [github.com](https://github.com/stablyai/orca) | 2026-07-23 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.1.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-23 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.8 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-07-23 |
