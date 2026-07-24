@@ -9,7 +9,7 @@
     "architecture": {
         "64bit": {
             "url": "https://download2.gluonhq.com/openjfx/17.0.20/openjfx-17.0.20_windows-x64_bin-sdk.zip",
-            "hash": "skip"
+            "hash": "91a5f66eee049a7ed95120c5a3cef79befa0fea3edd916ebbc107f51525bfb53"
         }
     },
     "extract_dir": "javafx-sdk-17.0.20",

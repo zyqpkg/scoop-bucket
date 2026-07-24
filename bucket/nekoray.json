@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/throneproj/Throne/releases/download/1.2.0/Throne-1.2.0-windows64.zip",
-            "hash": "skip"
+            "hash": "e9a6238913e7c7423a490343b1a00980f4ad72f189ab18cabb8fc4baa3442645"
         }
     },
     "extract_dir": "Throne",
