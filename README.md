@@ -30,7 +30,7 @@ scoop install zyqpkg/<app-name>
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.0.212 | [kiro.dev](https://kiro.dev) | 2026-07-24 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.2.3 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-07-24 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.16.3 | [openchamber.dev](https://openchamber.dev/) | 2026-07-24 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.155 | [github.com](https://github.com/stablyai/orca) | 2026-07-24 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.156 | [github.com](https://github.com/stablyai/orca) | 2026-07-24 |
 | [tiny-rdm](bucket/tiny-rdm.json) | Tiny RDM is a modern lightweight cross-platform Redis des... | 1.2.7 | [redis.tinycraft.cc](https://redis.tinycraft.cc/) | 2026-07-24 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.16.038 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-07-24 |
 | [innounpacker](bucket/innounpacker.json) | Inno Setup Unpacker | 2.1.8 | [rathlev-home.de](https://www.rathlev-home.de/index-e.html?tools/prog-e.html#unpack) | 2026-07-24 |
