@@ -25,7 +25,7 @@ scoop install zyqpkg/<app-name>
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.2.2 | [paseo.sh](https://paseo.sh) | 2026-07-25 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.7.25 | [github.com](https://github.com/zyqfork/yaak) | 2026-07-25 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.82.1 | [github.com](https://github.com/earendil-works/pi) | 2026-07-25 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.1.3 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-25 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.1.4 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-25 |
 | [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.3.5.34189228-8044e898 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-07-25 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.156 | [github.com](https://github.com/stablyai/orca) | 2026-07-25 |
 | [tcpview](bucket/tcpview.json) | Active socket command-line viewer. | 4.19 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/tcpview) | 2026-07-24 |
@@ -55,7 +55,7 @@ scoop install zyqpkg/<app-name>
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.10.4.33993995 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-07-22 |
 | [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.3.1.142 | [github.com](https://github.com/martona/clipp) | 2026-07-22 |
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.3.5.7 | [pixpin.com](https://pixpin.com/) | 2026-07-22 |
-| [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.0.0 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-07-22 |
+| [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.08.066 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-07-22 |
 | [ztools](bucket/ztools.json) | 高性能、可扩展的应用启动器和插件平台，uTools 的开源实现，支持 macOS 和 Windows | 3.0.1 | [github.com](https://github.com/ZToolsCenter/ZTools) | 2026-07-21 |
 | [cascadia-next-nerd-font-jp](bucket/cascadia-next-nerd-font-jp.json) | Cascadia Next Nerd Font - Japanese (JP) variant. A Nerd F... | 1.0.1 | [github.com](https://github.com/LiLittleCat/Cascadia-Next-Nerd-Font) | 2026-07-21 |
 | [cascadia-next-nerd-font-sc](bucket/cascadia-next-nerd-font-sc.json) | Cascadia Next Nerd Font - Simplified Chinese (SC) variant... | 1.0.1 | [github.com](https://github.com/LiLittleCat/Cascadia-Next-Nerd-Font) | 2026-07-21 |
