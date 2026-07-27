@@ -34,7 +34,7 @@ scoop install zyqpkg/<app-name>
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.7.25 | [github.com](https://github.com/zyqfork/yaak) | 2026-07-25 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.16 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-07-24 |
 | [innounpacker](bucket/innounpacker.json) | Inno Setup Unpacker | 2.1.8 | [rathlev-home.de](https://www.rathlev-home.de/index-e.html?tools/prog-e.html#unpack) | 2026-07-24 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.5 | [qoder.com.cn](https://qoder.com.cn) | 2026-07-24 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.6 | [qoder.com.cn](https://qoder.com.cn) | 2026-07-24 |
 | [escrcpy](bucket/escrcpy.json) | Graphical Scrcpy to display and control Android devices, ... | 2.11.1 | [github.com](https://github.com/viarotel-org/escrcpy) | 2026-07-24 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.2.3 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-07-24 |
 | [tiny-rdm](bucket/tiny-rdm.json) | Tiny RDM is a modern lightweight cross-platform Redis des... | 1.2.7 | [redis.tinycraft.cc](https://redis.tinycraft.cc/) | 2026-07-24 |
@@ -46,7 +46,7 @@ scoop install zyqpkg/<app-name>
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.21.1 | [chatboxai.app](https://chatboxai.app/) | 2026-07-24 |
 | [PingFangSC](bucket/PingFangSC.json) |  | 19.0d5e3 | [blog.dsrkafuu.net](https://blog.dsrkafuu.net/post/2020/extract-sf-pingfang) | 2026-07-24 |
 | [RevokeMsgPatcher](bucket/RevokeMsgPatcher.json) | PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）。 | 2.1 | [github.com](https://github.com/huiyadanli/RevokeMsgPatcher) | 2026-07-24 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.5 | [qoder.com](https://qoder.com) | 2026-07-24 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.6 | [qoder.com](https://qoder.com) | 2026-07-24 |
 | [bongocat](bucket/bongocat.json) | 跨平台桌宠 BongoCat，为桌面增添乐趣！ | 1.1.0 | [github.com](https://github.com/ayangweb/BongoCat) | 2026-07-24 |
 | [tcpview](bucket/tcpview.json) | Active socket command-line viewer. | 4.19 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/tcpview) | 2026-07-24 |
 | [hfs](bucket/hfs.json) | A web file server to run on your computer | 3.2.2 | [rejetto.com](https://rejetto.com/hfs) | 2026-07-24 |

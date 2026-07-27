@@ -1,12 +1,12 @@
 {
-    "version": "1.1.5",
+    "version": "1.1.6",
     "description": "Qoder CLI - An AI programming assistant for intelligent code editing and analysis.",
     "homepage": "https://qoder.com",
     "license": "Unlicense",
     "architecture": {
         "64bit": {
-            "url": "https://qoder-ide.oss-accelerate.aliyuncs.com/qodercli/releases/1.1.5/qodercli-windows-x64.zip",
-            "hash": "f0970f29e525b18e3be67ea4692ec2dde073f65a95eec9ad0b81e07b32d1b62c"
+            "url": "https://qoder-ide.oss-accelerate.aliyuncs.com/qodercli/releases/1.1.6/qodercli-windows-x64.zip",
+            "hash": "e3d8f7af28d8e99b1866de3e1a69a1a107b65ee746261517dacfefddfde910bf"
         }
     },
     "pre_install": [
