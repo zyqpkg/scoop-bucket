@@ -22,7 +22,7 @@ scoop install zyqpkg/<app-name>
 | [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.08.066 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-07-26 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.0.228 | [kiro.dev](https://kiro.dev) | 2026-07-26 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.2.1 | [github.com](https://github.com/throneproj/Throne) | 2026-07-26 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.1.4 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-26 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.1.5 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-26 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.158 | [github.com](https://github.com/stablyai/orca) | 2026-07-26 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.43 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-07-26 |
 | [apiflow](bucket/apiflow.json) | Free, AI-Powered API Tool like Postman. Supports API test... | 0.9.4 | [github.com](https://github.com/trueleaf/apiflow) | 2026-07-26 |
