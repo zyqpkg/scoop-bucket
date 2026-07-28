@@ -18,6 +18,7 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [pi-gui](bucket/pi-gui.json) | Electron GUI app for the pi coding agent runtime with timeline, terminal, and diff viewer | 0.1.0-beta.33 | [github.com](https://github.com/minghinmatthewlam/pi-gui) | 2026-07-28 |
 | [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.4.0.150 | [github.com](https://github.com/martona/clipp) | 2026-07-27 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.1.7 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-27 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.6 | [qoder.com](https://qoder.com) | 2026-07-27 |
