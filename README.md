@@ -33,7 +33,7 @@ scoop install zyqpkg/<app-name>
 | [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.4.0.150 | [github.com](https://github.com/martona/clipp) | 2026-07-27 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.2.3 | [paseo.sh](https://paseo.sh) | 2026-07-27 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.159 | [github.com](https://github.com/stablyai/orca) | 2026-07-27 |
-| [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.0.228 | [kiro.dev](https://kiro.dev) | 2026-07-26 |
+| [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.0.242 | [kiro.dev](https://kiro.dev) | 2026-07-26 |
 | [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.08.066 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-07-26 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.2.1 | [github.com](https://github.com/throneproj/Throne) | 2026-07-26 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.9 | [github.com](https://github.com/DetachHead/rebased) | 2026-07-26 |
