@@ -20,7 +20,7 @@ scoop install zyqpkg/<app-name>
 |-----|-------------|---------|----------|--------------|
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.6 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-07-28 |
 | [pi-gui](bucket/pi-gui.json) | Electron GUI app for the pi coding agent runtime with tim... | 0.1.0-beta.33 | [github.com](https://github.com/minghinmatthewlam/pi-gui) | 2026-07-28 |
-| [pi-app](bucket/pi-app.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.2 | [github.com](https://github.com/justhil/pi-app) | 2026-07-28 |
+| [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.2 | [github.com](https://github.com/justhil/pi-app) | 2026-07-28 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.1.7 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-28 |
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.60.0 | [github.com](https://github.com/op7418/CodePilot) | 2026-07-28 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.6 | [qoder.com.cn](https://qoder.com.cn) | 2026-07-27 |
