@@ -1,0 +1,30 @@
+{
+    "version": "preview-2026-07-21-0f10e1453a7f",
+    "description": "Agent multiplexer that lives in your terminal",
+    "homepage": "https://herdr.dev",
+    "license": "Apache-2.0",
+    "notes": [
+        "Herdr is currently in beta for Windows.",
+        "Run 'herdr' to start the terminal multiplexer.",
+        "Press Ctrl+b q to detach, then 'herdr' to reattach."
+    ],
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ogulcancelik/herdr/releases/download/preview-2026-07-21-0f10e1453a7f/herdr-windows-x86_64.exe",
+            "hash": "75c85763db0ca5fd13b485d0728cc3e9ea1152964a4e976e1d49f2e86b01a92b"
+        }
+    },
+    "bin": "herdr-windows-x86_64.exe",
+    "checkver": {
+        "url": "https://api.github.com/repos/ogulcancelik/herdr/releases",
+        "jsonpath": "$[?(@.prerelease==true)].tag_name",
+        "regex": "preview-(.*)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/ogulcancelik/herdr/releases/download/preview-$version/herdr-windows-x86_64.exe"
+            }
+        }
+    }
+}
