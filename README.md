@@ -25,7 +25,7 @@ scoop install zyqpkg/<app-name>
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.17 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-07-29 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.161 | [github.com](https://github.com/stablyai/orca) | 2026-07-29 |
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 7.73.9 | [feishu.cn](https://www.feishu.cn/) | 2026-07-29 |
-| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.17.0 | [openchamber.dev](https://openchamber.dev/) | 2026-07-28 |
+| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.17.1 | [openchamber.dev](https://openchamber.dev/) | 2026-07-28 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.1.8 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-28 |
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.61.0 | [github.com](https://github.com/op7418/CodePilot) | 2026-07-28 |
 | [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.2 | [github.com](https://github.com/justhil/pi-app) | 2026-07-28 |
