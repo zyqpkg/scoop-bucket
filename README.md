@@ -18,6 +18,7 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.17.1 | [openchamber.dev](https://openchamber.dev/) | 2026-07-29 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | preview-2026-07-21-0f10e1453a7f | [herdr.dev](https://herdr.dev) | 2026-07-29 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.8 | [qoder.com](https://qoder.com) | 2026-07-29 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.1.18 | [nyaterm.app](https://nyaterm.app) | 2026-07-29 |
@@ -25,7 +26,6 @@ scoop install zyqpkg/<app-name>
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.17 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-07-29 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.161 | [github.com](https://github.com/stablyai/orca) | 2026-07-29 |
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 7.73.9 | [feishu.cn](https://www.feishu.cn/) | 2026-07-29 |
-| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.17.1 | [openchamber.dev](https://openchamber.dev/) | 2026-07-28 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.1.8 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-28 |
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.61.0 | [github.com](https://github.com/op7418/CodePilot) | 2026-07-28 |
 | [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.2 | [github.com](https://github.com/justhil/pi-app) | 2026-07-28 |
@@ -39,7 +39,7 @@ scoop install zyqpkg/<app-name>
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.2.3 | [paseo.sh](https://paseo.sh) | 2026-07-27 |
 | [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.4.0.150 | [github.com](https://github.com/martona/clipp) | 2026-07-27 |
 | [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.08.066 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-07-26 |
-| [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.2.1 | [github.com](https://github.com/throneproj/Throne) | 2026-07-26 |
+| [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.2.2 | [github.com](https://github.com/throneproj/Throne) | 2026-07-26 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.9 | [github.com](https://github.com/DetachHead/rebased) | 2026-07-26 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.43 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-07-26 |
 | [apiflow](bucket/apiflow.json) | Free, AI-Powered API Tool like Postman. Supports API test... | 0.9.4 | [github.com](https://github.com/trueleaf/apiflow) | 2026-07-26 |
