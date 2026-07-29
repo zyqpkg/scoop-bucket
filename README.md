@@ -34,7 +34,7 @@ scoop install zyqpkg/<app-name>
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.22.1 | [chatboxai.app](https://chatboxai.app/) | 2026-07-28 |
 | [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.4.0.150 | [github.com](https://github.com/martona/clipp) | 2026-07-27 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.2.3 | [paseo.sh](https://paseo.sh) | 2026-07-27 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.159 | [github.com](https://github.com/stablyai/orca) | 2026-07-27 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.160 | [github.com](https://github.com/stablyai/orca) | 2026-07-27 |
 | [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.08.066 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-07-26 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.2.1 | [github.com](https://github.com/throneproj/Throne) | 2026-07-26 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.9 | [github.com](https://github.com/DetachHead/rebased) | 2026-07-26 |
@@ -70,7 +70,7 @@ scoop install zyqpkg/<app-name>
 | [wsl-dashboard](bucket/wsl-dashboard.json) | A modern, high-performance, lightweight, and low-memory W... | 0.10.0 | [github.com](https://github.com/owu/wsl-dashboard) | 2026-07-20 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.14.0 | [pixwit.cn](https://pixwit.cn/) | 2026-07-19 |
 | [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.1.9 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-07-18 |
-| [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 7.72.8 | [feishu.cn](https://www.feishu.cn/) | 2026-07-15 |
+| [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 7.73.9 | [feishu.cn](https://www.feishu.cn/) | 2026-07-15 |
 | [voicebox](bucket/voicebox.json) | The open-source voice synthesis studio | 0.5.0 | [voicebox.sh](https://voicebox.sh/) | 2026-07-14 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.48 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-07-13 |
 | [tun2socks](bucket/tun2socks.json) | tun2socks - powered by gVisor TCP/IP stack. | 2.7.0 | [github.com](https://github.com/xjasonlyu/tun2socks) | 2026-07-12 |
