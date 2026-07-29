@@ -18,19 +18,20 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
-| [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.2 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-07-28 |
+| [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | preview-2026-07-21-0f10e1453a7f | [herdr.dev](https://herdr.dev) | 2026-07-29 |
+| [pi-gui](bucket/pi-gui.json) | Electron GUI app for the pi coding agent runtime with tim... | 0.1.0-beta.33 | [github.com](https://github.com/minghinmatthewlam/pi-gui) | 2026-07-28 |
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.6 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-07-28 |
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.61.0 | [github.com](https://github.com/op7418/CodePilot) | 2026-07-28 |
 | [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.2 | [github.com](https://github.com/justhil/pi-app) | 2026-07-28 |
-| [pi-gui](bucket/pi-gui.json) | Electron GUI app for the pi coding agent runtime with tim... | 0.1.0-beta.33 | [github.com](https://github.com/minghinmatthewlam/pi-gui) | 2026-07-28 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.1.8 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-28 |
-| [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.22.1 | [chatboxai.app](https://chatboxai.app/) | 2026-07-28 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.17.0 | [openchamber.dev](https://openchamber.dev/) | 2026-07-28 |
+| [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.2 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-07-28 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.1.8 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-28 |
+| [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.2 | [github.com](https://github.com/chat2db/Chat2DB) | 2026-07-28 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.0.242 | [kiro.dev](https://kiro.dev) | 2026-07-28 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.07.05 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-07-28 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.7 | [qoder.com](https://qoder.com) | 2026-07-28 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.7 | [qoder.com.cn](https://qoder.com.cn) | 2026-07-28 |
-| [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.2 | [github.com](https://github.com/chat2db/Chat2DB) | 2026-07-28 |
+| [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.22.1 | [chatboxai.app](https://chatboxai.app/) | 2026-07-28 |
 | [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.4.0.150 | [github.com](https://github.com/martona/clipp) | 2026-07-27 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.2.3 | [paseo.sh](https://paseo.sh) | 2026-07-27 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.159 | [github.com](https://github.com/stablyai/orca) | 2026-07-27 |
@@ -42,7 +43,6 @@ scoop install zyqpkg/<app-name>
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.7.25 | [github.com](https://github.com/zyqfork/yaak) | 2026-07-25 |
 | [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.3.5.34189228-8044e898 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-07-25 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.82.1 | [github.com](https://github.com/earendil-works/pi) | 2026-07-25 |
-| [scrcpy-gui](bucket/scrcpy-gui.json) | A simple & beautiful GUI application for scrcpy | 1.5.1 | [tomotoes.com](http://tomotoes.com/scrcpy-gui/) | 2026-07-24 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.9 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-07-24 |
 | [tcpview](bucket/tcpview.json) | Active socket command-line viewer. | 4.19 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/tcpview) | 2026-07-24 |
 | [tiny-rdm](bucket/tiny-rdm.json) | Tiny RDM is a modern lightweight cross-platform Redis des... | 1.2.7 | [redis.tinycraft.cc](https://redis.tinycraft.cc/) | 2026-07-24 |
@@ -50,6 +50,7 @@ scoop install zyqpkg/<app-name>
 | [PingFangSC](bucket/PingFangSC.json) |  | 19.0d5e3 | [blog.dsrkafuu.net](https://blog.dsrkafuu.net/post/2020/extract-sf-pingfang) | 2026-07-24 |
 | [RevokeMsgPatcher](bucket/RevokeMsgPatcher.json) | PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）。 | 2.1 | [github.com](https://github.com/huiyadanli/RevokeMsgPatcher) | 2026-07-24 |
 | [innounpacker](bucket/innounpacker.json) | Inno Setup Unpacker | 2.1.8 | [rathlev-home.de](https://www.rathlev-home.de/index-e.html?tools/prog-e.html#unpack) | 2026-07-24 |
+| [scrcpy-gui](bucket/scrcpy-gui.json) | A simple & beautiful GUI application for scrcpy | 1.5.1 | [tomotoes.com](http://tomotoes.com/scrcpy-gui/) | 2026-07-24 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.16.038 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-07-24 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.2.3 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-07-24 |
 | [bongocat](bucket/bongocat.json) | 跨平台桌宠 BongoCat，为桌面增添乐趣！ | 1.1.0 | [github.com](https://github.com/ayangweb/BongoCat) | 2026-07-24 |
