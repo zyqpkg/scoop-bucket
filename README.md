@@ -19,10 +19,11 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.2.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-30 |
-| [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.120.49 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-07-30 |
+| [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.120.50 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-07-30 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.49 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-07-30 |
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.7 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-07-30 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.7.30 | [github.com](https://github.com/zyqfork/yaak) | 2026-07-30 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.162 | [github.com](https://github.com/stablyai/orca) | 2026-07-30 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.2.5 | [paseo.sh](https://paseo.sh) | 2026-07-30 |
 | [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.3 | [github.com](https://github.com/justhil/pi-app) | 2026-07-30 |
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.62.0 | [github.com](https://github.com/op7418/CodePilot) | 2026-07-30 |
@@ -31,11 +32,10 @@ scoop install zyqpkg/<app-name>
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 7.73.9 | [feishu.cn](https://www.feishu.cn/) | 2026-07-29 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.1.18 | [nyaterm.app](https://nyaterm.app) | 2026-07-29 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.17.1 | [openchamber.dev](https://openchamber.dev/) | 2026-07-29 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.162 | [github.com](https://github.com/stablyai/orca) | 2026-07-29 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.2.2 | [github.com](https://github.com/throneproj/Throne) | 2026-07-29 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.83.0 | [github.com](https://github.com/earendil-works/pi) | 2026-07-29 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.8 | [qoder.com.cn](https://qoder.com.cn) | 2026-07-29 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.8 | [qoder.com](https://qoder.com) | 2026-07-29 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.9 | [qoder.com.cn](https://qoder.com.cn) | 2026-07-29 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.9 | [qoder.com](https://qoder.com) | 2026-07-29 |
 | [pi-gui](bucket/pi-gui.json) | Electron GUI app for the pi coding agent runtime with tim... | 0.1.0-beta.33 | [github.com](https://github.com/minghinmatthewlam/pi-gui) | 2026-07-28 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.2 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-07-28 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.22.1 | [chatboxai.app](https://chatboxai.app/) | 2026-07-28 |
