@@ -32,8 +32,8 @@ scoop install zyqpkg/<app-name>
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.62.0 | [github.com](https://github.com/op7418/CodePilot) | 2026-07-30 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.7.30 | [github.com](https://github.com/zyqfork/yaak) | 2026-07-30 |
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.120.50 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-07-30 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.9 | [qoder.com.cn](https://qoder.com.cn) | 2026-07-30 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.9 | [qoder.com](https://qoder.com) | 2026-07-30 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.10 | [qoder.com.cn](https://qoder.com.cn) | 2026-07-30 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.10 | [qoder.com](https://qoder.com) | 2026-07-30 |
 | [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.4.1.153 | [github.com](https://github.com/martona/clipp) | 2026-07-30 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.83.0 | [github.com](https://github.com/earendil-works/pi) | 2026-07-29 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.1.18 | [nyaterm.app](https://nyaterm.app) | 2026-07-29 |
