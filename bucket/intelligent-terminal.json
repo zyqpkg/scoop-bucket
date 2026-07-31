@@ -1,0 +1,77 @@
+{
+    "version": "0.1.1841.0",
+    "description": "A fork of Windows Terminal with native agent integration, right in your command line.",
+    "homepage": "https://github.com/microsoft/intelligent-terminal",
+    "license": "MIT",
+    "notes": [
+        "Requires Windows 10 2004 (build 19041) or later.",
+        "Needs an ACP-compatible agent CLI (GitHub Copilot CLI is the default).",
+        "CLI: wta (equivalent of wt), wtcli"
+    ],
+    "suggest": {
+        "vcredist": "extras/vcredist2022"
+    },
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/microsoft/intelligent-terminal/releases/download/v0.1.18/Microsoft.IntelligentTerminal_0.1.1841.0_8wekyb3d8bbwe.msixbundle#/dl.7z",
+            "hash": "2d7cf00660da89b381d5189772616d4e8a7a6e581abc3f105007216b0733198c"
+        },
+        "32bit": {
+            "url": "https://github.com/microsoft/intelligent-terminal/releases/download/v0.1.18/Microsoft.IntelligentTerminal_0.1.1841.0_8wekyb3d8bbwe.msixbundle#/dl.7z",
+            "hash": "2d7cf00660da89b381d5189772616d4e8a7a6e581abc3f105007216b0733198c"
+        },
+        "arm64": {
+            "url": "https://github.com/microsoft/intelligent-terminal/releases/download/v0.1.18/Microsoft.IntelligentTerminal_0.1.1841.0_8wekyb3d8bbwe.msixbundle#/dl.7z",
+            "hash": "2d7cf00660da89b381d5189772616d4e8a7a6e581abc3f105007216b0733198c"
+        }
+    },
+    "pre_install": [
+        "Expand-7zipArchive -Path \"$dir\\*$(switch ($architecture) { '64bit' { 'x64' } '32bit' { 'x86' } 'arm64' { 'arm64' } }).msix\"",
+        "Remove-Item -Path \"$dir\\*\" -Include '*.msix', 'Appx*', '?Content*', 'Code*' -Recurse -Force"
+    ],
+    "installer": {
+        "script": [
+            "$winVer = [Environment]::OSVersion.Version",
+            "if (($winVer.Major -lt 10) -or ($winVer.Build -lt 19041)) { warn 'At least Windows 10 2004 (build 19041) is required.' }",
+            "if (!(Test-Path \"$persist_dir\\.portable\")) { Add-Content \"$dir\\.portable\" '' -Encoding Ascii }"
+        ]
+    },
+    "bin": [
+        "WindowsTerminal.exe",
+        "wta.exe",
+        "wtcli.exe"
+    ],
+    "shortcuts": [
+        [
+            "WindowsTerminal.exe",
+            "Intelligent Terminal"
+        ]
+    ],
+    "persist": [
+        ".portable",
+        "settings"
+    ],
+    "checkver": {
+        "url": "https://api.github.com/repos/microsoft/intelligent-terminal/releases/latest",
+        "jsonpath": "$.assets[?(@.name =~ /^Microsoft\\.IntelligentTerminal_.*\\.msixbundle$/)].browser_download_url",
+        "regex": "/download/v(?<tag>[\\d.]+)/Microsoft\\.IntelligentTerminal_(?<version>[\\d.]+)_8wekyb3d8bbwe\\.msixbundle"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/microsoft/intelligent-terminal/releases/download/v$matchTag/Microsoft.IntelligentTerminal_$version_8wekyb3d8bbwe.msixbundle#/dl.7z"
+            },
+            "32bit": {
+                "url": "https://github.com/microsoft/intelligent-terminal/releases/download/v$matchTag/Microsoft.IntelligentTerminal_$version_8wekyb3d8bbwe.msixbundle#/dl.7z"
+            },
+            "arm64": {
+                "url": "https://github.com/microsoft/intelligent-terminal/releases/download/v$matchTag/Microsoft.IntelligentTerminal_$version_8wekyb3d8bbwe.msixbundle#/dl.7z"
+            }
+        },
+        "hash": {
+            "url": "https://api.github.com/repos/microsoft/intelligent-terminal/releases/tags/v$matchTag",
+            "jsonpath": "$.assets[?(@.name =~ /^Microsoft\\.IntelligentTerminal_/)].digest",
+            "regex": "sha256:([a-fA-F0-9]{64})"
+        }
+    }
+}
