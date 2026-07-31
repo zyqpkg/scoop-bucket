@@ -19,7 +19,7 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [intelligent-terminal](bucket/intelligent-terminal.json) | A fork of Windows Terminal with native agent integration,... | 0.1.1841.0 | [github.com](https://github.com/microsoft/intelligent-terminal) | 2026-07-31 |
-| [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.7 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-07-30 |
+| [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.8 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-07-30 |
 | [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.3 | [github.com](https://github.com/justhil/pi-app) | 2026-07-30 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.44 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-07-30 |
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.62.0 | [github.com](https://github.com/op7418/CodePilot) | 2026-07-30 |
@@ -47,10 +47,10 @@ scoop install zyqpkg/<app-name>
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.07.05 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-07-28 |
 | [apiflow](bucket/apiflow.json) | Free, AI-Powered API Tool like Postman. Supports API test... | 0.9.4 | [github.com](https://github.com/trueleaf/apiflow) | 2026-07-26 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.9 | [github.com](https://github.com/DetachHead/rebased) | 2026-07-26 |
-| [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.08.066 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-07-26 |
+| [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.10.091 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-07-26 |
 | [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.3.5.34189228-8044e898 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-07-25 |
 | [tcpview](bucket/tcpview.json) | Active socket command-line viewer. | 4.19 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/tcpview) | 2026-07-24 |
-| [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.2.3 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-07-24 |
+| [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.3.0 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-07-24 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.9 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-07-24 |
 | [hfs](bucket/hfs.json) | A web file server to run on your computer | 3.2.2 | [rejetto.com](https://rejetto.com/hfs) | 2026-07-24 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.16.038 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-07-24 |
@@ -64,7 +64,7 @@ scoop install zyqpkg/<app-name>
 | [tun2proxy](bucket/tun2proxy.json) |  | 0.8.3 | [github.com](https://github.com/tun2proxy/tun2proxy) | 2026-07-23 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.07.23-e383d2b | [cursor.com](https://cursor.com/cli) | 2026-07-23 |
 | [wintun](bucket/wintun.json) | Layer 3 TUN Driver for Windows | 0.14.1 | [wintun.net](https://www.wintun.net/) | 2026-07-23 |
-| [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.3.9 | [github.com](https://github.com/Ruszero01/clippi) | 2026-07-23 |
+| [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.0 | [github.com](https://github.com/Ruszero01/clippi) | 2026-07-23 |
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.3.5.7 | [pixpin.com](https://pixpin.com/) | 2026-07-22 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.10.4.33993995 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-07-22 |
 | [ztools](bucket/ztools.json) | 高性能、可扩展的应用启动器和插件平台，uTools 的开源实现，支持 macOS 和 Windows | 3.0.1 | [github.com](https://github.com/ZToolsCenter/ZTools) | 2026-07-21 |
