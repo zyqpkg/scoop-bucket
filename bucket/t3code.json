@@ -1,0 +1,44 @@
+{
+    "version": "0.0.31",
+    "description": "The open-source control plane for coding agents. Orchestrate Claude Code, Codex, OpenCode, Cursor, and Grok from one surface.",
+    "homepage": "https://t3.codes",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/pingdotgg/t3code/releases/download/v0.0.31/T3-Code-0.0.31-x64.exe#/dl.7z",
+            "hash": "936511ec3c587604183077900fc4381f2b919735373ec667bd2ad603b8ded905"
+        }
+    },
+    "installer": {
+        "script": [
+            "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
+            "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\Uninstall*\", \"$dir\\`$R0\" -Force -Recurse -ErrorAction SilentlyContinue"
+        ]
+    },
+    "bin": [
+        [
+            "T3 Code (Alpha).exe",
+            "t3code"
+        ]
+    ],
+    "shortcuts": [
+        [
+            "T3 Code (Alpha).exe",
+            "T3 Code"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/pingdotgg/t3code"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/pingdotgg/t3code/releases/download/v$version/T3-Code-$version-x64.exe#/dl.7z"
+            }
+        },
+        "hash": {
+            "url": "$baseurl/latest.yml",
+            "regex": "(?sm)$basename.*?sha512:\\s+$base64"
+        }
+    }
+}
