@@ -22,6 +22,7 @@ scoop install zyqpkg/<app-name>
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.11 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-01 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.11 | [qoder.com](https://qoder.com) | 2026-08-01 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.3.1 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-08-01 |
+| [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.4 | [github.com](https://github.com/justhil/pi-app) | 2026-08-01 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.31 | [t3.codes](https://t3.codes) | 2026-08-01 |
 | [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.3.8.34705286-e9991e2b | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-08-01 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.0 | [github.com](https://github.com/Ruszero01/clippi) | 2026-07-31 |
@@ -31,7 +32,6 @@ scoop install zyqpkg/<app-name>
 | [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.10.091 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-07-31 |
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.8 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-07-31 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.2.5 | [paseo.sh](https://paseo.sh) | 2026-07-30 |
-| [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.4 | [github.com](https://github.com/justhil/pi-app) | 2026-07-30 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.44 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-07-30 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.49 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-07-30 |
 | [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.4.1.153 | [github.com](https://github.com/martona/clipp) | 2026-07-30 |
@@ -41,7 +41,7 @@ scoop install zyqpkg/<app-name>
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 7.73.9 | [feishu.cn](https://www.feishu.cn/) | 2026-07-29 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.2.2 | [github.com](https://github.com/throneproj/Throne) | 2026-07-29 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | preview-2026-07-21-0f10e1453a7f | [herdr.dev](https://herdr.dev) | 2026-07-29 |
-| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.17.1 | [openchamber.dev](https://openchamber.dev/) | 2026-07-29 |
+| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.17.2 | [openchamber.dev](https://openchamber.dev/) | 2026-07-29 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.83.0 | [github.com](https://github.com/earendil-works/pi) | 2026-07-29 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.1.18 | [nyaterm.app](https://nyaterm.app) | 2026-07-29 |
 | [pi-gui](bucket/pi-gui.json) | Electron GUI app for the pi coding agent runtime with tim... | 0.1.0-beta.33 | [github.com](https://github.com/minghinmatthewlam/pi-gui) | 2026-07-28 |
