@@ -19,6 +19,7 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.31 | [t3.codes](https://t3.codes) | 2026-08-01 |
+| [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.3.8.34705286-e9991e2b | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-08-01 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.0 | [github.com](https://github.com/Ruszero01/clippi) | 2026-07-31 |
 | [intelligent-terminal](bucket/intelligent-terminal.json) | A fork of Windows Terminal with native agent integration,... | 0.1.1841.0 | [github.com](https://github.com/microsoft/intelligent-terminal) | 2026-07-31 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.2.2 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-31 |
@@ -37,12 +38,12 @@ scoop install zyqpkg/<app-name>
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.7.30 | [github.com](https://github.com/zyqfork/yaak) | 2026-07-30 |
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.120.50 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-07-30 |
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.62.0 | [github.com](https://github.com/op7418/CodePilot) | 2026-07-30 |
-| [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.1.18 | [nyaterm.app](https://nyaterm.app) | 2026-07-29 |
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 7.73.9 | [feishu.cn](https://www.feishu.cn/) | 2026-07-29 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.2.2 | [github.com](https://github.com/throneproj/Throne) | 2026-07-29 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | preview-2026-07-21-0f10e1453a7f | [herdr.dev](https://herdr.dev) | 2026-07-29 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.17.1 | [openchamber.dev](https://openchamber.dev/) | 2026-07-29 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.83.0 | [github.com](https://github.com/earendil-works/pi) | 2026-07-29 |
+| [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.1.18 | [nyaterm.app](https://nyaterm.app) | 2026-07-29 |
 | [pi-gui](bucket/pi-gui.json) | Electron GUI app for the pi coding agent runtime with tim... | 0.1.0-beta.33 | [github.com](https://github.com/minghinmatthewlam/pi-gui) | 2026-07-28 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.2 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-07-28 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.07.05 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-07-28 |
@@ -51,7 +52,6 @@ scoop install zyqpkg/<app-name>
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.0.242 | [kiro.dev](https://kiro.dev) | 2026-07-28 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.9 | [github.com](https://github.com/DetachHead/rebased) | 2026-07-26 |
 | [apiflow](bucket/apiflow.json) | Free, AI-Powered API Tool like Postman. Supports API test... | 0.9.4 | [github.com](https://github.com/trueleaf/apiflow) | 2026-07-26 |
-| [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.3.8.34705286-e9991e2b | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-07-25 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.9 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-07-24 |
 | [tcpview](bucket/tcpview.json) | Active socket command-line viewer. | 4.19 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/tcpview) | 2026-07-24 |
 | [PingFangSC](bucket/PingFangSC.json) |  | 19.0d5e3 | [blog.dsrkafuu.net](https://blog.dsrkafuu.net/post/2020/extract-sf-pingfang) | 2026-07-24 |
