@@ -23,12 +23,12 @@ scoop install zyqpkg/<app-name>
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.10 | [qoder.com.cn](https://qoder.com.cn) | 2026-07-31 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.10 | [qoder.com](https://qoder.com) | 2026-07-31 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.2.2 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-07-31 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.163 | [github.com](https://github.com/stablyai/orca) | 2026-07-31 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.18 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-07-31 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.0 | [github.com](https://github.com/Ruszero01/clippi) | 2026-07-31 |
 | [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.10.091 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-07-31 |
 | [intelligent-terminal](bucket/intelligent-terminal.json) | A fork of Windows Terminal with native agent integration,... | 0.1.1841.0 | [github.com](https://github.com/microsoft/intelligent-terminal) | 2026-07-31 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.49 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-07-30 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.163 | [github.com](https://github.com/stablyai/orca) | 2026-07-30 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.2.5 | [paseo.sh](https://paseo.sh) | 2026-07-30 |
 | [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.3 | [github.com](https://github.com/justhil/pi-app) | 2026-07-30 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.44 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-07-30 |
