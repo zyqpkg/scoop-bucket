@@ -23,10 +23,10 @@ scoop install zyqpkg/<app-name>
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.164 | [github.com](https://github.com/stablyai/orca) | 2026-08-02 |
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.63.0 | [github.com](https://github.com/op7418/CodePilot) | 2026-08-02 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.17.2 | [openchamber.dev](https://openchamber.dev/) | 2026-08-01 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.11 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-01 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.11 | [qoder.com](https://qoder.com) | 2026-08-01 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.12 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-01 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.12 | [qoder.com](https://qoder.com) | 2026-08-01 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.3.1 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-08-01 |
-| [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.4 | [github.com](https://github.com/justhil/pi-app) | 2026-08-01 |
+| [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.5 | [github.com](https://github.com/justhil/pi-app) | 2026-08-01 |
 | [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.3.8.34705286-e9991e2b | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-08-01 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.31 | [t3.codes](https://t3.codes) | 2026-08-01 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.18 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-07-31 |
@@ -71,7 +71,7 @@ scoop install zyqpkg/<app-name>
 | [cascadia-next-nerd-font-jp](bucket/cascadia-next-nerd-font-jp.json) | Cascadia Next Nerd Font - Japanese (JP) variant. A Nerd F... | 1.0.1 | [github.com](https://github.com/LiLittleCat/Cascadia-Next-Nerd-Font) | 2026-07-21 |
 | [cascadia-next-nerd-font-sc](bucket/cascadia-next-nerd-font-sc.json) | Cascadia Next Nerd Font - Simplified Chinese (SC) variant... | 1.0.1 | [github.com](https://github.com/LiLittleCat/Cascadia-Next-Nerd-Font) | 2026-07-21 |
 | [cascadia-next-nerd-font-tc](bucket/cascadia-next-nerd-font-tc.json) | Cascadia Next Nerd Font - Traditional Chinese (TC) varian... | 1.0.1 | [github.com](https://github.com/LiLittleCat/Cascadia-Next-Nerd-Font) | 2026-07-21 |
-| [ztools](bucket/ztools.json) | 高性能、可扩展的应用启动器和插件平台，uTools 的开源实现，支持 macOS 和 Windows | 3.0.1 | [github.com](https://github.com/ZToolsCenter/ZTools) | 2026-07-21 |
+| [ztools](bucket/ztools.json) | 高性能、可扩展的应用启动器和插件平台，uTools 的开源实现，支持 macOS 和 Windows | 3.0.2 | [github.com](https://github.com/ZToolsCenter/ZTools) | 2026-07-21 |
 | [wsl-dashboard](bucket/wsl-dashboard.json) | A modern, high-performance, lightweight, and low-memory W... | 0.10.0 | [github.com](https://github.com/owu/wsl-dashboard) | 2026-07-20 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.14.0 | [pixwit.cn](https://pixwit.cn/) | 2026-07-19 |
 | [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.1.9 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-07-18 |
