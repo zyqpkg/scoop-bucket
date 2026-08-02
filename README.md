@@ -19,7 +19,7 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.17.2 | [openchamber.dev](https://openchamber.dev/) | 2026-08-01 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.2.3 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-01 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.2.4 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-01 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.11 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-01 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.11 | [qoder.com](https://qoder.com) | 2026-08-01 |
 | [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.4 | [github.com](https://github.com/justhil/pi-app) | 2026-08-01 |
