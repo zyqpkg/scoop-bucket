@@ -18,31 +18,31 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.20 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-08-04 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.18.0 | [openchamber.dev](https://openchamber.dev/) | 2026-08-04 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.2.7 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-04 |
+| [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.9 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-08-04 |
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.65.0 | [github.com](https://github.com/op7418/CodePilot) | 2026-08-04 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.13 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-03 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.13 | [qoder.com](https://qoder.com) | 2026-08-03 |
 | [escrcpy](bucket/escrcpy.json) | Graphical Scrcpy to display and control Android devices, ... | 3.0.8 | [github.com](https://github.com/viarotel-org/escrcpy) | 2026-08-03 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.167 | [github.com](https://github.com/stablyai/orca) | 2026-08-03 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.168 | [github.com](https://github.com/stablyai/orca) | 2026-08-03 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.3 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-08-03 |
 | [ztools](bucket/ztools.json) | 高性能、可扩展的应用启动器和插件平台，uTools 的开源实现，支持 macOS 和 Windows | 3.0.2 | [github.com](https://github.com/ZToolsCenter/ZTools) | 2026-08-02 |
 | [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.6 | [github.com](https://github.com/justhil/pi-app) | 2026-08-02 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.2 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-02 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.31 | [t3.codes](https://t3.codes) | 2026-08-01 |
-| [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.3.1 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-08-01 |
 | [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.3.8.34705286-e9991e2b | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-08-01 |
+| [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.3.1 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-08-01 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.0 | [github.com](https://github.com/Ruszero01/clippi) | 2026-07-31 |
-| [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.9 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-07-31 |
-| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.19 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-07-31 |
 | [intelligent-terminal](bucket/intelligent-terminal.json) | A fork of Windows Terminal with native agent integration,... | 0.1.1841.0 | [github.com](https://github.com/microsoft/intelligent-terminal) | 2026-07-31 |
 | [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.10.091 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-07-31 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.44 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-07-30 |
+| [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.49 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-07-30 |
+| [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.120.51 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-07-30 |
 | [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.4.1.153 | [github.com](https://github.com/martona/clipp) | 2026-07-30 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.2.5 | [paseo.sh](https://paseo.sh) | 2026-07-30 |
-| [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.120.50 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-07-30 |
-| [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.49 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-07-30 |
-| [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.1.18 | [nyaterm.app](https://nyaterm.app) | 2026-07-29 |
+| [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.1.19 | [nyaterm.app](https://nyaterm.app) | 2026-07-29 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.2.2 | [github.com](https://github.com/throneproj/Throne) | 2026-07-29 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.83.0 | [github.com](https://github.com/earendil-works/pi) | 2026-07-29 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | preview-2026-07-21-0f10e1453a7f | [herdr.dev](https://herdr.dev) | 2026-07-29 |
@@ -60,7 +60,7 @@ scoop install zyqpkg/<app-name>
 | [tiny-rdm](bucket/tiny-rdm.json) | Tiny RDM is a modern lightweight cross-platform Redis des... | 1.2.7 | [redis.tinycraft.cc](https://redis.tinycraft.cc/) | 2026-07-24 |
 | [scrcpy-gui](bucket/scrcpy-gui.json) | A simple & beautiful GUI application for scrcpy | 1.5.1 | [tomotoes.com](http://tomotoes.com/scrcpy-gui/) | 2026-07-24 |
 | [innounpacker](bucket/innounpacker.json) | Inno Setup Unpacker | 2.1.8 | [rathlev-home.de](https://www.rathlev-home.de/index-e.html?tools/prog-e.html#unpack) | 2026-07-24 |
-| [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.16.038 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-07-24 |
+| [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.17.013 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-07-24 |
 | [hfs](bucket/hfs.json) | A web file server to run on your computer | 3.2.2 | [rejetto.com](https://rejetto.com/hfs) | 2026-07-24 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.9 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-07-24 |
 | [bongocat](bucket/bongocat.json) | 跨平台桌宠 BongoCat，为桌面增添乐趣！ | 1.1.0 | [github.com](https://github.com/ayangweb/BongoCat) | 2026-07-24 |
