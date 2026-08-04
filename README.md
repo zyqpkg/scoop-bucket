@@ -24,8 +24,8 @@ scoop install zyqpkg/<app-name>
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.10 | [github.com](https://github.com/DetachHead/rebased) | 2026-08-04 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.17.013 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-08-04 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.168 | [github.com](https://github.com/stablyai/orca) | 2026-08-04 |
-| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.18.0 | [openchamber.dev](https://openchamber.dev/) | 2026-08-04 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.2.7 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-04 |
+| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.18.1 | [openchamber.dev](https://openchamber.dev/) | 2026-08-04 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.2.8 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-04 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.20 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-08-04 |
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.9 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-08-04 |
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.120.51 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-08-04 |
