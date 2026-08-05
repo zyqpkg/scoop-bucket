@@ -1,12 +1,12 @@
 {
-    "version": "1.4.171",
+    "version": "1.4.173",
     "description": "Orca - an AI-native desktop IDE that turns natural language into full-stack applications. Build, run, and ship apps with an agentic interface.",
     "homepage": "https://github.com/stablyai/orca",
     "license": "NOASSERTION",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/stablyai/orca/releases/download/v1.4.171/orca-windows-setup.exe",
-            "hash": "ad2988c3aba186f3354cb4af9fa589f61cc8e88a8b250e212eee424c03836981"
+            "url": "https://github.com/stablyai/orca/releases/download/v1.4.173/orca-windows-setup.exe",
+            "hash": "e68d26c94f83d244c3ef43c5d50bbfea6b14225733bf5e687b1dc03b3a29f540"
         }
     },
     "installer": {
