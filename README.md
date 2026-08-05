@@ -35,7 +35,7 @@ scoop install zyqpkg/<app-name>
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.0 | [nyaterm.app](https://nyaterm.app) | 2026-08-04 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.20 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-08-04 |
 | [escrcpy](bucket/escrcpy.json) | Graphical Scrcpy to display and control Android devices, ... | 3.0.8 | [github.com](https://github.com/viarotel-org/escrcpy) | 2026-08-03 |
-| [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.3 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-08-03 |
+| [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.4 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-08-03 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.2 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-02 |
 | [ztools](bucket/ztools.json) | 高性能、可扩展的应用启动器和插件平台，uTools 的开源实现，支持 macOS 和 Windows | 3.0.2 | [github.com](https://github.com/ZToolsCenter/ZTools) | 2026-08-02 |
 | [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.6 | [github.com](https://github.com/justhil/pi-app) | 2026-08-02 |
