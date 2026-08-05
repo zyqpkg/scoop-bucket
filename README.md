@@ -18,14 +18,15 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.170 | [github.com](https://github.com/stablyai/orca) | 2026-08-05 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.2.9 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-05 |
+| [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.3.2 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-08-05 |
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.65.0 | [github.com](https://github.com/op7418/CodePilot) | 2026-08-04 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.14 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-04 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.14 | [qoder.com](https://qoder.com) | 2026-08-04 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.10 | [github.com](https://github.com/DetachHead/rebased) | 2026-08-04 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.17.013 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-08-04 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.169 | [github.com](https://github.com/stablyai/orca) | 2026-08-04 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.18.1 | [openchamber.dev](https://openchamber.dev/) | 2026-08-04 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.2.9 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-04 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.20 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-08-04 |
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.9 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-08-04 |
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.120.51 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-08-04 |
@@ -35,7 +36,6 @@ scoop install zyqpkg/<app-name>
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.2 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-02 |
 | [ztools](bucket/ztools.json) | 高性能、可扩展的应用启动器和插件平台，uTools 的开源实现，支持 macOS 和 Windows | 3.0.2 | [github.com](https://github.com/ZToolsCenter/ZTools) | 2026-08-02 |
 | [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.6 | [github.com](https://github.com/justhil/pi-app) | 2026-08-02 |
-| [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.3.2 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-08-01 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.31 | [t3.codes](https://t3.codes) | 2026-08-01 |
 | [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.3.8.34705286-e9991e2b | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-08-01 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.0 | [github.com](https://github.com/Ruszero01/clippi) | 2026-07-31 |
