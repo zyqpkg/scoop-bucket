@@ -31,7 +31,7 @@
                 "url": "https://static.qoder.com.cn/qoder-cli-cn/releases/$version/qoderclicn-windows-x64.zip",
                 "hash": {
                     "url": "https://static.qoder.com.cn/qoder-cli-cn/channels/manifest.json",
-                    "jsonpath": "$.files[] | select(.os == \"windows\" and .arch == \"amd64\" and .variant == \"standard\") | .sha256"
+                    "jsonpath": "$.files[?(@.os == 'windows' && @.arch == 'amd64' && @.variant == 'standard')].sha256"
                 }
             }
         }
