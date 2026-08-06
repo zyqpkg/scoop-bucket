@@ -31,7 +31,7 @@ scoop install zyqpkg/<app-name>
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.8.2 | [github.com](https://github.com/cxasm/notepad--) | 2026-08-05 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.3.2 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-08-05 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.4 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-08-05 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.2.9 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-05 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.2.10 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-05 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.08.04-aaa8809 | [cursor.com](https://cursor.com/cli) | 2026-08-05 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.1 | [github.com](https://github.com/Ruszero01/clippi) | 2026-08-05 |
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.9 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-08-04 |
