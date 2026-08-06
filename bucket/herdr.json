@@ -1,5 +1,5 @@
 {
-    "version": "preview-2026-08-04-d78e3d3b5126",
+    "version": "2026-08-04-d78e3d3b5126",
     "description": "Agent multiplexer that lives in your terminal",
     "homepage": "https://herdr.dev",
     "license": "Apache-2.0",
