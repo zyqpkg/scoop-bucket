@@ -1,10 +1,10 @@
 {
-    "version": "0.5.3",
+    "version": "0.5.6",
     "description": "Desktop app for the pi coding agent runtime with timeline, terminal, and diff viewer",
     "homepage": "https://github.com/justhil/pi-app",
     "license": "MIT",
-    "url": "https://github.com/justhil/pi-app/releases/download/v0.5.3/pi.Desktop-Portable-0.5.3-x64.exe",
-    "hash": "e8dbdaee6ea130da2d6339589eb3279a61526aae6328222e876fb613f69c698c",
+    "url": "https://github.com/justhil/pi-app/releases/download/v0.5.6/pi.Desktop-Portable-0.5.6-x64.exe",
+    "hash": "208c6d15616f2214fdba09f2feef4fbcc826f4e5b56a841c64b48e637ac8763e",
     "installer": {
         "script": [
             "Expand-7ZipArchive \"$dir\\$fname\" \"$dir\\temp\" -Removal",

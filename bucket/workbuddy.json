@@ -1,12 +1,12 @@
 {
-    "version": "5.3.5.34189228-8044e898",
+    "version": "5.3.8.34705286-e9991e2b",
     "description": "An AI-native desktop Agent WorkBench",
     "homepage": "https://www.codebuddy.cn/work/",
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://download.codebuddy.cn/workbuddy/saas/win32-x64-user/WorkBuddy-win32-x64-user-5.3.5.34189228-8044e898.exe#dl.7z",
-            "hash": "3064d6e873bd74169e62ea2e480382c120125e6b8f99155649ec2389c3cbfaff",
+            "url": "https://download.codebuddy.cn/workbuddy/saas/win32-x64-user/WorkBuddy-win32-x64-user-5.3.8.34705286-e9991e2b.exe#dl.7z",
+            "hash": "c111bc3f54a0e53fa04924313ae660125eebffafcd5ac7722da7c3c03402cb7a",
             "installer": {
                 "script": [
                     "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",

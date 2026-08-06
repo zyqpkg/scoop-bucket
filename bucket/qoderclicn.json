@@ -1,12 +1,12 @@
 {
-    "version": "1.1.10",
+    "version": "1.1.16",
     "description": "QoderWork CLI - A local file operation tool for efficient file management, data analysis, and content creation.",
     "homepage": "https://qoder.com.cn",
     "license": "Unlicense",
     "architecture": {
         "64bit": {
-            "url": "https://static.qoder.com.cn/qoder-cli-cn/releases/1.1.10/qoderclicn-windows-x64.zip",
-            "hash": "702debce54d8cd80350adf28b9e2f2c3bf54745f8b570a4c87f46fa3b9bddee4"
+            "url": "https://static.qoder.com.cn/qoder-cli-cn/releases/1.1.16/qoderclicn-windows-x64.zip",
+            "hash": "50eedb8d8c70b05ccefffb9f30c0dd68b464c9b38bbba611e75d9700f9f000d9"
         }
     },
     "pre_install": [
