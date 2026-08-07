@@ -54,7 +54,7 @@ scoop install zyqpkg/<app-name>
 | [intelligent-terminal](bucket/intelligent-terminal.json) | A fork of Windows Terminal with native agent integration,... | 0.1.1841.0 | [github.com](https://github.com/microsoft/intelligent-terminal) | 2026-07-31 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.49 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-07-30 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.2.5 | [paseo.sh](https://paseo.sh) | 2026-07-30 |
-| [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.4.1.153 | [github.com](https://github.com/martona/clipp) | 2026-07-30 |
+| [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.5.0.160 | [github.com](https://github.com/martona/clipp) | 2026-07-30 |
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 7.73.9 | [feishu.cn](https://www.feishu.cn/) | 2026-07-29 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.07.05 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-07-28 |
 | [apiflow](bucket/apiflow.json) | Free, AI-Powered API Tool like Postman. Supports API test... | 0.9.4 | [github.com](https://github.com/trueleaf/apiflow) | 2026-07-26 |
