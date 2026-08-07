@@ -27,7 +27,7 @@ scoop install zyqpkg/<app-name>
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-08-04-d78e3d3b5126 | [herdr.dev](https://herdr.dev) | 2026-08-06 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.16 | [qoder.com](https://qoder.com) | 2026-08-06 |
 | [pi-gui](bucket/pi-gui.json) | Electron GUI app for the pi coding agent runtime with tim... | 0.1.0-beta.33 | [github.com](https://github.com/minghinmatthewlam/pi-gui) | 2026-08-06 |
-| [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.84.0 | [github.com](https://github.com/earendil-works/pi) | 2026-08-06 |
+| [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.84.1 | [github.com](https://github.com/earendil-works/pi) | 2026-08-06 |
 | [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.3 | [github.com](https://github.com/chat2db/Chat2DB) | 2026-08-06 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.16 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-06 |
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.8.2 | [github.com](https://github.com/cxasm/notepad--) | 2026-08-05 |
@@ -40,7 +40,7 @@ scoop install zyqpkg/<app-name>
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.120.51 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-08-04 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.18.1 | [openchamber.dev](https://openchamber.dev/) | 2026-08-04 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.20 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-08-04 |
-| [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.9 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-08-04 |
+| [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.10 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-08-04 |
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.65.0 | [github.com](https://github.com/op7418/CodePilot) | 2026-08-04 |
 | [escrcpy](bucket/escrcpy.json) | Graphical Scrcpy to display and control Android devices, ... | 3.0.8 | [github.com](https://github.com/viarotel-org/escrcpy) | 2026-08-03 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.2 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-02 |
