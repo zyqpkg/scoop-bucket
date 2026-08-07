@@ -1,0 +1,51 @@
+{
+    "version": "5.8.0.0",
+    "description": "Customize the Windows 11 right-click context menu",
+    "homepage": "https://github.com/ikas-mc/ContextMenuForWindows11",
+    "license": "LGPL-3.0-or-later",
+    "notes": [
+        "Restart explorer or your PC if the context menu does not appear after installation.",
+        "The certificate (CN=ikas-mc-dev) is installed to the CurrentUser Trusted People/Root stores for AppX registration."
+    ],
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ikas-mc/ContextMenuForWindows11/releases/download/5.8.0.0/ContextMenuCustom-CMC_GITHUB_RELEASE-x64.zip",
+            "hash": "431F8A3206146140155F0B761B831D785B9C89E9EDA713181A91A5345DB6E3AA"
+        },
+        "arm64": {
+            "url": "https://github.com/ikas-mc/ContextMenuForWindows11/releases/download/5.8.0.0/ContextMenuCustom-CMC_GITHUB_RELEASE-ARM64.zip",
+            "hash": "332464CA80E3F92B4DB543BD168C5EBAB3D663CEFFFDD727EBBD0DA58FF1E10B"
+        }
+    },
+    "installer": {
+        "script": [
+            "$pkgDir = Get-ChildItem \"$dir\" -Directory | Select-Object -First 1",
+            "$cer = Get-ChildItem $pkgDir.FullName -Filter '*.cer' | Select-Object -First 1",
+            "Import-Certificate -FilePath $cer.FullName -CertStoreLocation 'Cert:\\CurrentUser\\TrustedPeople' | Out-Null",
+            "Import-Certificate -FilePath $cer.FullName -CertStoreLocation 'Cert:\\CurrentUser\\Root' -ErrorAction SilentlyContinue | Out-Null",
+            "$arch = if ($architecture -eq '64bit') { 'x64' } else { 'arm64' }",
+            "$depDir = Join-Path $pkgDir.FullName \"Dependencies\\$arch\"",
+            "Get-ChildItem $depDir -Filter '*.appx' | ForEach-Object { Add-AppxPackage -Path $_.FullName }",
+            "$bundle = Get-ChildItem $pkgDir.FullName -Filter '*.msixbundle' | Select-Object -First 1",
+            "Add-AppxPackage -Path $bundle.FullName"
+        ]
+    },
+    "uninstaller": {
+        "script": [
+            "Get-AppxPackage -Name '31896935-DD54-4362-ACDD-6DA496624671' | Remove-AppxPackage"
+        ]
+    },
+    "checkver": {
+        "github": "https://github.com/ikas-mc/ContextMenuForWindows11"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/ikas-mc/ContextMenuForWindows11/releases/download/$version/ContextMenuCustom-CMC_GITHUB_RELEASE-x64.zip"
+            },
+            "arm64": {
+                "url": "https://github.com/ikas-mc/ContextMenuForWindows11/releases/download/$version/ContextMenuCustom-CMC_GITHUB_RELEASE-ARM64.zip"
+            }
+        }
+    }
+}
