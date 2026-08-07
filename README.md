@@ -34,7 +34,7 @@ scoop install zyqpkg/<app-name>
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.17 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-07 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.0.288 | [kiro.dev](https://kiro.dev) | 2026-08-07 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.22.2 | [chatboxai.app](https://chatboxai.app/) | 2026-08-07 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.2.11 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-06 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.2.11 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-07 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-08-04-d78e3d3b5126 | [herdr.dev](https://herdr.dev) | 2026-08-06 |
 | [pi-gui](bucket/pi-gui.json) | Electron GUI app for the pi coding agent runtime with tim... | 0.1.0-beta.33 | [github.com](https://github.com/minghinmatthewlam/pi-gui) | 2026-08-06 |
 | [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.3 | [github.com](https://github.com/chat2db/Chat2DB) | 2026-08-06 |
