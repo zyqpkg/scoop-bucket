@@ -18,24 +18,24 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
-| [ContextMenuManager](bucket/ContextMenuManager.json) | 🖱️ 纯粹的 Windows 右键菜单管理程序。A pure Windows context menu mana... | 4.0.0.7 | [github.com](https://github.com/Jack251970/ContextMenuManager) | 2026-08-08 |
+| [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.2.4 | [github.com](https://github.com/throneproj/Throne) | 2026-08-08 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.177 | [github.com](https://github.com/stablyai/orca) | 2026-08-08 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.3.0 | [paseo.sh](https://paseo.sh) | 2026-08-08 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.08.01 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-08-08 |
-| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.45 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-08-07 |
-| [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.66.0 | [github.com](https://github.com/op7418/CodePilot) | 2026-08-07 |
-| [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.10 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-08-07 |
-| [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.2 | [github.com](https://github.com/Ruszero01/clippi) | 2026-08-07 |
-| [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.5.0.160 | [github.com](https://github.com/martona/clipp) | 2026-08-07 |
-| [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.2.4 | [github.com](https://github.com/throneproj/Throne) | 2026-08-07 |
-| [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.11.112 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-08-07 |
-| [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.22.2 | [chatboxai.app](https://chatboxai.app/) | 2026-08-07 |
+| [ContextMenuManager](bucket/ContextMenuManager.json) | 🖱️ 纯粹的 Windows 右键菜单管理程序。A pure Windows context menu mana... | 4.0.0.7 | [github.com](https://github.com/Jack251970/ContextMenuManager) | 2026-08-08 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.84.1 | [github.com](https://github.com/earendil-works/pi) | 2026-08-07 |
-| [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.32 | [t3.codes](https://t3.codes) | 2026-08-07 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.17 | [qoder.com](https://qoder.com) | 2026-08-07 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.17 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-07 |
-| [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.0.288 | [kiro.dev](https://kiro.dev) | 2026-08-07 |
+| [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.22.2 | [chatboxai.app](https://chatboxai.app/) | 2026-08-07 |
+| [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.11.112 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-08-07 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.2.11 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-07 |
+| [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.5.0.160 | [github.com](https://github.com/martona/clipp) | 2026-08-07 |
+| [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.2 | [github.com](https://github.com/Ruszero01/clippi) | 2026-08-07 |
+| [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.10 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-08-07 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.17 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-07 |
+| [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.66.0 | [github.com](https://github.com/op7418/CodePilot) | 2026-08-07 |
+| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.45 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-08-07 |
+| [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.0.288 | [kiro.dev](https://kiro.dev) | 2026-08-07 |
+| [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.32 | [t3.codes](https://t3.codes) | 2026-08-07 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.17.013.5 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-08-07 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-08-04-d78e3d3b5126 | [herdr.dev](https://herdr.dev) | 2026-08-06 |
 | [pi-gui](bucket/pi-gui.json) | Electron GUI app for the pi coding agent runtime with tim... | 0.1.0-beta.33 | [github.com](https://github.com/minghinmatthewlam/pi-gui) | 2026-08-06 |
