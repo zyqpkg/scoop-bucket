@@ -20,7 +20,7 @@ scoop install zyqpkg/<app-name>
 |-----|-------------|---------|----------|--------------|
 | [ContextMenuManager](bucket/ContextMenuManager.json) | 🖱️ 纯粹的 Windows 右键菜单管理程序。A pure Windows context menu mana... | 4.0.0.7 | [github.com](https://github.com/Jack251970/ContextMenuManager) | 2026-08-08 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.3.0 | [paseo.sh](https://paseo.sh) | 2026-08-08 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.176 | [github.com](https://github.com/stablyai/orca) | 2026-08-07 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.177 | [github.com](https://github.com/stablyai/orca) | 2026-08-07 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.0.288 | [kiro.dev](https://kiro.dev) | 2026-08-07 |
 | [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.11.112 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-08-07 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.2.3 | [github.com](https://github.com/throneproj/Throne) | 2026-08-07 |
