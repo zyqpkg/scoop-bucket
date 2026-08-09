@@ -69,7 +69,7 @@ scoop install zyqpkg/<app-name>
 | [RevokeMsgPatcher](bucket/RevokeMsgPatcher.json) | PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）。 | 2.1 | [github.com](https://github.com/huiyadanli/RevokeMsgPatcher) | 2026-07-24 |
 | [wintun](bucket/wintun.json) | Layer 3 TUN Driver for Windows | 0.14.1 | [wintun.net](https://www.wintun.net/) | 2026-07-23 |
 | [tun2proxy](bucket/tun2proxy.json) |  | 0.8.3 | [github.com](https://github.com/tun2proxy/tun2proxy) | 2026-07-23 |
-| [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.3.5.7 | [pixpin.com](https://pixpin.com/) | 2026-07-22 |
+| [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.4.3.2 | [pixpin.com](https://pixpin.com/) | 2026-07-22 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.10.4.33993995 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-07-22 |
 | [cascadia-next-nerd-font-tc](bucket/cascadia-next-nerd-font-tc.json) | Cascadia Next Nerd Font - Traditional Chinese (TC) varian... | 1.0.1 | [github.com](https://github.com/LiLittleCat/Cascadia-Next-Nerd-Font) | 2026-07-21 |
 | [cascadia-next-nerd-font-jp](bucket/cascadia-next-nerd-font-jp.json) | Cascadia Next Nerd Font - Japanese (JP) variant. A Nerd F... | 1.0.1 | [github.com](https://github.com/LiLittleCat/Cascadia-Next-Nerd-Font) | 2026-07-21 |
