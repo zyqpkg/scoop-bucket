@@ -1,60 +1,61 @@
 {
-  "version": "3.9.12.57",
-  "description": "微信 Windows 版",
-  "homepage": "https://pc.weixin.qq.com/",
+  "version": "4.1.12.26",
+  "description": "Free messaging and calling app by Tencent",
+  "homepage": "https://www.wechat.com/",
   "license": {
     "identifier": "Proprietary",
     "url": "https://www.wechat.com/en/service_terms.html"
   },
-  "suggest": {
-    "revokemsgpatcher": "revokemsgpatcher"
-  },
   "architecture": {
     "64bit": {
-      "url": "https://dldir1v6.qq.com/weixin/Windows/WeChatSetup.exe#/dl.7z",
-      "hash": "c29fc05630cfc95ef6483f6b5b52aabfe74265bb260e210e78ae437d305d8990"
+      "url": "https://github.com/cscnk52/wechat-windows-versions/releases/download/v4.1.12.26/weixin_4.1.12.26.exe#/dl.7z",
+      "hash": "58997cfe4513ab71f107c2137bb570ade030f228115c14688544cec80e604053"
     }
   },
-  "post_install": [
-    "Remove-Item \"$dir\\`$*\", \"$dir\\Uninst*\" -Force -Recurse",
-    "$configpath = ensure \"$env:APPDATA\\Tencent\\WeChat\\All Users\\config\"",
-    "# 设置微信文件保存位置",
-    "$FileSavePath = if (Test-Path \"E:\\微信聊天记录\") { \"E:\\微信聊天记录\" } else { ensure \"$persist_dir\" }",
-    "Set-Content -NoNewline -Path \"$configpath\\3ebffe94.ini\" -Value \"$FileSavePath\"",
-    "$regpath = \"HKCU:Software\\Tencent\\WeChat\"",
-    "if (!(Test-Path \"$regpath\")) {",
-    "    New-Item -Path \"$regpath\" -Type Directory -Force | Out-Null",
-    "}",
-    "New-ItemProperty -Path $regpath -Name \"FileSavePath\" -Value \"$FileSavePath\" -Force | Out-Null"
-  ],
+  "installer": {
+    "script": [
+      "Expand-7zipArchive \"$dir\\install.7z\" \"$dir\" -Removal",
+      "Remove-Item \"$dir\\`$*\", \"$dir\\Uninst*\" -Force -Recurse",
+      "$config_path = \"$env:APPDATA\\Tencent\\xwechat\\config\"",
+      "ensure \"$config_path\" | Out-Null",
+      "Set-Content -NoNewline -Path \"$config_path\\51a1fffea11325a1e4104c6b3de47af7.ini\" -Value \"$persist_dir\"",
+      "$reg_path = \"HKCU:Software\\Tencent\\Wexin\"",
+      "if (!(Test-Path \"$reg_path\")) {",
+      "    New-Item -Path \"$reg_path\" -Type Directory -Force | Out-Null",
+      "}",
+      "New-ItemProperty -Path $reg_path -Name \"FileSavePath\" -Value \"$persist_dir\" -Force | Out-Null",
+      "New-Item -Path $reg_path -Name \"InstallPath\" -Value \"$dir\" -Force -ErrorAction SilentlyContinue | Out-Null"
+    ]
+  },
+  "uninstaller": {
+    "script": [
+      "Remove-Item -Path \"$env:APPDATA\\Tencent\\xwechat\\config\\51a1fffea11325a1e4104c6b3de47af7.ini\" -Force | Out-Null",
+      "Remove-ItemProperty -Path \"HKCU:Software\\Tencent\\Wexin\" -Name \"FileSavePath\" -Force | Out-Null"
+    ]
+  },
   "shortcuts": [
     [
-      "wechat.exe",
-      "微信"
+      "Weixin.exe",
+      "WeChat"
     ]
   ],
-  "persist": "WeChat Files",
-  "post_uninstall": [
-    "Remove-Item -Path \"$env:APPDATA\\Tencent\\WeChat\\All Users\\config\\3ebffe94.ini\" -Force | Out-Null",
-    "Remove-ItemProperty -Path \"HKCU:Software\\Tencent\\WeChat\" -Name \"FileSavePath\" -Force | Out-Null"
-  ],
+  "persist": "xwechat_files",
   "checkver": {
     "script": [
-      "$prefix = 'https://github.com/SpecterShell/Dumplings/raw/refs/heads/main/Tasks/Tencent.WeChat%23x64'",
-      "$stateYamlUrl = $prefix + '/State.yaml'",
-      "$stateContent = (Invoke-WebRequest -Uri $stateYamlUrl).Content",
-      "$logFileUrl = \"$prefix/$stateContent\"",
-      "$logContent = Invoke-RestMethod -Uri $logFileUrl -UseBasicParsing",
-      "Write-Output $logContent"
+      "$api = 'https://api.github.com/repos/microsoft/winget-pkgs/contents/manifests/t/Tencent/WeChat/Universal'",
+      "$versions = (Invoke-RestMethod -Uri $api).name | Where-Object { $_ -match '^\\d+(\\.\\d+)+$' }",
+      "$latest = $versions | Sort-Object { [version]$_ } -Descending | Select-Object -First 1",
+      "$manifest = \"https://raw.githubusercontent.com/microsoft/winget-pkgs/master/manifests/t/Tencent/WeChat/Universal/$latest/Tencent.WeChat.Universal.installer.yaml\"",
+      "Invoke-RestMethod -Uri $manifest"
     ],
-    "regex": "Version:\\s*([0-9.]+)"
+    "regex": "PackageVersion:\\s*(?<version>(?<short>[0-9]+\\.[0-9]+\\.[0-9]+)\\.[0-9]+)"
   },
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://dldir1v6.qq.com/weixin/Windows/WeChatSetup.exe#/dl.7z",
+        "url": "https://dldir1v6.qq.com/weixin/Universal/Windows/WeChatWin_$matchShort.exe#/dl.7z",
         "hash": {
-          "url": "https://github.com/microsoft/winget-pkgs/raw/refs/heads/master/manifests/t/Tencent/WeChat/$version/Tencent.WeChat.installer.yaml",
+          "url": "https://raw.githubusercontent.com/microsoft/winget-pkgs/master/manifests/t/Tencent/WeChat/Universal/$version/Tencent.WeChat.Universal.installer.yaml",
           "regex": "InstallerSha256:\\s+([a-fA-F0-9]{64})"
         }
       }
