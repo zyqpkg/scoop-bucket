@@ -17,9 +17,9 @@
         }
     },
     "bin": [
-        "bin\\ffmpeg.exe",
-        "bin\\ffplay.exe",
-        "bin\\ffprobe.exe"
+        "ffmpeg.exe",
+        "ffplay.exe",
+        "ffprobe.exe"
     ],
     "checkver": {
         "url": "https://api.github.com/repos/AnimMouse/ffmpeg-autobuild/releases/latest",
