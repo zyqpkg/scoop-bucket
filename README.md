@@ -18,7 +18,7 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
-| [wechat](bucket/wechat.json) | 微信 Windows 版 | 3.9.12.57 | [pc.weixin.qq.com](https://pc.weixin.qq.com/) | 2026-08-10 |
+| [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.12.26 | [wechat.com](https://www.wechat.com/) | 2026-08-10 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.12 | [github.com](https://github.com/DetachHead/rebased) | 2026-08-09 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.22.3 | [chatboxai.app](https://chatboxai.app/) | 2026-08-09 |
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.4.3.2 | [pixpin.com](https://pixpin.com/) | 2026-08-09 |
