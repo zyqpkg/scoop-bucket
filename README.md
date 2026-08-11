@@ -54,7 +54,7 @@ scoop install zyqpkg/<app-name>
 | [pi-gui](bucket/pi-gui.json) | Electron GUI app for the pi coding agent runtime with tim... | 0.1.0-beta.33 | [github.com](https://github.com/minghinmatthewlam/pi-gui) | 2026-08-06 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-08-04-d78e3d3b5126 | [herdr.dev](https://herdr.dev) | 2026-08-06 |
 | [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.3 | [github.com](https://github.com/chat2db/Chat2DB) | 2026-08-06 |
-| [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.08.04-aaa8809 | [cursor.com](https://cursor.com/cli) | 2026-08-05 |
+| [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.08.11-e8db854 | [cursor.com](https://cursor.com/cli) | 2026-08-05 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.3.2 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-08-05 |
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.8.2 | [github.com](https://github.com/cxasm/notepad--) | 2026-08-05 |
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.120.51 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-08-04 |
