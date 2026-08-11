@@ -32,7 +32,7 @@ scoop install zyqpkg/<app-name>
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.18 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-10 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.33 | [t3.codes](https://t3.codes) | 2026-08-10 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.5 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-08-10 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.179 | [github.com](https://github.com/stablyai/orca) | 2026-08-10 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.180 | [github.com](https://github.com/stablyai/orca) | 2026-08-10 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.22.3 | [chatboxai.app](https://chatboxai.app/) | 2026-08-09 |
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.4.3.2 | [pixpin.com](https://pixpin.com/) | 2026-08-09 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.2.12 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-09 |
@@ -82,7 +82,7 @@ scoop install zyqpkg/<app-name>
 | [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.1.9 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-07-18 |
 | [voicebox](bucket/voicebox.json) | The open-source voice synthesis studio | 0.5.0 | [voicebox.sh](https://voicebox.sh/) | 2026-07-14 |
 | [tun2socks](bucket/tun2socks.json) | tun2socks - powered by gVisor TCP/IP stack. | 2.7.0 | [github.com](https://github.com/xjasonlyu/tun2socks) | 2026-07-12 |
-| [deepchat](bucket/deepchat.json) | A smart assistant that connects powerful AI to your perso... | 1.0.9 | [github.com](https://github.com/thinkinaixyz/deepchat) | 2026-07-10 |
+| [deepchat](bucket/deepchat.json) | A smart assistant that connects powerful AI to your perso... | 1.1.0 | [github.com](https://github.com/thinkinaixyz/deepchat) | 2026-07-10 |
 | [codux](bucket/codux.json) | The high-performance AI coding terminal — desktop workspa... | 2.0.0-rc.6 | [github.com](https://github.com/duxweb/codux) | 2026-07-09 |
 | [codux-agent](bucket/codux-agent.json) | Codux headless host agent for remote terminals, Git, and ... | 2.0.0-rc.6 | [github.com](https://github.com/duxweb/codux) | 2026-07-09 |
 | [efibooteditor](bucket/efibooteditor.json) | EFI Boot Editor - tool for managing UEFI boot entries | 1.5.7 | [github.com](https://github.com/Neverous/efibooteditor) | 2026-06-26 |
