@@ -54,7 +54,7 @@ scoop install zyqpkg/<app-name>
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.8.2 | [github.com](https://github.com/cxasm/notepad--) | 2026-08-05 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.0 | [nyaterm.app](https://nyaterm.app) | 2026-08-04 |
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.120.51 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-08-04 |
-| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.20 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-08-04 |
+| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.21 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-08-04 |
 | [escrcpy](bucket/escrcpy.json) | Graphical Scrcpy to display and control Android devices, ... | 3.0.8 | [github.com](https://github.com/viarotel-org/escrcpy) | 2026-08-03 |
 | [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.6 | [github.com](https://github.com/justhil/pi-app) | 2026-08-02 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.2 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-02 |
