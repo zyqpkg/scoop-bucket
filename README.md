@@ -54,7 +54,7 @@ scoop install zyqpkg/<app-name>
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.10 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-08-07 |
 | [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.11.112 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-08-07 |
 | [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.5.0.160 | [github.com](https://github.com/martona/clipp) | 2026-08-07 |
-| [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.66.0 | [github.com](https://github.com/op7418/CodePilot) | 2026-08-07 |
+| [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.66.2 | [github.com](https://github.com/op7418/CodePilot) | 2026-08-07 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.17.013.5 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-08-07 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.2 | [github.com](https://github.com/Ruszero01/clippi) | 2026-08-07 |
 | [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.3 | [github.com](https://github.com/chat2db/Chat2DB) | 2026-08-06 |
