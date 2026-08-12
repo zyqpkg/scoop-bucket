@@ -18,7 +18,6 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
-| [monsterdeleter](bucket/monsterdeleter.json) | 小怪兽删除器 MonsterDeleter - 面向 Windows 10/11 的桌面删除工具。在资源管理器中右键文件、文件夹或快捷方式，选择"召唤小怪兽删除"... | 1.1.0 | [github.com](https://github.com/SuperPrintf/MonsterDeleter) | 2026-08-12 |
 | [ztools](bucket/ztools.json) | 高性能、可扩展的应用启动器和插件平台，uTools 的开源实现，支持 macOS 和 Windows | 3.1.0 | [github.com](https://github.com/ZToolsCenter/ZTools) | 2026-08-11 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.21 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-08-11 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.0.293 | [kiro.dev](https://kiro.dev) | 2026-08-11 |
