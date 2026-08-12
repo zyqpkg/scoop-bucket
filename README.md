@@ -27,8 +27,8 @@ scoop install zyqpkg/<app-name>
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.7.5 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-08-12 |
 | [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.3.12.35805101-a981f41f | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-08-12 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.4.2 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-08-12 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.19 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-11 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.19 | [qoder.com](https://qoder.com) | 2026-08-11 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.20 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-11 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.20 | [qoder.com](https://qoder.com) | 2026-08-11 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.180 | [github.com](https://github.com/stablyai/orca) | 2026-08-11 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.0.293 | [kiro.dev](https://kiro.dev) | 2026-08-11 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.21 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-08-11 |
