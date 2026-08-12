@@ -20,6 +20,8 @@ scoop install zyqpkg/<app-name>
 |-----|-------------|---------|----------|--------------|
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.120.52 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-08-12 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.13 | [github.com](https://github.com/DetachHead/rebased) | 2026-08-12 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.20 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-12 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.20 | [qoder.com](https://qoder.com) | 2026-08-12 |
 | [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.7 | [github.com](https://github.com/justhil/pi-app) | 2026-08-12 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.2.15 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-12 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.2 | [nyaterm.app](https://nyaterm.app) | 2026-08-12 |
@@ -27,8 +29,6 @@ scoop install zyqpkg/<app-name>
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.7.5 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-08-12 |
 | [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.3.12.35805101-a981f41f | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-08-12 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.4.2 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-08-12 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.20 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-11 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.20 | [qoder.com](https://qoder.com) | 2026-08-11 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.180 | [github.com](https://github.com/stablyai/orca) | 2026-08-11 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.0.293 | [kiro.dev](https://kiro.dev) | 2026-08-11 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.21 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-08-11 |
