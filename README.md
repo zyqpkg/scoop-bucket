@@ -24,7 +24,7 @@ scoop install zyqpkg/<app-name>
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.21 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-13 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.21 | [qoder.com](https://qoder.com) | 2026-08-13 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.4.3 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-08-13 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.180 | [github.com](https://github.com/stablyai/orca) | 2026-08-13 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.182 | [github.com](https://github.com/stablyai/orca) | 2026-08-13 |
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.7.6 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-08-13 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.13 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-13 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.3.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-13 |
