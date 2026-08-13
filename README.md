@@ -21,17 +21,17 @@ scoop install zyqpkg/<app-name>
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.12.26 | [wechat.com](https://www.wechat.com/) | 2026-08-13 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.12 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-08-13 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.17.013.5 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-08-13 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.21 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-13 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.21 | [qoder.com](https://qoder.com) | 2026-08-13 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.4.3 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-08-13 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.3.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-13 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.180 | [github.com](https://github.com/stablyai/orca) | 2026-08-13 |
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.7.6 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-08-13 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.13 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-13 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.3.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-13 |
+| [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.3 | [nyaterm.app](https://nyaterm.app) | 2026-08-13 |
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.66.2 | [github.com](https://github.com/op7418/CodePilot) | 2026-08-12 |
 | [monsterdeleter](bucket/monsterdeleter.json) | 小怪兽删除器 MonsterDeleter - 面向 Windows 10/11 的桌面删除工具。在资源管理器中右... | 1.1.0 | [github.com](https://github.com/SuperPrintf/MonsterDeleter) | 2026-08-12 |
-| [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.3 | [nyaterm.app](https://nyaterm.app) | 2026-08-12 |
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.120.52 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-08-12 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.21 | [qoder.com](https://qoder.com) | 2026-08-12 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.21 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-12 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.20 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-08-12 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.13 | [github.com](https://github.com/DetachHead/rebased) | 2026-08-12 |
 | [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.3.12.35805101-a981f41f | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-08-12 |
