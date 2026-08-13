@@ -41,10 +41,10 @@ scoop install zyqpkg/<app-name>
 | [busybox](bucket/busybox.json) | A single binary that contains many common Unix tools. | 6075-g169694ebd | [frippery.org](https://frippery.org/busybox) | 2026-08-11 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.08.11-e8db854 | [cursor.com](https://cursor.com/cli) | 2026-08-11 |
 | [deepchat](bucket/deepchat.json) | A smart assistant that connects powerful AI to your perso... | 1.1.0 | [github.com](https://github.com/thinkinaixyz/deepchat) | 2026-08-11 |
-| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.21 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-08-11 |
+| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.22 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-08-11 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.47 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-08-11 |
 | [ztools](bucket/ztools.json) | 高性能、可扩展的应用启动器和插件平台，uTools 的开源实现，支持 macOS 和 Windows | 3.1.0 | [github.com](https://github.com/ZToolsCenter/ZTools) | 2026-08-11 |
-| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.18.2 | [openchamber.dev](https://openchamber.dev/) | 2026-08-10 |
+| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.18.3 | [openchamber.dev](https://openchamber.dev/) | 2026-08-10 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.33 | [t3.codes](https://t3.codes) | 2026-08-10 |
 | [intelligent-terminal](bucket/intelligent-terminal.json) | A fork of Windows Terminal with native agent integration,... | 0.2.2192.0 | [github.com](https://github.com/microsoft/intelligent-terminal) | 2026-08-10 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.5 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-08-10 |
