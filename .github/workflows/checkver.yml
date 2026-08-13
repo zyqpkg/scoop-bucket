@@ -32,8 +32,7 @@ jobs:
       - name: Run checkver (update manifests with checkver)
         shell: pwsh
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SCOOP_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SCOOP_GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           $bucketDir = Join-Path $env:GITHUB_WORKSPACE 'bucket'
           & "$env:USERPROFILE\scoop\apps\scoop\current\bin\checkver.ps1" -Dir $bucketDir -App '*' -Update

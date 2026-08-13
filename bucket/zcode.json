@@ -52,7 +52,7 @@
       "        Start-Sleep -Seconds (30 * ($i + 1))",
       "    }",
       "}",
-      "if (!$content) { return }",
+      "if (!$content) { return '' }",
       "$url = ([regex]::Match($content, 'InstallerUrl:\\s*(\\S+)')).Groups[1].Value",
       "$hash = ([regex]::Match($content, 'InstallerSha256:\\s*(\\S+)')).Groups[1].Value.ToLower()",
       "\"$latest|$url|$hash\""

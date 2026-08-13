@@ -57,7 +57,7 @@
       "        Start-Sleep -Seconds (30 * ($i + 1))",
       "    }",
       "}",
-      "if (!$content) { return }",
+      "if (!$content) { return '' }",
       "$content"
     ],
     "regex": "PackageVersion:\\s*(?<version>(?<short>[0-9]+\\.[0-9]+\\.[0-9]+)\\.[0-9]+)"
