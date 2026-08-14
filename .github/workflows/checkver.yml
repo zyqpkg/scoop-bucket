@@ -46,7 +46,7 @@ jobs:
             Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser -Force
             Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
           }
-          scoop update
+          & "$env:USERPROFILE\scoop\apps\scoop\current\bin\scoop.ps1" update
 
       - name: Run checkver (update manifests with checkver)
         shell: pwsh
