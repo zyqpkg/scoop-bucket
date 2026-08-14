@@ -21,7 +21,11 @@ scoop install zyqpkg/<app-name>
 | [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.11.112 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-08-14 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.4.6 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-08-14 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.3.3 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-14 |
+| [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.84.2 | [github.com](https://github.com/earendil-works/pi) | 2026-08-14 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.22 | [qoder.com](https://qoder.com) | 2026-08-14 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.22 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-14 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.12.55 | [wechat.com](https://www.wechat.com/) | 2026-08-14 |
+| [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.3.13.35923969-20fd9da5 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-08-14 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.14 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-14 |
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.7.7 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-08-14 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.17.013.5 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-08-13 |
@@ -32,15 +36,12 @@ scoop install zyqpkg/<app-name>
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.18.3 | [openchamber.dev](https://openchamber.dev/) | 2026-08-13 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.182 | [github.com](https://github.com/stablyai/orca) | 2026-08-13 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.4.0 | [paseo.sh](https://paseo.sh) | 2026-08-13 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.22 | [qoder.com](https://qoder.com) | 2026-08-13 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.22 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-13 |
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.66.2 | [github.com](https://github.com/op7418/CodePilot) | 2026-08-12 |
 | [monsterdeleter](bucket/monsterdeleter.json) | 小怪兽删除器 MonsterDeleter - 面向 Windows 10/11 的桌面删除工具。在资源管理器中右... | 1.1.0 | [github.com](https://github.com/SuperPrintf/MonsterDeleter) | 2026-08-12 |
 | [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.7 | [github.com](https://github.com/justhil/pi-app) | 2026-08-12 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.20 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-08-12 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.13 | [github.com](https://github.com/DetachHead/rebased) | 2026-08-12 |
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.120.52 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-08-12 |
-| [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.3.13.35923969-20fd9da5 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-08-12 |
 | [busybox](bucket/busybox.json) | A single binary that contains many common Unix tools. | 6075-g169694ebd | [frippery.org](https://frippery.org/busybox) | 2026-08-11 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.47 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-08-11 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.08.11-e8db854 | [cursor.com](https://cursor.com/cli) | 2026-08-11 |
@@ -58,7 +59,6 @@ scoop install zyqpkg/<app-name>
 | [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.5.0.160 | [github.com](https://github.com/martona/clipp) | 2026-08-07 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.2 | [github.com](https://github.com/Ruszero01/clippi) | 2026-08-07 |
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.10 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-08-07 |
-| [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.84.2 | [github.com](https://github.com/earendil-works/pi) | 2026-08-07 |
 | [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.3 | [github.com](https://github.com/chat2db/Chat2DB) | 2026-08-06 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-08-04-d78e3d3b5126 | [herdr.dev](https://herdr.dev) | 2026-08-06 |
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.8.2 | [github.com](https://github.com/cxasm/notepad--) | 2026-08-05 |
