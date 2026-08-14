@@ -1,5 +1,5 @@
 {
-    "version": "3.7.6",
+    "version": "3.7.7",
     "description": "A full-featured Agentic Development Environment (ADE) built for Long Horizon Tasks, powered by Z.ai",
     "homepage": "https://zcode.z.ai/en",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://cdn-zcode.z.ai/zcode/electron/releases/3.7.6/windows-x64/ZCode-3.7.6-win-x64.exe#/dl.7z",
-            "hash": "d555b8521eb69997fac04573f56f2af61374fa31462857d3fa2b946ad6e4b283"
+            "url": "https://cdn-zcode.z.ai/zcode/electron/releases/3.7.7/windows-x64/ZCode-3.7.7-win-x64.exe#/dl.7z",
+            "hash": "f9e6bceb62e09085de7bd05ef3e05ef539a4111ecc94aad343aa705a4669da1c"
         }
     },
     "installer": {
@@ -32,31 +32,31 @@
             "ZCode"
         ]
     ],
-  "checkver": {
-    "script": [
-      "$id = 'ZhipuAI.ZCode'",
-      "$root = $id.Substring(0, 1).ToLower()",
-      "$path = $id -replace '\\.', '/'",
-      "$headers = @{ 'User-Agent' = 'scoop-checkver' }",
-      "$token = Get-GitHubToken",
-      "if ($token) { $headers['Authorization'] = \"token $token\" }",
-      "$api = \"https://api.github.com/repos/microsoft/winget-pkgs/contents/manifests/$root/$path\"",
-      "$content = $null",
-      "for ($i = 0; $i -lt 3 -and !$content; $i++) {",
-      "    try {",
-      "        $versions = (Invoke-RestMethod -Uri $api -Headers $headers).name | Where-Object { $_ -match '^\\d+\\.\\d+\\.\\d+$' }",
-      "        $latest = $versions | Sort-Object { [version]$_ } -Descending | Select-Object -First 1",
-      "        $manifest = \"https://raw.githubusercontent.com/microsoft/winget-pkgs/master/manifests/$root/$path/$latest/$id.installer.yaml\"",
-      "        $content = (Invoke-WebRequest -Uri $manifest -Headers $headers).Content",
-      "    } catch {",
-      "        Start-Sleep -Seconds (30 * ($i + 1))",
-      "    }",
-      "}",
-      "if (!$content) { return '' }",
-      "$url = ([regex]::Match($content, 'InstallerUrl:\\s*(\\S+)')).Groups[1].Value",
-      "$hash = ([regex]::Match($content, 'InstallerSha256:\\s*(\\S+)')).Groups[1].Value.ToLower()",
-      "\"$latest|$url|$hash\""
-    ],
+    "checkver": {
+        "script": [
+            "$id = 'ZhipuAI.ZCode'",
+            "$root = $id.Substring(0, 1).ToLower()",
+            "$path = $id -replace '\\.', '/'",
+            "$headers = @{ 'User-Agent' = 'scoop-checkver' }",
+            "$token = Get-GitHubToken",
+            "if ($token) { $headers['Authorization'] = \"token $token\" }",
+            "$api = \"https://api.github.com/repos/microsoft/winget-pkgs/contents/manifests/$root/$path\"",
+            "$content = $null",
+            "for ($i = 0; $i -lt 3 -and !$content; $i++) {",
+            "    try {",
+            "        $versions = (Invoke-RestMethod -Uri $api -Headers $headers).name | Where-Object { $_ -match '^\\d+\\.\\d+\\.\\d+$' }",
+            "        $latest = $versions | Sort-Object { [version]$_ } -Descending | Select-Object -First 1",
+            "        $manifest = \"https://raw.githubusercontent.com/microsoft/winget-pkgs/master/manifests/$root/$path/$latest/$id.installer.yaml\"",
+            "        $content = (Invoke-WebRequest -Uri $manifest -Headers $headers).Content",
+            "    } catch {",
+            "        Start-Sleep -Seconds (30 * ($i + 1))",
+            "    }",
+            "}",
+            "if (!$content) { return '' }",
+            "$url = ([regex]::Match($content, 'InstallerUrl:\\s*(\\S+)')).Groups[1].Value",
+            "$hash = ([regex]::Match($content, 'InstallerSha256:\\s*(\\S+)')).Groups[1].Value.ToLower()",
+            "\"$latest|$url|$hash\""
+        ],
         "regex": "(?<version>\\d+(?:\\.\\d+)+)\\|(?<url>https?://[^\\|]+)\\|(?<hash>[a-f0-9]{64})"
     },
     "autoupdate": {
