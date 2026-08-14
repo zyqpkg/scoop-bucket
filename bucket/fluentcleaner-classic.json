@@ -22,7 +22,7 @@
         "Winappx.ini"
     ],
     "checkver": {
-        "github": "https://github.com/builtbybel/FluentCleaner",
+        "url": "https://github.com/builtbybel/FluentCleaner/releases",
         "regex": "/releases/tag/classic-(\\d+\\.\\d+\\.\\d+)\""
     },
     "autoupdate": {
