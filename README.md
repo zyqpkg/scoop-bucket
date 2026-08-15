@@ -29,7 +29,7 @@ scoop install zyqpkg/<app-name>
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.22 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-14 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.12.55 | [wechat.com](https://www.wechat.com/) | 2026-08-14 |
 | [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.3.13.35923969-20fd9da5 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-08-14 |
-| [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.14 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-14 |
+| [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.15 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-14 |
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.7.7 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-08-14 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.17.013.5 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-08-13 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.22 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-08-13 |
