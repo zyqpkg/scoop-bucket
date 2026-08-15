@@ -18,6 +18,7 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.183 | [github.com](https://github.com/stablyai/orca) | 2026-08-15 |
 | [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.11.112 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-08-14 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.4.6 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-08-14 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.3.4 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-14 |
@@ -34,7 +35,6 @@ scoop install zyqpkg/<app-name>
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.0.309 | [kiro.dev](https://kiro.dev) | 2026-08-13 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.12 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-08-13 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.3 | [nyaterm.app](https://nyaterm.app) | 2026-08-13 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.183 | [github.com](https://github.com/stablyai/orca) | 2026-08-13 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.4.0 | [paseo.sh](https://paseo.sh) | 2026-08-13 |
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.66.2 | [github.com](https://github.com/op7418/CodePilot) | 2026-08-12 |
 | [monsterdeleter](bucket/monsterdeleter.json) | 小怪兽删除器 MonsterDeleter - 面向 Windows 10/11 的桌面删除工具。在资源管理器中右... | 1.1.0 | [github.com](https://github.com/SuperPrintf/MonsterDeleter) | 2026-08-12 |
