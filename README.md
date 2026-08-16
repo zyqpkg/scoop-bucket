@@ -49,7 +49,7 @@ scoop install zyqpkg/<app-name>
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.08.11-e8db854 | [cursor.com](https://cursor.com/cli) | 2026-08-11 |
 | [deepchat](bucket/deepchat.json) | A smart assistant that connects powerful AI to your perso... | 1.1.0 | [github.com](https://github.com/thinkinaixyz/deepchat) | 2026-08-11 |
 | [ztools](bucket/ztools.json) | 高性能、可扩展的应用启动器和插件平台，uTools 的开源实现，支持 macOS 和 Windows | 3.1.0 | [github.com](https://github.com/ZToolsCenter/ZTools) | 2026-08-11 |
-| [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.5 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-08-10 |
+| [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.6 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-08-10 |
 | [ContextMenuManager](bucket/ContextMenuManager.json) | 🖱️ 纯粹的 Windows 右键菜单管理程序。A pure Windows context menu mana... | 4.0.0.8 | [github.com](https://github.com/Jack251970/ContextMenuManager) | 2026-08-10 |
 | [ffmpeg-nonfree](bucket/ffmpeg-nonfree.json) | FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimM... | 2026-07-12-12-50-a09be9b-f860bd9 | [github.com](https://github.com/AnimMouse/ffmpeg-autobuild) | 2026-08-10 |
 | [intelligent-terminal](bucket/intelligent-terminal.json) | A fork of Windows Terminal with native agent integration,... | 0.2.2192.0 | [github.com](https://github.com/microsoft/intelligent-terminal) | 2026-08-10 |
