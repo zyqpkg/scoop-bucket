@@ -26,7 +26,7 @@ scoop install zyqpkg/<app-name>
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.15.5 | [pixwit.cn](https://pixwit.cn/) | 2026-08-16 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.16 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-16 |
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.67.1 | [github.com](https://github.com/op7418/CodePilot) | 2026-08-15 |
-| [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.25.0 | [github.com](https://github.com/zyqfork/llmchat) | 2026-08-15 |
+| [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.26.0 | [github.com](https://github.com/zyqfork/llmchat) | 2026-08-15 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.23 | [qoder.com](https://qoder.com) | 2026-08-15 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.23 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-15 |
 | [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.2.0 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-08-15 |
