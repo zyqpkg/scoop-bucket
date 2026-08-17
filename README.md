@@ -105,3 +105,4 @@ scoop install zyqpkg/<app-name>
 | [weasel](bucket/weasel.json) | Rime for Windows | 0.17.4 | [rime.im](https://rime.im/) | 2025-08-25 |
 | [neatchat](bucket/neatchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 1.2.0 | [github.com](https://github.com/zyqfork/NeatChat) | 2025-06-05 |
 | [earthlivesharp](bucket/earthlivesharp.json) | Earth Live Sharp fetches live satellite images from Himaw... | 3.10 | [github.com](https://github.com/bitdust/EarthLiveSharp) | 2023-12-14 |
+| [screencapture](bucket/screencapture.json) | A feature-rich screen capture software with just a single... | 2.5.9 | [github.com](https://github.com/xland/ScreenCapture) | 1970-01-01 |
