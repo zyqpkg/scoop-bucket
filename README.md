@@ -18,6 +18,7 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [screencapture](bucket/screencapture.json) | A feature-rich screen capture software with just a single... | 2.5.12 | [github.com](https://github.com/xland/ScreenCapture) | 2026-08-18 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.18 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-18 |
 | [5ire](bucket/5ire.json) | 5ire is a cross-platform desktop AI assistant, MCP client... | 0.15.4 | [5ire.app](https://5ire.app/) | 2026-08-17 |
 | [apiflow](bucket/apiflow.json) | Free, AI-Powered API Tool like Postman. Supports API test... | 0.9.5 | [github.com](https://github.com/trueleaf/apiflow) | 2026-08-17 |
@@ -35,7 +36,6 @@ scoop install zyqpkg/<app-name>
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.24 | [qoder.com](https://qoder.com) | 2026-08-17 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.24 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-17 |
 | [scrcpy-gui](bucket/scrcpy-gui.json) | A simple & beautiful GUI application for scrcpy | 2.4.3 | [tomotoes.com](http://tomotoes.com/scrcpy-gui/) | 2026-08-17 |
-| [screencapture](bucket/screencapture.json) | A feature-rich screen capture software with just a single... | 2.5.12 | [github.com](https://github.com/xland/ScreenCapture) | 2026-08-17 |
 | [voicebox](bucket/voicebox.json) | The open-source voice synthesis studio | 0.5.0 | [voicebox.sh](https://voicebox.sh/) | 2026-08-17 |
 | [weasel](bucket/weasel.json) | Rime for Windows | 0.17.4 | [rime.im](https://rime.im/) | 2026-08-17 |
 | [websocat](bucket/websocat.json) | A command-line client for WebSockets, like netcat (or cur... | 1.14.1 | [github.com](https://github.com/vi/websocat) | 2026-08-17 |
