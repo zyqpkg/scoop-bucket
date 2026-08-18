@@ -27,6 +27,8 @@ scoop install zyqpkg/<app-name>
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.27.0 | [github.com](https://github.com/zyqfork/llmchat) | 2026-08-18 |
 | [monsterdeleter](bucket/monsterdeleter.json) | 小怪兽删除器 MonsterDeleter - 面向 Windows 10/11 的桌面删除工具。在资源管理器中右... | 1.1.0 | [github.com](https://github.com/SuperPrintf/MonsterDeleter) | 2026-08-18 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.3.7 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-18 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.25 | [qoder.com](https://qoder.com) | 2026-08-18 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.25 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-18 |
 | [rustdesk](bucket/rustdesk.json) | An open-source remote desktop software, written in Rust. | 1.4.9 | [github.com](https://github.com/rustdesk/rustdesk) | 2026-08-18 |
 | [scrcpy-gui](bucket/scrcpy-gui.json) | A simple & beautiful GUI application for scrcpy | 2.4.3 | [tomotoes.com](http://tomotoes.com/scrcpy-gui/) | 2026-08-18 |
 | [screencapture](bucket/screencapture.json) | A feature-rich screen capture software with just a single... | 2.5.12 | [github.com](https://github.com/xland/ScreenCapture) | 2026-08-18 |
@@ -43,8 +45,6 @@ scoop install zyqpkg/<app-name>
 | [intelligent-terminal](bucket/intelligent-terminal.json) | A fork of Windows Terminal with native agent integration,... | 0.2.2192.0 | [github.com](https://github.com/microsoft/intelligent-terminal) | 2026-08-17 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.4 | [nyaterm.app](https://nyaterm.app) | 2026-08-17 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.184 | [github.com](https://github.com/stablyai/orca) | 2026-08-17 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.25 | [qoder.com](https://qoder.com) | 2026-08-17 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.25 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-17 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.6 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-08-16 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.4.7 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-08-16 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.15.5 | [pixwit.cn](https://pixwit.cn/) | 2026-08-16 |
