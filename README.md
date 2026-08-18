@@ -18,6 +18,8 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [kafka-king](bucket/kafka-king.json) | A beautiful Kafka GUI desktop client, supports multiple c... | 0.46 | [github.com](https://github.com/Bronya0/Kafka-King) | 2026-08-18 |
+| [rustdesk](bucket/rustdesk.json) | An open-source remote desktop software, written in Rust. | 1.4.9 | [github.com](https://github.com/rustdesk/rustdesk) | 2026-08-18 |
 | [screencapture](bucket/screencapture.json) | A feature-rich screen capture software with just a single... | 2.5.12 | [github.com](https://github.com/xland/ScreenCapture) | 2026-08-18 |
 | [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.3.14.36279234-825709d4 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-08-18 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.18 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-18 |

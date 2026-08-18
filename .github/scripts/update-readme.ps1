@@ -27,7 +27,7 @@ $appData = Get-ChildItem -Path $BucketDir -Filter '*.json' | ForEach-Object {
     }
 
     $lastUpdated = git -C $repoRoot log --format='%ad' --date=short -- "bucket/$($_.Name)" | Select-Object -First 1
-    if (-not $lastUpdated) { $lastUpdated = '1970-01-01' }
+    if (-not $lastUpdated) { $lastUpdated = (Get-Date -Format 'yyyy-MM-dd') }
 
     [PSCustomObject]@{
         App           = $_.BaseName
