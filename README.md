@@ -19,6 +19,7 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [screencapture](bucket/screencapture.json) | A feature-rich screen capture software with just a single... | 2.5.12 | [github.com](https://github.com/xland/ScreenCapture) | 2026-08-18 |
+| [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.3.14.36279234-825709d4 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-08-18 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.18 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-18 |
 | [5ire](bucket/5ire.json) | 5ire is a cross-platform desktop AI assistant, MCP client... | 0.15.4 | [5ire.app](https://5ire.app/) | 2026-08-17 |
 | [apiflow](bucket/apiflow.json) | Free, AI-Powered API Tool like Postman. Supports API test... | 0.9.5 | [github.com](https://github.com/trueleaf/apiflow) | 2026-08-17 |
@@ -49,7 +50,6 @@ scoop install zyqpkg/<app-name>
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.18.4 | [openchamber.dev](https://openchamber.dev/) | 2026-08-14 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.84.2 | [github.com](https://github.com/earendil-works/pi) | 2026-08-14 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.12.55 | [wechat.com](https://www.wechat.com/) | 2026-08-14 |
-| [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.3.14.36279234-825709d4 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-08-14 |
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.7.7 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-08-14 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.17.013.5 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-08-13 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.22 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-08-13 |
