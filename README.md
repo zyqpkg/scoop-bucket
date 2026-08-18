@@ -26,6 +26,7 @@ scoop install zyqpkg/<app-name>
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-08-18-9fac51722653 | [herdr.dev](https://herdr.dev) | 2026-08-18 |
 | [kafka-king](bucket/kafka-king.json) | A beautiful Kafka GUI desktop client, supports multiple c... | 0.46 | [github.com](https://github.com/Bronya0/Kafka-King) | 2026-08-18 |
 | [kafkaesque](bucket/kafkaesque.json) | A GUI client for Kafka with features for browsing, produc... | 2.9.7 | [github.com](https://github.com/patschuh/KafkaEsque) | 2026-08-18 |
+| [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.0.337 | [kiro.dev](https://kiro.dev) | 2026-08-18 |
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.27.0 | [github.com](https://github.com/zyqfork/llmchat) | 2026-08-18 |
 | [monsterdeleter](bucket/monsterdeleter.json) | 小怪兽删除器 MonsterDeleter - 面向 Windows 10/11 的桌面删除工具。在资源管理器中右... | 1.1.0 | [github.com](https://github.com/SuperPrintf/MonsterDeleter) | 2026-08-18 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.3.7 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-18 |
@@ -57,7 +58,6 @@ scoop install zyqpkg/<app-name>
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.7.7 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-08-14 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.17.013.5 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-08-13 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.22 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-08-13 |
-| [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.0.337 | [kiro.dev](https://kiro.dev) | 2026-08-13 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.12 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-08-13 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.4.0 | [paseo.sh](https://paseo.sh) | 2026-08-13 |
 | [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.7 | [github.com](https://github.com/justhil/pi-app) | 2026-08-12 |
