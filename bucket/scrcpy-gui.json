@@ -27,12 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/SimonAKing/scrcpy-gui/releases/download/v$version/Scrcpy.GUI-$version-win-x64.exe#/scrcpy-gui-$version.win64.zip",
-                "hash": {
-                    "url": "https://api.github.com/repos/SimonAKing/scrcpy-gui/releases/tags/v$version",
-                    "mode": "json",
-                    "jsonpath": "$..assets[?(@.name == 'Scrcpy.GUI-$version-win-x64.exe')].digest"
-                }
+                "url": "https://github.com/SimonAKing/scrcpy-gui/releases/download/v$version/Scrcpy.GUI-$version-win-x64.exe#/scrcpy-gui-$version.win64.zip"
             }
         }
     }
