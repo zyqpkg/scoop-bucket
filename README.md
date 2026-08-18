@@ -43,7 +43,7 @@ scoop install zyqpkg/<app-name>
 | [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.5.0.160 | [github.com](https://github.com/martona/clipp) | 2026-08-17 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.3 | [github.com](https://github.com/Ruszero01/clippi) | 2026-08-17 |
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 7.74.16 | [feishu.cn](https://www.feishu.cn/) | 2026-08-17 |
-| [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-08-17-1147e60bc0a4 | [herdr.dev](https://herdr.dev) | 2026-08-17 |
+| [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-08-18-9fac51722653 | [herdr.dev](https://herdr.dev) | 2026-08-17 |
 | [intelligent-terminal](bucket/intelligent-terminal.json) | A fork of Windows Terminal with native agent integration,... | 0.2.2192.0 | [github.com](https://github.com/microsoft/intelligent-terminal) | 2026-08-17 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.4 | [nyaterm.app](https://nyaterm.app) | 2026-08-17 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.184 | [github.com](https://github.com/stablyai/orca) | 2026-08-17 |
