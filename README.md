@@ -18,6 +18,7 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.18 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-18 |
 | [5ire](bucket/5ire.json) | 5ire is a cross-platform desktop AI assistant, MCP client... | 0.15.4 | [5ire.app](https://5ire.app/) | 2026-08-17 |
 | [apiflow](bucket/apiflow.json) | Free, AI-Powered API Tool like Postman. Supports API test... | 0.9.5 | [github.com](https://github.com/trueleaf/apiflow) | 2026-08-17 |
 | [bongocat](bucket/bongocat.json) | 跨平台桌宠 BongoCat，为桌面增添乐趣！ | 1.1.0 | [github.com](https://github.com/ayangweb/BongoCat) | 2026-08-17 |
@@ -34,7 +35,7 @@ scoop install zyqpkg/<app-name>
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.24 | [qoder.com](https://qoder.com) | 2026-08-17 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.24 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-17 |
 | [scrcpy-gui](bucket/scrcpy-gui.json) | A simple & beautiful GUI application for scrcpy | 2.4.3 | [tomotoes.com](http://tomotoes.com/scrcpy-gui/) | 2026-08-17 |
-| [screencapture](bucket/screencapture.json) | A feature-rich screen capture software with just a single... | 2.5.11 | [github.com](https://github.com/xland/ScreenCapture) | 2026-08-17 |
+| [screencapture](bucket/screencapture.json) | A feature-rich screen capture software with just a single... | 2.5.12 | [github.com](https://github.com/xland/ScreenCapture) | 2026-08-17 |
 | [voicebox](bucket/voicebox.json) | The open-source voice synthesis studio | 0.5.0 | [voicebox.sh](https://voicebox.sh/) | 2026-08-17 |
 | [weasel](bucket/weasel.json) | Rime for Windows | 0.17.4 | [rime.im](https://rime.im/) | 2026-08-17 |
 | [websocat](bucket/websocat.json) | A command-line client for WebSockets, like netcat (or cur... | 1.14.1 | [github.com](https://github.com/vi/websocat) | 2026-08-17 |
@@ -42,7 +43,6 @@ scoop install zyqpkg/<app-name>
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.4.7 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-08-16 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.3.5 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-16 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.15.5 | [pixwit.cn](https://pixwit.cn/) | 2026-08-16 |
-| [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.18 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-16 |
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.67.1 | [github.com](https://github.com/op7418/CodePilot) | 2026-08-15 |
 | [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.2.0 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-08-15 |
 | [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.11.112 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-08-14 |
