@@ -1,0 +1,76 @@
+{
+    "version": "1.4.9",
+    "description": "An open-source remote desktop software, written in Rust.",
+    "homepage": "https://github.com/rustdesk/rustdesk",
+    "license": "AGPL-3.0-only",
+    "notes": [
+        "Installs and starts the RustDesk system service automatically.",
+        "The service runs as SYSTEM with its own config, so its remote-access ID differs from the per-user GUI config."
+    ],
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/rustdesk/rustdesk/releases/download/1.4.9/rustdesk-1.4.9-x86_64.exe#/RustDesk.exe",
+            "hash": "eaedeb0088e687bf46f7c46a9c6ea5493ce51f3134dfd6acbedb47b5b9136274"
+        },
+        "32bit": {
+            "url": "https://github.com/rustdesk/rustdesk/releases/download/1.4.9/rustdesk-1.4.9-x86-sciter.exe#/RustDesk.exe",
+            "hash": "28e89fc56598978799b87b3d177464a112da174fceb61512919c514a7e90ea20"
+        }
+    },
+    "bin": [
+        "RustDesk.exe"
+    ],
+    "shortcuts": [
+        [
+            "RustDesk.exe",
+            "RustDesk"
+        ]
+    ],
+    "installer": {
+        "script": [
+            "ensure \"$persist_dir\\RustDesk\" | Out-Null",
+            "$appdata = \"$env:APPDATA\\RustDesk\"",
+            "if (Test-Path $appdata -PathType Container) {",
+            "    if (-not ((Get-Item $appdata).Attributes -band [IO.FileAttributes]::ReparsePoint)) {",
+            "        Copy-Item \"$appdata\\*\" \"$persist_dir\\RustDesk\" -Recurse -Force",
+            "        Remove-Item $appdata -Recurse -Force",
+            "    }",
+            "}",
+            "if (-not (Test-Path $appdata)) { New-Item $appdata -ItemType Junction -Target \"$persist_dir\\RustDesk\" | Out-Null }",
+            "& \"$dir\\RustDesk.exe\" --version | Out-Null",
+            "Start-Sleep -Seconds 2",
+            "Get-Process -Name rustdesk -ErrorAction SilentlyContinue | Stop-Process -Force -ErrorAction SilentlyContinue",
+            "if (Test-Path \"$env:LOCALAPPDATA\\rustdesk\") {",
+            "    Copy-Item \"$env:LOCALAPPDATA\\rustdesk\\*\" $dir -Recurse -Force",
+            "}",
+            "$regKey = 'HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\RustDesk'",
+            "reg add $regKey /v InstallLocation /t REG_SZ /d \"$(Join-Path (Split-Path $dir -Parent) 'current')\" /f",
+            "reg add $regKey /v BuildDate /t REG_SZ /d '9999-12-31 23:59' /f | Out-Null"
+        ]
+    },
+    "post_install": [
+        "if (Get-Service RustDesk -ErrorAction SilentlyContinue) { Stop-Service RustDesk -Force -ErrorAction SilentlyContinue; sc.exe delete RustDesk | Out-Null }",
+        "New-Service -Name RustDesk -BinaryPathName \"`\"$(Join-Path (Split-Path $dir -Parent) 'current')\\RustDesk.exe`\" --service\" -StartupType Automatic -DisplayName 'RustDesk Service' | Out-Null",
+        "Start-Service RustDesk"
+    ],
+    "uninstaller": {
+        "script": [
+            "Get-Process -Name RustDesk -ErrorAction SilentlyContinue | Stop-Process -Force -ErrorAction SilentlyContinue",
+            "if (Get-Service RustDesk -ErrorAction SilentlyContinue) { Stop-Service RustDesk -Force -ErrorAction SilentlyContinue; sc.exe delete RustDesk | Out-Null }",
+            "Remove-Item \"$env:APPDATA\\RustDesk\" -Recurse -Force -ErrorAction SilentlyContinue",
+            "Remove-Item \"$env:LOCALAPPDATA\\rustdesk\" -Recurse -Force -ErrorAction SilentlyContinue",
+            "reg delete 'HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\RustDesk' /f | Out-Null"
+        ]
+    },
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/rustdesk/rustdesk/releases/download/$version/rustdesk-$version-x86_64.exe#/RustDesk.exe"
+            },
+            "32bit": {
+                "url": "https://github.com/rustdesk/rustdesk/releases/download/$version/rustdesk-$version-x86-sciter.exe#/RustDesk.exe"
+            }
+        }
+    }
+}
