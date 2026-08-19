@@ -5,7 +5,8 @@
     "license": "AGPL-3.0-only",
     "notes": [
         "Installs and starts the RustDesk system service automatically.",
-        "The service runs as SYSTEM with its own config, so its remote-access ID differs from the per-user GUI config."
+        "The service runs as SYSTEM with its own config, so its remote-access ID differs from the per-user GUI config.",
+        "Do not click the service-owned tray icon (each click spawns a new instance); run 'rustdesk' for the GUI instead."
     ],
     "architecture": {
         "64bit": {
@@ -43,6 +44,7 @@
             "if (Test-Path \"$env:LOCALAPPDATA\\rustdesk\") {",
             "    Copy-Item \"$env:LOCALAPPDATA\\rustdesk\\*\" $dir -Recurse -Force",
             "}",
+            "Copy-Item \"$env:LOCALAPPDATA\\rustdesk\\rustdesk.exe\" \"$dir\\RustDesk.exe\" -Force",
             "$regKey = 'HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\RustDesk'",
             "reg add $regKey /v InstallLocation /t REG_SZ /d \"$(Join-Path (Split-Path $dir -Parent) 'current')\" /f",
             "reg add $regKey /v BuildDate /t REG_SZ /d '9999-12-31 23:59' /f | Out-Null"

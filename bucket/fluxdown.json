@@ -36,10 +36,6 @@
             "arm64": {
                 "url": "https://github.com/zerx-lab/FluxDown/releases/download/v$version/FluxDown-$version-windows-arm64-portable.zip"
             }
-        },
-        "hash": {
-            "url": "$baseurl/SHA256SUMS.txt",
-            "regex": "$sha256.*?$basename"
         }
     }
 }
