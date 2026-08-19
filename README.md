@@ -22,6 +22,7 @@ scoop install zyqpkg/<app-name>
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.3 | [github.com](https://github.com/Ruszero01/clippi) | 2026-08-19 |
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.10 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-08-19 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.4.7 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-08-19 |
+| [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-08-19-b5c4a0176e91 | [herdr.dev](https://herdr.dev) | 2026-08-19 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.18.018 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-08-19 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.13 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-08-19 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.3.8 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-19 |
@@ -36,7 +37,6 @@ scoop install zyqpkg/<app-name>
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.49 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-08-18 |
 | [ffmpeg-nonfree](bucket/ffmpeg-nonfree.json) | FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimM... | 2026-07-12-12-50-a09be9b-f860bd9 | [github.com](https://github.com/AnimMouse/ffmpeg-autobuild) | 2026-08-18 |
 | [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.13.137 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-08-18 |
-| [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-08-19-b5c4a0176e91 | [herdr.dev](https://herdr.dev) | 2026-08-18 |
 | [kafka-king](bucket/kafka-king.json) | A beautiful Kafka GUI desktop client, supports multiple c... | 0.46 | [github.com](https://github.com/Bronya0/Kafka-King) | 2026-08-18 |
 | [kafkaesque](bucket/kafkaesque.json) | A GUI client for Kafka with features for browsing, produc... | 2.9.7 | [github.com](https://github.com/patschuh/KafkaEsque) | 2026-08-18 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.0.337 | [kiro.dev](https://kiro.dev) | 2026-08-18 |
