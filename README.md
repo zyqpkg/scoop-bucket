@@ -37,7 +37,7 @@ scoop install zyqpkg/<app-name>
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.18.018 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-08-19 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.13 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-08-19 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.185 | [github.com](https://github.com/stablyai/orca) | 2026-08-19 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.26 | [qoder.com](https://qoder.com) | 2026-08-19 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.27 | [qoder.com](https://qoder.com) | 2026-08-19 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.26 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-19 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.21 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-08-19 |
 | [rustdesk](bucket/rustdesk.json) | An open-source remote desktop software, written in Rust. | 1.4.9 | [github.com](https://github.com/rustdesk/rustdesk) | 2026-08-19 |
