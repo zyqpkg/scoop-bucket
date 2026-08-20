@@ -22,6 +22,7 @@ scoop install zyqpkg/<app-name>
 | [gooey-pi](bucket/gooey-pi.json) | GooeyPi - Desktop UI for the pi coding agent | 1.1.12 | [github.com](https://github.com/am-will/gooey-pi) | 2026-08-20 |
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.28.0 | [github.com](https://github.com/zyqfork/llmchat) | 2026-08-20 |
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.8.3 | [github.com](https://github.com/cxasm/notepad--) | 2026-08-20 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.4.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-20 |
 | [screencapture](bucket/screencapture.json) | A feature-rich screen capture software with just a single... | 2.5.14 | [github.com](https://github.com/xland/ScreenCapture) | 2026-08-20 |
 | [weasel-nightly](bucket/weasel-nightly.json) | Rime for Windows (Nightly Build) | 0.17.4.50.d73f629 | [rime.im](https://rime.im/) | 2026-08-20 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.20 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-20 |
@@ -33,7 +34,6 @@ scoop install zyqpkg/<app-name>
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-08-19-b5c4a0176e91 | [herdr.dev](https://herdr.dev) | 2026-08-19 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.18.018 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-08-19 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.13 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-08-19 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.4.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-19 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.185 | [github.com](https://github.com/stablyai/orca) | 2026-08-19 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.26 | [qoder.com](https://qoder.com) | 2026-08-19 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.26 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-19 |
