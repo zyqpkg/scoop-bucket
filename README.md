@@ -18,6 +18,7 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.4 | [github.com](https://github.com/chat2db/Chat2DB) | 2026-08-20 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.7 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-08-20 |
 | [gooey-pi](bucket/gooey-pi.json) | GooeyPi - Desktop UI for the pi coding agent | 1.1.12 | [github.com](https://github.com/am-will/gooey-pi) | 2026-08-20 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.23 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-08-20 |
@@ -78,7 +79,6 @@ scoop install zyqpkg/<app-name>
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.4.3.2 | [pixpin.com](https://pixpin.com/) | 2026-08-09 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.08.01 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-08-08 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.2.4 | [github.com](https://github.com/throneproj/Throne) | 2026-08-08 |
-| [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.4 | [github.com](https://github.com/chat2db/Chat2DB) | 2026-08-06 |
 | [escrcpy](bucket/escrcpy.json) | Graphical Scrcpy to display and control Android devices, ... | 3.0.8 | [github.com](https://github.com/viarotel-org/escrcpy) | 2026-08-03 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.49 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-07-30 |
 | [hfs](bucket/hfs.json) | A web file server to run on your computer | 3.2.2 | [rejetto.com](https://rejetto.com/hfs) | 2026-07-24 |
