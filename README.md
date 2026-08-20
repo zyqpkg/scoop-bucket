@@ -39,7 +39,7 @@ scoop install zyqpkg/<app-name>
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-08-19-b5c4a0176e91 | [herdr.dev](https://herdr.dev) | 2026-08-19 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.18.018 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-08-19 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.13 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-08-19 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.185 | [github.com](https://github.com/stablyai/orca) | 2026-08-19 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.186 | [github.com](https://github.com/stablyai/orca) | 2026-08-19 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.21 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-08-19 |
 | [rustdesk](bucket/rustdesk.json) | An open-source remote desktop software, written in Rust. | 1.4.9 | [github.com](https://github.com/rustdesk/rustdesk) | 2026-08-19 |
 | [5ire](bucket/5ire.json) | 5ire is a cross-platform desktop AI assistant, MCP client... | 0.15.4 | [5ire.app](https://5ire.app/) | 2026-08-18 |
