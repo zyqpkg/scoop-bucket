@@ -25,6 +25,7 @@ scoop install zyqpkg/<app-name>
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.28 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-21 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.14 | [github.com](https://github.com/DetachHead/rebased) | 2026-08-21 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.13.10 | [wechat.com](https://www.wechat.com/) | 2026-08-21 |
+| [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.21 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-21 |
 | [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.4 | [github.com](https://github.com/chat2db/Chat2DB) | 2026-08-20 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.7 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-08-20 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.23 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-08-20 |
@@ -32,7 +33,6 @@ scoop install zyqpkg/<app-name>
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.4.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-20 |
 | [screencapture](bucket/screencapture.json) | A feature-rich screen capture software with just a single... | 2.5.14 | [github.com](https://github.com/xland/ScreenCapture) | 2026-08-20 |
 | [weasel-nightly](bucket/weasel-nightly.json) | Rime for Windows (Nightly Build) | 0.17.4.50.d73f629 | [rime.im](https://rime.im/) | 2026-08-20 |
-| [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.21 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-20 |
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.8.1 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-08-20 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.22.4 | [chatboxai.app](https://chatboxai.app/) | 2026-08-19 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.3 | [github.com](https://github.com/Ruszero01/clippi) | 2026-08-19 |
