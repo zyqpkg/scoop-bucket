@@ -21,14 +21,14 @@ scoop install zyqpkg/<app-name>
 | [gooey-pi](bucket/gooey-pi.json) | GooeyPi - Desktop UI for the pi coding agent | 1.1.13 | [github.com](https://github.com/am-will/gooey-pi) | 2026-08-21 |
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.30.0 | [github.com](https://github.com/zyqfork/llmchat) | 2026-08-21 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.187 | [github.com](https://github.com/stablyai/orca) | 2026-08-21 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.28 | [qoder.com](https://qoder.com) | 2026-08-21 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.28 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-21 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.13.10 | [wechat.com](https://www.wechat.com/) | 2026-08-21 |
 | [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.4 | [github.com](https://github.com/chat2db/Chat2DB) | 2026-08-20 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.7 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-08-20 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.23 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-08-20 |
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.8.3 | [github.com](https://github.com/cxasm/notepad--) | 2026-08-20 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.4.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-20 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.28 | [qoder.com](https://qoder.com) | 2026-08-20 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.28 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-20 |
 | [screencapture](bucket/screencapture.json) | A feature-rich screen capture software with just a single... | 2.5.14 | [github.com](https://github.com/xland/ScreenCapture) | 2026-08-20 |
 | [weasel-nightly](bucket/weasel-nightly.json) | Rime for Windows (Nightly Build) | 0.17.4.50.d73f629 | [rime.im](https://rime.im/) | 2026-08-20 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.20 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-20 |
@@ -68,7 +68,7 @@ scoop install zyqpkg/<app-name>
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.84.2 | [github.com](https://github.com/earendil-works/pi) | 2026-08-14 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.4.0 | [paseo.sh](https://paseo.sh) | 2026-08-13 |
 | [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.7 | [github.com](https://github.com/justhil/pi-app) | 2026-08-12 |
-| [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.13 | [github.com](https://github.com/DetachHead/rebased) | 2026-08-12 |
+| [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.14 | [github.com](https://github.com/DetachHead/rebased) | 2026-08-12 |
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.120.52 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-08-12 |
 | [busybox](bucket/busybox.json) | A single binary that contains many common Unix tools. | 6075-g169694ebd | [frippery.org](https://frippery.org/busybox) | 2026-08-11 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.08.11-e8db854 | [cursor.com](https://cursor.com/cli) | 2026-08-11 |
