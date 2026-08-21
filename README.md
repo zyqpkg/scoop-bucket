@@ -18,8 +18,10 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.11.2.36529961 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-08-21 |
 | [gooey-pi](bucket/gooey-pi.json) | GooeyPi - Desktop UI for the pi coding agent | 1.1.13 | [github.com](https://github.com/am-will/gooey-pi) | 2026-08-21 |
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.31.0 | [github.com](https://github.com/zyqfork/llmchat) | 2026-08-21 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.4.1 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-21 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.187 | [github.com](https://github.com/stablyai/orca) | 2026-08-21 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.28 | [qoder.com](https://qoder.com) | 2026-08-21 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.28 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-21 |
@@ -30,7 +32,6 @@ scoop install zyqpkg/<app-name>
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.7 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-08-20 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.23 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-08-20 |
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.8.3 | [github.com](https://github.com/cxasm/notepad--) | 2026-08-20 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.4.1 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-20 |
 | [screencapture](bucket/screencapture.json) | A feature-rich screen capture software with just a single... | 2.5.14 | [github.com](https://github.com/xland/ScreenCapture) | 2026-08-20 |
 | [weasel-nightly](bucket/weasel-nightly.json) | Rime for Windows (Nightly Build) | 0.17.4.50.d73f629 | [rime.im](https://rime.im/) | 2026-08-20 |
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.8.1 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-08-20 |
@@ -89,7 +90,6 @@ scoop install zyqpkg/<app-name>
 | [tiny-rdm](bucket/tiny-rdm.json) | Tiny RDM is a modern lightweight cross-platform Redis des... | 1.2.7 | [redis.tinycraft.cc](https://redis.tinycraft.cc/) | 2026-07-24 |
 | [tun2proxy](bucket/tun2proxy.json) |  | 0.8.3 | [github.com](https://github.com/tun2proxy/tun2proxy) | 2026-07-23 |
 | [wintun](bucket/wintun.json) | Layer 3 TUN Driver for Windows | 0.14.1 | [wintun.net](https://www.wintun.net/) | 2026-07-23 |
-| [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.11.2.36529961 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-07-22 |
 | [cascadia-next-nerd-font-jp](bucket/cascadia-next-nerd-font-jp.json) | Cascadia Next Nerd Font - Japanese (JP) variant. A Nerd F... | 1.0.1 | [github.com](https://github.com/LiLittleCat/Cascadia-Next-Nerd-Font) | 2026-07-21 |
 | [cascadia-next-nerd-font-sc](bucket/cascadia-next-nerd-font-sc.json) | Cascadia Next Nerd Font - Simplified Chinese (SC) variant... | 1.0.1 | [github.com](https://github.com/LiLittleCat/Cascadia-Next-Nerd-Font) | 2026-07-21 |
 | [cascadia-next-nerd-font-tc](bucket/cascadia-next-nerd-font-tc.json) | Cascadia Next Nerd Font - Traditional Chinese (TC) varian... | 1.0.1 | [github.com](https://github.com/LiLittleCat/Cascadia-Next-Nerd-Font) | 2026-07-21 |
