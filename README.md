@@ -19,10 +19,10 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [gooey-pi](bucket/gooey-pi.json) | GooeyPi - Desktop UI for the pi coding agent | 1.1.13 | [github.com](https://github.com/am-will/gooey-pi) | 2026-08-21 |
+| [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.29.0 | [github.com](https://github.com/zyqfork/llmchat) | 2026-08-21 |
 | [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.4 | [github.com](https://github.com/chat2db/Chat2DB) | 2026-08-20 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.7 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-08-20 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.23 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-08-20 |
-| [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.29.0 | [github.com](https://github.com/zyqfork/llmchat) | 2026-08-20 |
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.8.3 | [github.com](https://github.com/cxasm/notepad--) | 2026-08-20 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.4.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-20 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.186 | [github.com](https://github.com/stablyai/orca) | 2026-08-20 |
@@ -55,7 +55,7 @@ scoop install zyqpkg/<app-name>
 | [voicebox](bucket/voicebox.json) | The open-source voice synthesis studio | 0.5.0 | [voicebox.sh](https://voicebox.sh/) | 2026-08-18 |
 | [weasel](bucket/weasel.json) | Rime for Windows | 0.17.4 | [rime.im](https://rime.im/) | 2026-08-18 |
 | [websocat](bucket/websocat.json) | A command-line client for WebSockets, like netcat (or cur... | 1.14.1 | [github.com](https://github.com/vi/websocat) | 2026-08-18 |
-| [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.13.7 | [wechat.com](https://www.wechat.com/) | 2026-08-18 |
+| [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.13.10 | [wechat.com](https://www.wechat.com/) | 2026-08-18 |
 | [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.3.14.36279234-825709d4 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-08-18 |
 | [apiflow](bucket/apiflow.json) | Free, AI-Powered API Tool like Postman. Supports API test... | 0.9.5 | [github.com](https://github.com/trueleaf/apiflow) | 2026-08-17 |
 | [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.5.0.160 | [github.com](https://github.com/martona/clipp) | 2026-08-17 |
