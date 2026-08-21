@@ -26,7 +26,7 @@ scoop install zyqpkg/<app-name>
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.28 | [qoder.com](https://qoder.com) | 2026-08-21 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.28 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-21 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.14 | [github.com](https://github.com/DetachHead/rebased) | 2026-08-21 |
-| [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.13.10 | [wechat.com](https://www.wechat.com/) | 2026-08-21 |
+| [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.13.12 | [wechat.com](https://www.wechat.com/) | 2026-08-21 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.21 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-21 |
 | [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.4 | [github.com](https://github.com/chat2db/Chat2DB) | 2026-08-20 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.7 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-08-20 |
