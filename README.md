@@ -19,11 +19,11 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.22.5 | [chatboxai.app](https://chatboxai.app/) | 2026-08-22 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.188 | [github.com](https://github.com/stablyai/orca) | 2026-08-22 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.11.2.36529961 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-08-21 |
 | [gooey-pi](bucket/gooey-pi.json) | GooeyPi - Desktop UI for the pi coding agent | 1.1.13 | [github.com](https://github.com/am-will/gooey-pi) | 2026-08-21 |
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.31.0 | [github.com](https://github.com/zyqfork/llmchat) | 2026-08-21 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.4.2 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-21 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.188 | [github.com](https://github.com/stablyai/orca) | 2026-08-21 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.28 | [qoder.com](https://qoder.com) | 2026-08-21 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.28 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-21 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.14 | [github.com](https://github.com/DetachHead/rebased) | 2026-08-21 |
