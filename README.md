@@ -19,10 +19,11 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.22.5 | [chatboxai.app](https://chatboxai.app/) | 2026-08-22 |
+| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.51 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-08-22 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.0.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-22 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.188 | [github.com](https://github.com/stablyai/orca) | 2026-08-22 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.11.2.36529961 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-08-21 |
-| [gooey-pi](bucket/gooey-pi.json) | GooeyPi - Desktop UI for the pi coding agent | 1.1.13 | [github.com](https://github.com/am-will/gooey-pi) | 2026-08-21 |
+| [gooey-pi](bucket/gooey-pi.json) | GooeyPi - Desktop UI for the pi coding agent | 1.1.14 | [github.com](https://github.com/am-will/gooey-pi) | 2026-08-21 |
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.31.0 | [github.com](https://github.com/zyqfork/llmchat) | 2026-08-21 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.28 | [qoder.com](https://qoder.com) | 2026-08-21 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.28 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-21 |
@@ -37,7 +38,6 @@ scoop install zyqpkg/<app-name>
 | [weasel-nightly](bucket/weasel-nightly.json) | Rime for Windows (Nightly Build) | 0.17.4.50.d73f629 | [rime.im](https://rime.im/) | 2026-08-20 |
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.8.1 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-08-20 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.3 | [github.com](https://github.com/Ruszero01/clippi) | 2026-08-19 |
-| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.51 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-08-19 |
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.10 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-08-19 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.4.7 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-08-19 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-08-19-b5c4a0176e91 | [herdr.dev](https://herdr.dev) | 2026-08-19 |
