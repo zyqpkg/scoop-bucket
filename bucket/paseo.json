@@ -1,5 +1,5 @@
 {
-    "version": "0.5.0",
+    "version": "0.5.1",
     "description": "Coding agents from your phone, desktop and CLI (Desktop Edition)",
     "homepage": "https://paseo.sh",
     "license": "AGPL-3.0-only",
@@ -14,12 +14,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/getpaseo/paseo/releases/download/v0.5.0/Paseo-Setup-0.5.0-x64.zip",
-            "hash": "8fa7097d72d71c7805accbcc86e5897041528e69e21adb14a79c6d28b91070b5"
+            "url": "https://github.com/getpaseo/paseo/releases/download/v0.5.1/Paseo-Setup-0.5.1-x64.zip",
+            "hash": "97333b6ca830e1f9922bb4cb8fd05e84a5b40a574d895cabbf3ba315604d1835"
         },
         "arm64": {
-            "url": "https://github.com/getpaseo/paseo/releases/download/v0.5.0/Paseo-Setup-0.5.0-arm64.zip",
-            "hash": "de0da847ac00678cba67481f46d2e5b5ac498603524f2363243fff861593d513"
+            "url": "https://github.com/getpaseo/paseo/releases/download/v0.5.1/Paseo-Setup-0.5.1-arm64.zip",
+            "hash": "82cddd83fc30ffb81d44471b944ad0602c5b3348f86c2b92aca4f039cf122210"
         }
     },
     "bin": "resources\\bin\\paseo.cmd",
