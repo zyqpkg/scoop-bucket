@@ -21,6 +21,7 @@ scoop install zyqpkg/<app-name>
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.52 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-08-23 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.0.3 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-23 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.20.0 | [openchamber.dev](https://openchamber.dev/) | 2026-08-23 |
+| [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.5.0 | [paseo.sh](https://paseo.sh) | 2026-08-23 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.22.5 | [chatboxai.app](https://chatboxai.app/) | 2026-08-22 |
 | [gooey-pi](bucket/gooey-pi.json) | GooeyPi - Desktop UI for the pi coding agent | 1.1.14 | [github.com](https://github.com/am-will/gooey-pi) | 2026-08-22 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.188 | [github.com](https://github.com/stablyai/orca) | 2026-08-22 |
@@ -68,7 +69,6 @@ scoop install zyqpkg/<app-name>
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.67.1 | [github.com](https://github.com/op7418/CodePilot) | 2026-08-15 |
 | [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.2.0 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-08-15 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.84.2 | [github.com](https://github.com/earendil-works/pi) | 2026-08-14 |
-| [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.5.0 | [paseo.sh](https://paseo.sh) | 2026-08-13 |
 | [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.7 | [github.com](https://github.com/justhil/pi-app) | 2026-08-12 |
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.120.52 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-08-12 |
 | [busybox](bucket/busybox.json) | A single binary that contains many common Unix tools. | 6075-g169694ebd | [frippery.org](https://frippery.org/busybox) | 2026-08-11 |
