@@ -18,23 +18,33 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.22.6 | [chatboxai.app](https://chatboxai.app/) | 2026-08-24 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.0.4 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-24 |
+| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.52 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-08-23 |
+| [gooey-pi](bucket/gooey-pi.json) | GooeyPi - Desktop UI for the pi coding agent | 1.1.15 | [github.com](https://github.com/am-will/gooey-pi) | 2026-08-23 |
+| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.20.0 | [openchamber.dev](https://openchamber.dev/) | 2026-08-23 |
+| [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.5.1 | [paseo.sh](https://paseo.sh) | 2026-08-23 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.188 | [github.com](https://github.com/stablyai/orca) | 2026-08-22 |
+| [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.11.2.36529961 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-08-21 |
+| [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.31.0 | [github.com](https://github.com/zyqfork/llmchat) | 2026-08-21 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.28 | [qoder.com](https://qoder.com) | 2026-08-21 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.28 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-21 |
+| [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.14 | [github.com](https://github.com/DetachHead/rebased) | 2026-08-21 |
+| [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.13.12 | [wechat.com](https://www.wechat.com/) | 2026-08-21 |
+| [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.21 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-21 |
+| [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.4 | [github.com](https://github.com/chat2db/Chat2DB) | 2026-08-20 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.7 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-08-20 |
-| [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.28.0 | [github.com](https://github.com/zyqfork/llmchat) | 2026-08-20 |
+| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.23 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-08-20 |
+| [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.8.3 | [github.com](https://github.com/cxasm/notepad--) | 2026-08-20 |
 | [screencapture](bucket/screencapture.json) | A feature-rich screen capture software with just a single... | 2.5.14 | [github.com](https://github.com/xland/ScreenCapture) | 2026-08-20 |
 | [weasel-nightly](bucket/weasel-nightly.json) | Rime for Windows (Nightly Build) | 0.17.4.50.d73f629 | [rime.im](https://rime.im/) | 2026-08-20 |
-| [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.20 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-20 |
-| [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.22.4 | [chatboxai.app](https://chatboxai.app/) | 2026-08-19 |
+| [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.8.1 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-08-20 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.3 | [github.com](https://github.com/Ruszero01/clippi) | 2026-08-19 |
-| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.50 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-08-19 |
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.10 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-08-19 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.4.7 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-08-19 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-08-19-b5c4a0176e91 | [herdr.dev](https://herdr.dev) | 2026-08-19 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.18.018 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-08-19 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.13 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-08-19 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 17.3.8 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-19 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.185 | [github.com](https://github.com/stablyai/orca) | 2026-08-19 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.26 | [qoder.com](https://qoder.com) | 2026-08-19 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.26 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-19 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.21 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-08-19 |
 | [rustdesk](bucket/rustdesk.json) | An open-source remote desktop software, written in Rust. | 1.4.9 | [github.com](https://github.com/rustdesk/rustdesk) | 2026-08-19 |
 | [5ire](bucket/5ire.json) | 5ire is a cross-platform desktop AI assistant, MCP client... | 0.15.4 | [5ire.app](https://5ire.app/) | 2026-08-18 |
@@ -45,12 +55,10 @@ scoop install zyqpkg/<app-name>
 | [kafkaesque](bucket/kafkaesque.json) | A GUI client for Kafka with features for browsing, produc... | 2.9.7 | [github.com](https://github.com/patschuh/KafkaEsque) | 2026-08-18 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.0.337 | [kiro.dev](https://kiro.dev) | 2026-08-18 |
 | [monsterdeleter](bucket/monsterdeleter.json) | 小怪兽删除器 MonsterDeleter - 面向 Windows 10/11 的桌面删除工具。在资源管理器中右... | 1.1.0 | [github.com](https://github.com/SuperPrintf/MonsterDeleter) | 2026-08-18 |
-| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.19.0 | [openchamber.dev](https://openchamber.dev/) | 2026-08-18 |
 | [scrcpy-gui](bucket/scrcpy-gui.json) | A simple & beautiful GUI application for scrcpy | 2.4.3 | [tomotoes.com](http://tomotoes.com/scrcpy-gui/) | 2026-08-18 |
 | [voicebox](bucket/voicebox.json) | The open-source voice synthesis studio | 0.5.0 | [voicebox.sh](https://voicebox.sh/) | 2026-08-18 |
 | [weasel](bucket/weasel.json) | Rime for Windows | 0.17.4 | [rime.im](https://rime.im/) | 2026-08-18 |
 | [websocat](bucket/websocat.json) | A command-line client for WebSockets, like netcat (or cur... | 1.14.1 | [github.com](https://github.com/vi/websocat) | 2026-08-18 |
-| [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.13.7 | [wechat.com](https://www.wechat.com/) | 2026-08-18 |
 | [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.3.14.36279234-825709d4 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-08-18 |
 | [apiflow](bucket/apiflow.json) | Free, AI-Powered API Tool like Postman. Supports API test... | 0.9.5 | [github.com](https://github.com/trueleaf/apiflow) | 2026-08-17 |
 | [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.5.0.160 | [github.com](https://github.com/martona/clipp) | 2026-08-17 |
@@ -61,11 +69,7 @@ scoop install zyqpkg/<app-name>
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.67.1 | [github.com](https://github.com/op7418/CodePilot) | 2026-08-15 |
 | [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.2.0 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-08-15 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.84.2 | [github.com](https://github.com/earendil-works/pi) | 2026-08-14 |
-| [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.7.7 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-08-14 |
-| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.22 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-08-13 |
-| [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.4.0 | [paseo.sh](https://paseo.sh) | 2026-08-13 |
 | [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.7 | [github.com](https://github.com/justhil/pi-app) | 2026-08-12 |
-| [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.13 | [github.com](https://github.com/DetachHead/rebased) | 2026-08-12 |
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.120.52 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-08-12 |
 | [busybox](bucket/busybox.json) | A single binary that contains many common Unix tools. | 6075-g169694ebd | [frippery.org](https://frippery.org/busybox) | 2026-08-11 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.08.11-e8db854 | [cursor.com](https://cursor.com/cli) | 2026-08-11 |
@@ -76,8 +80,6 @@ scoop install zyqpkg/<app-name>
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.4.3.2 | [pixpin.com](https://pixpin.com/) | 2026-08-09 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.08.01 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-08-08 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.2.4 | [github.com](https://github.com/throneproj/Throne) | 2026-08-08 |
-| [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.3 | [github.com](https://github.com/chat2db/Chat2DB) | 2026-08-06 |
-| [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.8.2 | [github.com](https://github.com/cxasm/notepad--) | 2026-08-05 |
 | [escrcpy](bucket/escrcpy.json) | Graphical Scrcpy to display and control Android devices, ... | 3.0.8 | [github.com](https://github.com/viarotel-org/escrcpy) | 2026-08-03 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.49 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-07-30 |
 | [hfs](bucket/hfs.json) | A web file server to run on your computer | 3.2.2 | [rejetto.com](https://rejetto.com/hfs) | 2026-07-24 |
@@ -88,7 +90,6 @@ scoop install zyqpkg/<app-name>
 | [tiny-rdm](bucket/tiny-rdm.json) | Tiny RDM is a modern lightweight cross-platform Redis des... | 1.2.7 | [redis.tinycraft.cc](https://redis.tinycraft.cc/) | 2026-07-24 |
 | [tun2proxy](bucket/tun2proxy.json) |  | 0.8.3 | [github.com](https://github.com/tun2proxy/tun2proxy) | 2026-07-23 |
 | [wintun](bucket/wintun.json) | Layer 3 TUN Driver for Windows | 0.14.1 | [wintun.net](https://www.wintun.net/) | 2026-07-23 |
-| [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.10.4.33993995 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-07-22 |
 | [cascadia-next-nerd-font-jp](bucket/cascadia-next-nerd-font-jp.json) | Cascadia Next Nerd Font - Japanese (JP) variant. A Nerd F... | 1.0.1 | [github.com](https://github.com/LiLittleCat/Cascadia-Next-Nerd-Font) | 2026-07-21 |
 | [cascadia-next-nerd-font-sc](bucket/cascadia-next-nerd-font-sc.json) | Cascadia Next Nerd Font - Simplified Chinese (SC) variant... | 1.0.1 | [github.com](https://github.com/LiLittleCat/Cascadia-Next-Nerd-Font) | 2026-07-21 |
 | [cascadia-next-nerd-font-tc](bucket/cascadia-next-nerd-font-tc.json) | Cascadia Next Nerd Font - Traditional Chinese (TC) varian... | 1.0.1 | [github.com](https://github.com/LiLittleCat/Cascadia-Next-Nerd-Font) | 2026-07-21 |
