@@ -23,15 +23,15 @@ scoop install zyqpkg/<app-name>
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.5 | [nyaterm.app](https://nyaterm.app) | 2026-08-24 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.0.4 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-24 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.84.3 | [github.com](https://github.com/earendil-works/pi) | 2026-08-24 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.29 | [qoder.com](https://qoder.com) | 2026-08-24 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.29 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-24 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.52 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-08-23 |
 | [gooey-pi](bucket/gooey-pi.json) | GooeyPi - Desktop UI for the pi coding agent | 1.1.15 | [github.com](https://github.com/am-will/gooey-pi) | 2026-08-23 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.20.0 | [openchamber.dev](https://openchamber.dev/) | 2026-08-23 |
-| [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.5.1 | [paseo.sh](https://paseo.sh) | 2026-08-23 |
+| [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.5.2 | [paseo.sh](https://paseo.sh) | 2026-08-23 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.188 | [github.com](https://github.com/stablyai/orca) | 2026-08-22 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.11.2.36529961 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-08-21 |
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.31.0 | [github.com](https://github.com/zyqfork/llmchat) | 2026-08-21 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.29 | [qoder.com](https://qoder.com) | 2026-08-21 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.29 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-21 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.14 | [github.com](https://github.com/DetachHead/rebased) | 2026-08-21 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.13.12 | [wechat.com](https://www.wechat.com/) | 2026-08-21 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.21 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-21 |
