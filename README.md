@@ -31,7 +31,7 @@ scoop install zyqpkg/<app-name>
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.9.1 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-08-25 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.22.6 | [chatboxai.app](https://chatboxai.app/) | 2026-08-24 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.5 | [nyaterm.app](https://nyaterm.app) | 2026-08-24 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.0.4 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-24 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.0.5 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-24 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.84.3 | [github.com](https://github.com/earendil-works/pi) | 2026-08-24 |
 | [gooey-pi](bucket/gooey-pi.json) | GooeyPi - Desktop UI for the pi coding agent | 1.1.15 | [github.com](https://github.com/am-will/gooey-pi) | 2026-08-23 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.20.0 | [openchamber.dev](https://openchamber.dev/) | 2026-08-23 |
