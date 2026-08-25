@@ -43,7 +43,7 @@ scoop install zyqpkg/<app-name>
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.4.23 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-08-20 |
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.8.3 | [github.com](https://github.com/cxasm/notepad--) | 2026-08-20 |
 | [weasel-nightly](bucket/weasel-nightly.json) | Rime for Windows (Nightly Build) | 0.17.4.50.d73f629 | [rime.im](https://rime.im/) | 2026-08-20 |
-| [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.8.1 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-08-20 |
+| [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.9.1 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-08-20 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.3 | [github.com](https://github.com/Ruszero01/clippi) | 2026-08-19 |
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.10 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-08-19 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.4.7 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-08-19 |
