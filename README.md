@@ -23,7 +23,7 @@ scoop install zyqpkg/<app-name>
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.32.0 | [github.com](https://github.com/zyqfork/llmchat) | 2026-08-25 |
 | [netcatty](bucket/netcatty.json) | SSH workspace, SFTP, and terminals in one | 1.1.82 | [netcatty.app](https://netcatty.app) | 2026-08-25 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.0.5 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-25 |
-| [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.6.0 | [paseo.sh](https://paseo.sh) | 2026-08-25 |
+| [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.6.1 | [paseo.sh](https://paseo.sh) | 2026-08-25 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.30 | [qoder.com](https://qoder.com) | 2026-08-25 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.30 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-25 |
 | [screencapture](bucket/screencapture.json) | A feature-rich screen capture software with just a single... | 2.5.15 | [github.com](https://github.com/xland/ScreenCapture) | 2026-08-25 |
