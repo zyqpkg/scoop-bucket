@@ -1,0 +1,44 @@
+{
+    "version": "0.7.6",
+    "description": "Desktop Companion for Hermes Agent",
+    "homepage": "https://github.com/fathah/hermes-desktop",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.6/hermes-desktop-0.7.6-setup.exe#/dl.7z",
+            "hash": "sha512:mISBKaLUGu7W3hwFgz/vktNj7i4B2GimOd/EwPtyzJiI3PlPrMfB+lMheWkznY0hrN1sEe8FL6YhTuLiU63twA=="
+        }
+    },
+    "installer": {
+        "script": [
+            "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
+            "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\Uninstall*\", \"$dir\\`$R0\" -Force -Recurse -ErrorAction SilentlyContinue"
+        ]
+    },
+    "bin": [
+        [
+            "hermes-agent.exe",
+            "hermes-desktop"
+        ]
+    ],
+    "shortcuts": [
+        [
+            "hermes-agent.exe",
+            "Hermes Desktop"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/fathah/hermes-desktop"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/fathah/hermes-desktop/releases/download/v$version/hermes-desktop-$version-setup.exe#/dl.7z"
+            }
+        },
+        "hash": {
+            "url": "$baseurl/latest.yml",
+            "regex": "(?sm)$basename.*?sha512:\\s+$base64"
+        }
+    }
+}
