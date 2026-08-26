@@ -1,0 +1,38 @@
+{
+    "version": "2.1.61",
+    "description": "Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent",
+    "homepage": "https://www.aionui.com",
+    "license": "Apache-2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://static.aionui.com/releases/2.1.61/AionUi-2.1.61-win-x64.exe#/dl.7z",
+            "hash": "sha512:7vk6XyIGfdUOsywB2rptPoDNY7gXaKwcq+KvpcmlhUWRnX7za/LtEnp+Cdp2q5A8u0Ft/A2X7jQ1kn0bJ2pGqQ=="
+        }
+    },
+    "installer": {
+        "script": [
+            "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
+            "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\Uninstall*\", \"$dir\\`$R0\" -Force -Recurse -ErrorAction SilentlyContinue"
+        ]
+    },
+    "shortcuts": [
+        [
+            "AionUi.exe",
+            "AionUi"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/iOfficeAI/AionUi"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://static.aionui.com/releases/$version/AionUi-$version-win-x64.exe#/dl.7z"
+            }
+        },
+        "hash": {
+            "url": "https://static.aionui.com/releases/latest.yml",
+            "regex": "(?sm)$basename.*?sha512:\\s+$base64"
+        }
+    }
+}
