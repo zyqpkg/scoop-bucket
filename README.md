@@ -21,6 +21,7 @@ scoop install zyqpkg/<app-name>
 | [aionui](bucket/aionui.json) | Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude ... | 2.1.61 | [aionui.com](https://www.aionui.com) | 2026-08-26 |
 | [altserver](bucket/altserver.json) | A home for apps that push the boundaries of iOS. No jailb... | 1.7.4 | [altstore.io](https://altstore.io/) | 2026-08-26 |
 | [hermes-desktop](bucket/hermes-desktop.json) | Desktop Companion for Hermes Agent | 0.7.6 | [github.com](https://github.com/fathah/hermes-desktop) | 2026-08-26 |
+| [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.34 | [t3.codes](https://t3.codes) | 2026-08-26 |
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.67.7 | [github.com](https://github.com/op7418/CodePilot) | 2026-08-25 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.54 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-08-25 |
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.32.0 | [github.com](https://github.com/zyqfork/llmchat) | 2026-08-25 |
@@ -81,7 +82,6 @@ scoop install zyqpkg/<app-name>
 | [deepchat](bucket/deepchat.json) | A smart assistant that connects powerful AI to your perso... | 1.1.0 | [github.com](https://github.com/thinkinaixyz/deepchat) | 2026-08-11 |
 | [ztools](bucket/ztools.json) | 高性能、可扩展的应用启动器和插件平台，uTools 的开源实现，支持 macOS 和 Windows | 3.1.0 | [github.com](https://github.com/ZToolsCenter/ZTools) | 2026-08-11 |
 | [ContextMenuManager](bucket/ContextMenuManager.json) | 🖱️ 纯粹的 Windows 右键菜单管理程序。A pure Windows context menu mana... | 4.0.0.8 | [github.com](https://github.com/Jack251970/ContextMenuManager) | 2026-08-10 |
-| [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.34 | [t3.codes](https://t3.codes) | 2026-08-10 |
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.4.3.2 | [pixpin.com](https://pixpin.com/) | 2026-08-09 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.08.01 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-08-08 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.2.4 | [github.com](https://github.com/throneproj/Throne) | 2026-08-08 |
