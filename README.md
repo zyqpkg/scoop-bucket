@@ -34,7 +34,7 @@ scoop install zyqpkg/<app-name>
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.6.1 | [paseo.sh](https://paseo.sh) | 2026-08-25 |
 | [screencapture](bucket/screencapture.json) | A feature-rich screen capture software with just a single... | 2.5.15 | [github.com](https://github.com/xland/ScreenCapture) | 2026-08-25 |
 | [wsl-dashboard](bucket/wsl-dashboard.json) | A modern, high-performance, lightweight, and low-memory W... | 0.11.0 | [github.com](https://github.com/owu/wsl-dashboard) | 2026-08-25 |
-| [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.25 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-25 |
+| [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.26 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-25 |
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.9.1 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-08-25 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.22.6 | [chatboxai.app](https://chatboxai.app/) | 2026-08-24 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.5 | [nyaterm.app](https://nyaterm.app) | 2026-08-24 |
