@@ -18,6 +18,7 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [aionui](bucket/aionui.json) | Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude ... | 2.1.61 | [aionui.com](https://www.aionui.com) | 2026-08-26 |
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.67.7 | [github.com](https://github.com/op7418/CodePilot) | 2026-08-25 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.54 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-08-25 |
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.32.0 | [github.com](https://github.com/zyqfork/llmchat) | 2026-08-25 |
