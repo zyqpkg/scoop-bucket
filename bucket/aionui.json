@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://static.aionui.com/releases/2.1.61/AionUi-2.1.61-win-x64.exe#/dl.7z",
-            "hash": "sha512:7vk6XyIGfdUOsywB2rptPoDNY7gXaKwcq+KvpcmlhUWRnX7za/LtEnp+Cdp2q5A8u0Ft/A2X7jQ1kn0bJ2pGqQ=="
+            "hash": "sha512:eef93a5f22067dd50eb32c01daba6d3e80cd63b81768ac1cabe2afa5c9a58545919d7ef36bf2ed127a7e09da76ab903cbb416dfc0d97ee3435927d1b276a46a9"
         }
     },
     "installer": {
