@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.6/hermes-desktop-0.7.6-setup.exe#/dl.7z",
-            "hash": "sha512:mISBKaLUGu7W3hwFgz/vktNj7i4B2GimOd/EwPtyzJiI3PlPrMfB+lMheWkznY0hrN1sEe8FL6YhTuLiU63twA=="
+            "hash": "sha512:98848129a2d41aeed6de1c05833fef92d363ee2e01d868a639dfc4c0fb72cc9888dcf94facc7c1fa53217969339d8d21acdd6c11ef052fa6214ee2e253adedc0"
         }
     },
     "installer": {
