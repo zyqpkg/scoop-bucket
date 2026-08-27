@@ -1,0 +1,42 @@
+{
+    "version": "0.28.0",
+    "description": "AI teammates that use apps and websites to complete work",
+    "homepage": "https://x.ai/bot",
+    "license": "Proprietary",
+    "architecture": {
+        "64bit": {
+            "url": "https://downloads.cursor.com/grokbot/stable/win32-x64/0.28.0/Grok_Bot_0.28.0_Setup.exe#/dl.7z",
+            "hash": "skip"
+        },
+        "arm64": {
+            "url": "https://downloads.cursor.com/grokbot/stable/win32-arm64/0.28.0/Grok_Bot_0.28.0_Setup.exe#/dl.7z",
+            "hash": "skip"
+        }
+    },
+    "installer": {
+        "script": [
+            "Expand-7ZipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
+            "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\`$R0\" -Force -Recurse -ErrorAction SilentlyContinue"
+        ]
+    },
+    "shortcuts": [
+        [
+            "Grok Bot.exe",
+            "Grok Bot"
+        ]
+    ],
+    "checkver": {
+        "url": "https://x.ai/bot",
+        "regex": "Grok_Bot_(?<version>[\\d.]+)\\.(?:dmg|exe)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://downloads.cursor.com/grokbot/stable/win32-x64/$version/Grok_Bot_$version_Setup.exe#/dl.7z"
+            },
+            "arm64": {
+                "url": "https://downloads.cursor.com/grokbot/stable/win32-arm64/$version/Grok_Bot_$version_Setup.exe#/dl.7z"
+            }
+        }
+    }
+}
