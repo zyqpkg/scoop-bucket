@@ -5,21 +5,21 @@
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://downloads.cursor.com/grokbot/stable/win32-x64/0.28.0/Grok_Bot_0.28.0_Setup.exe#/dl.7z",
+            "url": "https://downloads.cursor.com/grokbot/stable/win32-x64/0.28.0/Grok_Bot_0.28.0_Setup.exe",
             "hash": "skip"
         },
         "arm64": {
-            "url": "https://downloads.cursor.com/grokbot/stable/win32-arm64/0.28.0/Grok_Bot_0.28.0_Setup.exe#/dl.7z",
+            "url": "https://downloads.cursor.com/grokbot/stable/win32-arm64/0.28.0/Grok_Bot_0.28.0_Setup.exe",
             "hash": "skip"
         }
     },
-    "pre_install": [
-        "$app7z = Get-ChildItem \"$dir\\`$PLUGINSDIR\\app*.7z\" | Select-Object -First 1",
-        "if ($app7z) { Expand-7ZipArchive $app7z.FullName \"$dir\" -Removal }"
-    ],
     "installer": {
         "script": [
-            "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\`$R0\", \"$dir\\Uninstall*\" -Force -Recurse -ErrorAction SilentlyContinue"
+            "$file = (Get-ChildItem \"$dir\" 'Grok Bot*.exe' | Select-Object -First 1).FullName",
+            "Expand-7ZipArchive \"$file\" \"$dir\\\" -Removal",
+            "$app7z = Get-ChildItem \"$dir\\`$PLUGINSDIR\\app*.7z\" | Select-Object -First 1",
+            "if ($app7z) { Expand-7ZipArchive $app7z.FullName \"$dir\" -Removal }",
+            "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\Uninstall*\", \"$dir\\`$R0\" -Force -Recurse -ErrorAction SilentlyContinue"
         ]
     },
     "shortcuts": [
@@ -35,10 +35,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://downloads.cursor.com/grokbot/stable/win32-x64/$version/Grok_Bot_$version_Setup.exe#/dl.7z"
+                "url": "https://downloads.cursor.com/grokbot/stable/win32-x64/$version/Grok_Bot_$version_Setup.exe"
             },
             "arm64": {
-                "url": "https://downloads.cursor.com/grokbot/stable/win32-arm64/$version/Grok_Bot_$version_Setup.exe#/dl.7z"
+                "url": "https://downloads.cursor.com/grokbot/stable/win32-arm64/$version/Grok_Bot_$version_Setup.exe"
             }
         }
     }
