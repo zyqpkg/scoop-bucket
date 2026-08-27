@@ -15,7 +15,7 @@
     },
     "installer": {
         "script": [
-            "$file = (Get-ChildItem \"$dir\" 'Grok Bot*.exe' | Select-Object -First 1).FullName",
+            "$file = (Get-ChildItem \"$dir\" 'Grok_Bot*.exe' | Select-Object -First 1).FullName",
             "Expand-7ZipArchive \"$file\" \"$dir\\\" -Removal",
             "$app7z = Get-ChildItem \"$dir\\`$PLUGINSDIR\\app*.7z\" | Select-Object -First 1",
             "if ($app7z) { Expand-7ZipArchive $app7z.FullName \"$dir\" -Removal }",
