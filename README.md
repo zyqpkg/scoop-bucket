@@ -24,15 +24,15 @@ scoop install zyqpkg/<app-name>
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.67.10 | [github.com](https://github.com/op7418/CodePilot) | 2026-08-26 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.55 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-08-26 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.08.25-3e8eec8 | [cursor.com](https://cursor.com/cli) | 2026-08-26 |
-| [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 7.75.15 | [feishu.cn](https://www.feishu.cn/) | 2026-08-26 |
+| [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 7.75.18 | [feishu.cn](https://www.feishu.cn/) | 2026-08-26 |
 | [hermes-desktop](bucket/hermes-desktop.json) | Desktop Companion for Hermes Agent | 0.7.6 | [github.com](https://github.com/fathah/hermes-desktop) | 2026-08-26 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.5.5 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-08-26 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.0.6 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-26 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.0.7 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-26 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.21.0 | [openchamber.dev](https://openchamber.dev/) | 2026-08-26 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.190 | [github.com](https://github.com/stablyai/orca) | 2026-08-26 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.31 | [qoder.com](https://qoder.com) | 2026-08-26 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.31 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-26 |
-| [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.34 | [t3.codes](https://t3.codes) | 2026-08-26 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.32 | [qoder.com](https://qoder.com) | 2026-08-26 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.32 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-26 |
+| [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.35 | [t3.codes](https://t3.codes) | 2026-08-26 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.26 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-26 |
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.9.2 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-08-26 |
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.32.0 | [github.com](https://github.com/zyqfork/llmchat) | 2026-08-25 |
