@@ -1,12 +1,12 @@
 {
-    "version": "1.13.137",
+    "version": "1.14.158",
     "description": "FluentCleaner Classic - a modern Windows cleanup tool powered by the winapp2.ini ecosystem. This is the .NET 4.8 Classic version.",
     "homepage": "https://github.com/builtbybel/FluentCleaner",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/builtbybel/FluentCleaner/releases/download/classic-1.13.137/FluentCleaner-Classic-net48.zip",
-            "hash": "05c754baeaf3ffcae2557a963fe044542dca038ff4e2f1af19430f919c7c8ca9"
+            "url": "https://github.com/builtbybel/FluentCleaner/releases/download/classic-1.14.158/FluentCleaner-Classic-net48.zip",
+            "hash": "b129d61e77a59c73ddcc7f0fe8be55aae5bd5f389054aac720975bc8cb832a0b"
         }
     },
     "extract_dir": "FluentCleaner-Classic-net48",
