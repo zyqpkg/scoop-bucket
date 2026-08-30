@@ -1,23 +1,38 @@
 {
-    "version": "3.2.6",
+    "version": "3.3.0",
     "description": "GO Simple Tunnel - 多协议隧道与代理，支持 HTTP/SOCKS5/Shadowsocks/端口转发/反向代理/TUN 等",
     "homepage": "https://github.com/go-gost/gost",
     "license": "MIT",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/go-gost/gost/releases/download/v3.2.6/gost_3.2.6_windows_386.zip",
-            "hash": "4f64ecf0c2b13548010d00ddbe0be616381e8cee4c3bb3947945a0f14407b28f",
-            "bin": [["gost.exe", "gost"]]
+            "url": "https://github.com/go-gost/gost/releases/download/v3.3.0/gost_3.3.0_windows_386.zip",
+            "hash": "5db2e0e5941508ba4650075371fbcdf90b6908aff186db437efc1535518c62f6",
+            "bin": [
+                [
+                    "gost.exe",
+                    "gost"
+                ]
+            ]
         },
         "64bit": {
-            "url": "https://github.com/go-gost/gost/releases/download/v3.2.6/gost_3.2.6_windows_amd64.zip",
-            "hash": "32f4edf3d94b622e67f1979f6f5de82dac62abc0977772cf96215dd199ef7e7b",
-            "bin": [["gost.exe", "gost"]]
+            "url": "https://github.com/go-gost/gost/releases/download/v3.3.0/gost_3.3.0_windows_amd64.zip",
+            "hash": "cc8ac946f86994a3aed47ef1f838cfb6b7649d9245c91fcb9899654b33d61170",
+            "bin": [
+                [
+                    "gost.exe",
+                    "gost"
+                ]
+            ]
         },
         "arm64": {
-            "url": "https://github.com/go-gost/gost/releases/download/v3.2.6/gost_3.2.6_windows_arm64.zip",
-            "hash": "81143c15707bab497112da654873ca590efa69fa9e1aea65ad59adb7d26f246e",
-            "bin": [["gost.exe", "gost"]]
+            "url": "https://github.com/go-gost/gost/releases/download/v3.3.0/gost_3.3.0_windows_arm64.zip",
+            "hash": "f423e10b0e5fac02ca1d2294e008bab16480938055e7620af27aba319979ccac",
+            "bin": [
+                [
+                    "gost.exe",
+                    "gost"
+                ]
+            ]
         }
     },
     "checkver": "github",
