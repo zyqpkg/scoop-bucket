@@ -19,6 +19,7 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [gost](bucket/gost.json) | GO Simple Tunnel - 多协议隧道与代理，支持 HTTP/SOCKS5/Shadowsocks/端口... | 3.3.0 | [github.com](https://github.com/go-gost/gost) | 2026-08-30 |
+| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.22.0 | [openchamber.dev](https://openchamber.dev/) | 2026-08-30 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.16.3 | [pixwit.cn](https://pixwit.cn/) | 2026-08-30 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.37 | [qoder.com](https://qoder.com) | 2026-08-30 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.37 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-30 |
@@ -27,7 +28,6 @@ scoop install zyqpkg/<app-name>
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.67.11 | [github.com](https://github.com/op7418/CodePilot) | 2026-08-29 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.50 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-08-29 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.0.11 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-29 |
-| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.22.0 | [openchamber.dev](https://openchamber.dev/) | 2026-08-29 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.192 | [github.com](https://github.com/stablyai/orca) | 2026-08-29 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.84.4 | [github.com](https://github.com/earendil-works/pi) | 2026-08-29 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.36 | [t3.codes](https://t3.codes) | 2026-08-29 |
