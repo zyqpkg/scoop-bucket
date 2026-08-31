@@ -63,8 +63,14 @@
     ]
   },
   "checkver": {
-    "url": "https://frippery.org/files/busybox/?C=M;O=D",
-    "regex": "busybox-w64-FRP-([\\w-]+)"
+    "script": [
+      "$headers = @{ 'User-Agent' = 'scoop-checkver' }",
+      "$bytes = (Invoke-WebRequest -Uri 'https://frippery.org/files/busybox/SHA256SUM' -Headers $headers -UseBasicParsing).Content",
+      "$text = [Text.Encoding]::UTF8.GetString($bytes)",
+      "$versions = [regex]::Matches($text, 'busybox-w64-FRP-([\\w-]+)\\.exe') | ForEach-Object { $_.Groups[1].Value }",
+      "($versions | Sort-Object { [int]($_ -split '-g')[0] } -Descending | Select-Object -First 1)"
+    ],
+    "regex": "^(?<version>[\\w-]+)$"
   },
   "autoupdate": {
     "architecture": {
