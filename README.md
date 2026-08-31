@@ -30,7 +30,7 @@ scoop install zyqpkg/<app-name>
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.0.11 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-08-29 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.192 | [github.com](https://github.com/stablyai/orca) | 2026-08-29 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.84.4 | [github.com](https://github.com/earendil-works/pi) | 2026-08-29 |
-| [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.36 | [t3.codes](https://t3.codes) | 2026-08-29 |
+| [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.37 | [t3.codes](https://t3.codes) | 2026-08-29 |
 | [ztools](bucket/ztools.json) | 高性能、可扩展的应用启动器和插件平台，uTools 的开源实现，支持 macOS 和 Windows | 3.2.0 | [github.com](https://github.com/ZToolsCenter/ZTools) | 2026-08-29 |
 | [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.14.158 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-08-28 |
 | [intelligent-terminal](bucket/intelligent-terminal.json) | A fork of Windows Terminal with native agent integration,... | 0.2.2395.0 | [github.com](https://github.com/microsoft/intelligent-terminal) | 2026-08-28 |
@@ -77,7 +77,7 @@ scoop install zyqpkg/<app-name>
 | [weasel](bucket/weasel.json) | Rime for Windows | 0.17.4 | [rime.im](https://rime.im/) | 2026-08-18 |
 | [websocat](bucket/websocat.json) | A command-line client for WebSockets, like netcat (or cur... | 1.14.1 | [github.com](https://github.com/vi/websocat) | 2026-08-18 |
 | [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.3.14.36279234-825709d4 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-08-18 |
-| [apiflow](bucket/apiflow.json) | Free, AI-Powered API Tool like Postman. Supports API test... | 0.9.5 | [github.com](https://github.com/trueleaf/apiflow) | 2026-08-17 |
+| [apiflow](bucket/apiflow.json) | Free, AI-Powered API Tool like Postman. Supports API test... | 0.9.51 | [github.com](https://github.com/trueleaf/apiflow) | 2026-08-17 |
 | [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.5.0.160 | [github.com](https://github.com/martona/clipp) | 2026-08-17 |
 | [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.2.0 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-08-15 |
 | [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.7 | [github.com](https://github.com/justhil/pi-app) | 2026-08-12 |
