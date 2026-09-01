@@ -33,6 +33,8 @@ scoop install zyqpkg/<app-name>
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.38 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-31 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.37 | [t3.codes](https://t3.codes) | 2026-08-31 |
 | [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.4.5.37398844-33ba13eb | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-08-31 |
+| [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.31 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-31 |
+| [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.10.2 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-08-31 |
 | [gost](bucket/gost.json) | GO Simple Tunnel - 多协议隧道与代理，支持 HTTP/SOCKS5/Shadowsocks/端口... | 3.3.0 | [github.com](https://github.com/go-gost/gost) | 2026-08-30 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.22.0 | [openchamber.dev](https://openchamber.dev/) | 2026-08-30 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.16.3 | [pixwit.cn](https://pixwit.cn/) | 2026-08-30 |
@@ -46,8 +48,6 @@ scoop install zyqpkg/<app-name>
 | [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.14.158 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-08-28 |
 | [intelligent-terminal](bucket/intelligent-terminal.json) | A fork of Windows Terminal with native agent integration,... | 0.2.2395.0 | [github.com](https://github.com/microsoft/intelligent-terminal) | 2026-08-28 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.5.6 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-08-28 |
-| [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.31 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-28 |
-| [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.10.2 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-08-28 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.56 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-08-27 |
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 7.75.18 | [feishu.cn](https://www.feishu.cn/) | 2026-08-27 |
 | [aionui](bucket/aionui.json) | Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude ... | 2.1.61 | [aionui.com](https://www.aionui.com) | 2026-08-26 |
