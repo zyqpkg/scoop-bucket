@@ -23,16 +23,16 @@ scoop install zyqpkg/<app-name>
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.4 | [github.com](https://github.com/Ruszero01/clippi) | 2026-08-31 |
 | [deepchat](bucket/deepchat.json) | A smart assistant that connects powerful AI to your perso... | 1.1.1 | [github.com](https://github.com/thinkinaixyz/deepchat) | 2026-08-31 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.08.03 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-08-31 |
-| [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.30.0 | [cursor.com](https://cursor.com/grokbot) | 2026-08-31 |
+| [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.32.0 | [cursor.com](https://cursor.com/grokbot) | 2026-08-31 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-08-31-b1ff4582e968 | [herdr.dev](https://herdr.dev) | 2026-08-31 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.0.411 | [kiro.dev](https://kiro.dev) | 2026-08-31 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.6 | [nyaterm.app](https://nyaterm.app) | 2026-08-31 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.193 | [github.com](https://github.com/stablyai/orca) | 2026-08-31 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.194 | [github.com](https://github.com/stablyai/orca) | 2026-08-31 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.7.0 | [paseo.sh](https://paseo.sh) | 2026-08-31 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.38 | [qoder.com](https://qoder.com) | 2026-08-31 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.38 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-31 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.37 | [t3.codes](https://t3.codes) | 2026-08-31 |
-| [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.4.5.37398844-33ba13eb | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-08-31 |
+| [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.4.7.37521366-b148bd1d | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-08-31 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.31 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-31 |
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.10.2 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-08-31 |
 | [gost](bucket/gost.json) | GO Simple Tunnel - 多协议隧道与代理，支持 HTTP/SOCKS5/Shadowsocks/端口... | 3.3.0 | [github.com](https://github.com/go-gost/gost) | 2026-08-30 |
@@ -52,7 +52,7 @@ scoop install zyqpkg/<app-name>
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 7.75.18 | [feishu.cn](https://www.feishu.cn/) | 2026-08-27 |
 | [aionui](bucket/aionui.json) | Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude ... | 2.1.61 | [aionui.com](https://www.aionui.com) | 2026-08-26 |
 | [altserver](bucket/altserver.json) | A home for apps that push the boundaries of iOS. No jailb... | 1.7.4 | [altstore.io](https://altstore.io/) | 2026-08-26 |
-| [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.08.25-3e8eec8 | [cursor.com](https://cursor.com/cli) | 2026-08-26 |
+| [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.08.31-4057e58 | [cursor.com](https://cursor.com/cli) | 2026-08-26 |
 | [hermes-desktop](bucket/hermes-desktop.json) | Desktop Companion for Hermes Agent | 0.7.6 | [github.com](https://github.com/fathah/hermes-desktop) | 2026-08-26 |
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.32.0 | [github.com](https://github.com/zyqfork/llmchat) | 2026-08-25 |
 | [netcatty](bucket/netcatty.json) | SSH workspace, SFTP, and terminals in one | 1.1.82 | [netcatty.app](https://netcatty.app) | 2026-08-25 |
