@@ -19,6 +19,7 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.08.31-4057e58 | [cursor.com](https://cursor.com/cli) | 2026-09-01 |
+| [escrcpy](bucket/escrcpy.json) | Graphical Scrcpy to display and control Android devices, ... | 3.2.0 | [github.com](https://github.com/viarotel-org/escrcpy) | 2026-09-01 |
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.32.0 | [cursor.com](https://cursor.com/grokbot) | 2026-09-01 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.194 | [github.com](https://github.com/stablyai/orca) | 2026-09-01 |
 | [tailcat](bucket/tailcat.json) | Tailscale without Tailscale — netcat over WireGuard with ... | 0.4.0 | [github.com](https://github.com/tailscale/tailcat) | 2026-09-01 |
@@ -32,8 +33,8 @@ scoop install zyqpkg/<app-name>
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.0.411 | [kiro.dev](https://kiro.dev) | 2026-08-31 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.6 | [nyaterm.app](https://nyaterm.app) | 2026-08-31 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.7.0 | [paseo.sh](https://paseo.sh) | 2026-08-31 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.38 | [qoder.com](https://qoder.com) | 2026-08-31 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.38 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-31 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.39 | [qoder.com](https://qoder.com) | 2026-08-31 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.39 | [qoder.com.cn](https://qoder.com.cn) | 2026-08-31 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.37 | [t3.codes](https://t3.codes) | 2026-08-31 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.8.31 | [github.com](https://github.com/zyqfork/yaak) | 2026-08-31 |
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.10.2 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-08-31 |
@@ -89,7 +90,6 @@ scoop install zyqpkg/<app-name>
 | [ContextMenuManager](bucket/ContextMenuManager.json) | 🖱️ 纯粹的 Windows 右键菜单管理程序。A pure Windows context menu mana... | 4.0.0.8 | [github.com](https://github.com/Jack251970/ContextMenuManager) | 2026-08-10 |
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.4.3.2 | [pixpin.com](https://pixpin.com/) | 2026-08-09 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.2.4 | [github.com](https://github.com/throneproj/Throne) | 2026-08-08 |
-| [escrcpy](bucket/escrcpy.json) | Graphical Scrcpy to display and control Android devices, ... | 3.2.0 | [github.com](https://github.com/viarotel-org/escrcpy) | 2026-08-03 |
 | [hfs](bucket/hfs.json) | A web file server to run on your computer | 3.2.2 | [rejetto.com](https://rejetto.com/hfs) | 2026-07-24 |
 | [innounpacker](bucket/innounpacker.json) | Inno Setup Unpacker | 2.1.8 | [rathlev-home.de](https://www.rathlev-home.de/index-e.html?tools/prog-e.html#unpack) | 2026-07-24 |
 | [PingFangSC](bucket/PingFangSC.json) |  | 19.0d5e3 | [blog.dsrkafuu.net](https://blog.dsrkafuu.net/post/2020/extract-sf-pingfang) | 2026-07-24 |
