@@ -24,11 +24,13 @@ scoop install zyqpkg/<app-name>
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.08.31-4057e58 | [cursor.com](https://cursor.com/cli) | 2026-09-01 |
 | [escrcpy](bucket/escrcpy.json) | Graphical Scrcpy to display and control Android devices, ... | 3.2.0 | [github.com](https://github.com/viarotel-org/escrcpy) | 2026-09-01 |
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.34.0 | [cursor.com](https://cursor.com/grokbot) | 2026-09-01 |
+| [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.0.437 | [kiro.dev](https://kiro.dev) | 2026-09-01 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.1.2 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-01 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.194 | [github.com](https://github.com/stablyai/orca) | 2026-09-01 |
-| [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.7.1 | [paseo.sh](https://paseo.sh) | 2026-09-01 |
+| [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.7.2 | [paseo.sh](https://paseo.sh) | 2026-09-01 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.40 | [qoder.com](https://qoder.com) | 2026-09-01 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.40 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-01 |
+| [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.38 | [t3.codes](https://t3.codes) | 2026-09-01 |
 | [tailcat](bucket/tailcat.json) | Tailscale without Tailscale — netcat over WireGuard with ... | 0.4.0 | [github.com](https://github.com/tailscale/tailcat) | 2026-09-01 |
 | [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.4.7.37521366-b148bd1d | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-09-01 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.9.1 | [github.com](https://github.com/zyqfork/yaak) | 2026-09-01 |
@@ -38,9 +40,7 @@ scoop install zyqpkg/<app-name>
 | [deepchat](bucket/deepchat.json) | A smart assistant that connects powerful AI to your perso... | 1.1.1 | [github.com](https://github.com/thinkinaixyz/deepchat) | 2026-08-31 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.08.03 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-08-31 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-08-31-b1ff4582e968 | [herdr.dev](https://herdr.dev) | 2026-08-31 |
-| [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.0.437 | [kiro.dev](https://kiro.dev) | 2026-08-31 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.6 | [nyaterm.app](https://nyaterm.app) | 2026-08-31 |
-| [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.38 | [t3.codes](https://t3.codes) | 2026-08-31 |
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.10.2 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-08-31 |
 | [gost](bucket/gost.json) | GO Simple Tunnel - 多协议隧道与代理，支持 HTTP/SOCKS5/Shadowsocks/端口... | 3.3.0 | [github.com](https://github.com/go-gost/gost) | 2026-08-30 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.22.0 | [openchamber.dev](https://openchamber.dev/) | 2026-08-30 |
