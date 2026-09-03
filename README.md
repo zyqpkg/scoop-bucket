@@ -23,6 +23,8 @@ scoop install zyqpkg/<app-name>
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.8 | [nyaterm.app](https://nyaterm.app) | 2026-09-03 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.1.7 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-03 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.196 | [github.com](https://github.com/stablyai/orca) | 2026-09-03 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.42 | [qoder.com](https://qoder.com) | 2026-09-03 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.42 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-03 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.13.63 | [wechat.com](https://www.wechat.com/) | 2026-09-03 |
 | [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.5 | [github.com](https://github.com/chat2db/Chat2DB) | 2026-09-02 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.5 | [github.com](https://github.com/Ruszero01/clippi) | 2026-09-02 |
@@ -32,8 +34,6 @@ scoop install zyqpkg/<app-name>
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.33.0 | [github.com](https://github.com/zyqfork/llmchat) | 2026-09-02 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.14 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-09-02 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.7.2 | [paseo.sh](https://paseo.sh) | 2026-09-02 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.42 | [qoder.com](https://qoder.com) | 2026-09-02 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.42 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-02 |
 | [tailcat](bucket/tailcat.json) | Tailscale without Tailscale — netcat over WireGuard with ... | 0.5.0 | [github.com](https://github.com/tailscale/tailcat) | 2026-09-02 |
 | [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.4.7.37521366-b148bd1d | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-09-02 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.9.2 | [github.com](https://github.com/zyqfork/yaak) | 2026-09-02 |
