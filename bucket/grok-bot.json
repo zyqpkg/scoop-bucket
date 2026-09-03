@@ -1,16 +1,16 @@
 {
-    "version": "0.36.0",
+    "version": "0.37.0",
     "description": "AI teammates that use apps and websites to complete work",
     "homepage": "https://cursor.com/grokbot",
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://downloads.cursor.com/grokbot/stable/win32-x64/0.36.0/Grok_Bot_0.36.0_Setup.exe",
-            "hash": "01b6c8810f168fdc0ca9701a4add9c26ff3d9a9ca800729f5c7cd412f5d31122"
+            "url": "https://downloads.cursor.com/grokbot/stable/win32-x64/0.37.0/Grok_Bot_0.37.0_Setup.exe",
+            "hash": "ea3a134d9c47e5ddb8d7c130be2c7c8f07bc050f69c7a77ec4ba4dd77b1c8681"
         },
         "arm64": {
-            "url": "https://downloads.cursor.com/grokbot/stable/win32-arm64/0.36.0/Grok_Bot_0.36.0_Setup.exe",
-            "hash": "97ed3d0734eed90797efae0a8bf25d9599fa80814da691c062a7db9419f73f45"
+            "url": "https://downloads.cursor.com/grokbot/stable/win32-arm64/0.37.0/Grok_Bot_0.37.0_Setup.exe",
+            "hash": "c14a7ecffeb4772d15ea5dcc52be826a72ca9f279bb55f91b4fdb12fbcb2f3f2"
         }
     },
     "installer": {
