@@ -19,9 +19,9 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.23.1 | [chatboxai.app](https://chatboxai.app/) | 2026-09-03 |
-| [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.39.0 | [cursor.com](https://cursor.com/grokbot) | 2026-09-03 |
+| [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.40.0 | [cursor.com](https://cursor.com/grokbot) | 2026-09-03 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.8 | [nyaterm.app](https://nyaterm.app) | 2026-09-03 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.1.7 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-03 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.1.8 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-03 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.196 | [github.com](https://github.com/stablyai/orca) | 2026-09-03 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.42 | [qoder.com](https://qoder.com) | 2026-09-03 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.42 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-03 |
@@ -106,7 +106,7 @@ scoop install zyqpkg/<app-name>
 | [codux-agent](bucket/codux-agent.json) | Codux headless host agent for remote terminals, Git, and ... | 2.0.0-rc.6 | [github.com](https://github.com/duxweb/codux) | 2026-07-09 |
 | [efibooteditor](bucket/efibooteditor.json) | EFI Boot Editor - tool for managing UEFI boot entries | 1.5.7 | [github.com](https://github.com/Neverous/efibooteditor) | 2026-06-26 |
 | [magika](bucket/magika.json) | Fast and accurate AI-powered file content type detection ... | 1.1.0 | [github.com](https://github.com/google/magika) | 2026-06-17 |
-| [microsoft-coreutils](bucket/microsoft-coreutils.json) | UNIX-style core utilities for Windows (Microsoft-maintain... | 2026.6.16 | [github.com](https://github.com/microsoft/coreutils) | 2026-06-17 |
+| [microsoft-coreutils](bucket/microsoft-coreutils.json) | UNIX-style core utilities for Windows (Microsoft-maintain... | 2026.9.3 | [github.com](https://github.com/microsoft/coreutils) | 2026-06-17 |
 | [codebuddycn](bucket/codebuddycn.json) | An AI-powered IDE | 4.9.10 | [codebuddy.cn](https://www.codebuddy.cn/ide/) | 2026-05-27 |
 | [ferrite](bucket/ferrite.json) | A fast, lightweight text editor for Markdown, JSON, YAML,... | 0.3.0 | [github.com](https://github.com/OlaProeis/Ferrite) | 2026-05-22 |
 | [clipdiary](bucket/clipdiary.json) | A clipboard manager with history and snippets for frequen... | 5.7 | [clipdiary.com](https://clipdiary.com/) | 2026-03-17 |
