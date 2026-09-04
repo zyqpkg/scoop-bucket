@@ -18,12 +18,14 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [hermes-desktop](bucket/hermes-desktop.json) | Desktop Companion for Hermes Agent | 0.7.7 | [github.com](https://github.com/fathah/hermes-desktop) | 2026-09-04 |
+| [lithe-idea](bucket/lithe-idea.json) | A lightweight, cross-platform IDE for the AI era — a low-... | 0.4.1 | [github.com](https://github.com/1lck/Lithe-IDEA) | 2026-09-04 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.197 | [github.com](https://github.com/stablyai/orca) | 2026-09-04 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.23.1 | [chatboxai.app](https://chatboxai.app/) | 2026-09-03 |
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.40.0 | [cursor.com](https://cursor.com/grokbot) | 2026-09-03 |
 | [microsoft-coreutils](bucket/microsoft-coreutils.json) | UNIX-style core utilities for Windows (Microsoft-maintain... | 2026.9.3 | [github.com](https://github.com/microsoft/coreutils) | 2026-09-03 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.8 | [nyaterm.app](https://nyaterm.app) | 2026-09-03 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.1.8 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-03 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.197 | [github.com](https://github.com/stablyai/orca) | 2026-09-03 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.42 | [qoder.com](https://qoder.com) | 2026-09-03 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.42 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-03 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.13.63 | [wechat.com](https://www.wechat.com/) | 2026-09-03 |
@@ -62,7 +64,6 @@ scoop install zyqpkg/<app-name>
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.2.56 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-08-27 |
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 7.75.18 | [feishu.cn](https://www.feishu.cn/) | 2026-08-27 |
 | [altserver](bucket/altserver.json) | A home for apps that push the boundaries of iOS. No jailb... | 1.7.4 | [altstore.io](https://altstore.io/) | 2026-08-26 |
-| [hermes-desktop](bucket/hermes-desktop.json) | Desktop Companion for Hermes Agent | 0.7.7 | [github.com](https://github.com/fathah/hermes-desktop) | 2026-08-26 |
 | [netcatty](bucket/netcatty.json) | SSH workspace, SFTP, and terminals in one | 1.1.82 | [netcatty.app](https://netcatty.app) | 2026-08-25 |
 | [screencapture](bucket/screencapture.json) | A feature-rich screen capture software with just a single... | 2.5.15 | [github.com](https://github.com/xland/ScreenCapture) | 2026-08-25 |
 | [wsl-dashboard](bucket/wsl-dashboard.json) | A modern, high-performance, lightweight, and low-memory W... | 0.11.0 | [github.com](https://github.com/owu/wsl-dashboard) | 2026-08-25 |
