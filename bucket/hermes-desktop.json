@@ -1,12 +1,12 @@
 {
-    "version": "0.7.6",
+    "version": "0.7.7",
     "description": "Desktop Companion for Hermes Agent",
     "homepage": "https://github.com/fathah/hermes-desktop",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.6/hermes-desktop-0.7.6-setup.exe#/dl.7z",
-            "hash": "sha512:98848129a2d41aeed6de1c05833fef92d363ee2e01d868a639dfc4c0fb72cc9888dcf94facc7c1fa53217969339d8d21acdd6c11ef052fa6214ee2e253adedc0"
+            "url": "https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-setup.exe#/dl.7z",
+            "hash": "sha512:a62de81da48d9c6349d6d6e3e470f34f1c84e608f1cf49ec0326e82428b75d749e9d679d6a4614f380fabfad74e442b05c28d6b18fbcbd359b5a6f9187516ee7"
         }
     },
     "installer": {
