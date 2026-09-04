@@ -19,7 +19,7 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [hermes-desktop](bucket/hermes-desktop.json) | Desktop Companion for Hermes Agent | 0.7.7 | [github.com](https://github.com/fathah/hermes-desktop) | 2026-09-04 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.1.9 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-04 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.1.10 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-04 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.197 | [github.com](https://github.com/stablyai/orca) | 2026-09-04 |
 | [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.5.3.37748631-104760a2 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-09-04 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.23.1 | [chatboxai.app](https://chatboxai.app/) | 2026-09-03 |
@@ -56,7 +56,7 @@ scoop install zyqpkg/<app-name>
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.8 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-08-29 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.11.3.37298507 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-08-29 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.50 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-08-29 |
-| [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.84.4 | [github.com](https://github.com/earendil-works/pi) | 2026-08-29 |
+| [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.85.0 | [github.com](https://github.com/earendil-works/pi) | 2026-08-29 |
 | [ztools](bucket/ztools.json) | 高性能、可扩展的应用启动器和插件平台，uTools 的开源实现，支持 macOS 和 Windows | 3.2.0 | [github.com](https://github.com/ZToolsCenter/ZTools) | 2026-08-29 |
 | [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.14.158 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-08-28 |
 | [intelligent-terminal](bucket/intelligent-terminal.json) | A fork of Windows Terminal with native agent integration,... | 0.2.2395.0 | [github.com](https://github.com/microsoft/intelligent-terminal) | 2026-08-28 |
