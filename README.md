@@ -21,6 +21,7 @@ scoop install zyqpkg/<app-name>
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.12.0.37847260 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-09-06 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-09-06-9e9bc8a14466 | [herdr.dev](https://herdr.dev) | 2026-09-06 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.5.15 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-09-06 |
+| [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.9 | [nyaterm.app](https://nyaterm.app) | 2026-09-06 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.1.12 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-06 |
 | [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.8 | [github.com](https://github.com/justhil/pi-app) | 2026-09-06 |
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.67.15 | [github.com](https://github.com/op7418/CodePilot) | 2026-09-05 |
@@ -30,7 +31,7 @@ scoop install zyqpkg/<app-name>
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.45 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-05 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.15 | [github.com](https://github.com/DetachHead/rebased) | 2026-09-05 |
 | [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.16.206 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-09-04 |
-| [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.43.0 | [cursor.com](https://cursor.com/grokbot) | 2026-09-04 |
+| [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.44.0 | [cursor.com](https://cursor.com/grokbot) | 2026-09-04 |
 | [hermes-desktop](bucket/hermes-desktop.json) | Desktop Companion for Hermes Agent | 0.7.7 | [github.com](https://github.com/fathah/hermes-desktop) | 2026-09-04 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.197 | [github.com](https://github.com/stablyai/orca) | 2026-09-04 |
 | [tailcat](bucket/tailcat.json) | Tailscale without Tailscale — netcat over WireGuard with ... | 0.6.0 | [github.com](https://github.com/tailscale/tailcat) | 2026-09-04 |
@@ -38,7 +39,6 @@ scoop install zyqpkg/<app-name>
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.11.2 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-09-04 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.23.1 | [chatboxai.app](https://chatboxai.app/) | 2026-09-03 |
 | [microsoft-coreutils](bucket/microsoft-coreutils.json) | UNIX-style core utilities for Windows (Microsoft-maintain... | 2026.9.3 | [github.com](https://github.com/microsoft/coreutils) | 2026-09-03 |
-| [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.9 | [nyaterm.app](https://nyaterm.app) | 2026-09-03 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.13.63 | [wechat.com](https://www.wechat.com/) | 2026-09-03 |
 | [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.5 | [github.com](https://github.com/chat2db/Chat2DB) | 2026-09-02 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.5 | [github.com](https://github.com/Ruszero01/clippi) | 2026-09-02 |
