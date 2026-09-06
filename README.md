@@ -28,7 +28,7 @@ scoop install zyqpkg/<app-name>
 | [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.16.206 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-09-04 |
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.43.0 | [cursor.com](https://cursor.com/grokbot) | 2026-09-04 |
 | [hermes-desktop](bucket/hermes-desktop.json) | Desktop Companion for Hermes Agent | 0.7.7 | [github.com](https://github.com/fathah/hermes-desktop) | 2026-09-04 |
-| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.5.14 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-09-04 |
+| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.5.15 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-09-04 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.197 | [github.com](https://github.com/stablyai/orca) | 2026-09-04 |
 | [tailcat](bucket/tailcat.json) | Tailscale without Tailscale — netcat over WireGuard with ... | 0.6.0 | [github.com](https://github.com/tailscale/tailcat) | 2026-09-04 |
 | [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.5.3.37748631-104760a2 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-09-04 |
