@@ -28,7 +28,7 @@ scoop install zyqpkg/<app-name>
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.39 | [t3.codes](https://t3.codes) | 2026-09-07 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.12.0.37847260 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-09-06 |
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.44.0 | [cursor.com](https://cursor.com/grokbot) | 2026-09-06 |
-| [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-09-06-9e9bc8a14466 | [herdr.dev](https://herdr.dev) | 2026-09-06 |
+| [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-09-08-62431dbd033b | [herdr.dev](https://herdr.dev) | 2026-09-06 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.5.15 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-09-06 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.9 | [nyaterm.app](https://nyaterm.app) | 2026-09-06 |
 | [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.8 | [github.com](https://github.com/justhil/pi-app) | 2026-09-06 |
