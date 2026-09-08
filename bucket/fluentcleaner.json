@@ -23,7 +23,8 @@
         "Custom"
     ],
     "checkver": {
-        "github": "https://github.com/builtbybel/FluentCleaner"
+        "url": "https://github.com/builtbybel/FluentCleaner/releases",
+        "regex": "/releases/tag/(\\d+\\.\\d+\\.\\d+)\""
     },
     "autoupdate": {
         "architecture": {
