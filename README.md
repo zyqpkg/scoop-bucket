@@ -21,14 +21,14 @@ scoop install zyqpkg/<app-name>
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.9 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-09-07 |
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 7.75.18 | [feishu.cn](https://www.feishu.cn/) | 2026-09-07 |
 | [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.17.227 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-09-07 |
+| [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-09-08-62431dbd033b | [herdr.dev](https://herdr.dev) | 2026-09-07 |
 | [netcatty](bucket/netcatty.json) | SSH workspace, SFTP, and terminals in one | 1.1.83 | [netcatty.app](https://netcatty.app) | 2026-09-07 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.1.14 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-07 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.46 | [qoder.com](https://qoder.com) | 2026-09-07 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.46 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-07 |
-| [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.39 | [t3.codes](https://t3.codes) | 2026-09-07 |
+| [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.40 | [t3.codes](https://t3.codes) | 2026-09-07 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.12.0.37847260 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-09-06 |
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.44.0 | [cursor.com](https://cursor.com/grokbot) | 2026-09-06 |
-| [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-09-08-62431dbd033b | [herdr.dev](https://herdr.dev) | 2026-09-06 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.5.15 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-09-06 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.9 | [nyaterm.app](https://nyaterm.app) | 2026-09-06 |
 | [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.8 | [github.com](https://github.com/justhil/pi-app) | 2026-09-06 |
