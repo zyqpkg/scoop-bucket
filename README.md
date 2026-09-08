@@ -38,7 +38,7 @@ scoop install zyqpkg/<app-name>
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.85.1 | [github.com](https://github.com/earendil-works/pi) | 2026-09-05 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.15 | [github.com](https://github.com/DetachHead/rebased) | 2026-09-05 |
 | [hermes-desktop](bucket/hermes-desktop.json) | Desktop Companion for Hermes Agent | 0.7.7 | [github.com](https://github.com/fathah/hermes-desktop) | 2026-09-04 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.197 | [github.com](https://github.com/stablyai/orca) | 2026-09-04 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.198 | [github.com](https://github.com/stablyai/orca) | 2026-09-04 |
 | [tailcat](bucket/tailcat.json) | Tailscale without Tailscale — netcat over WireGuard with ... | 0.6.0 | [github.com](https://github.com/tailscale/tailcat) | 2026-09-04 |
 | [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.5.3.37748631-104760a2 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-09-04 |
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.11.2 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-09-04 |
