@@ -19,7 +19,11 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.08.03 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-09-08 |
+| [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.19 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-09-08 |
+| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.5.16 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-09-08 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.198 | [github.com](https://github.com/stablyai/orca) | 2026-09-08 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.47 | [qoder.com](https://qoder.com) | 2026-09-08 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.47 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-08 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.40 | [t3.codes](https://t3.codes) | 2026-09-08 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.9 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-09-07 |
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 7.75.18 | [feishu.cn](https://www.feishu.cn/) | 2026-09-07 |
@@ -27,11 +31,8 @@ scoop install zyqpkg/<app-name>
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-09-08-62431dbd033b | [herdr.dev](https://herdr.dev) | 2026-09-07 |
 | [netcatty](bucket/netcatty.json) | SSH workspace, SFTP, and terminals in one | 1.1.83 | [netcatty.app](https://netcatty.app) | 2026-09-07 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.1.14 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-07 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.47 | [qoder.com](https://qoder.com) | 2026-09-07 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.47 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-07 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.12.0.37847260 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-09-06 |
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.44.0 | [cursor.com](https://cursor.com/grokbot) | 2026-09-06 |
-| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.5.16 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-09-06 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.9 | [nyaterm.app](https://nyaterm.app) | 2026-09-06 |
 | [pi-desktop](bucket/pi-desktop.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.8 | [github.com](https://github.com/justhil/pi-app) | 2026-09-06 |
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.67.15 | [github.com](https://github.com/op7418/CodePilot) | 2026-09-05 |
@@ -72,7 +73,6 @@ scoop install zyqpkg/<app-name>
 | [weasel-nightly](bucket/weasel-nightly.json) | Rime for Windows (Nightly Build) | 0.17.4.50.d73f629 | [rime.im](https://rime.im/) | 2026-08-20 |
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.10 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-08-19 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.4.7 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-08-19 |
-| [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.19 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-08-19 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.21 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-08-19 |
 | [rustdesk](bucket/rustdesk.json) | An open-source remote desktop software, written in Rust. | 1.4.9 | [github.com](https://github.com/rustdesk/rustdesk) | 2026-08-19 |
 | [5ire](bucket/5ire.json) | 5ire is a cross-platform desktop AI assistant, MCP client... | 0.15.4 | [5ire.app](https://5ire.app/) | 2026-08-18 |
