@@ -32,8 +32,8 @@ scoop install zyqpkg/<app-name>
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.08.03 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-09-08 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.19 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-09-08 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.5.16 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-09-08 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.1.15 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-08 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.198 | [github.com](https://github.com/stablyai/orca) | 2026-09-08 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.1.16 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-08 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.199 | [github.com](https://github.com/stablyai/orca) | 2026-09-08 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.40 | [t3.codes](https://t3.codes) | 2026-09-08 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.9 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-09-07 |
 | [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.17.227 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-09-07 |
