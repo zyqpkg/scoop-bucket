@@ -1,12 +1,12 @@
 {
-    "version": "2.2.1",
+    "version": "2.2.2",
     "description": "Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent",
     "homepage": "https://www.aionui.com",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://static.aionui.com/releases/2.2.1/AionUi-2.2.1-win-x64.exe#/dl.7z",
-            "hash": "sha512:e40e6ae457068105cd59778de10ffc9f33f68f503e307c97be082c927bc355ca34d9c34f8c490361cfc746286a06e7ee0b76fb2430817e01e03327fb7ee909c9"
+            "url": "https://static.aionui.com/releases/2.2.2/AionUi-2.2.2-win-x64.exe#/dl.7z",
+            "hash": "sha512:3dc4e4f7c90d1d02fd87d80be0908be43a835d3336d9d2bcb6a546e15eaa9cc0550fb01e3bd472d07a6371405c86493890327bc5a4d104929ab849047953f697"
         }
     },
     "installer": {
