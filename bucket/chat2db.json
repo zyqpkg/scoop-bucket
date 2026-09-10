@@ -18,12 +18,18 @@
             "Chat2DB"
         ]
     ],
-    "checkver": "github",
+    "checkver": {
+        "url": "https://github.com/chat2db/Chat2DB/releases",
+        "regex": "/releases/tag/v([\\d.]+)"
+    },
     "autoupdate": {
         "architecture": {
             "64bit": {
                 "url": "https://github.com/chat2db/Chat2DB/releases/download/v$version/Chat2DB-Community-$version.msi"
             }
+        },
+        "hash": {
+            "url": "$baseurl/SHA256SUMS"
         }
     },
     "notes": [
