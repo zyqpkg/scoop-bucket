@@ -18,6 +18,7 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.5 | [github.com](https://github.com/chat2db/Chat2DB) | 2026-09-10 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.23.2 | [chatboxai.app](https://chatboxai.app/) | 2026-09-10 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.3.0 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-09-10 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.6.0 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-09-10 |
@@ -59,7 +60,6 @@ scoop install zyqpkg/<app-name>
 | [tailcat](bucket/tailcat.json) | Tailscale without Tailscale — netcat over WireGuard with ... | 0.6.0 | [github.com](https://github.com/tailscale/tailcat) | 2026-09-04 |
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.11.2 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-09-04 |
 | [microsoft-coreutils](bucket/microsoft-coreutils.json) | UNIX-style core utilities for Windows (Microsoft-maintain... | 2026.9.3 | [github.com](https://github.com/microsoft/coreutils) | 2026-09-03 |
-| [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.5 | [github.com](https://github.com/chat2db/Chat2DB) | 2026-09-02 |
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.33.0 | [github.com](https://github.com/zyqfork/llmchat) | 2026-09-02 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.14 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-09-02 |
 | [escrcpy](bucket/escrcpy.json) | Graphical Scrcpy to display and control Android devices, ... | 3.2.0 | [github.com](https://github.com/viarotel-org/escrcpy) | 2026-09-01 |
