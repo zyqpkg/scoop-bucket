@@ -18,6 +18,9 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.23.2 | [chatboxai.app](https://chatboxai.app/) | 2026-09-10 |
+| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.3.0 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-09-10 |
+| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.6.0 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-09-10 |
 | [pi-app](bucket/pi-app.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.8 | [github.com](https://github.com/justhil/pi-app) | 2026-09-10 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.14.6 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-09-10 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.9.10 | [github.com](https://github.com/zyqfork/yaak) | 2026-09-10 |
@@ -30,15 +33,14 @@ scoop install zyqpkg/<app-name>
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.1.16 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-09 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.23.0 | [openchamber.dev](https://openchamber.dev/) | 2026-09-09 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.199 | [github.com](https://github.com/stablyai/orca) | 2026-09-09 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.48 | [qoder.com](https://qoder.com) | 2026-09-09 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.48 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-09 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.49 | [qoder.com](https://qoder.com) | 2026-09-09 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.49 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-09 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.13.65 | [wechat.com](https://www.wechat.com/) | 2026-09-09 |
 | [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.5.4.38151288-1ca4889a | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-09-09 |
 | [altserver](bucket/altserver.json) | A home for apps that push the boundaries of iOS. No jailb... | 1.7.5 | [altstore.io](https://altstore.io/) | 2026-09-08 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.09.08-6caf4ff | [cursor.com](https://cursor.com/cli) | 2026-09-08 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.08.03 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-09-08 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.19 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-09-08 |
-| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.6.0 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-09-08 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.40 | [t3.codes](https://t3.codes) | 2026-09-08 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.3.9 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-09-07 |
 | [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.17.227 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-09-07 |
@@ -53,12 +55,11 @@ scoop install zyqpkg/<app-name>
 | [hermes-desktop](bucket/hermes-desktop.json) | Desktop Companion for Hermes Agent | 0.7.7 | [github.com](https://github.com/fathah/hermes-desktop) | 2026-09-04 |
 | [tailcat](bucket/tailcat.json) | Tailscale without Tailscale — netcat over WireGuard with ... | 0.6.0 | [github.com](https://github.com/tailscale/tailcat) | 2026-09-04 |
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.11.2 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-09-04 |
-| [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.23.2 | [chatboxai.app](https://chatboxai.app/) | 2026-09-03 |
 | [microsoft-coreutils](bucket/microsoft-coreutils.json) | UNIX-style core utilities for Windows (Microsoft-maintain... | 2026.9.3 | [github.com](https://github.com/microsoft/coreutils) | 2026-09-03 |
 | [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.5 | [github.com](https://github.com/chat2db/Chat2DB) | 2026-09-02 |
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.33.0 | [github.com](https://github.com/zyqfork/llmchat) | 2026-09-02 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.14 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-09-02 |
-| [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.7.2 | [paseo.sh](https://paseo.sh) | 2026-09-02 |
+| [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.8.0 | [paseo.sh](https://paseo.sh) | 2026-09-02 |
 | [escrcpy](bucket/escrcpy.json) | Graphical Scrcpy to display and control Android devices, ... | 3.2.0 | [github.com](https://github.com/viarotel-org/escrcpy) | 2026-09-01 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.0.437 | [kiro.dev](https://kiro.dev) | 2026-09-01 |
 | [apiflow](bucket/apiflow.json) | Free, AI-Powered API Tool like Postman. Supports API test... | 0.9.51 | [github.com](https://github.com/trueleaf/apiflow) | 2026-08-31 |
@@ -69,7 +70,6 @@ scoop install zyqpkg/<app-name>
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.50 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-08-29 |
 | [ztools](bucket/ztools.json) | 高性能、可扩展的应用启动器和插件平台，uTools 的开源实现，支持 macOS 和 Windows | 3.2.0 | [github.com](https://github.com/ZToolsCenter/ZTools) | 2026-08-29 |
 | [intelligent-terminal](bucket/intelligent-terminal.json) | A fork of Windows Terminal with native agent integration,... | 0.2.2395.0 | [github.com](https://github.com/microsoft/intelligent-terminal) | 2026-08-28 |
-| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.3.0 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-08-27 |
 | [screencapture](bucket/screencapture.json) | A feature-rich screen capture software with just a single... | 2.5.15 | [github.com](https://github.com/xland/ScreenCapture) | 2026-08-25 |
 | [wsl-dashboard](bucket/wsl-dashboard.json) | A modern, high-performance, lightweight, and low-memory W... | 0.11.0 | [github.com](https://github.com/owu/wsl-dashboard) | 2026-08-25 |
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.8.3 | [github.com](https://github.com/cxasm/notepad--) | 2026-08-20 |
