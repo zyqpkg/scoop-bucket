@@ -1,30 +1,44 @@
 {
-    "version": "0.5.8",
-    "description": "Desktop app for the pi coding agent runtime with timeline, terminal, and diff viewer",
-    "homepage": "https://github.com/justhil/pi-app",
-    "license": "MIT",
-    "url": "https://github.com/justhil/pi-app/releases/download/v0.5.8/pi.Desktop-Portable-0.5.8-x64.exe",
-    "hash": "8fbdbd8927b43e52e24a73518466231904d61e2b5a637e191f424cb256ce148b",
+    "version": "0.14.5",
+    "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+    "homepage": "https://github.com/vastsa/PI-Desktop",
+    "license": "LGPL-3.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/vastsa/PI-Desktop/releases/download/v0.14.5/PI-Desktop-Setup-0.14.5.exe#/dl.7z",
+            "hash": "sha512:20936b6f00f828ed60a99e0ec24a157e8a5e671caca4cb2d345eddd98133a4b959472f0b3dc22f75a4f77e285924e810ceb2a179a2a85a537175e8ea68d8ac4b"
+        }
+    },
     "installer": {
         "script": [
-            "Expand-7ZipArchive \"$dir\\$fname\" \"$dir\\temp\" -Removal",
-            "Get-ChildItem \"$dir\\temp\\`$PLUGINSDIR\" -Filter '*.7z' | ForEach-Object {",
-            "    Expand-7ZipArchive $_.FullName \"$dir\"",
-            "}",
-            "Remove-Item -Recurse -Force \"$dir\\temp\""
+            "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
+            "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\Uninstall*\", \"$dir\\`$R0\" -Force -Recurse -ErrorAction SilentlyContinue"
         ]
     },
-    "bin": "pi Desktop.exe",
+    "bin": [
+        [
+            "PI-Desktop.exe",
+            "pi-desktop"
+        ]
+    ],
     "shortcuts": [
         [
-            "pi Desktop.exe",
-            "Pi Desktop"
+            "PI-Desktop.exe",
+            "PI-Desktop"
         ]
     ],
     "checkver": {
-        "github": "https://github.com/justhil/pi-app"
+        "github": "https://github.com/vastsa/PI-Desktop"
     },
     "autoupdate": {
-        "url": "https://github.com/justhil/pi-app/releases/download/v$version/pi.Desktop-Portable-$version-x64.exe"
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/vastsa/PI-Desktop/releases/download/v$version/PI-Desktop-Setup-$version.exe#/dl.7z"
+            }
+        },
+        "hash": {
+            "url": "$baseurl/latest.yml",
+            "regex": "(?sm)$basename.*?sha512:\\s+$base64"
+        }
     }
 }
