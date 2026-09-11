@@ -18,6 +18,8 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.200 | [github.com](https://github.com/stablyai/orca) | 2026-09-11 |
+| [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.5.6.38337834-5f969292 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-09-11 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.9.11 | [github.com](https://github.com/zyqfork/yaak) | 2026-09-11 |
 | [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.6 | [github.com](https://github.com/chat2db/Chat2DB) | 2026-09-10 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.23.2 | [chatboxai.app](https://chatboxai.app/) | 2026-09-10 |
@@ -28,8 +30,8 @@ scoop install zyqpkg/<app-name>
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.8.0 | [paseo.sh](https://paseo.sh) | 2026-09-10 |
 | [pi-app](bucket/pi-app.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.8 | [github.com](https://github.com/justhil/pi-app) | 2026-09-10 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.14.6 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-09-10 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.49 | [qoder.com](https://qoder.com) | 2026-09-10 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.49 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-10 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.50 | [qoder.com](https://qoder.com) | 2026-09-10 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.50 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-10 |
 | [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.1.0 | [thinkrail.ai](https://thinkrail.ai) | 2026-09-10 |
 | [thinkrail-desktop](bucket/thinkrail-desktop.json) | The worktree IDE for the pi coding agent (Desktop Edition) | 0.1.0 | [thinkrail.ai](https://thinkrail.ai) | 2026-09-10 |
 | [aionui](bucket/aionui.json) | Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude ... | 2.2.2 | [aionui.com](https://www.aionui.com) | 2026-09-09 |
@@ -39,9 +41,7 @@ scoop install zyqpkg/<app-name>
 | [gooey-pi](bucket/gooey-pi.json) | GooeyPi - Desktop UI for the pi coding agent | 1.1.17 | [github.com](https://github.com/am-will/gooey-pi) | 2026-09-09 |
 | [kafka-king](bucket/kafka-king.json) | A beautiful Kafka GUI desktop client, supports multiple c... | 0.47 | [github.com](https://github.com/Bronya0/Kafka-King) | 2026-09-09 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.23.0 | [openchamber.dev](https://openchamber.dev/) | 2026-09-09 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.200 | [github.com](https://github.com/stablyai/orca) | 2026-09-09 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.13.65 | [wechat.com](https://www.wechat.com/) | 2026-09-09 |
-| [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.5.6.38337834-5f969292 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-09-09 |
 | [altserver](bucket/altserver.json) | A home for apps that push the boundaries of iOS. No jailb... | 1.7.5 | [altstore.io](https://altstore.io/) | 2026-09-08 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.08.03 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-09-08 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.19 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-09-08 |
