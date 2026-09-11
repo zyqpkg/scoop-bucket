@@ -21,6 +21,7 @@ scoop install zyqpkg/<app-name>
 | [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.6 | [github.com](https://github.com/chat2db/Chat2DB) | 2026-09-10 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.23.2 | [chatboxai.app](https://chatboxai.app/) | 2026-09-10 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.3.0 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-09-10 |
+| [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.09.10-fd3934a | [cursor.com](https://cursor.com/cli) | 2026-09-10 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.6.2 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-09-10 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.1.17 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-10 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.8.0 | [paseo.sh](https://paseo.sh) | 2026-09-10 |
@@ -30,7 +31,7 @@ scoop install zyqpkg/<app-name>
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.49 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-10 |
 | [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.1.0 | [thinkrail.ai](https://thinkrail.ai) | 2026-09-10 |
 | [thinkrail-desktop](bucket/thinkrail-desktop.json) | The worktree IDE for the pi coding agent (Desktop Edition) | 0.1.0 | [thinkrail.ai](https://thinkrail.ai) | 2026-09-10 |
-| [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.9.10 | [github.com](https://github.com/zyqfork/yaak) | 2026-09-10 |
+| [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.9.11 | [github.com](https://github.com/zyqfork/yaak) | 2026-09-10 |
 | [aionui](bucket/aionui.json) | Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude ... | 2.2.2 | [aionui.com](https://www.aionui.com) | 2026-09-09 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.6 | [github.com](https://github.com/Ruszero01/clippi) | 2026-09-09 |
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 7.76.21 | [feishu.cn](https://www.feishu.cn/) | 2026-09-09 |
@@ -42,7 +43,6 @@ scoop install zyqpkg/<app-name>
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.13.65 | [wechat.com](https://www.wechat.com/) | 2026-09-09 |
 | [workbuddy](bucket/workbuddy.json) | An AI-native desktop Agent WorkBench | 5.5.4.38151288-1ca4889a | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-09-09 |
 | [altserver](bucket/altserver.json) | A home for apps that push the boundaries of iOS. No jailb... | 1.7.5 | [altstore.io](https://altstore.io/) | 2026-09-08 |
-| [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.09.10-fd3934a | [cursor.com](https://cursor.com/cli) | 2026-09-08 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.08.03 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-09-08 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.19 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-09-08 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.40 | [t3.codes](https://t3.codes) | 2026-09-08 |
