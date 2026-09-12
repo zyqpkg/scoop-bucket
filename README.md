@@ -18,6 +18,7 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.1.18 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-11 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.200 | [github.com](https://github.com/stablyai/orca) | 2026-09-11 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.50 | [qoder.com](https://qoder.com) | 2026-09-11 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.50 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-11 |
@@ -28,7 +29,6 @@ scoop install zyqpkg/<app-name>
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.3.0 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-09-10 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.09.10-fd3934a | [cursor.com](https://cursor.com/cli) | 2026-09-10 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.6.2 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-09-10 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.1.18 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-10 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.8.0 | [paseo.sh](https://paseo.sh) | 2026-09-10 |
 | [pi-app](bucket/pi-app.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.8 | [github.com](https://github.com/justhil/pi-app) | 2026-09-10 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.14.6 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-09-10 |
@@ -37,10 +37,10 @@ scoop install zyqpkg/<app-name>
 | [aionui](bucket/aionui.json) | Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude ... | 2.2.2 | [aionui.com](https://www.aionui.com) | 2026-09-09 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.6 | [github.com](https://github.com/Ruszero01/clippi) | 2026-09-09 |
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 7.76.21 | [feishu.cn](https://www.feishu.cn/) | 2026-09-09 |
-| [flectar-mail](bucket/flectar-mail.json) | A lightweight native email, calendar, and contacts client | 0.1.0-alpha.4 | [github.com](https://github.com/flectar/mail) | 2026-09-09 |
+| [flectar-mail](bucket/flectar-mail.json) | A lightweight native email, calendar, and contacts client | 0.1.0-alpha.5 | [github.com](https://github.com/flectar/mail) | 2026-09-09 |
 | [gooey-pi](bucket/gooey-pi.json) | GooeyPi - Desktop UI for the pi coding agent | 1.1.17 | [github.com](https://github.com/am-will/gooey-pi) | 2026-09-09 |
 | [kafka-king](bucket/kafka-king.json) | A beautiful Kafka GUI desktop client, supports multiple c... | 0.47 | [github.com](https://github.com/Bronya0/Kafka-King) | 2026-09-09 |
-| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.23.0 | [openchamber.dev](https://openchamber.dev/) | 2026-09-09 |
+| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.23.1 | [openchamber.dev](https://openchamber.dev/) | 2026-09-09 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.13.65 | [wechat.com](https://www.wechat.com/) | 2026-09-09 |
 | [altserver](bucket/altserver.json) | A home for apps that push the boundaries of iOS. No jailb... | 1.7.5 | [altstore.io](https://altstore.io/) | 2026-09-08 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.08.03 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-09-08 |
