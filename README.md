@@ -18,6 +18,7 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.10 | [nyaterm.app](https://nyaterm.app) | 2026-09-13 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.1.19 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-13 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.9.13 | [github.com](https://github.com/zyqfork/yaak) | 2026-09-13 |
 | [flectar-mail](bucket/flectar-mail.json) | A lightweight native email, calendar, and contacts client | 0.1.0-alpha.5 | [github.com](https://github.com/flectar/mail) | 2026-09-12 |
@@ -53,7 +54,6 @@ scoop install zyqpkg/<app-name>
 | [netcatty](bucket/netcatty.json) | SSH workspace, SFTP, and terminals in one | 1.1.83 | [netcatty.app](https://netcatty.app) | 2026-09-07 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.12.0.37847260 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-09-06 |
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.44.0 | [cursor.com](https://cursor.com/grokbot) | 2026-09-06 |
-| [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.10 | [nyaterm.app](https://nyaterm.app) | 2026-09-06 |
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.67.15 | [github.com](https://github.com/op7418/CodePilot) | 2026-09-05 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.85.1 | [github.com](https://github.com/earendil-works/pi) | 2026-09-05 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.15 | [github.com](https://github.com/DetachHead/rebased) | 2026-09-05 |
