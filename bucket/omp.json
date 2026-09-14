@@ -5,21 +5,22 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.1.21/omp-windows-x64.exe#/omp.exe",
+            "url": "https://github.com/can1357/oh-my-pi/releases/download/v18.1.21/omp-windows-x64.exe",
             "hash": "61856acac3845c3cb8f12c8f6bfb7ecf30e10543ac0ebd69f6fdb404d23c45da"
         }
     },
-    "bin": "omp.exe",
+    "bin": [
+        [
+            "omp-windows-x64.exe",
+            "omp"
+        ]
+    ],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/can1357/oh-my-pi/releases/download/v$version/omp-windows-x64.exe#/omp.exe"
+                "url": "https://github.com/can1357/oh-my-pi/releases/download/v$version/omp-windows-x64.exe"
             }
-        },
-        "hash": {
-            "url": "$baseurl/SHA256SUMS.txt",
-            "regex": "$sha256\\s+omp-windows-x64\\.exe$"
         }
     }
 }
