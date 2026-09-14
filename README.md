@@ -20,7 +20,7 @@ scoop install zyqpkg/<app-name>
 |-----|-------------|---------|----------|--------------|
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.10 | [nyaterm.app](https://nyaterm.app) | 2026-09-13 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.1.20 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-13 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.201 | [github.com](https://github.com/stablyai/orca) | 2026-09-13 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.202 | [github.com](https://github.com/stablyai/orca) | 2026-09-13 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.17.0 | [pixwit.cn](https://pixwit.cn/) | 2026-09-13 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.9.13 | [github.com](https://github.com/zyqfork/yaak) | 2026-09-13 |
 | [flectar-mail](bucket/flectar-mail.json) | A lightweight native email, calendar, and contacts client | 0.1.0-alpha.5 | [github.com](https://github.com/flectar/mail) | 2026-09-12 |
