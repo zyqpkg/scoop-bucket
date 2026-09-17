@@ -25,15 +25,15 @@ scoop install zyqpkg/<app-name>
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.24.0 | [openchamber.dev](https://openchamber.dev/) | 2026-09-17 |
 | [workbuddy](bucket/workbuddy.json) | WorkBuddy - AI Agent for Everyday Office Work | 5.5.2.37849279-910352f0 | [workbuddy.ai](https://www.workbuddy.ai/) | 2026-09-17 |
 | [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.5.6.38337834-5f969292 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-09-17 |
+| [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.9.17 | [github.com](https://github.com/zyqfork/yaak) | 2026-09-17 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.09.15-d2fe57e | [cursor.com](https://cursor.com/cli) | 2026-09-16 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-09-16-2c29fb29e302 | [herdr.dev](https://herdr.dev) | 2026-09-16 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.204 | [github.com](https://github.com/stablyai/orca) | 2026-09-16 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.205 | [github.com](https://github.com/stablyai/orca) | 2026-09-16 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.54 | [qoder.com](https://qoder.com) | 2026-09-16 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.54 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-16 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.42 | [t3.codes](https://t3.codes) | 2026-09-16 |
 | [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.1.1 | [thinkrail.ai](https://thinkrail.ai) | 2026-09-16 |
 | [thinkrail-desktop](bucket/thinkrail-desktop.json) | The worktree IDE for the pi coding agent (Desktop Edition) | 0.1.1 | [thinkrail.ai](https://thinkrail.ai) | 2026-09-16 |
-| [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.9.17 | [github.com](https://github.com/zyqfork/yaak) | 2026-09-16 |
 | [flectar-mail](bucket/flectar-mail.json) | A lightweight native email, calendar, and contacts client | 0.1.0-alpha.6 | [github.com](https://github.com/flectar/mail) | 2026-09-15 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.7.2 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-09-15 |
 | [octop](bucket/octop.json) | A smarter, self-hosted AI assistant — multi-user, multi-a... | 1.0.0 | [github.com](https://github.com/TencentCloud/Octop) | 2026-09-15 |
