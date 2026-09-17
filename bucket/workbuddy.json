@@ -30,10 +30,10 @@
         "    (Get-Content \"$extensions_file\") -replace '(?<=workbuddy(/|\\\\\\\\)).*?(?=(/|\\\\\\\\)data(/|\\\\\\\\)extensions)', $version | Set-Content \"$extensions_file\"",
         "}"
     ],
-    "bin": "WorkBuddy.exe",
+    "bin": "WorkBuddyAI.exe",
     "shortcuts": [
         [
-            "WorkBuddy.exe",
+            "WorkBuddyAI.exe",
             "WorkBuddy",
             "--user-data-dir=\"$dir\\data\\user-data\" --extensions-dir=\"$dir\\data\\extensions\""
         ]
