@@ -18,6 +18,7 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [deskbox](bucket/deskbox.json) | A free, open-source Windows desktop organizer with native-f... | 1.5.3 | [github.com](https://github.com/Tianyu199509/DeskBox) | 2026-09-16 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.09.15-d2fe57e | [cursor.com](https://cursor.com/cli) | 2026-09-16 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-09-16-2c29fb29e302 | [herdr.dev](https://herdr.dev) | 2026-09-16 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.2.2 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-16 |
