@@ -23,12 +23,12 @@ scoop install zyqpkg/<app-name>
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.33.2 | [github.com](https://github.com/zyqfork/llmchat) | 2026-09-17 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.2.3 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-17 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.24.0 | [openchamber.dev](https://openchamber.dev/) | 2026-09-17 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.205 | [github.com](https://github.com/stablyai/orca) | 2026-09-17 |
 | [workbuddy](bucket/workbuddy.json) | WorkBuddy - AI Agent for Everyday Office Work | 5.5.2.37849279-910352f0 | [workbuddy.ai](https://www.workbuddy.ai/) | 2026-09-17 |
 | [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.5.6.38337834-5f969292 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-09-17 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.9.17 | [github.com](https://github.com/zyqfork/yaak) | 2026-09-17 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.09.15-d2fe57e | [cursor.com](https://cursor.com/cli) | 2026-09-16 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-09-16-2c29fb29e302 | [herdr.dev](https://herdr.dev) | 2026-09-16 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.205 | [github.com](https://github.com/stablyai/orca) | 2026-09-16 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.54 | [qoder.com](https://qoder.com) | 2026-09-16 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.54 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-16 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.42 | [t3.codes](https://t3.codes) | 2026-09-16 |
