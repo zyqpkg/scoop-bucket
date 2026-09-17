@@ -1,12 +1,12 @@
 {
-    "version": "5.5.2.37849279-910352f0",
-    "description": "WorkBuddy - AI Agent for Everyday Office Work",
-    "homepage": "https://www.workbuddy.ai/",
+    "version": "5.5.6.38337834-5f969292",
+    "description": "WorkBuddy (CN) - AI-native desktop Agent WorkBench (China edition)",
+    "homepage": "https://www.codebuddy.cn/work/",
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://codebuddy-1328495429.cos.accelerate.myqcloud.com/workbuddy/saas/win32-x64-user/WorkBuddy-win32-x64-user-5.5.2.37849279-910352f0.exe#dl.7z",
-            "hash": "19b107bdccb918d49e84cfc3407ced578439a1643a7714a493da7d88b9fd786b",
+            "url": "https://download.codebuddy.cn/workbuddy/saas/win32-x64-user/WorkBuddy-win32-x64-user-5.5.6.38337834-5f969292.exe#dl.7z",
+            "hash": "b1c61b8a0550012c3e9e2cce4b2d566fb5bdb3283e97146b8808c3dcb1a571f4",
             "installer": {
                 "script": [
                     "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -34,20 +34,20 @@
     "shortcuts": [
         [
             "WorkBuddy.exe",
-            "WorkBuddy",
+            "WorkBuddy CN",
             "--user-data-dir=\"$dir\\data\\user-data\" --extensions-dir=\"$dir\\data\\extensions\""
         ]
     ],
     "persist": "data",
     "checkver": {
-        "url": "https://www.workbuddy.ai/v2/update?platform=workbuddy-win32-x64-user",
+        "url": "https://www.codebuddy.cn/v2/update?platform=workbuddy-win32-x64-user",
         "jsonpath": "$.url",
         "regex": "(?<url>.*WorkBuddy-win32-x64-user-(?<version>[\\d.]+-[\\w.]+)\\.exe)"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "$matchUrl#dl.7z"
+                "url": "https://download.codebuddy.cn/workbuddy/saas/win32-x64-user/WorkBuddy-win32-x64-user-$version.exe#dl.7z"
             }
         }
     }

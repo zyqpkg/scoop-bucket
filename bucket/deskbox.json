@@ -4,8 +4,8 @@
     "homepage": "https://github.com/Tianyu199509/DeskBox",
     "license": "GPL-3.0-only",
     "notes": [
-        "DeskBox 默认将应用数据保存在 %LocalAppData%\\DeskBox，收纳目录可能位于非系统盘（如 D:\\DeskBox）。",
-        "卸载时应用数据与收纳文件不会被 Scoop 自动清理。"
+        "DeskBox stores app data under %LocalAppData%\\DeskBox; managed storage may live on a non-system drive (e.g. D:\\DeskBox).",
+        "Scoop does not remove app data or managed storage on uninstall."
     ],
     "architecture": {
         "64bit": {
