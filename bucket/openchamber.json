@@ -1,12 +1,12 @@
 {
-    "version": "1.23.2",
+    "version": "1.24.0",
     "description": "Desktop and web interface for OpenCode AI agent",
     "homepage": "https://openchamber.dev/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/openchamber/openchamber/releases/download/v1.23.2/OpenChamber-1.23.2-win-x64.exe#/dl.7z",
-            "hash": "sha512:7a8160afa09a7788504590f0ee6ef19680ec36e11ada817a9d3534b8825f54bacc4aa87681ea389f5e957c871d4f3f8bfc426e1f1fff68bb240978b416cee38f"
+            "url": "https://github.com/openchamber/openchamber/releases/download/v1.24.0/OpenChamber-1.24.0-win-x64.exe#/dl.7z",
+            "hash": "sha512:2c96f5562f0976dac69496cdc838373347f5cb3bfeb5df17266678b8dfaa081983e85fd88ea67aae23a390f9dfd687ba5362c3bdffd6d0d289dea3e5d78182c1"
         }
     },
     "installer": {
