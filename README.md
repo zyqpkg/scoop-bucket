@@ -18,20 +18,21 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.67.16 | [github.com](https://github.com/op7418/CodePilot) | 2026-09-18 |
 | [deskbox](bucket/deskbox.json) | A free, open-source Windows desktop organizer with native... | 1.5.4 | [github.com](https://github.com/Tianyu199509/DeskBox) | 2026-09-18 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.7.5 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-09-18 |
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.33.3 | [github.com](https://github.com/zyqfork/llmchat) | 2026-09-18 |
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.9.0 | [github.com](https://github.com/cxasm/notepad--) | 2026-09-18 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.2.5 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-18 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.2.6 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-18 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.24.1 | [openchamber.dev](https://openchamber.dev/) | 2026-09-18 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.56 | [qoder.com](https://qoder.com) | 2026-09-18 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.56 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-18 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.23.3 | [chatboxai.app](https://chatboxai.app/) | 2026-09-17 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.7 | [github.com](https://github.com/Ruszero01/clippi) | 2026-09-17 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.09.01 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-09-17 |
 | [hfs](bucket/hfs.json) | A web file server to run on your computer | 3.3.1 | [rejetto.com](https://rejetto.com/hfs) | 2026-09-17 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.205 | [github.com](https://github.com/stablyai/orca) | 2026-09-17 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.15.0 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-09-17 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.56 | [qoder.com](https://qoder.com) | 2026-09-17 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.56 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-17 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.17 | [github.com](https://github.com/DetachHead/rebased) | 2026-09-17 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.3.0 | [github.com](https://github.com/throneproj/Throne) | 2026-09-17 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.15.11 | [wechat.com](https://www.wechat.com/) | 2026-09-17 |
@@ -69,7 +70,6 @@ scoop install zyqpkg/<app-name>
 | [netcatty](bucket/netcatty.json) | SSH workspace, SFTP, and terminals in one | 1.1.83 | [netcatty.app](https://netcatty.app) | 2026-09-07 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.12.0.37847260 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-09-06 |
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.44.0 | [cursor.com](https://cursor.com/grokbot) | 2026-09-06 |
-| [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.67.16 | [github.com](https://github.com/op7418/CodePilot) | 2026-09-05 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.85.1 | [github.com](https://github.com/earendil-works/pi) | 2026-09-05 |
 | [hermes-desktop](bucket/hermes-desktop.json) | Desktop Companion for Hermes Agent | 0.7.7 | [github.com](https://github.com/fathah/hermes-desktop) | 2026-09-04 |
 | [tailcat](bucket/tailcat.json) | Tailscale without Tailscale — netcat over WireGuard with ... | 0.6.0 | [github.com](https://github.com/tailscale/tailcat) | 2026-09-04 |
