@@ -18,15 +18,15 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.2.5 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-18 |
+| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.24.1 | [openchamber.dev](https://openchamber.dev/) | 2026-09-18 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.23.3 | [chatboxai.app](https://chatboxai.app/) | 2026-09-17 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.7 | [github.com](https://github.com/Ruszero01/clippi) | 2026-09-17 |
-| [deskbox](bucket/deskbox.json) | A free, open-source Windows desktop organizer with native... | 1.5.3 | [github.com](https://github.com/Tianyu199509/DeskBox) | 2026-09-17 |
+| [deskbox](bucket/deskbox.json) | A free, open-source Windows desktop organizer with native... | 1.5.4 | [github.com](https://github.com/Tianyu199509/DeskBox) | 2026-09-17 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.09.01 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-09-17 |
 | [hfs](bucket/hfs.json) | A web file server to run on your computer | 3.3.1 | [rejetto.com](https://rejetto.com/hfs) | 2026-09-17 |
-| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.7.3 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-09-17 |
+| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.7.4 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-09-17 |
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.33.2 | [github.com](https://github.com/zyqfork/llmchat) | 2026-09-17 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.2.5 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-17 |
-| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.24.1 | [openchamber.dev](https://openchamber.dev/) | 2026-09-17 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.205 | [github.com](https://github.com/stablyai/orca) | 2026-09-17 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.15.0 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-09-17 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.55 | [qoder.com](https://qoder.com) | 2026-09-17 |
@@ -82,7 +82,7 @@ scoop install zyqpkg/<app-name>
 | [ztools](bucket/ztools.json) | 高性能、可扩展的应用启动器和插件平台，uTools 的开源实现，支持 macOS 和 Windows | 3.2.0 | [github.com](https://github.com/ZToolsCenter/ZTools) | 2026-08-29 |
 | [screencapture](bucket/screencapture.json) | A feature-rich screen capture software with just a single... | 2.5.15 | [github.com](https://github.com/xland/ScreenCapture) | 2026-08-25 |
 | [wsl-dashboard](bucket/wsl-dashboard.json) | A modern, high-performance, lightweight, and low-memory W... | 0.11.0 | [github.com](https://github.com/owu/wsl-dashboard) | 2026-08-25 |
-| [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.8.3 | [github.com](https://github.com/cxasm/notepad--) | 2026-08-20 |
+| [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.9.0 | [github.com](https://github.com/cxasm/notepad--) | 2026-08-20 |
 | [weasel-nightly](bucket/weasel-nightly.json) | Rime for Windows (Nightly Build) | 0.17.4.50.d73f629 | [rime.im](https://rime.im/) | 2026-08-20 |
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.10 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-08-19 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.4.7 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-08-19 |
