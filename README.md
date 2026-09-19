@@ -21,6 +21,7 @@ scoop install zyqpkg/<app-name>
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.09.18-9a7762b | [cursor.com](https://cursor.com/cli) | 2026-09-19 |
 | [octop](bucket/octop.json) | A smarter, self-hosted AI assistant — multi-user, multi-a... | 1.0.1 | [github.com](https://github.com/TencentCloud/Octop) | 2026-09-19 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.24.2 | [openchamber.dev](https://openchamber.dev/) | 2026-09-19 |
+| [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.15.1 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-09-19 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.58 | [qoder.com](https://qoder.com) | 2026-09-19 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.58 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-19 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.9.19 | [github.com](https://github.com/zyqfork/yaak) | 2026-09-19 |
@@ -36,7 +37,6 @@ scoop install zyqpkg/<app-name>
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.09.01 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-09-17 |
 | [hfs](bucket/hfs.json) | A web file server to run on your computer | 3.3.1 | [rejetto.com](https://rejetto.com/hfs) | 2026-09-17 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.205 | [github.com](https://github.com/stablyai/orca) | 2026-09-17 |
-| [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.15.1 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-09-17 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.17 | [github.com](https://github.com/DetachHead/rebased) | 2026-09-17 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.3.0 | [github.com](https://github.com/throneproj/Throne) | 2026-09-17 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.15.11 | [wechat.com](https://www.wechat.com/) | 2026-09-17 |
