@@ -21,8 +21,8 @@ scoop install zyqpkg/<app-name>
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.09.18-9a7762b | [cursor.com](https://cursor.com/cli) | 2026-09-19 |
 | [octop](bucket/octop.json) | A smarter, self-hosted AI assistant — multi-user, multi-a... | 1.0.1 | [github.com](https://github.com/TencentCloud/Octop) | 2026-09-19 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.24.2 | [openchamber.dev](https://openchamber.dev/) | 2026-09-19 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.57 | [qoder.com](https://qoder.com) | 2026-09-19 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.57 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-19 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.58 | [qoder.com](https://qoder.com) | 2026-09-19 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.58 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-19 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.9.19 | [github.com](https://github.com/zyqfork/yaak) | 2026-09-19 |
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.67.16 | [github.com](https://github.com/op7418/CodePilot) | 2026-09-18 |
 | [deskbox](bucket/deskbox.json) | A free, open-source Windows desktop organizer with native... | 1.5.4 | [github.com](https://github.com/Tianyu199509/DeskBox) | 2026-09-18 |
@@ -41,7 +41,7 @@ scoop install zyqpkg/<app-name>
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.15.11 | [wechat.com](https://www.wechat.com/) | 2026-09-17 |
 | [workbuddy](bucket/workbuddy.json) | WorkBuddy - AI Agent for Everyday Office Work | 5.5.2.37849279-910352f0 | [workbuddy.ai](https://www.workbuddy.ai/) | 2026-09-17 |
 | [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.5.6.38337834-5f969292 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-09-17 |
-| [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.12.3 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-09-17 |
+| [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.14.0 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-09-17 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-09-16-2c29fb29e302 | [herdr.dev](https://herdr.dev) | 2026-09-16 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.42 | [t3.codes](https://t3.codes) | 2026-09-16 |
 | [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.1.1 | [thinkrail.ai](https://thinkrail.ai) | 2026-09-16 |
