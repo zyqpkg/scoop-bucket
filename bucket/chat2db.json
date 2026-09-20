@@ -1,11 +1,11 @@
 {
     "version": "5.3.6",
     "description": "An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.",
-    "homepage": "https://github.com/chat2db/Chat2DB",
+    "homepage": "https://github.com/OtterMind/Chat2DB",
     "license": "NOASSERTION",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/chat2db/Chat2DB/releases/download/v5.3.6/Chat2DB-Community-5.3.6.msi",
+            "url": "https://github.com/OtterMind/Chat2DB/releases/download/v5.3.6/Chat2DB-Community-5.3.6.msi",
             "hash": "1486b2139b8bc857db1faeb6adf6d3fbe0bf9a42ff43eddaa59ca7acee98fbe6"
         }
     },
@@ -19,23 +19,21 @@
         ]
     ],
     "checkver": {
-        "url": "https://github.com/chat2db/Chat2DB/releases",
-        "regex": "/releases/tag/v([\\d.]+)"
+        "github": "https://github.com/OtterMind/Chat2DB"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/chat2db/Chat2DB/releases/download/v$version/Chat2DB-Community-$version.msi"
+                "url": "https://github.com/OtterMind/Chat2DB/releases/download/v$version/Chat2DB-Community-$version.msi"
             }
         },
         "hash": {
-            "url": "$baseurl/SHA256SUMS"
+            "url": "$baseurl/SHA256SUMS",
+            "regex": "(?i)([a-fA-F0-9]{64})\\s+Chat2DB-Community-$version\\.msi"
         }
     },
     "notes": [
-        "【工具类型】: 开发工具",
-        "【主要功能】: 智能SQL客户端和数据库报告工具，集成ChatGPT功能",
-        "【适用场景】: 数据库管理、SQL查询、数据分析",
-        "【技术特点】: 提供图形化界面，支持AI辅助查询"
+        "Chat2DB Community - AI-powered SQL client and database reporting tool.",
+        "Tracks the stable GitHub release channel only; beta/prerelease tags are ignored."
     ]
 }
