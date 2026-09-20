@@ -14,8 +14,18 @@
         }
     },
     "pre_install": [
-        "Get-ChildItem -Path \"$dir\\NyaTerm-portable\" -Force | Move-Item -Destination \"$dir\" -Force",
-        "Remove-Item -Path \"$dir\\NyaTerm-portable\" -Force -Recurse"
+        "$src = Join-Path $dir 'NyaTerm-portable'",
+        "if (Test-Path -LiteralPath $src) {",
+        "    Get-ChildItem -LiteralPath $src -Force | ForEach-Object {",
+        "        # Zip may contain an empty stub named nyaterm-portable; skip it to avoid case-insensitive collision.",
+        "        if ($_.Name -ieq 'nyaterm-portable') {",
+        "            Remove-Item -LiteralPath $_.FullName -Force -ErrorAction SilentlyContinue",
+        "        } else {",
+        "            Move-Item -LiteralPath $_.FullName -Destination $dir -Force",
+        "        }",
+        "    }",
+        "    Remove-Item -LiteralPath $src -Force -Recurse -ErrorAction SilentlyContinue",
+        "}"
     ],
     "bin": "NyaTerm.exe",
     "shortcuts": [
