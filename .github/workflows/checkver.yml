@@ -30,23 +30,46 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
-      - name: Cache Scoop installation
+      - name: Compute cache key
+        id: cache-key
+        shell: pwsh
+        run: |
+          $ErrorActionPreference = 'Stop'
+          $isoWeek = [System.Globalization.ISOWeek]::GetWeekOfYear((Get-Date))
+          "week=$isoWeek" >> $env:GITHUB_OUTPUT
+
+      - name: Cache Scoop core
         uses: actions/cache@v5
         with:
-          path: ~/scoop
-          key: scoop-${{ runner.os }}-${{ hashFiles('.github/workflows/checkver.yml') }}
+          path: |
+            ~/scoop/apps/scoop
+            ~/scoop/shims
+            ~/scoop/.core-refreshed
+          key: scoop-core-${{ runner.os }}-${{ hashFiles('.github/workflows/checkver.yml') }}-w${{ steps.cache-key.outputs.week }}
           restore-keys: |
+            scoop-core-${{ runner.os }}-
             scoop-${{ runner.os }}-
 
       - name: Install Scoop
         shell: pwsh
         run: |
           $ErrorActionPreference = 'Stop'
-          if (-not (Test-Path "$env:USERPROFILE\scoop\apps\scoop\current\bin\scoop.ps1")) {
+          $scoopPs1 = Join-Path $env:USERPROFILE 'scoop\apps\scoop\current\bin\scoop.ps1'
+          if (-not (Test-Path $scoopPs1)) {
             Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser -Force
             Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
+            $scoopPs1 = Join-Path $env:USERPROFILE 'scoop\apps\scoop\current\bin\scoop.ps1'
           }
-          & "$env:USERPROFILE\scoop\apps\scoop\current\bin\scoop.ps1" update
+          # Only refresh Scoop core at most once per day; never update official buckets.
+          $marker = Join-Path $env:USERPROFILE 'scoop\.core-refreshed'
+          $needRefresh = -not (Test-Path $marker) -or
+            ((Get-Date) - (Get-Item $marker).LastWriteTime).TotalHours -ge 24
+          if ($needRefresh) {
+            & $scoopPs1 update scoop
+            New-Item -ItemType File -Path $marker -Force | Out-Null
+          } else {
+            Write-Host "Scoop core refresh skipped (updated within 24h)."
+          }
 
       - name: Run checkver (update manifests with checkver)
         shell: pwsh

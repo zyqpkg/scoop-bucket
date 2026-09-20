@@ -9,6 +9,19 @@ $ErrorActionPreference = 'Stop'
 
 $repoRoot = Split-Path (Split-Path $PSScriptRoot -Parent) -Parent
 
+# One-pass map of last commit date per bucket manifest (git log is newest-first).
+$dateMap = @{}
+$currentDate = $null
+git -C $repoRoot log --format='%ad' --date=short --name-only -- bucket/ | ForEach-Object {
+    if ($_ -match '^\d{4}-\d{2}-\d{2}$') {
+        $currentDate = $_
+    }
+    elseif ($_ -match '^bucket/(?<name>.+)$' -and $currentDate -and -not $dateMap.ContainsKey($Matches['name'])) {
+        $dateMap[$Matches['name']] = $currentDate
+    }
+}
+$today = Get-Date -Format 'yyyy-MM-dd'
+
 $appData = Get-ChildItem -Path $BucketDir -Filter '*.json' | ForEach-Object {
     $manifest = Get-Content $_.FullName -Raw | ConvertFrom-Json
 
@@ -26,8 +39,7 @@ $appData = Get-ChildItem -Path $BucketDir -Filter '*.json' | ForEach-Object {
         $homepageLabel = ''
     }
 
-    $lastUpdated = git -C $repoRoot log --format='%ad' --date=short -- "bucket/$($_.Name)" | Select-Object -First 1
-    if (-not $lastUpdated) { $lastUpdated = (Get-Date -Format 'yyyy-MM-dd') }
+    $lastUpdated = if ($dateMap.ContainsKey($_.Name)) { $dateMap[$_.Name] } else { $today }
 
     [PSCustomObject]@{
         App           = $_.BaseName
