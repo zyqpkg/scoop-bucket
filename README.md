@@ -59,6 +59,7 @@ scoop install zyqpkg/<app-name>
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.50 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-09-14 |
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.5.5.1 | [pixpin.com](https://pixpin.com/) | 2026-09-14 |
 | [scrcpy-gui](bucket/scrcpy-gui.json) | A simple & beautiful GUI application for scrcpy | 2.4.5 | [tomotoes.com](http://tomotoes.com/scrcpy-gui/) | 2026-09-14 |
+| [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the moder... | 2.0.0-preview.1 | [nyaterm.app](https://nyaterm.app) | 2026-09-20 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.10 | [nyaterm.app](https://nyaterm.app) | 2026-09-13 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.17.0 | [pixwit.cn](https://pixwit.cn/) | 2026-09-13 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.3.0 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-09-10 |
