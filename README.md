@@ -46,13 +46,13 @@ scoop install zyqpkg/<app-name>
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.2.6 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-18 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.23.3 | [chatboxai.app](https://chatboxai.app/) | 2026-09-17 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.09.01 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-09-17 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.205 | [github.com](https://github.com/stablyai/orca) | 2026-09-17 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.206 | [github.com](https://github.com/stablyai/orca) | 2026-09-17 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.17 | [github.com](https://github.com/DetachHead/rebased) | 2026-09-17 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.3.0 | [github.com](https://github.com/throneproj/Throne) | 2026-09-17 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.15.11 | [wechat.com](https://www.wechat.com/) | 2026-09-17 |
 | [workbuddy](bucket/workbuddy.json) | WorkBuddy - AI Agent for Everyday Office Work | 5.5.2.37849279-910352f0 | [workbuddy.ai](https://www.workbuddy.ai/) | 2026-09-17 |
 | [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.5.6.38337834-5f969292 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-09-17 |
-| [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-09-16-2c29fb29e302 | [herdr.dev](https://herdr.dev) | 2026-09-16 |
+| [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-09-21-0ff0f27e2226 | [herdr.dev](https://herdr.dev) | 2026-09-16 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.42 | [t3.codes](https://t3.codes) | 2026-09-16 |
 | [flectar-mail](bucket/flectar-mail.json) | A lightweight native email, calendar, and contacts client | 0.1.0-alpha.6 | [github.com](https://github.com/flectar/mail) | 2026-09-15 |
 | [altserver](bucket/altserver.json) | A home for apps that push the boundaries of iOS. No jailb... | 1.8 | [altstore.io](https://altstore.io/) | 2026-09-14 |
