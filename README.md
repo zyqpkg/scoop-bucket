@@ -18,6 +18,7 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.86.1 | [github.com](https://github.com/earendil-works/pi) | 2026-09-21 |
 | [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.6 | [github.com](https://github.com/OtterMind/Chat2DB) | 2026-09-20 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.8 | [github.com](https://github.com/Ruszero01/clippi) | 2026-09-20 |
 | [deepchat](bucket/deepchat.json) | A smart assistant that connects powerful AI to your perso... | 1.1.2 | [github.com](https://github.com/thinkinaixyz/deepchat) | 2026-09-20 |
@@ -28,7 +29,6 @@ scoop install zyqpkg/<app-name>
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.10 | [nyaterm.app](https://nyaterm.app) | 2026-09-20 |
 | [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the mode... | 2.0.0-preview.1 | [nyaterm.app](https://nyaterm.app) | 2026-09-20 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.206 | [github.com](https://github.com/stablyai/orca) | 2026-09-20 |
-| [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.86.1 | [github.com](https://github.com/earendil-works/pi) | 2026-09-20 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.59 | [qoder.com](https://qoder.com) | 2026-09-20 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.59 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-20 |
 | [tailcat](bucket/tailcat.json) | Tailscale without Tailscale — netcat over WireGuard with ... | 0.7.0 | [github.com](https://github.com/tailscale/tailcat) | 2026-09-20 |
