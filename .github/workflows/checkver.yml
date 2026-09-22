@@ -44,7 +44,6 @@ jobs:
           path: |
             ~/scoop/apps/scoop
             ~/scoop/shims
-            ~/scoop/.core-refreshed
           key: scoop-core-${{ runner.os }}-${{ hashFiles('.github/workflows/checkver.yml') }}-w${{ steps.cache-key.outputs.week }}
           restore-keys: |
             scoop-core-${{ runner.os }}-
@@ -54,22 +53,22 @@ jobs:
         shell: pwsh
         run: |
           $ErrorActionPreference = 'Stop'
-          $scoopPs1 = Join-Path $env:USERPROFILE 'scoop\apps\scoop\current\bin\scoop.ps1'
-          if (-not (Test-Path $scoopPs1)) {
+          $scoopRoot = Join-Path $env:USERPROFILE 'scoop'
+          $scoopPs1 = Join-Path $scoopRoot 'apps\scoop\current\bin\scoop.ps1'
+          $checkverPs1 = Join-Path $scoopRoot 'apps\scoop\current\bin\checkver.ps1'
+          if (-not (Test-Path $scoopPs1) -or -not (Test-Path $checkverPs1)) {
             Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser -Force
             Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
-            $scoopPs1 = Join-Path $env:USERPROFILE 'scoop\apps\scoop\current\bin\scoop.ps1'
+            $scoopPs1 = Join-Path $scoopRoot 'apps\scoop\current\bin\scoop.ps1'
+            $checkverPs1 = Join-Path $scoopRoot 'apps\scoop\current\bin\checkver.ps1'
           }
-          # Only refresh Scoop core at most once per day; never update official buckets.
-          $marker = Join-Path $env:USERPROFILE 'scoop\.core-refreshed'
-          $needRefresh = -not (Test-Path $marker) -or
-            ((Get-Date) - (Get-Item $marker).LastWriteTime).TotalHours -ge 24
-          if ($needRefresh) {
-            & $scoopPs1 update scoop
-            New-Item -ItemType File -Path $marker -Force | Out-Null
-          } else {
-            Write-Host "Scoop core refresh skipped (updated within 24h)."
+          # checkver only needs the Scoop scripts. Do NOT run `scoop update` here:
+          # it migrates/updates the official main bucket and fails when the cached
+          # core has no ~/scoop/buckets ('main' bucket not found).
+          if (-not (Test-Path $checkverPs1)) {
+            throw "checkver.ps1 not found at $checkverPs1"
           }
+          Write-Host "Using Scoop core at $scoopPs1 (bucket updates skipped)."
 
       - name: Run checkver (update manifests with checkver)
         shell: pwsh
