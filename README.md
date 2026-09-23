@@ -27,6 +27,7 @@ scoop install zyqpkg/<app-name>
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.62 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-23 |
 | [workbuddy](bucket/workbuddy.json) | WorkBuddy - AI Agent for Everyday Office Work | 5.6.2.39458645-35219ed6 | [workbuddy.ai](https://www.workbuddy.ai/) | 2026-09-23 |
 | [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.6.2.39298511-37a65c0b | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-09-23 |
+| [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.9.23 | [github.com](https://github.com/zyqfork/yaak) | 2026-09-23 |
 | [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.7 | [github.com](https://github.com/OtterMind/Chat2DB) | 2026-09-22 |
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.67.17 | [github.com](https://github.com/op7418/CodePilot) | 2026-09-22 |
 | [deskbox](bucket/deskbox.json) | A free, open-source Windows desktop organizer with native... | 1.5.5 | [github.com](https://github.com/Tianyu199509/DeskBox) | 2026-09-22 |
@@ -47,10 +48,9 @@ scoop install zyqpkg/<app-name>
 | [tailcat](bucket/tailcat.json) | Tailscale without Tailscale — netcat over WireGuard with ... | 0.7.0 | [github.com](https://github.com/tailscale/tailcat) | 2026-09-20 |
 | [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.1.2 | [thinkrail.ai](https://thinkrail.ai) | 2026-09-20 |
 | [thinkrail-desktop](bucket/thinkrail-desktop.json) | The worktree IDE for the pi coding agent (Desktop Edition) | 0.1.2 | [thinkrail.ai](https://thinkrail.ai) | 2026-09-20 |
-| [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.09.18-9a7762b | [cursor.com](https://cursor.com/cli) | 2026-09-19 |
+| [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.09.23-86fc751 | [cursor.com](https://cursor.com/cli) | 2026-09-19 |
 | [octop](bucket/octop.json) | A smarter, self-hosted AI assistant — multi-user, multi-a... | 1.0.1 | [github.com](https://github.com/TencentCloud/Octop) | 2026-09-19 |
-| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 1.24.2 | [openchamber.dev](https://openchamber.dev/) | 2026-09-19 |
-| [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.9.23 | [github.com](https://github.com/zyqfork/yaak) | 2026-09-19 |
+| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.0.0 | [openchamber.dev](https://openchamber.dev/) | 2026-09-19 |
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.33.3 | [github.com](https://github.com/zyqfork/llmchat) | 2026-09-18 |
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.9.0 | [github.com](https://github.com/cxasm/notepad--) | 2026-09-18 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.23.3 | [chatboxai.app](https://chatboxai.app/) | 2026-09-17 |
