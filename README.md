@@ -26,11 +26,11 @@ scoop install zyqpkg/<app-name>
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.15 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-09-22 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.11 | [nyaterm.app](https://nyaterm.app) | 2026-09-22 |
 | [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the mode... | 2.0.0-preview.2 | [nyaterm.app](https://nyaterm.app) | 2026-09-22 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.2.8 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-22 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.2.10 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-22 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.207 | [github.com](https://github.com/stablyai/orca) | 2026-09-22 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.9.1 | [paseo.sh](https://paseo.sh) | 2026-09-22 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.87.1 | [github.com](https://github.com/earendil-works/pi) | 2026-09-22 |
-| [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.15.3 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-09-22 |
+| [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.15.4 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-09-22 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.61 | [qoder.com](https://qoder.com) | 2026-09-22 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.61 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-22 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.18 | [github.com](https://github.com/DetachHead/rebased) | 2026-09-22 |
