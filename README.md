@@ -21,9 +21,9 @@ scoop install zyqpkg/<app-name>
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.09.23-86fc751 | [cursor.com](https://cursor.com/cli) | 2026-09-23 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.7.9 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-09-23 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.14 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-09-23 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.2.11 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-23 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.3.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-23 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.0.0 | [openchamber.dev](https://openchamber.dev/) | 2026-09-23 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.209 | [github.com](https://github.com/stablyai/orca) | 2026-09-23 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.210 | [github.com](https://github.com/stablyai/orca) | 2026-09-23 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.15.6 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-09-23 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.62 | [qoder.com](https://qoder.com) | 2026-09-23 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.62 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-23 |
