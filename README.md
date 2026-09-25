@@ -18,20 +18,23 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.1 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-09-25 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.3.1 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-25 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.211 | [github.com](https://github.com/stablyai/orca) | 2026-09-25 |
+| [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.3.0 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-09-25 |
+| [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.1.3 | [thinkrail.ai](https://thinkrail.ai) | 2026-09-25 |
+| [thinkrail-desktop](bucket/thinkrail-desktop.json) | The worktree IDE for the pi coding agent (Desktop Edition) | 0.1.3 | [thinkrail.ai](https://thinkrail.ai) | 2026-09-25 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.3.1 | [github.com](https://github.com/throneproj/Throne) | 2026-09-25 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.9.25 | [github.com](https://github.com/zyqfork/yaak) | 2026-09-25 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.23.5 | [chatboxai.app](https://chatboxai.app/) | 2026-09-24 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.4.1 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-09-24 |
 | [hfs](bucket/hfs.json) | A web file server to run on your computer | 3.3.3 | [rejetto.com](https://rejetto.com/hfs) | 2026-09-24 |
-| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.0 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-09-24 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.1.70 | [kiro.dev](https://kiro.dev) | 2026-09-24 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.0.1 | [openchamber.dev](https://openchamber.dev/) | 2026-09-24 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.9.2 | [paseo.sh](https://paseo.sh) | 2026-09-24 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.15.7 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-09-24 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.63 | [qoder.com](https://qoder.com) | 2026-09-24 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.63 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-24 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.64 | [qoder.com](https://qoder.com) | 2026-09-24 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.64 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-24 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.09.23-86fc751 | [cursor.com](https://cursor.com/cli) | 2026-09-23 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.14 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-09-23 |
 | [workbuddy](bucket/workbuddy.json) | WorkBuddy - AI Agent for Everyday Office Work | 5.6.2.39458645-35219ed6 | [workbuddy.ai](https://www.workbuddy.ai/) | 2026-09-23 |
@@ -52,8 +55,6 @@ scoop install zyqpkg/<app-name>
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-09-21-0ff0f27e2226 | [herdr.dev](https://herdr.dev) | 2026-09-20 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.20.028 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-09-20 |
 | [tailcat](bucket/tailcat.json) | Tailscale without Tailscale — netcat over WireGuard with ... | 0.7.0 | [github.com](https://github.com/tailscale/tailcat) | 2026-09-20 |
-| [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.1.3 | [thinkrail.ai](https://thinkrail.ai) | 2026-09-20 |
-| [thinkrail-desktop](bucket/thinkrail-desktop.json) | The worktree IDE for the pi coding agent (Desktop Edition) | 0.1.3 | [thinkrail.ai](https://thinkrail.ai) | 2026-09-20 |
 | [octop](bucket/octop.json) | A smarter, self-hosted AI assistant — multi-user, multi-a... | 1.0.1 | [github.com](https://github.com/TencentCloud/Octop) | 2026-09-19 |
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.33.3 | [github.com](https://github.com/zyqfork/llmchat) | 2026-09-18 |
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.9.0 | [github.com](https://github.com/cxasm/notepad--) | 2026-09-18 |
@@ -97,7 +98,6 @@ scoop install zyqpkg/<app-name>
 | [weasel](bucket/weasel.json) | Rime for Windows | 0.17.4 | [rime.im](https://rime.im/) | 2026-08-18 |
 | [websocat](bucket/websocat.json) | A command-line client for WebSockets, like netcat (or cur... | 1.14.1 | [github.com](https://github.com/vi/websocat) | 2026-08-18 |
 | [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.5.0.160 | [github.com](https://github.com/martona/clipp) | 2026-08-17 |
-| [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.3.0 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-08-15 |
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.120.52 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-08-12 |
 | [ContextMenuManager](bucket/ContextMenuManager.json) | 🖱️ 纯粹的 Windows 右键菜单管理程序。A pure Windows context menu mana... | 4.0.0.8 | [github.com](https://github.com/Jack251970/ContextMenuManager) | 2026-08-10 |
 | [innounpacker](bucket/innounpacker.json) | Inno Setup Unpacker | 2.1.8 | [rathlev-home.de](https://www.rathlev-home.de/index-e.html?tools/prog-e.html#unpack) | 2026-07-24 |
