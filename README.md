@@ -18,19 +18,20 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.3.1 | [github.com](https://github.com/throneproj/Throne) | 2026-09-25 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.23.5 | [chatboxai.app](https://chatboxai.app/) | 2026-09-24 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.4.1 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-09-24 |
 | [hfs](bucket/hfs.json) | A web file server to run on your computer | 3.3.3 | [rejetto.com](https://rejetto.com/hfs) | 2026-09-24 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.7.12 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-09-24 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.1.70 | [kiro.dev](https://kiro.dev) | 2026-09-24 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.3.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-24 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.3.1 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-24 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.0.1 | [openchamber.dev](https://openchamber.dev/) | 2026-09-24 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.210 | [github.com](https://github.com/stablyai/orca) | 2026-09-24 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.9.2 | [paseo.sh](https://paseo.sh) | 2026-09-24 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.15.7 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-09-24 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.63 | [qoder.com](https://qoder.com) | 2026-09-24 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.63 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-24 |
-| [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.9.24 | [github.com](https://github.com/zyqfork/yaak) | 2026-09-24 |
+| [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.9.25 | [github.com](https://github.com/zyqfork/yaak) | 2026-09-24 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.09.23-86fc751 | [cursor.com](https://cursor.com/cli) | 2026-09-23 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.14 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-09-23 |
 | [workbuddy](bucket/workbuddy.json) | WorkBuddy - AI Agent for Everyday Office Work | 5.6.2.39458645-35219ed6 | [workbuddy.ai](https://www.workbuddy.ai/) | 2026-09-23 |
@@ -57,7 +58,6 @@ scoop install zyqpkg/<app-name>
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.33.3 | [github.com](https://github.com/zyqfork/llmchat) | 2026-09-18 |
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.9.0 | [github.com](https://github.com/cxasm/notepad--) | 2026-09-18 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.09.01 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-09-17 |
-| [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.3.1 | [github.com](https://github.com/throneproj/Throne) | 2026-09-17 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.42 | [t3.codes](https://t3.codes) | 2026-09-16 |
 | [flectar-mail](bucket/flectar-mail.json) | A lightweight native email, calendar, and contacts client | 0.1.0-alpha.6 | [github.com](https://github.com/flectar/mail) | 2026-09-15 |
 | [altserver](bucket/altserver.json) | A home for apps that push the boundaries of iOS. No jailb... | 1.8 | [altstore.io](https://altstore.io/) | 2026-09-14 |
