@@ -19,7 +19,7 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the mode... | 2.0.0-preview.3 | [nyaterm.app](https://nyaterm.app) | 2026-09-27 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.3.4 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-27 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.3.5 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-27 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.215 | [github.com](https://github.com/stablyai/orca) | 2026-09-27 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.19 | [github.com](https://github.com/DetachHead/rebased) | 2026-09-27 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.9.27 | [github.com](https://github.com/zyqfork/yaak) | 2026-09-27 |
