@@ -18,12 +18,12 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.215 | [github.com](https://github.com/stablyai/orca) | 2026-09-27 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.09.26-dd393fe | [cursor.com](https://cursor.com/cli) | 2026-09-26 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.3.2 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-26 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.3.4 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-26 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.0.2 | [openchamber.dev](https://openchamber.dev/) | 2026-09-26 |
-| [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.9.26 | [github.com](https://github.com/zyqfork/yaak) | 2026-09-26 |
+| [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.9.27 | [github.com](https://github.com/zyqfork/yaak) | 2026-09-26 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.1 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-09-25 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.214 | [github.com](https://github.com/stablyai/orca) | 2026-09-25 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.15.8 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-09-25 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.64 | [qoder.com](https://qoder.com) | 2026-09-25 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.64 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-25 |
@@ -44,9 +44,9 @@ scoop install zyqpkg/<app-name>
 | [deskbox](bucket/deskbox.json) | A free, open-source Windows desktop organizer with native... | 1.5.5 | [github.com](https://github.com/Tianyu199509/DeskBox) | 2026-09-22 |
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 8.1.17 | [feishu.cn](https://www.feishu.cn/) | 2026-09-22 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.11 | [nyaterm.app](https://nyaterm.app) | 2026-09-22 |
-| [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the mode... | 2.0.0-preview.2 | [nyaterm.app](https://nyaterm.app) | 2026-09-22 |
+| [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the mode... | 2.0.0-preview.3 | [nyaterm.app](https://nyaterm.app) | 2026-09-22 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.87.1 | [github.com](https://github.com/earendil-works/pi) | 2026-09-22 |
-| [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.18 | [github.com](https://github.com/DetachHead/rebased) | 2026-09-22 |
+| [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.19 | [github.com](https://github.com/DetachHead/rebased) | 2026-09-22 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.15.13 | [wechat.com](https://www.wechat.com/) | 2026-09-22 |
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.14.1 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-09-22 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.8 | [github.com](https://github.com/Ruszero01/clippi) | 2026-09-20 |
