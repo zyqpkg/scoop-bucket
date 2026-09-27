@@ -23,7 +23,7 @@ scoop install zyqpkg/<app-name>
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.0.2 | [openchamber.dev](https://openchamber.dev/) | 2026-09-26 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.9.26 | [github.com](https://github.com/zyqfork/yaak) | 2026-09-26 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.1 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-09-25 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.212 | [github.com](https://github.com/stablyai/orca) | 2026-09-25 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.214 | [github.com](https://github.com/stablyai/orca) | 2026-09-25 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.15.8 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-09-25 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.64 | [qoder.com](https://qoder.com) | 2026-09-25 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.64 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-25 |
