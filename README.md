@@ -26,7 +26,7 @@ scoop install zyqpkg/<app-name>
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.09.26-dd393fe | [cursor.com](https://cursor.com/cli) | 2026-09-26 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.0.2 | [openchamber.dev](https://openchamber.dev/) | 2026-09-26 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.1 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-09-25 |
-| [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.15.8 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-09-25 |
+| [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.15.9 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-09-25 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.64 | [qoder.com](https://qoder.com) | 2026-09-25 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.64 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-25 |
 | [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.3.0 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-09-25 |
