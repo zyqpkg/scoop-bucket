@@ -37,12 +37,12 @@
     },
     "checkver": {
         "script": [
-            "$detail = $null",
-            "try { $detail = Invoke-WebRequest 'https://url.i4.cn/bUjmeyaa' -MaximumRedirection 0 -ErrorAction Ignore } catch { $detail = $_.Exception.Response }",
-            "if ($detail -and $detail.Headers -and $detail.Headers.Location) { return $detail.Headers.Location.ToString() }",
-            "return ''"
+            "$req = [System.Net.HttpWebRequest]::Create('https://url.i4.cn/bUjmeyaa')",
+            "$req.AllowAutoRedirect = $false",
+            "try { $resp = $req.GetResponse() } catch [System.Net.WebException] { $resp = $_.Response }",
+            "return $resp.Headers['Location']"
         ],
-        "regex": "i4Tools_v([\\d.]+?)_Setup_x64.exe"
+        "regex": "i4Tools_v([\\d.]+?)_Setup_x64\\.exe"
     },
     "autoupdate": {
         "architecture": {
