@@ -13,7 +13,13 @@
             "hash": "2e0d544999a765018ee5c2ff1a8b1a7e0f5d5b6b1e00b32d8c025d6c1dbcc833"
         }
     },
-    "bin": "pi.exe",
+    "pre_install": [
+        "Set-Content \"$dir\\pi.cmd\" -Value '@\"%~dp0pi.exe\" %*' -Encoding ASCII"
+    ],
+    "bin": [
+        "pi.exe",
+        "pi.cmd"
+    ],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
