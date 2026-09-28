@@ -18,7 +18,8 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.4.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-28 |
+| [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.61.0 | [cursor.com](https://cursor.com/grokbot) | 2026-09-28 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.4.1 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-28 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.0.3 | [openchamber.dev](https://openchamber.dev/) | 2026-09-28 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.87.1 | [github.com](https://github.com/earendil-works/pi) | 2026-09-28 |
 | [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the mode... | 2.0.0-preview.3 | [nyaterm.app](https://nyaterm.app) | 2026-09-27 |
@@ -68,7 +69,7 @@ scoop install zyqpkg/<app-name>
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.5.5.1 | [pixpin.com](https://pixpin.com/) | 2026-09-14 |
 | [scrcpy-gui](bucket/scrcpy-gui.json) | A simple & beautiful GUI application for scrcpy | 2.4.5 | [tomotoes.com](http://tomotoes.com/scrcpy-gui/) | 2026-09-14 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.17.0 | [pixwit.cn](https://pixwit.cn/) | 2026-09-13 |
-| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.3.0 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-09-10 |
+| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.4.0 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-09-10 |
 | [pi-app](bucket/pi-app.json) | Desktop app for the pi coding agent runtime with timeline... | 0.5.8 | [github.com](https://github.com/justhil/pi-app) | 2026-09-10 |
 | [aionui](bucket/aionui.json) | Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude ... | 2.2.2 | [aionui.com](https://www.aionui.com) | 2026-09-09 |
 | [gooey-pi](bucket/gooey-pi.json) | GooeyPi - Desktop UI for the pi coding agent | 1.1.17 | [github.com](https://github.com/am-will/gooey-pi) | 2026-09-09 |
@@ -76,7 +77,6 @@ scoop install zyqpkg/<app-name>
 | [fluentcleaner-classic](bucket/fluentcleaner-classic.json) | FluentCleaner Classic - a modern Windows cleanup tool pow... | 1.17.227 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-09-07 |
 | [netcatty](bucket/netcatty.json) | SSH workspace, SFTP, and terminals in one | 1.1.83 | [netcatty.app](https://netcatty.app) | 2026-09-07 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.12.0.37847260 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-09-06 |
-| [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.61.0 | [cursor.com](https://cursor.com/grokbot) | 2026-09-06 |
 | [hermes-desktop](bucket/hermes-desktop.json) | Desktop Companion for Hermes Agent | 0.7.7 | [github.com](https://github.com/fathah/hermes-desktop) | 2026-09-04 |
 | [microsoft-coreutils](bucket/microsoft-coreutils.json) | UNIX-style core utilities for Windows (Microsoft-maintain... | 2026.9.3 | [github.com](https://github.com/microsoft/coreutils) | 2026-09-03 |
 | [escrcpy](bucket/escrcpy.json) | Graphical Scrcpy to display and control Android devices, ... | 3.2.0 | [github.com](https://github.com/viarotel-org/escrcpy) | 2026-09-01 |
