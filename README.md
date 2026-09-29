@@ -18,6 +18,8 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the mode... | 2.0.0-preview.4 | [nyaterm.app](https://nyaterm.app) | 2026-09-29 |
+| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.0.4 | [openchamber.dev](https://openchamber.dev/) | 2026-09-29 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.12.1.39217423 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-09-28 |
 | [codebuddycn](bucket/codebuddycn.json) | An AI-powered IDE | 4.12.1.39217423 | [codebuddy.cn](https://www.codebuddy.cn/ide/) | 2026-09-28 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.4.0 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-09-28 |
@@ -26,20 +28,18 @@ scoop install zyqpkg/<app-name>
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.09.28-64d2043 | [cursor.com](https://cursor.com/cli) | 2026-09-28 |
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.61.0 | [cursor.com](https://cursor.com/grokbot) | 2026-09-28 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-09-28-80c0c07250d2 | [herdr.dev](https://herdr.dev) | 2026-09-28 |
-| [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.20.028 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-09-28 |
+| [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.21.010 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-09-28 |
 | [innounpacker](bucket/innounpacker.json) | Inno Setup Unpacker | 2.2.12.1 | [rathlev-home.de](https://www.rathlev-home.de/index-e.html?tools/prog-e.html#unpack) | 2026-09-28 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.15 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-09-28 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.12 | [nyaterm.app](https://nyaterm.app) | 2026-09-28 |
 | [octop](bucket/octop.json) | A smarter, self-hosted AI assistant — multi-user, multi-a... | 1.0.1 | [github.com](https://github.com/TencentCloud/Octop) | 2026-09-28 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.4.2 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-28 |
-| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.0.4 | [openchamber.dev](https://openchamber.dev/) | 2026-09-28 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.4.3 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-28 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.216 | [github.com](https://github.com/stablyai/orca) | 2026-09-28 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.10.1 | [paseo.sh](https://paseo.sh) | 2026-09-28 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.87.1 | [github.com](https://github.com/earendil-works/pi) | 2026-09-28 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.15.10 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-09-28 |
 | [processon](bucket/processon.json) | ProcessOn is a free online flowchart, mind map, and colla... | 5.14.21 | [processon.com](https://www.processon.com) | 2026-09-28 |
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.14.1 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-09-28 |
-| [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the mode... | 2.0.0-preview.4 | [nyaterm.app](https://nyaterm.app) | 2026-09-27 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.19 | [github.com](https://github.com/DetachHead/rebased) | 2026-09-27 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.9.27 | [github.com](https://github.com/zyqfork/yaak) | 2026-09-27 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.1 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-09-25 |
@@ -60,7 +60,7 @@ scoop install zyqpkg/<app-name>
 | [deskbox](bucket/deskbox.json) | A free, open-source Windows desktop organizer with native... | 1.5.5 | [github.com](https://github.com/Tianyu199509/DeskBox) | 2026-09-22 |
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 8.1.17 | [feishu.cn](https://www.feishu.cn/) | 2026-09-22 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.15.13 | [wechat.com](https://www.wechat.com/) | 2026-09-22 |
-| [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.8 | [github.com](https://github.com/Ruszero01/clippi) | 2026-09-20 |
+| [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.9 | [github.com](https://github.com/Ruszero01/clippi) | 2026-09-20 |
 | [deepchat](bucket/deepchat.json) | A smart assistant that connects powerful AI to your perso... | 1.1.2 | [github.com](https://github.com/thinkinaixyz/deepchat) | 2026-09-20 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.4.8 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-09-20 |
 | [tailcat](bucket/tailcat.json) | Tailscale without Tailscale — netcat over WireGuard with ... | 0.7.0 | [github.com](https://github.com/tailscale/tailcat) | 2026-09-20 |
