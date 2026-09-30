@@ -18,8 +18,11 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.63.0 | [cursor.com](https://cursor.com/grokbot) | 2026-09-30 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.452 | [usemagpie.ai](https://usemagpie.ai/) | 2026-09-30 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.452 | [usemagpie.ai](https://usemagpie.ai/) | 2026-09-30 |
+| [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.10.2 | [paseo.sh](https://paseo.sh) | 2026-09-30 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.9 | [github.com](https://github.com/Ruszero01/clippi) | 2026-09-29 |
-| [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.63.0 | [cursor.com](https://cursor.com/grokbot) | 2026-09-29 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-09-29-9dc3a1df2b56 | [herdr.dev](https://herdr.dev) | 2026-09-29 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.21.010 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-09-29 |
 | [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the mode... | 2.0.0-preview.4 | [nyaterm.app](https://nyaterm.app) | 2026-09-29 |
@@ -39,7 +42,6 @@ scoop install zyqpkg/<app-name>
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.15 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-09-28 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.2.12 | [nyaterm.app](https://nyaterm.app) | 2026-09-28 |
 | [octop](bucket/octop.json) | A smarter, self-hosted AI assistant — multi-user, multi-a... | 1.0.1 | [github.com](https://github.com/TencentCloud/Octop) | 2026-09-28 |
-| [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.10.2 | [paseo.sh](https://paseo.sh) | 2026-09-28 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.15.10 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-09-28 |
 | [processon](bucket/processon.json) | ProcessOn is a free online flowchart, mind map, and colla... | 5.14.21 | [processon.com](https://www.processon.com) | 2026-09-28 |
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.14.1 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-09-28 |
