@@ -19,8 +19,8 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.63.0 | [cursor.com](https://cursor.com/grokbot) | 2026-09-30 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.452 | [usemagpie.ai](https://usemagpie.ai/) | 2026-09-30 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.452 | [usemagpie.ai](https://usemagpie.ai/) | 2026-09-30 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.472 | [usemagpie.ai](https://usemagpie.ai/) | 2026-09-30 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.472 | [usemagpie.ai](https://usemagpie.ai/) | 2026-09-30 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.10.2 | [paseo.sh](https://paseo.sh) | 2026-09-30 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.9 | [github.com](https://github.com/Ruszero01/clippi) | 2026-09-29 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-09-29-9dc3a1df2b56 | [herdr.dev](https://herdr.dev) | 2026-09-29 |
@@ -74,7 +74,7 @@ scoop install zyqpkg/<app-name>
 | [altserver](bucket/altserver.json) | A home for apps that push the boundaries of iOS. No jailb... | 1.8 | [altstore.io](https://altstore.io/) | 2026-09-14 |
 | [ffmpeg-nonfree](bucket/ffmpeg-nonfree.json) | FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimM... | 2026-07-12-12-50-a09be9b-f860bd9 | [github.com](https://github.com/AnimMouse/ffmpeg-autobuild) | 2026-09-14 |
 | [intelligent-terminal](bucket/intelligent-terminal.json) | A fork of Windows Terminal with native agent integration,... | 0.2.2572.0 | [github.com](https://github.com/microsoft/intelligent-terminal) | 2026-09-14 |
-| [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.50 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-09-14 |
+| [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.51 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-09-14 |
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.5.5.1 | [pixpin.com](https://pixpin.com/) | 2026-09-14 |
 | [scrcpy-gui](bucket/scrcpy-gui.json) | A simple & beautiful GUI application for scrcpy | 2.4.5 | [tomotoes.com](http://tomotoes.com/scrcpy-gui/) | 2026-09-14 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.17.0 | [pixwit.cn](https://pixwit.cn/) | 2026-09-13 |
