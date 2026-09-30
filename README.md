@@ -20,10 +20,13 @@ scoop install zyqpkg/<app-name>
 |-----|-------------|---------|----------|--------------|
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.63.0 | [cursor.com](https://cursor.com/grokbot) | 2026-09-30 |
 | [hfs](bucket/hfs.json) | A web file server to run on your computer | 3.3.4 | [rejetto.com](https://rejetto.com/hfs) | 2026-09-30 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.536 | [usemagpie.ai](https://usemagpie.ai/) | 2026-09-30 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.536 | [usemagpie.ai](https://usemagpie.ai/) | 2026-09-30 |
+| [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.2.4 | [kiro.dev](https://kiro.dev) | 2026-09-30 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.550 | [usemagpie.ai](https://usemagpie.ai/) | 2026-09-30 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.550 | [usemagpie.ai](https://usemagpie.ai/) | 2026-09-30 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.51 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-09-30 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.4.5 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-30 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.10.2 | [paseo.sh](https://paseo.sh) | 2026-09-30 |
+| [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.99.2 | [github.com](https://github.com/earendil-works/pi) | 2026-09-30 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.65 | [qoder.com](https://qoder.com) | 2026-09-30 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.65 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-30 |
 | [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.1.4 | [thinkrail.ai](https://thinkrail.ai) | 2026-09-30 |
@@ -33,10 +36,8 @@ scoop install zyqpkg/<app-name>
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-09-29-9dc3a1df2b56 | [herdr.dev](https://herdr.dev) | 2026-09-29 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.21.010 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-09-29 |
 | [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the mode... | 2.0.0-preview.4 | [nyaterm.app](https://nyaterm.app) | 2026-09-29 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.4.5 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-29 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.0.4 | [openchamber.dev](https://openchamber.dev/) | 2026-09-29 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.217 | [github.com](https://github.com/stablyai/orca) | 2026-09-29 |
-| [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.99.2 | [github.com](https://github.com/earendil-works/pi) | 2026-09-29 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.218 | [github.com](https://github.com/stablyai/orca) | 2026-09-29 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.44 | [t3.codes](https://t3.codes) | 2026-09-29 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.3.2 | [github.com](https://github.com/throneproj/Throne) | 2026-09-29 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.12.1.39217423 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-09-28 |
@@ -58,7 +59,6 @@ scoop install zyqpkg/<app-name>
 | [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.3.0 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-09-25 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.23.5 | [chatboxai.app](https://chatboxai.app/) | 2026-09-24 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.4.1 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-09-24 |
-| [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.2.4 | [kiro.dev](https://kiro.dev) | 2026-09-24 |
 | [workbuddy](bucket/workbuddy.json) | WorkBuddy - AI Agent for Everyday Office Work | 5.6.2.39458645-35219ed6 | [workbuddy.ai](https://www.workbuddy.ai/) | 2026-09-23 |
 | [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.6.2.39298511-37a65c0b | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-09-23 |
 | [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.7 | [github.com](https://github.com/OtterMind/Chat2DB) | 2026-09-22 |
@@ -67,7 +67,7 @@ scoop install zyqpkg/<app-name>
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 8.1.17 | [feishu.cn](https://www.feishu.cn/) | 2026-09-22 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.15.13 | [wechat.com](https://www.wechat.com/) | 2026-09-22 |
 | [deepchat](bucket/deepchat.json) | A smart assistant that connects powerful AI to your perso... | 1.1.2 | [github.com](https://github.com/thinkinaixyz/deepchat) | 2026-09-20 |
-| [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.4.8 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-09-20 |
+| [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.5.0 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-09-20 |
 | [tailcat](bucket/tailcat.json) | Tailscale without Tailscale — netcat over WireGuard with ... | 0.7.0 | [github.com](https://github.com/tailscale/tailcat) | 2026-09-20 |
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.33.3 | [github.com](https://github.com/zyqfork/llmchat) | 2026-09-18 |
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.9.0 | [github.com](https://github.com/cxasm/notepad--) | 2026-09-18 |
