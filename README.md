@@ -18,14 +18,15 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
-| [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.5.1 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-09-30 |
+| [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.5.1 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-10-01 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.584 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-01 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.584 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-01 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.4.8 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-01 |
+| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.1.0 | [openchamber.dev](https://openchamber.dev/) | 2026-10-01 |
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.63.0 | [cursor.com](https://cursor.com/grokbot) | 2026-09-30 |
 | [hfs](bucket/hfs.json) | A web file server to run on your computer | 3.3.4 | [rejetto.com](https://rejetto.com/hfs) | 2026-09-30 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.2.4 | [kiro.dev](https://kiro.dev) | 2026-09-30 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.553 | [usemagpie.ai](https://usemagpie.ai/) | 2026-09-30 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.553 | [usemagpie.ai](https://usemagpie.ai/) | 2026-09-30 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.51 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-09-30 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.4.6 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-09-30 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.218 | [github.com](https://github.com/stablyai/orca) | 2026-09-30 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.10.2 | [paseo.sh](https://paseo.sh) | 2026-09-30 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 0.99.2 | [github.com](https://github.com/earendil-works/pi) | 2026-09-30 |
@@ -38,7 +39,6 @@ scoop install zyqpkg/<app-name>
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-09-29-9dc3a1df2b56 | [herdr.dev](https://herdr.dev) | 2026-09-29 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.21.010 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-09-29 |
 | [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the mode... | 2.0.0-preview.4 | [nyaterm.app](https://nyaterm.app) | 2026-09-29 |
-| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.1.0 | [openchamber.dev](https://openchamber.dev/) | 2026-09-29 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.44 | [t3.codes](https://t3.codes) | 2026-09-29 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.3.2 | [github.com](https://github.com/throneproj/Throne) | 2026-09-29 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.12.1.39217423 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-09-28 |
