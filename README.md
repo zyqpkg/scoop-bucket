@@ -18,20 +18,20 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.10.01-e373342 | [cursor.com](https://cursor.com/cli) | 2026-10-02 |
+| [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.66.0 | [cursor.com](https://cursor.com/grokbot) | 2026-10-02 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.644 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-02 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.644 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-02 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.4.10 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-02 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.5.0 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-10-01 |
-| [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.10.01-e373342 | [cursor.com](https://cursor.com/cli) | 2026-10-01 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.5.2 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-10-01 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.3 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-10-01 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.616 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-01 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.616 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-01 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.4.10 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-01 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.1.0 | [openchamber.dev](https://openchamber.dev/) | 2026-10-01 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.0.0 | [github.com](https://github.com/earendil-works/pi) | 2026-10-01 |
 | [pi-app](bucket/pi-app.json) | Desktop app for the pi coding agent runtime with timeline... | 0.6.0 | [github.com](https://github.com/justhil/pi-app) | 2026-10-01 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.16.0 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-10-01 |
 | [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.1.5 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-01 |
 | [thinkrail-desktop](bucket/thinkrail-desktop.json) | The worktree IDE for the pi coding agent (Desktop Edition) | 0.1.5 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-01 |
-| [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.66.0 | [cursor.com](https://cursor.com/grokbot) | 2026-09-30 |
 | [hfs](bucket/hfs.json) | A web file server to run on your computer | 3.3.4 | [rejetto.com](https://rejetto.com/hfs) | 2026-09-30 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.2.4 | [kiro.dev](https://kiro.dev) | 2026-09-30 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.51 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-09-30 |
@@ -58,7 +58,7 @@ scoop install zyqpkg/<app-name>
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.14.1 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-09-28 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.19 | [github.com](https://github.com/DetachHead/rebased) | 2026-09-27 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.9.27 | [github.com](https://github.com/zyqfork/yaak) | 2026-09-27 |
-| [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.3.0 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-09-25 |
+| [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.3.1 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-09-25 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.23.5 | [chatboxai.app](https://chatboxai.app/) | 2026-09-24 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.4.1 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-09-24 |
 | [workbuddy](bucket/workbuddy.json) | WorkBuddy - AI Agent for Everyday Office Work | 5.6.2.39458645-35219ed6 | [workbuddy.ai](https://www.workbuddy.ai/) | 2026-09-23 |
@@ -97,7 +97,7 @@ scoop install zyqpkg/<app-name>
 | [weasel-nightly](bucket/weasel-nightly.json) | Rime for Windows (Nightly Build) | 0.17.4.50.d73f629 | [rime.im](https://rime.im/) | 2026-08-20 |
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.10 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-08-19 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.21 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-08-19 |
-| [rustdesk](bucket/rustdesk.json) | An open-source remote desktop software, written in Rust. | 1.4.9 | [github.com](https://github.com/rustdesk/rustdesk) | 2026-08-19 |
+| [rustdesk](bucket/rustdesk.json) | An open-source remote desktop software, written in Rust. | 1.5.0 | [github.com](https://github.com/rustdesk/rustdesk) | 2026-08-19 |
 | [5ire](bucket/5ire.json) | 5ire is a cross-platform desktop AI assistant, MCP client... | 0.15.4 | [5ire.app](https://5ire.app/) | 2026-08-18 |
 | [bongocat](bucket/bongocat.json) | 跨平台桌宠 BongoCat，为桌面增添乐趣！ | 1.1.0 | [github.com](https://github.com/ayangweb/BongoCat) | 2026-08-18 |
 | [kafkaesque](bucket/kafkaesque.json) | A GUI client for Kafka with features for browsing, produc... | 2.9.7 | [github.com](https://github.com/patschuh/KafkaEsque) | 2026-08-18 |
