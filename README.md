@@ -18,11 +18,12 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.710 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-03 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.710 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-03 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.219 | [github.com](https://github.com/stablyai/orca) | 2026-10-03 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.10.01-e373342 | [cursor.com](https://cursor.com/cli) | 2026-10-02 |
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.66.0 | [cursor.com](https://cursor.com/grokbot) | 2026-10-02 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.692 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-02 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.692 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-02 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.4.12 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-02 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.5.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-02 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.10.3 | [paseo.sh](https://paseo.sh) | 2026-10-02 |
 | [pi-app](bucket/pi-app.json) | Desktop app for the pi coding agent runtime with timeline... | 0.6.2 | [github.com](https://github.com/justhil/pi-app) | 2026-10-02 |
 | [rustdesk](bucket/rustdesk.json) | An open-source remote desktop software, written in Rust. | 1.5.0 | [github.com](https://github.com/rustdesk/rustdesk) | 2026-10-02 |
@@ -39,7 +40,6 @@ scoop install zyqpkg/<app-name>
 | [hfs](bucket/hfs.json) | A web file server to run on your computer | 3.3.4 | [rejetto.com](https://rejetto.com/hfs) | 2026-09-30 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.2.4 | [kiro.dev](https://kiro.dev) | 2026-09-30 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.51 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-09-30 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.219 | [github.com](https://github.com/stablyai/orca) | 2026-09-30 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.65 | [qoder.com](https://qoder.com) | 2026-09-30 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.65 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-30 |
 | [tun2proxy](bucket/tun2proxy.json) |  | 0.8.4 | [github.com](https://github.com/tun2proxy/tun2proxy) | 2026-09-30 |
