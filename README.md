@@ -19,11 +19,11 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.5.3 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-10-03 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.792 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-03 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.792 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-03 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.808 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-03 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.808 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-03 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.6.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-03 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.219 | [github.com](https://github.com/stablyai/orca) | 2026-10-03 |
-| [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.0.1 | [github.com](https://github.com/earendil-works/pi) | 2026-10-03 |
+| [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.0.2 | [github.com](https://github.com/earendil-works/pi) | 2026-10-03 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.10.01-e373342 | [cursor.com](https://cursor.com/cli) | 2026-10-02 |
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.66.0 | [cursor.com](https://cursor.com/grokbot) | 2026-10-02 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.10.3 | [paseo.sh](https://paseo.sh) | 2026-10-02 |
