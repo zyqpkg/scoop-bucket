@@ -18,13 +18,13 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1060 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-05 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1060 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-05 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1072 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-05 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1072 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-05 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.1.1 | [openchamber.dev](https://openchamber.dev/) | 2026-10-05 |
+| [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.0.4 | [github.com](https://github.com/earendil-works/pi) | 2026-10-05 |
 | [ContextMenuManager](bucket/ContextMenuManager.json) | 🖱️ 纯粹的 Windows 右键菜单管理程序。A pure Windows context menu mana... | 4.0.0.9 | [github.com](https://github.com/Jack251970/ContextMenuManager) | 2026-10-04 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.6.1 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-04 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.220 | [github.com](https://github.com/stablyai/orca) | 2026-10-04 |
-| [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.0.3 | [github.com](https://github.com/earendil-works/pi) | 2026-10-04 |
 | [pi-app](bucket/pi-app.json) | Desktop app for the pi coding agent runtime with timeline... | 0.7.0 | [github.com](https://github.com/justhil/pi-app) | 2026-10-04 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.16.1 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-10-04 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.5.3 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-10-03 |
@@ -39,7 +39,7 @@ scoop install zyqpkg/<app-name>
 | [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.1.5 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-01 |
 | [thinkrail-desktop](bucket/thinkrail-desktop.json) | The worktree IDE for the pi coding agent (Desktop Edition) | 0.1.5 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-01 |
 | [hfs](bucket/hfs.json) | A web file server to run on your computer | 3.3.4 | [rejetto.com](https://rejetto.com/hfs) | 2026-09-30 |
-| [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.2.4 | [kiro.dev](https://kiro.dev) | 2026-09-30 |
+| [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.2.37 | [kiro.dev](https://kiro.dev) | 2026-09-30 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.51 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-09-30 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.65 | [qoder.com](https://qoder.com) | 2026-09-30 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.65 | [qoder.com.cn](https://qoder.com.cn) | 2026-09-30 |
@@ -47,7 +47,7 @@ scoop install zyqpkg/<app-name>
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.4.9 | [github.com](https://github.com/Ruszero01/clippi) | 2026-09-29 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-09-29-9dc3a1df2b56 | [herdr.dev](https://herdr.dev) | 2026-09-29 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.21.010 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-09-29 |
-| [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the mode... | 2.0.0-preview.4 | [nyaterm.app](https://nyaterm.app) | 2026-09-29 |
+| [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the mode... | 2.0.0-preview.5 | [nyaterm.app](https://nyaterm.app) | 2026-09-29 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.3.2 | [github.com](https://github.com/throneproj/Throne) | 2026-09-29 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.12.1.39217423 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-09-28 |
 | [codebuddycn](bucket/codebuddycn.json) | An AI-powered IDE | 4.12.1.39217423 | [codebuddy.cn](https://www.codebuddy.cn/ide/) | 2026-09-28 |
