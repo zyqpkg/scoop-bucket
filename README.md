@@ -18,13 +18,13 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.980 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-05 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.980 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-05 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1060 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-05 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1060 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-05 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.1.1 | [openchamber.dev](https://openchamber.dev/) | 2026-10-05 |
 | [ContextMenuManager](bucket/ContextMenuManager.json) | 🖱️ 纯粹的 Windows 右键菜单管理程序。A pure Windows context menu mana... | 4.0.0.9 | [github.com](https://github.com/Jack251970/ContextMenuManager) | 2026-10-04 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.6.1 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-04 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.220 | [github.com](https://github.com/stablyai/orca) | 2026-10-04 |
-| [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.0.2 | [github.com](https://github.com/earendil-works/pi) | 2026-10-04 |
+| [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.0.3 | [github.com](https://github.com/earendil-works/pi) | 2026-10-04 |
 | [pi-app](bucket/pi-app.json) | Desktop app for the pi coding agent runtime with timeline... | 0.7.0 | [github.com](https://github.com/justhil/pi-app) | 2026-10-04 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.16.1 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-10-04 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.5.3 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-10-03 |
