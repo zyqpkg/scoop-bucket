@@ -18,29 +18,29 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.5.1 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-10-06 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.5.4 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-10-06 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1092 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-06 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1092 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-06 |
+| [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.68.1 | [cursor.com](https://cursor.com/grokbot) | 2026-10-06 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1095 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-06 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1095 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-06 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.7.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-06 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.221 | [github.com](https://github.com/stablyai/orca) | 2026-10-06 |
 | [pi-app](bucket/pi-app.json) | Desktop app for the pi coding agent runtime with timeline... | 0.7.3 | [github.com](https://github.com/justhil/pi-app) | 2026-10-06 |
+| [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.1.6 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-06 |
+| [thinkrail-desktop](bucket/thinkrail-desktop.json) | The worktree IDE for the pi coding agent (Desktop Edition) | 0.1.6 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-06 |
 | [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.7.6.40409493-306add2a | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-10-06 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.2.37 | [kiro.dev](https://kiro.dev) | 2026-10-05 |
 | [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the mode... | 2.0.0-preview.5 | [nyaterm.app](https://nyaterm.app) | 2026-10-05 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.1.1 | [openchamber.dev](https://openchamber.dev/) | 2026-10-05 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.0.4 | [github.com](https://github.com/earendil-works/pi) | 2026-10-05 |
 | [ContextMenuManager](bucket/ContextMenuManager.json) | 🖱️ 纯粹的 Windows 右键菜单管理程序。A pure Windows context menu mana... | 4.0.0.9 | [github.com](https://github.com/Jack251970/ContextMenuManager) | 2026-10-04 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.6.3 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-04 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.16.1 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-10-04 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.10.01-e373342 | [cursor.com](https://cursor.com/cli) | 2026-10-02 |
-| [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.68.1 | [cursor.com](https://cursor.com/grokbot) | 2026-10-02 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.10.3 | [paseo.sh](https://paseo.sh) | 2026-10-02 |
 | [rustdesk](bucket/rustdesk.json) | An open-source remote desktop software, written in Rust. | 1.5.0 | [github.com](https://github.com/rustdesk/rustdesk) | 2026-10-02 |
 | [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.3.1 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-10-02 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.45 | [t3.codes](https://t3.codes) | 2026-10-02 |
-| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.5.1 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-10-01 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.3 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-10-01 |
-| [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.1.6 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-01 |
-| [thinkrail-desktop](bucket/thinkrail-desktop.json) | The worktree IDE for the pi coding agent (Desktop Edition) | 0.1.6 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-01 |
 | [hfs](bucket/hfs.json) | A web file server to run on your computer | 3.3.4 | [rejetto.com](https://rejetto.com/hfs) | 2026-09-30 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.51 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-09-30 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.65 | [qoder.com](https://qoder.com) | 2026-09-30 |
