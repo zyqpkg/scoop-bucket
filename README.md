@@ -18,18 +18,18 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1086 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-06 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1086 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-06 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.221 | [github.com](https://github.com/stablyai/orca) | 2026-10-06 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.2.37 | [kiro.dev](https://kiro.dev) | 2026-10-05 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1077 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-05 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1077 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-05 |
 | [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the mode... | 2.0.0-preview.5 | [nyaterm.app](https://nyaterm.app) | 2026-10-05 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.1.1 | [openchamber.dev](https://openchamber.dev/) | 2026-10-05 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.0.4 | [github.com](https://github.com/earendil-works/pi) | 2026-10-05 |
 | [ContextMenuManager](bucket/ContextMenuManager.json) | 🖱️ 纯粹的 Windows 右键菜单管理程序。A pure Windows context menu mana... | 4.0.0.9 | [github.com](https://github.com/Jack251970/ContextMenuManager) | 2026-10-04 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.6.1 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-04 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.221 | [github.com](https://github.com/stablyai/orca) | 2026-10-04 |
-| [pi-app](bucket/pi-app.json) | Desktop app for the pi coding agent runtime with timeline... | 0.7.0 | [github.com](https://github.com/justhil/pi-app) | 2026-10-04 |
+| [pi-app](bucket/pi-app.json) | Desktop app for the pi coding agent runtime with timeline... | 0.7.1 | [github.com](https://github.com/justhil/pi-app) | 2026-10-04 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.16.1 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-10-04 |
-| [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.5.3 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-10-03 |
+| [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.5.4 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-10-03 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.10.01-e373342 | [cursor.com](https://cursor.com/cli) | 2026-10-02 |
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.66.0 | [cursor.com](https://cursor.com/grokbot) | 2026-10-02 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.10.3 | [paseo.sh](https://paseo.sh) | 2026-10-02 |
@@ -64,7 +64,7 @@ scoop install zyqpkg/<app-name>
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.23.5 | [chatboxai.app](https://chatboxai.app/) | 2026-09-24 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.4.1 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-09-24 |
 | [workbuddy](bucket/workbuddy.json) | WorkBuddy - AI Agent for Everyday Office Work | 5.6.2.39458645-35219ed6 | [workbuddy.ai](https://www.workbuddy.ai/) | 2026-09-23 |
-| [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.6.2.39298511-37a65c0b | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-09-23 |
+| [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.7.6.40409493-306add2a | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-09-23 |
 | [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.7 | [github.com](https://github.com/OtterMind/Chat2DB) | 2026-09-22 |
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.67.17 | [github.com](https://github.com/op7418/CodePilot) | 2026-09-22 |
 | [deskbox](bucket/deskbox.json) | A free, open-source Windows desktop organizer with native... | 1.5.5 | [github.com](https://github.com/Tianyu199509/DeskBox) | 2026-09-22 |
