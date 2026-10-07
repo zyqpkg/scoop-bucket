@@ -1,5 +1,5 @@
 {
-    "version": "0.10.3",
+    "version": "0.11.0",
     "description": "Coding agents from your phone, desktop and CLI (Desktop Edition)",
     "homepage": "https://paseo.sh",
     "license": "AGPL-3.0-only",
@@ -14,12 +14,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/getpaseo/paseo/releases/download/v0.10.3/Paseo-Setup-0.10.3-x64.exe#/dl.7z",
-            "hash": "sha512:d5742d03b042d356f8b0773259a7af06e32dac15c903eb159a1bf21de9f119a3a548be7ef64fb8fa2fbb369653047971b944ed731e7356115a2bc6436dd42499"
+            "url": "https://github.com/getpaseo/paseo/releases/download/v0.11.0/Paseo-Setup-0.11.0-x64.exe#/dl.7z",
+            "hash": "sha512:32dca74a7e041a7fcec55893febbe7cf35516d15459a0924c8871767a8547eeabb24dd1353bb2765ec827756998323baf6cabc2d33ce122610f31ce6b927fc44"
         },
         "arm64": {
-            "url": "https://github.com/getpaseo/paseo/releases/download/v0.10.3/Paseo-Setup-0.10.3-arm64.exe#/dl.7z",
-            "hash": "sha512:7efe44d6f0d5c0fb8dbe5c1d0995f1284fca8db7f91858d7b6baba83341916959c59ad406eeabfe80e2cdeae893ebbb1c11c2210cf4ce86f5af9d67fb22d4456"
+            "url": "https://github.com/getpaseo/paseo/releases/download/v0.11.0/Paseo-Setup-0.11.0-arm64.exe#/dl.7z",
+            "hash": "sha512:321e7b235e0baafc9c8d9718ab2389c8571fa658c726ee604f608c14b84c7d65d56869f61d812fbbdb8596357e6937b8f81e126f9c3eb03fb9addfb2ede4e2be"
         }
     },
     "installer": {
