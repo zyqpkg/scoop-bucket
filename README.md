@@ -18,12 +18,12 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1115 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-08 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1115 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-08 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.6.0 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-10-07 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.8 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-10-07 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1109 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-07 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1109 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-07 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.3.0 | [nyaterm.app](https://nyaterm.app) | 2026-10-07 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.8.3 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-07 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.8.4 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-07 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.222 | [github.com](https://github.com/stablyai/orca) | 2026-10-07 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.11.1 | [paseo.sh](https://paseo.sh) | 2026-10-07 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.1.0 | [github.com](https://github.com/earendil-works/pi) | 2026-10-07 |
