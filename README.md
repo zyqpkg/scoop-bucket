@@ -24,8 +24,8 @@ scoop install zyqpkg/<app-name>
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.7.0 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-10-08 |
 | [flectar-mail](bucket/flectar-mail.json) | A lightweight native email, calendar, and contacts client | 0.1.0-alpha.7 | [github.com](https://github.com/flectar/mail) | 2026-10-08 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.2.56 | [kiro.dev](https://kiro.dev) | 2026-10-08 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1128 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-08 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1128 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-08 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1130 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-08 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1130 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-08 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.8.6 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-08 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.2.0 | [openchamber.dev](https://openchamber.dev/) | 2026-10-08 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.223 | [github.com](https://github.com/stablyai/orca) | 2026-10-08 |
