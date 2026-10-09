@@ -18,18 +18,23 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [mangodisk](bucket/mangodisk.json) | Safety-first disk cleaner and space analyzer, with duplic... | 1.1.7 | [mangodisk.app](https://mangodisk.app/) | 2026-10-09 |
+| [mangodisk-cli](bucket/mangodisk-cli.json) | Command-line interface for MangoDisk — safety-first disk ... | 1.1.7 | [mangodisk.app](https://mangodisk.app/) | 2026-10-09 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.4.2 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-10-08 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.7.0 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-10-08 |
+| [flectar-mail](bucket/flectar-mail.json) | A lightweight native email, calendar, and contacts client | 0.1.0-alpha.7 | [github.com](https://github.com/flectar/mail) | 2026-10-08 |
+| [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.2.56 | [kiro.dev](https://kiro.dev) | 2026-10-08 |
 | [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1128 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-08 |
 | [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1128 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-08 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.8.6 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-08 |
+| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.2.0 | [openchamber.dev](https://openchamber.dev/) | 2026-10-08 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.223 | [github.com](https://github.com/stablyai/orca) | 2026-10-08 |
 | [pi-app](bucket/pi-app.json) | Desktop app for the pi coding agent runtime with timeline... | 0.7.4 | [github.com](https://github.com/justhil/pi-app) | 2026-10-08 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.66 | [qoder.com](https://qoder.com) | 2026-10-08 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.66 | [qoder.com.cn](https://qoder.com.cn) | 2026-10-08 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.15.50 | [wechat.com](https://www.wechat.com/) | 2026-10-08 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.8 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-10-07 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.3.0 | [nyaterm.app](https://nyaterm.app) | 2026-10-07 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.223 | [github.com](https://github.com/stablyai/orca) | 2026-10-07 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.11.1 | [paseo.sh](https://paseo.sh) | 2026-10-07 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.1.0 | [github.com](https://github.com/earendil-works/pi) | 2026-10-07 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.17.0 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-10-07 |
@@ -41,9 +46,7 @@ scoop install zyqpkg/<app-name>
 | [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.1.6 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-06 |
 | [thinkrail-desktop](bucket/thinkrail-desktop.json) | The worktree IDE for the pi coding agent (Desktop Edition) | 0.1.6 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-06 |
 | [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.7.6.40409493-306add2a | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-10-06 |
-| [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.2.56 | [kiro.dev](https://kiro.dev) | 2026-10-05 |
 | [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the mode... | 2.0.0-preview.5 | [nyaterm.app](https://nyaterm.app) | 2026-10-05 |
-| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.2.0 | [openchamber.dev](https://openchamber.dev/) | 2026-10-05 |
 | [ContextMenuManager](bucket/ContextMenuManager.json) | 🖱️ 纯粹的 Windows 右键菜单管理程序。A pure Windows context menu mana... | 4.0.0.9 | [github.com](https://github.com/Jack251970/ContextMenuManager) | 2026-10-04 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.10.01-e373342 | [cursor.com](https://cursor.com/cli) | 2026-10-02 |
 | [rustdesk](bucket/rustdesk.json) | An open-source remote desktop software, written in Rust. | 1.5.0 | [github.com](https://github.com/rustdesk/rustdesk) | 2026-10-02 |
@@ -75,7 +78,6 @@ scoop install zyqpkg/<app-name>
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.33.3 | [github.com](https://github.com/zyqfork/llmchat) | 2026-09-18 |
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.9.0 | [github.com](https://github.com/cxasm/notepad--) | 2026-09-18 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.09.01 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-09-17 |
-| [flectar-mail](bucket/flectar-mail.json) | A lightweight native email, calendar, and contacts client | 0.1.0-alpha.7 | [github.com](https://github.com/flectar/mail) | 2026-09-15 |
 | [altserver](bucket/altserver.json) | A home for apps that push the boundaries of iOS. No jailb... | 1.8 | [altstore.io](https://altstore.io/) | 2026-09-14 |
 | [ffmpeg-nonfree](bucket/ffmpeg-nonfree.json) | FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimM... | 2026-07-12-12-50-a09be9b-f860bd9 | [github.com](https://github.com/AnimMouse/ffmpeg-autobuild) | 2026-09-14 |
 | [intelligent-terminal](bucket/intelligent-terminal.json) | A fork of Windows Terminal with native agent integration,... | 0.2.2572.0 | [github.com](https://github.com/microsoft/intelligent-terminal) | 2026-09-14 |
