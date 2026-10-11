@@ -18,12 +18,12 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
-| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.7.5 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-10-10 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1184 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-11 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1184 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-11 |
+| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.7.6 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-10-10 |
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.11 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-10-10 |
 | [escrcpy](bucket/escrcpy.json) | Graphical Scrcpy to display and control Android devices, ... | 3.3.1 | [github.com](https://github.com/viarotel-org/escrcpy) | 2026-10-10 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1180 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-10 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1180 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-10 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.8.9 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-10 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.9.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-10 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.224 | [github.com](https://github.com/stablyai/orca) | 2026-10-10 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.18.0 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-10-10 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.68 | [qoder.com](https://qoder.com) | 2026-10-10 |
@@ -38,7 +38,7 @@ scoop install zyqpkg/<app-name>
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.11.2 | [paseo.sh](https://paseo.sh) | 2026-10-09 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.1.0 | [github.com](https://github.com/earendil-works/pi) | 2026-10-09 |
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.121.3 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-10-09 |
-| [weasel-nightly](bucket/weasel-nightly.json) | Rime for Windows (Nightly Build) | 0.17.4.79.6f9e012 | [rime.im](https://rime.im/) | 2026-10-09 |
+| [weasel-nightly](bucket/weasel-nightly.json) | Rime for Windows (Nightly Build) | 0.17.4.81.87a2d74 | [rime.im](https://rime.im/) | 2026-10-09 |
 | [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.7.7.40774747-2e8619da | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-10-09 |
 | [flectar-mail](bucket/flectar-mail.json) | A lightweight native email, calendar, and contacts client | 0.1.0-alpha.7 | [github.com](https://github.com/flectar/mail) | 2026-10-08 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.2.56 | [kiro.dev](https://kiro.dev) | 2026-10-08 |
@@ -70,7 +70,7 @@ scoop install zyqpkg/<app-name>
 | [codebuddycn](bucket/codebuddycn.json) | An AI-powered IDE | 4.12.1.39217423 | [codebuddy.cn](https://www.codebuddy.cn/ide/) | 2026-09-28 |
 | [codux](bucket/codux.json) | The high-performance AI coding terminal — desktop workspa... | 2.0.3 | [github.com](https://github.com/duxweb/codux) | 2026-09-28 |
 | [codux-agent](bucket/codux-agent.json) | Codux headless host agent for remote terminals, Git, and ... | 2.0.3 | [github.com](https://github.com/duxweb/codux) | 2026-09-28 |
-| [innounpacker](bucket/innounpacker.json) | Inno Setup Unpacker | 2.2.12.1 | [rathlev-home.de](https://www.rathlev-home.de/index-e.html?tools/prog-e.html#unpack) | 2026-09-28 |
+| [innounpacker](bucket/innounpacker.json) | Inno Setup Unpacker | 2.2.13 | [rathlev-home.de](https://www.rathlev-home.de/index-e.html?tools/prog-e.html#unpack) | 2026-09-28 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.15 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-09-28 |
 | [octop](bucket/octop.json) | A smarter, self-hosted AI assistant — multi-user, multi-a... | 1.0.1 | [github.com](https://github.com/TencentCloud/Octop) | 2026-09-28 |
 | [processon](bucket/processon.json) | ProcessOn is a free online flowchart, mind map, and colla... | 5.14.21 | [processon.com](https://www.processon.com) | 2026-09-28 |
@@ -81,7 +81,7 @@ scoop install zyqpkg/<app-name>
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 8.1.17 | [feishu.cn](https://www.feishu.cn/) | 2026-09-22 |
 | [tailcat](bucket/tailcat.json) | Tailscale without Tailscale — netcat over WireGuard with ... | 0.7.0 | [github.com](https://github.com/tailscale/tailcat) | 2026-09-20 |
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.33.3 | [github.com](https://github.com/zyqfork/llmchat) | 2026-09-18 |
-| [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.9.0 | [github.com](https://github.com/cxasm/notepad--) | 2026-09-18 |
+| [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.9.1 | [github.com](https://github.com/cxasm/notepad--) | 2026-09-18 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.09.01 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-09-17 |
 | [altserver](bucket/altserver.json) | A home for apps that push the boundaries of iOS. No jailb... | 1.8 | [altstore.io](https://altstore.io/) | 2026-09-14 |
 | [ffmpeg-nonfree](bucket/ffmpeg-nonfree.json) | FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimM... | 2026-07-12-12-50-a09be9b-f860bd9 | [github.com](https://github.com/AnimMouse/ffmpeg-autobuild) | 2026-09-14 |
