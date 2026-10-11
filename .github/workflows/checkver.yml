@@ -6,8 +6,8 @@ on:
     branches: [ main, master ]
     paths: [ bucket/** ]
   schedule:
-    # 每小时运行一次
-    - cron: '0 * * * *'
+    # 每小时运行一次（避开整点 00/15/30/45 分高峰以减少调度延迟和丢弃）
+    - cron: '23 * * * *'
   workflow_dispatch:
     # 支持手动触发
 
