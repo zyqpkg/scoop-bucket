@@ -20,8 +20,8 @@ scoop install zyqpkg/<app-name>
 |-----|-------------|---------|----------|--------------|
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.7.6 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-10-11 |
 | [innounpacker](bucket/innounpacker.json) | Inno Setup Unpacker | 2.2.13 | [rathlev-home.de](https://www.rathlev-home.de/index-e.html?tools/prog-e.html#unpack) | 2026-10-11 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1199 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-11 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1199 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-11 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1203 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-11 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1203 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-11 |
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.9.1 | [github.com](https://github.com/cxasm/notepad--) | 2026-10-11 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.9.2 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-11 |
 | [pi-app](bucket/pi-app.json) | Desktop app for the pi coding agent runtime with timeline... | 0.7.5 | [github.com](https://github.com/justhil/pi-app) | 2026-10-11 |
