@@ -18,17 +18,18 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.10.12-d47ca18 | [cursor.com](https://cursor.com/cli) | 2026-10-14 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1230 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-14 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1230 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-14 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.8.0 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-10-13 |
 | [deskbox](bucket/deskbox.json) | A free, open-source Windows desktop organizer with native... | 1.5.7 | [github.com](https://github.com/Tianyu199509/DeskBox) | 2026-10-13 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.9 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-10-13 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.3.0 | [kiro.dev](https://kiro.dev) | 2026-10-13 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1230 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-13 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1230 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-13 |
 | [mangodisk](bucket/mangodisk.json) | Safety-first disk cleaner and space analyzer, with duplic... | 1.1.8 | [mangodisk.app](https://mangodisk.app/) | 2026-10-13 |
 | [mangodisk-cli](bucket/mangodisk-cli.json) | Command-line interface for MangoDisk — safety-first disk ... | 1.1.8 | [mangodisk.app](https://mangodisk.app/) | 2026-10-13 |
 | [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the mode... | 2.0.0-preview.6 | [nyaterm.app](https://nyaterm.app) | 2026-10-13 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.10.4 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-13 |
-| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.3.1 | [openchamber.dev](https://openchamber.dev/) | 2026-10-13 |
+| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.3.2 | [openchamber.dev](https://openchamber.dev/) | 2026-10-13 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.2.0 | [github.com](https://github.com/earendil-works/pi) | 2026-10-13 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.20.1 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-10-13 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.70 | [qoder.com](https://qoder.com) | 2026-10-13 |
@@ -60,7 +61,6 @@ scoop install zyqpkg/<app-name>
 | [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.1.6 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-06 |
 | [thinkrail-desktop](bucket/thinkrail-desktop.json) | The worktree IDE for the pi coding agent (Desktop Edition) | 0.1.6 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-06 |
 | [ContextMenuManager](bucket/ContextMenuManager.json) | 🖱️ 纯粹的 Windows 右键菜单管理程序。A pure Windows context menu mana... | 4.0.0.9 | [github.com](https://github.com/Jack251970/ContextMenuManager) | 2026-10-04 |
-| [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.10.12-d47ca18 | [cursor.com](https://cursor.com/cli) | 2026-10-02 |
 | [rustdesk](bucket/rustdesk.json) | An open-source remote desktop software, written in Rust. | 1.5.0 | [github.com](https://github.com/rustdesk/rustdesk) | 2026-10-02 |
 | [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.3.1 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-10-02 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.0.45 | [t3.codes](https://t3.codes) | 2026-10-02 |
