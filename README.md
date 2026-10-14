@@ -18,9 +18,10 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
-| [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.10.12-d47ca18 | [cursor.com](https://cursor.com/cli) | 2026-10-14 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1230 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-14 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1230 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-14 |
+| [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.10.14-0f9edde | [cursor.com](https://cursor.com/cli) | 2026-10-14 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1231 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-14 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1231 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-14 |
+| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.3.2 | [openchamber.dev](https://openchamber.dev/) | 2026-10-14 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.8.0 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-10-13 |
 | [deskbox](bucket/deskbox.json) | A free, open-source Windows desktop organizer with native... | 1.5.7 | [github.com](https://github.com/Tianyu199509/DeskBox) | 2026-10-13 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.9 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-10-13 |
@@ -29,12 +30,11 @@ scoop install zyqpkg/<app-name>
 | [mangodisk-cli](bucket/mangodisk-cli.json) | Command-line interface for MangoDisk — safety-first disk ... | 1.1.8 | [mangodisk.app](https://mangodisk.app/) | 2026-10-13 |
 | [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the mode... | 2.0.0-preview.6 | [nyaterm.app](https://nyaterm.app) | 2026-10-13 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.10.4 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-13 |
-| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.3.2 | [openchamber.dev](https://openchamber.dev/) | 2026-10-13 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.2.0 | [github.com](https://github.com/earendil-works/pi) | 2026-10-13 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.20.1 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-10-13 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.70 | [qoder.com](https://qoder.com) | 2026-10-13 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.70 | [qoder.com.cn](https://qoder.com.cn) | 2026-10-13 |
-| [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.5.0 | [github.com](https://github.com/Ruszero01/clippi) | 2026-10-12 |
+| [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.5.1 | [github.com](https://github.com/Ruszero01/clippi) | 2026-10-12 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.5.6 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-10-12 |
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.70.2 | [cursor.com](https://cursor.com/grokbot) | 2026-10-12 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-10-12-6d697e1e75ff | [herdr.dev](https://herdr.dev) | 2026-10-12 |
@@ -52,7 +52,7 @@ scoop install zyqpkg/<app-name>
 | [deepchat](bucket/deepchat.json) | A smart assistant that connects powerful AI to your perso... | 1.1.3 | [github.com](https://github.com/thinkinaixyz/deepchat) | 2026-10-09 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.11.2 | [paseo.sh](https://paseo.sh) | 2026-10-09 |
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.121.3 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-10-09 |
-| [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.7.7.40774747-2e8619da | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-10-09 |
+| [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.8.2.41111488-b8f6c953 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-10-09 |
 | [flectar-mail](bucket/flectar-mail.json) | A lightweight native email, calendar, and contacts client | 0.1.0-alpha.7 | [github.com](https://github.com/flectar/mail) | 2026-10-08 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.3.0 | [nyaterm.app](https://nyaterm.app) | 2026-10-07 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.20 | [github.com](https://github.com/DetachHead/rebased) | 2026-10-07 |
