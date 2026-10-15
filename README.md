@@ -18,8 +18,9 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1248 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-15 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1248 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-15 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1250 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-15 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1250 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-15 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.226 | [github.com](https://github.com/stablyai/orca) | 2026-10-15 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.5.1 | [github.com](https://github.com/Ruszero01/clippi) | 2026-10-14 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.12.2.41207131 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-10-14 |
 | [codebuddycn](bucket/codebuddycn.json) | An AI-powered IDE | 4.12.2.41207131 | [codebuddy.cn](https://www.codebuddy.cn/ide/) | 2026-10-14 |
@@ -31,7 +32,6 @@ scoop install zyqpkg/<app-name>
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.10 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-10-14 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.11.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-14 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.3.3 | [openchamber.dev](https://openchamber.dev/) | 2026-10-14 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.226 | [github.com](https://github.com/stablyai/orca) | 2026-10-14 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.71 | [qoder.com](https://qoder.com) | 2026-10-14 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.71 | [qoder.com.cn](https://qoder.com.cn) | 2026-10-14 |
 | [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.8.2.41111488-b8f6c953 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-10-14 |
@@ -42,7 +42,7 @@ scoop install zyqpkg/<app-name>
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.2.0 | [github.com](https://github.com/earendil-works/pi) | 2026-10-13 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.20.1 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-10-13 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.5.6 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-10-12 |
-| [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.70.2 | [cursor.com](https://cursor.com/grokbot) | 2026-10-12 |
+| [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.71.2 | [cursor.com](https://cursor.com/grokbot) | 2026-10-12 |
 | [weasel-nightly](bucket/weasel-nightly.json) | Rime for Windows (Nightly Build) | 0.17.4.92.4aea197 | [rime.im](https://rime.im/) | 2026-10-12 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.15.53 | [wechat.com](https://www.wechat.com/) | 2026-10-12 |
 | [innounpacker](bucket/innounpacker.json) | Inno Setup Unpacker | 2.2.13 | [rathlev-home.de](https://www.rathlev-home.de/index-e.html?tools/prog-e.html#unpack) | 2026-10-11 |
