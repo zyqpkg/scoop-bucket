@@ -18,6 +18,8 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1248 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-15 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1248 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-15 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.5.1 | [github.com](https://github.com/Ruszero01/clippi) | 2026-10-14 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.12.2.41207131 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-10-14 |
 | [codebuddycn](bucket/codebuddycn.json) | An AI-powered IDE | 4.12.2.41207131 | [codebuddy.cn](https://www.codebuddy.cn/ide/) | 2026-10-14 |
@@ -27,11 +29,9 @@ scoop install zyqpkg/<app-name>
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 8.2.14 | [feishu.cn](https://www.feishu.cn/) | 2026-10-14 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-10-14-fbd2ae23927f | [herdr.dev](https://herdr.dev) | 2026-10-14 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.10 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-10-14 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1245 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-14 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1245 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-14 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.11.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-14 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.3.3 | [openchamber.dev](https://openchamber.dev/) | 2026-10-14 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.225 | [github.com](https://github.com/stablyai/orca) | 2026-10-14 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.226 | [github.com](https://github.com/stablyai/orca) | 2026-10-14 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.71 | [qoder.com](https://qoder.com) | 2026-10-14 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.71 | [qoder.com.cn](https://qoder.com.cn) | 2026-10-14 |
 | [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.8.2.41111488-b8f6c953 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-10-14 |
