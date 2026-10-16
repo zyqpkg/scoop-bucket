@@ -18,12 +18,14 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1265 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-16 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1265 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-16 |
+| [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.22 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-10-16 |
+| [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.1.0 | [t3.codes](https://t3.codes) | 2026-10-16 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.5.7 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-10-15 |
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.71.2 | [cursor.com](https://cursor.com/grokbot) | 2026-10-15 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.12 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-10-15 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.3.11 | [kiro.dev](https://kiro.dev) | 2026-10-15 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1264 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-15 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1264 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-15 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.11.1 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-15 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.224 | [github.com](https://github.com/stablyai/orca) | 2026-10-15 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.11.4 | [paseo.sh](https://paseo.sh) | 2026-10-15 |
@@ -66,7 +68,6 @@ scoop install zyqpkg/<app-name>
 | [ContextMenuManager](bucket/ContextMenuManager.json) | 🖱️ 纯粹的 Windows 右键菜单管理程序。A pure Windows context menu mana... | 4.0.0.9 | [github.com](https://github.com/Jack251970/ContextMenuManager) | 2026-10-04 |
 | [rustdesk](bucket/rustdesk.json) | An open-source remote desktop software, written in Rust. | 1.5.0 | [github.com](https://github.com/rustdesk/rustdesk) | 2026-10-02 |
 | [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.3.1 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-10-02 |
-| [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.1.0 | [t3.codes](https://t3.codes) | 2026-10-02 |
 | [hfs](bucket/hfs.json) | A web file server to run on your computer | 3.3.4 | [rejetto.com](https://rejetto.com/hfs) | 2026-09-30 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.51 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-09-30 |
 | [tun2proxy](bucket/tun2proxy.json) |  | 0.8.4 | [github.com](https://github.com/tun2proxy/tun2proxy) | 2026-09-30 |
@@ -101,7 +102,6 @@ scoop install zyqpkg/<app-name>
 | [gost](bucket/gost.json) | GO Simple Tunnel - 多协议隧道与代理，支持 HTTP/SOCKS5/Shadowsocks/端口... | 3.3.0 | [github.com](https://github.com/go-gost/gost) | 2026-08-30 |
 | [ztools](bucket/ztools.json) | 高性能、可扩展的应用启动器和插件平台，uTools 的开源实现，支持 macOS 和 Windows | 3.2.0 | [github.com](https://github.com/ZToolsCenter/ZTools) | 2026-08-29 |
 | [screencapture](bucket/screencapture.json) | A feature-rich screen capture software with just a single... | 2.5.15 | [github.com](https://github.com/xland/ScreenCapture) | 2026-08-25 |
-| [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.22 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-08-19 |
 | [5ire](bucket/5ire.json) | 5ire is a cross-platform desktop AI assistant, MCP client... | 0.15.4 | [5ire.app](https://5ire.app/) | 2026-08-18 |
 | [bongocat](bucket/bongocat.json) | 跨平台桌宠 BongoCat，为桌面增添乐趣！ | 1.1.0 | [github.com](https://github.com/ayangweb/BongoCat) | 2026-08-18 |
 | [kafkaesque](bucket/kafkaesque.json) | A GUI client for Kafka with features for browsing, produc... | 2.9.7 | [github.com](https://github.com/patschuh/KafkaEsque) | 2026-08-18 |
