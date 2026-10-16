@@ -12,18 +12,20 @@
     "installer": {
         "script": [
             "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
-            "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\Uninstall*\", \"$dir\\`$R0\" -Force -Recurse -ErrorAction SilentlyContinue"
+            "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\Uninstall*\", \"$dir\\`$R0\" -Force -Recurse -ErrorAction SilentlyContinue",
+            "$exe = Get-ChildItem \"$dir\\T3 Code*.exe\" -ErrorAction SilentlyContinue | Select-Object -First 1",
+            "if ($exe) { Rename-Item $exe.FullName 'T3 Code.exe' -Force }"
         ]
     },
     "bin": [
         [
-            "T3 Code (Alpha).exe",
+            "T3 Code.exe",
             "t3code"
         ]
     ],
     "shortcuts": [
         [
-            "T3 Code (Alpha).exe",
+            "T3 Code.exe",
             "T3 Code"
         ]
     ],
