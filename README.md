@@ -20,14 +20,16 @@ scoop install zyqpkg/<app-name>
 |-----|-------------|---------|----------|--------------|
 | [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1267 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-16 |
 | [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1267 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-16 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.227 | [github.com](https://github.com/stablyai/orca) | 2026-10-16 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.22 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-10-16 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.1.0 | [t3.codes](https://t3.codes) | 2026-10-16 |
+| [tun2proxy](bucket/tun2proxy.json) |  | 0.8.5 | [github.com](https://github.com/tun2proxy/tun2proxy) | 2026-10-16 |
+| [workbuddy](bucket/workbuddy.json) | WorkBuddy - AI Agent for Everyday Office Work | 5.8.4.41366630-73952edb | [workbuddy.ai](https://www.workbuddy.ai/) | 2026-10-16 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.5.7 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-10-15 |
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.71.2 | [cursor.com](https://cursor.com/grokbot) | 2026-10-15 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.12 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-10-15 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.3.11 | [kiro.dev](https://kiro.dev) | 2026-10-15 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.11.1 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-15 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.227 | [github.com](https://github.com/stablyai/orca) | 2026-10-15 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.11.4 | [paseo.sh](https://paseo.sh) | 2026-10-15 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.72 | [qoder.com](https://qoder.com) | 2026-10-15 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.72 | [qoder.com.cn](https://qoder.com.cn) | 2026-10-15 |
@@ -61,7 +63,6 @@ scoop install zyqpkg/<app-name>
 | [flectar-mail](bucket/flectar-mail.json) | A lightweight native email, calendar, and contacts client | 0.1.0-alpha.7 | [github.com](https://github.com/flectar/mail) | 2026-10-08 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.3.0 | [nyaterm.app](https://nyaterm.app) | 2026-10-07 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.20 | [github.com](https://github.com/DetachHead/rebased) | 2026-10-07 |
-| [workbuddy](bucket/workbuddy.json) | WorkBuddy - AI Agent for Everyday Office Work | 5.8.4.41366630-73952edb | [workbuddy.ai](https://www.workbuddy.ai/) | 2026-10-07 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.10.7 | [github.com](https://github.com/zyqfork/yaak) | 2026-10-07 |
 | [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.1.6 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-06 |
 | [thinkrail-desktop](bucket/thinkrail-desktop.json) | The worktree IDE for the pi coding agent (Desktop Edition) | 0.1.6 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-06 |
@@ -70,7 +71,6 @@ scoop install zyqpkg/<app-name>
 | [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.3.1 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-10-02 |
 | [hfs](bucket/hfs.json) | A web file server to run on your computer | 3.3.4 | [rejetto.com](https://rejetto.com/hfs) | 2026-09-30 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.51 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-09-30 |
-| [tun2proxy](bucket/tun2proxy.json) |  | 0.8.5 | [github.com](https://github.com/tun2proxy/tun2proxy) | 2026-09-30 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.21.010 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-09-29 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.3.2 | [github.com](https://github.com/throneproj/Throne) | 2026-09-29 |
 | [codux](bucket/codux.json) | The high-performance AI coding terminal — desktop workspa... | 2.0.3 | [github.com](https://github.com/duxweb/codux) | 2026-09-28 |
