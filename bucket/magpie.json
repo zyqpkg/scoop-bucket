@@ -1,16 +1,16 @@
 {
-    "version": "0.1.1265",
+    "version": "0.1.1267",
     "description": "One gateway to pick and route every coding agent's LLM API (GUI & CLI)",
     "homepage": "https://usemagpie.ai/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/yetone/magpie-releases/releases/download/v0.1.1265/magpie-windows-amd64.exe#/magpie.exe",
-            "hash": "cdb94ffdc8f4b227716758f9a24c91792bfb4048d40b2b39c61a732bd531cf44"
+            "url": "https://github.com/yetone/magpie-releases/releases/download/v0.1.1267/magpie-windows-amd64.exe#/magpie.exe",
+            "hash": "317e74018b8eb0348cc2c7440e5e426a45ca659c21a75eb940af699517fe8a50"
         },
         "arm64": {
-            "url": "https://github.com/yetone/magpie-releases/releases/download/v0.1.1265/magpie-windows-arm64.exe#/magpie.exe",
-            "hash": "19b308e39d9a71a5ff48f977054ecf806495e35b1f9abec92484f3af4ca5e57f"
+            "url": "https://github.com/yetone/magpie-releases/releases/download/v0.1.1267/magpie-windows-arm64.exe#/magpie.exe",
+            "hash": "15fe54516844bee9fa14e6c767b3c5b9eb7aadac8b4b3d61ef375845cdb55584"
         }
     },
     "bin": "magpie.exe",
