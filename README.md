@@ -18,8 +18,8 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1279 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-17 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1279 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-17 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1282 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-17 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1282 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-17 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.11.3 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-17 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.4.0 | [openchamber.dev](https://openchamber.dev/) | 2026-10-17 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.229 | [github.com](https://github.com/stablyai/orca) | 2026-10-17 |
@@ -43,7 +43,7 @@ scoop install zyqpkg/<app-name>
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.11.4 | [paseo.sh](https://paseo.sh) | 2026-10-15 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.12.2.41207131 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-10-14 |
 | [codebuddycn](bucket/codebuddycn.json) | An AI-powered IDE | 4.12.2.41207131 | [codebuddy.cn](https://www.codebuddy.cn/ide/) | 2026-10-14 |
-| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.9.0 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-10-14 |
+| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.10.0 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-10-14 |
 | [deskbox](bucket/deskbox.json) | A free, open-source Windows desktop organizer with native... | 1.5.8 | [github.com](https://github.com/Tianyu199509/DeskBox) | 2026-10-14 |
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 8.2.14 | [feishu.cn](https://www.feishu.cn/) | 2026-10-14 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-10-14-fbd2ae23927f | [herdr.dev](https://herdr.dev) | 2026-10-14 |
