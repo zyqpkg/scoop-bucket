@@ -18,15 +18,15 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1279 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-17 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1279 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-17 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.11.3 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-17 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.4.4 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-10-16 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.5.2 | [github.com](https://github.com/Ruszero01/clippi) | 2026-10-16 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.10.16-e3cb207 | [cursor.com](https://cursor.com/cli) | 2026-10-16 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.14 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-10-16 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1278 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-16 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1278 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-16 |
 | [mangodisk](bucket/mangodisk.json) | Safety-first disk cleaner and space analyzer, with duplic... | 1.1.9 | [mangodisk.app](https://mangodisk.app/) | 2026-10-16 |
 | [mangodisk-cli](bucket/mangodisk-cli.json) | Command-line interface for MangoDisk — safety-first disk ... | 1.1.9 | [mangodisk.app](https://mangodisk.app/) | 2026-10-16 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.11.3 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-16 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.227 | [github.com](https://github.com/stablyai/orca) | 2026-10-16 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.73 | [qoder.com](https://qoder.com) | 2026-10-16 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.73 | [qoder.com.cn](https://qoder.com.cn) | 2026-10-16 |
@@ -45,7 +45,7 @@ scoop install zyqpkg/<app-name>
 | [deskbox](bucket/deskbox.json) | A free, open-source Windows desktop organizer with native... | 1.5.8 | [github.com](https://github.com/Tianyu199509/DeskBox) | 2026-10-14 |
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 8.2.14 | [feishu.cn](https://www.feishu.cn/) | 2026-10-14 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-10-14-fbd2ae23927f | [herdr.dev](https://herdr.dev) | 2026-10-14 |
-| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.3.3 | [openchamber.dev](https://openchamber.dev/) | 2026-10-14 |
+| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.4.0 | [openchamber.dev](https://openchamber.dev/) | 2026-10-14 |
 | [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the mode... | 2.0.0-preview.6 | [nyaterm.app](https://nyaterm.app) | 2026-10-13 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.3.0 | [github.com](https://github.com/earendil-works/pi) | 2026-10-13 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.20.1 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-10-13 |
