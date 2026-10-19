@@ -21,6 +21,8 @@ scoop install zyqpkg/<app-name>
 | [apiflow](bucket/apiflow.json) | Free, AI-Powered API Tool like Postman. Supports API test... | 0.9.83 | [github.com](https://github.com/trueleaf/apiflow) | 2026-10-19 |
 | [bongocat](bucket/bongocat.json) | 跨平台桌宠 BongoCat，为桌面增添乐趣！ | 2.3.1 | [github.com](https://github.com/ayangweb/BongoCat) | 2026-10-19 |
 | [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 0.9.5 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-10-19 |
+| [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.22 | [github.com](https://github.com/DetachHead/rebased) | 2026-10-19 |
+| [weasel-nightly](bucket/weasel-nightly.json) | Rime for Windows (Nightly Build) | 0.17.4.94.2c58727 | [rime.im](https://rime.im/) | 2026-10-19 |
 | [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1290 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-18 |
 | [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1290 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-18 |
 | [netcatty](bucket/netcatty.json) | SSH workspace, SFTP, and terminals in one | 1.1.85 | [netcatty.app](https://netcatty.app) | 2026-10-18 |
@@ -33,7 +35,6 @@ scoop install zyqpkg/<app-name>
 | [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the mode... | 2.0.0-preview.7 | [nyaterm.app](https://nyaterm.app) | 2026-10-17 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.4.0 | [openchamber.dev](https://openchamber.dev/) | 2026-10-17 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.229 | [github.com](https://github.com/stablyai/orca) | 2026-10-17 |
-| [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.22 | [github.com](https://github.com/DetachHead/rebased) | 2026-10-17 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.4.4 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-10-16 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.5.2 | [github.com](https://github.com/Ruszero01/clippi) | 2026-10-16 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.10.16-e3cb207 | [cursor.com](https://cursor.com/cli) | 2026-10-16 |
@@ -58,7 +59,6 @@ scoop install zyqpkg/<app-name>
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-10-14-fbd2ae23927f | [herdr.dev](https://herdr.dev) | 2026-10-14 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.3.0 | [github.com](https://github.com/earendil-works/pi) | 2026-10-13 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.20.1 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-10-13 |
-| [weasel-nightly](bucket/weasel-nightly.json) | Rime for Windows (Nightly Build) | 0.17.4.94.2c58727 | [rime.im](https://rime.im/) | 2026-10-12 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.15.53 | [wechat.com](https://www.wechat.com/) | 2026-10-12 |
 | [innounpacker](bucket/innounpacker.json) | Inno Setup Unpacker | 2.2.13 | [rathlev-home.de](https://www.rathlev-home.de/index-e.html?tools/prog-e.html#unpack) | 2026-10-11 |
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.9.1 | [github.com](https://github.com/cxasm/notepad--) | 2026-10-11 |
