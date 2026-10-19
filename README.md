@@ -24,6 +24,8 @@ scoop install zyqpkg/<app-name>
 | [octop](bucket/octop.json) | A smarter, self-hosted AI assistant — multi-user, multi-a... | 1.0.2 | [github.com](https://github.com/TencentCloud/Octop) | 2026-10-18 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.12.2 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-18 |
 | [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.3.3 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-10-18 |
+| [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.2.0 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-18 |
+| [thinkrail-desktop](bucket/thinkrail-desktop.json) | The worktree IDE for the pi coding agent (Desktop Edition) | 0.2.0 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-18 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.10.0 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-10-17 |
 | [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the mode... | 2.0.0-preview.7 | [nyaterm.app](https://nyaterm.app) | 2026-10-17 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.4.0 | [openchamber.dev](https://openchamber.dev/) | 2026-10-17 |
@@ -67,8 +69,6 @@ scoop install zyqpkg/<app-name>
 | [flectar-mail](bucket/flectar-mail.json) | A lightweight native email, calendar, and contacts client | 0.1.0-alpha.7 | [github.com](https://github.com/flectar/mail) | 2026-10-08 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.3.0 | [nyaterm.app](https://nyaterm.app) | 2026-10-07 |
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.10.7 | [github.com](https://github.com/zyqfork/yaak) | 2026-10-07 |
-| [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.2.0 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-06 |
-| [thinkrail-desktop](bucket/thinkrail-desktop.json) | The worktree IDE for the pi coding agent (Desktop Edition) | 0.2.0 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-06 |
 | [ContextMenuManager](bucket/ContextMenuManager.json) | 🖱️ 纯粹的 Windows 右键菜单管理程序。A pure Windows context menu mana... | 4.0.0.9 | [github.com](https://github.com/Jack251970/ContextMenuManager) | 2026-10-04 |
 | [rustdesk](bucket/rustdesk.json) | An open-source remote desktop software, written in Rust. | 1.5.0 | [github.com](https://github.com/rustdesk/rustdesk) | 2026-10-02 |
 | [hfs](bucket/hfs.json) | A web file server to run on your computer | 3.3.4 | [rejetto.com](https://rejetto.com/hfs) | 2026-09-30 |
