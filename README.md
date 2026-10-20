@@ -24,12 +24,13 @@ scoop install zyqpkg/<app-name>
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.72.0 | [cursor.com](https://cursor.com/grokbot) | 2026-10-20 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.15 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-10-20 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.5 | [kiro.dev](https://kiro.dev) | 2026-10-20 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1296 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-20 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1296 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-20 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1297 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-20 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1297 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-20 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.52 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-10-20 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.232 | [github.com](https://github.com/stablyai/orca) | 2026-10-20 |
 | [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 0.9.6 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-10-20 |
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.209.1 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-10-20 |
+| [tun2proxy](bucket/tun2proxy.json) |  | 0.8.6 | [github.com](https://github.com/tun2proxy/tun2proxy) | 2026-10-20 |
 | [weasel-nightly](bucket/weasel-nightly.json) | Rime for Windows (Nightly Build) | 0.17.4.95.82b50c9 | [rime.im](https://rime.im/) | 2026-10-20 |
 | [workbuddy](bucket/workbuddy.json) | WorkBuddy - AI Agent for Everyday Office Work | 5.8.4.41366630-73952edb | [workbuddy.ai](https://www.workbuddy.ai/) | 2026-10-20 |
 | [apiflow](bucket/apiflow.json) | Free, AI-Powered API Tool like Postman. Supports API test... | 0.9.83 | [github.com](https://github.com/trueleaf/apiflow) | 2026-10-19 |
@@ -39,7 +40,7 @@ scoop install zyqpkg/<app-name>
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.5.0 | [openchamber.dev](https://openchamber.dev/) | 2026-10-19 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.12.0 | [paseo.sh](https://paseo.sh) | 2026-10-19 |
 | [pi-app](bucket/pi-app.json) | Desktop app for the pi coding agent runtime with timeline... | 0.7.6 | [github.com](https://github.com/justhil/pi-app) | 2026-10-19 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.74 | [qoder.com](https://qoder.com) | 2026-10-19 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.75 | [qoder.com](https://qoder.com) | 2026-10-19 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.74 | [qoder.com.cn](https://qoder.com.cn) | 2026-10-19 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.22 | [github.com](https://github.com/DetachHead/rebased) | 2026-10-19 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.15.56 | [wechat.com](https://www.wechat.com/) | 2026-10-19 |
@@ -56,7 +57,6 @@ scoop install zyqpkg/<app-name>
 | [mangodisk-cli](bucket/mangodisk-cli.json) | Command-line interface for MangoDisk — safety-first disk ... | 1.1.9 | [mangodisk.app](https://mangodisk.app/) | 2026-10-16 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.22 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-10-16 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.1.0 | [t3.codes](https://t3.codes) | 2026-10-16 |
-| [tun2proxy](bucket/tun2proxy.json) |  | 0.8.6 | [github.com](https://github.com/tun2proxy/tun2proxy) | 2026-10-16 |
 | [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.8.3.41334564-db0e9b51 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-10-16 |
 | [deskbox](bucket/deskbox.json) | A free, open-source Windows desktop organizer with native... | 1.5.8 | [github.com](https://github.com/Tianyu199509/DeskBox) | 2026-10-14 |
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 8.2.14 | [feishu.cn](https://www.feishu.cn/) | 2026-10-14 |
