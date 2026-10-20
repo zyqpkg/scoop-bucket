@@ -19,6 +19,7 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.10.19-6bbf2c4 | [cursor.com](https://cursor.com/cli) | 2026-10-20 |
+| [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.72.0 | [cursor.com](https://cursor.com/grokbot) | 2026-10-20 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.15 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-10-20 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.5 | [kiro.dev](https://kiro.dev) | 2026-10-20 |
 | [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1296 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-20 |
@@ -54,7 +55,6 @@ scoop install zyqpkg/<app-name>
 | [tun2proxy](bucket/tun2proxy.json) |  | 0.8.5 | [github.com](https://github.com/tun2proxy/tun2proxy) | 2026-10-16 |
 | [workbuddy](bucket/workbuddy.json) | WorkBuddy - AI Agent for Everyday Office Work | 5.8.4.41366630-73952edb | [workbuddy.ai](https://www.workbuddy.ai/) | 2026-10-16 |
 | [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.8.3.41334564-db0e9b51 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-10-16 |
-| [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.72.0 | [cursor.com](https://cursor.com/grokbot) | 2026-10-15 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.12.2.41207131 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-10-14 |
 | [codebuddycn](bucket/codebuddycn.json) | An AI-powered IDE | 4.12.2.41207131 | [codebuddy.cn](https://www.codebuddy.cn/ide/) | 2026-10-14 |
 | [deskbox](bucket/deskbox.json) | A free, open-source Windows desktop organizer with native... | 1.5.8 | [github.com](https://github.com/Tianyu199509/DeskBox) | 2026-10-14 |
