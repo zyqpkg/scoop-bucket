@@ -21,15 +21,18 @@ scoop install zyqpkg/<app-name>
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.12.2.41207131 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-10-20 |
 | [codebuddycn](bucket/codebuddycn.json) | An AI-powered IDE | 4.12.2.41207131 | [codebuddy.cn](https://www.codebuddy.cn/ide/) | 2026-10-20 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.10.19-6bbf2c4 | [cursor.com](https://cursor.com/cli) | 2026-10-20 |
-| [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.72.0 | [cursor.com](https://cursor.com/grokbot) | 2026-10-20 |
+| [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.72.1 | [cursor.com](https://cursor.com/grokbot) | 2026-10-20 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.15 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-10-20 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.10 | [kiro.dev](https://kiro.dev) | 2026-10-20 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1300 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-20 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1300 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-20 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1304 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-20 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1304 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-20 |
+| [mangodisk](bucket/mangodisk.json) | Safety-first disk cleaner and space analyzer, with duplic... | 1.2.0 | [mangodisk.app](https://mangodisk.app/) | 2026-10-20 |
+| [mangodisk-cli](bucket/mangodisk-cli.json) | Command-line interface for MangoDisk — safety-first disk ... | 1.2.0 | [mangodisk.app](https://mangodisk.app/) | 2026-10-20 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.52 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-10-20 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.233 | [github.com](https://github.com/stablyai/orca) | 2026-10-20 |
 | [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 0.9.6 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-10-20 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.75 | [qoder.com](https://qoder.com) | 2026-10-20 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.75 | [qoder.com.cn](https://qoder.com.cn) | 2026-10-20 |
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.209.1 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-10-20 |
 | [tun2proxy](bucket/tun2proxy.json) |  | 0.8.6 | [github.com](https://github.com/tun2proxy/tun2proxy) | 2026-10-20 |
 | [weasel-nightly](bucket/weasel-nightly.json) | Rime for Windows (Nightly Build) | 0.17.4.95.82b50c9 | [rime.im](https://rime.im/) | 2026-10-20 |
@@ -37,11 +40,10 @@ scoop install zyqpkg/<app-name>
 | [apiflow](bucket/apiflow.json) | Free, AI-Powered API Tool like Postman. Supports API test... | 0.9.83 | [github.com](https://github.com/trueleaf/apiflow) | 2026-10-19 |
 | [bongocat](bucket/bongocat.json) | 跨平台桌宠 BongoCat，为桌面增添乐趣！ | 2.3.1 | [github.com](https://github.com/ayangweb/BongoCat) | 2026-10-19 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.5.9 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-10-19 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.12.3 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-19 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.12.4 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-19 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.5.0 | [openchamber.dev](https://openchamber.dev/) | 2026-10-19 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.12.0 | [paseo.sh](https://paseo.sh) | 2026-10-19 |
 | [pi-app](bucket/pi-app.json) | Desktop app for the pi coding agent runtime with timeline... | 0.7.6 | [github.com](https://github.com/justhil/pi-app) | 2026-10-19 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.75 | [qoder.com.cn](https://qoder.com.cn) | 2026-10-19 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.22 | [github.com](https://github.com/DetachHead/rebased) | 2026-10-19 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.15.56 | [wechat.com](https://www.wechat.com/) | 2026-10-19 |
 | [netcatty](bucket/netcatty.json) | SSH workspace, SFTP, and terminals in one | 1.1.85 | [netcatty.app](https://netcatty.app) | 2026-10-18 |
@@ -53,8 +55,6 @@ scoop install zyqpkg/<app-name>
 | [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the mode... | 2.0.0-preview.7 | [nyaterm.app](https://nyaterm.app) | 2026-10-17 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.4.4 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-10-16 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.5.2 | [github.com](https://github.com/Ruszero01/clippi) | 2026-10-16 |
-| [mangodisk](bucket/mangodisk.json) | Safety-first disk cleaner and space analyzer, with duplic... | 1.2.0 | [mangodisk.app](https://mangodisk.app/) | 2026-10-16 |
-| [mangodisk-cli](bucket/mangodisk-cli.json) | Command-line interface for MangoDisk — safety-first disk ... | 1.2.0 | [mangodisk.app](https://mangodisk.app/) | 2026-10-16 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.22 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-10-16 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.1.0 | [t3.codes](https://t3.codes) | 2026-10-16 |
 | [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.8.3.41334564-db0e9b51 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-10-16 |
