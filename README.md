@@ -19,11 +19,15 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.5.3 | [github.com](https://github.com/Ruszero01/clippi) | 2026-10-21 |
+| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.10.1 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-10-21 |
+| [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 8.3.14 | [feishu.cn](https://www.feishu.cn/) | 2026-10-21 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.13 | [kiro.dev](https://kiro.dev) | 2026-10-21 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1311 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-21 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1311 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-21 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1315 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-21 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1315 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-21 |
+| [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the mode... | 2.0.0-preview.8 | [nyaterm.app](https://nyaterm.app) | 2026-10-21 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.12.5 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-21 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.237 | [github.com](https://github.com/stablyai/orca) | 2026-10-21 |
+| [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 0.9.7 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-10-21 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.1.1 | [t3.codes](https://t3.codes) | 2026-10-21 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.12.2.41207131 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-10-20 |
 | [codebuddycn](bucket/codebuddycn.json) | An AI-powered IDE | 4.12.2.41207131 | [codebuddy.cn](https://www.codebuddy.cn/ide/) | 2026-10-20 |
@@ -33,9 +37,8 @@ scoop install zyqpkg/<app-name>
 | [mangodisk](bucket/mangodisk.json) | Safety-first disk cleaner and space analyzer, with duplic... | 1.2.0 | [mangodisk.app](https://mangodisk.app/) | 2026-10-20 |
 | [mangodisk-cli](bucket/mangodisk-cli.json) | Command-line interface for MangoDisk — safety-first disk ... | 1.2.0 | [mangodisk.app](https://mangodisk.app/) | 2026-10-20 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.52 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-10-20 |
-| [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 0.9.7 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-10-20 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.75 | [qoder.com](https://qoder.com) | 2026-10-20 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.75 | [qoder.com.cn](https://qoder.com.cn) | 2026-10-20 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.76 | [qoder.com](https://qoder.com) | 2026-10-20 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.76 | [qoder.com.cn](https://qoder.com.cn) | 2026-10-20 |
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.209.1 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-10-20 |
 | [tun2proxy](bucket/tun2proxy.json) |  | 0.8.6 | [github.com](https://github.com/tun2proxy/tun2proxy) | 2026-10-20 |
 | [weasel-nightly](bucket/weasel-nightly.json) | Rime for Windows (Nightly Build) | 0.17.4.95.82b50c9 | [rime.im](https://rime.im/) | 2026-10-20 |
@@ -53,13 +56,10 @@ scoop install zyqpkg/<app-name>
 | [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.3.3 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-10-18 |
 | [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.2.0 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-18 |
 | [thinkrail-desktop](bucket/thinkrail-desktop.json) | The worktree IDE for the pi coding agent (Desktop Edition) | 0.2.0 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-18 |
-| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.10.1 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-10-17 |
-| [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the mode... | 2.0.0-preview.8 | [nyaterm.app](https://nyaterm.app) | 2026-10-17 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.4.4 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-10-16 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.22 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-10-16 |
 | [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.8.3.41334564-db0e9b51 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-10-16 |
 | [deskbox](bucket/deskbox.json) | A free, open-source Windows desktop organizer with native... | 1.5.8 | [github.com](https://github.com/Tianyu199509/DeskBox) | 2026-10-14 |
-| [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 8.3.14 | [feishu.cn](https://www.feishu.cn/) | 2026-10-14 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-10-14-fbd2ae23927f | [herdr.dev](https://herdr.dev) | 2026-10-14 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.3.0 | [github.com](https://github.com/earendil-works/pi) | 2026-10-13 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.20.1 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-10-13 |
@@ -101,7 +101,7 @@ scoop install zyqpkg/<app-name>
 | [hermes-desktop](bucket/hermes-desktop.json) | Desktop Companion for Hermes Agent | 0.7.7 | [github.com](https://github.com/fathah/hermes-desktop) | 2026-09-04 |
 | [microsoft-coreutils](bucket/microsoft-coreutils.json) | UNIX-style core utilities for Windows (Microsoft-maintain... | 2026.9.3 | [github.com](https://github.com/microsoft/coreutils) | 2026-09-03 |
 | [busybox](bucket/busybox.json) | A single binary that contains many common Unix tools. | 6075-g169694ebd | [frippery.org](https://frippery.org/busybox) | 2026-08-31 |
-| [gost](bucket/gost.json) | GO Simple Tunnel - 多协议隧道与代理，支持 HTTP/SOCKS5/Shadowsocks/端口... | 3.3.0 | [github.com](https://github.com/go-gost/gost) | 2026-08-30 |
+| [gost](bucket/gost.json) | GO Simple Tunnel - 多协议隧道与代理，支持 HTTP/SOCKS5/Shadowsocks/端口... | 3.3.1 | [github.com](https://github.com/go-gost/gost) | 2026-08-30 |
 | [ztools](bucket/ztools.json) | 高性能、可扩展的应用启动器和插件平台，uTools 的开源实现，支持 macOS 和 Windows | 3.2.0 | [github.com](https://github.com/ZToolsCenter/ZTools) | 2026-08-29 |
 | [screencapture](bucket/screencapture.json) | A feature-rich screen capture software with just a single... | 2.5.15 | [github.com](https://github.com/xland/ScreenCapture) | 2026-08-25 |
 | [5ire](bucket/5ire.json) | 5ire is a cross-platform desktop AI assistant, MCP client... | 0.15.4 | [5ire.app](https://5ire.app/) | 2026-08-18 |
