@@ -22,25 +22,25 @@ scoop install zyqpkg/<app-name>
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.10.22-27dcf5f | [cursor.com](https://cursor.com/cli) | 2026-10-22 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.6.0 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-10-22 |
 | [gooey-pi](bucket/gooey-pi.json) | GooeyPi - Desktop UI for the pi coding agent | 1.1.20 | [github.com](https://github.com/am-will/gooey-pi) | 2026-10-22 |
+| [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.75.2 | [cursor.com](https://cursor.com/grokbot) | 2026-10-22 |
+| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.16 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-10-22 |
 | [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1327 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-22 |
 | [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1327 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-22 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.4.0 | [github.com](https://github.com/earendil-works/pi) | 2026-10-22 |
 | [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 0.9.9 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-10-22 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.77 | [qoder.com](https://qoder.com) | 2026-10-22 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.77 | [qoder.com.cn](https://qoder.com.cn) | 2026-10-22 |
+| [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.1.2 | [t3.codes](https://t3.codes) | 2026-10-22 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.5.3 | [github.com](https://github.com/Ruszero01/clippi) | 2026-10-21 |
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 8.3.14 | [feishu.cn](https://www.feishu.cn/) | 2026-10-21 |
 | [gost](bucket/gost.json) | GO Simple Tunnel - 多协议隧道与代理，支持 HTTP/SOCKS5/Shadowsocks/端口... | 3.3.1 | [github.com](https://github.com/go-gost/gost) | 2026-10-21 |
-| [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.75.2 | [cursor.com](https://cursor.com/grokbot) | 2026-10-21 |
-| [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.13 | [kiro.dev](https://kiro.dev) | 2026-10-21 |
+| [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.26 | [kiro.dev](https://kiro.dev) | 2026-10-21 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.3.1 | [nyaterm.app](https://nyaterm.app) | 2026-10-21 |
 | [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the mode... | 2.0.0-preview.8 | [nyaterm.app](https://nyaterm.app) | 2026-10-21 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.12.6 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-21 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.237 | [github.com](https://github.com/stablyai/orca) | 2026-10-21 |
-| [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.1.2 | [t3.codes](https://t3.codes) | 2026-10-21 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.12.2.41207131 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-10-20 |
 | [codebuddycn](bucket/codebuddycn.json) | An AI-powered IDE | 4.12.2.41207131 | [codebuddy.cn](https://www.codebuddy.cn/ide/) | 2026-10-20 |
-| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.16 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-10-20 |
 | [mangodisk](bucket/mangodisk.json) | Safety-first disk cleaner and space analyzer, with duplic... | 1.2.0 | [mangodisk.app](https://mangodisk.app/) | 2026-10-20 |
 | [mangodisk-cli](bucket/mangodisk-cli.json) | Command-line interface for MangoDisk — safety-first disk ... | 1.2.0 | [mangodisk.app](https://mangodisk.app/) | 2026-10-20 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.52 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-10-20 |
@@ -50,7 +50,7 @@ scoop install zyqpkg/<app-name>
 | [workbuddy](bucket/workbuddy.json) | WorkBuddy - AI Agent for Everyday Office Work | 5.8.4.41366630-73952edb | [workbuddy.ai](https://www.workbuddy.ai/) | 2026-10-20 |
 | [apiflow](bucket/apiflow.json) | Free, AI-Powered API Tool like Postman. Supports API test... | 0.9.83 | [github.com](https://github.com/trueleaf/apiflow) | 2026-10-19 |
 | [bongocat](bucket/bongocat.json) | 跨平台桌宠 BongoCat，为桌面增添乐趣！ | 2.3.1 | [github.com](https://github.com/ayangweb/BongoCat) | 2026-10-19 |
-| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.5.0 | [openchamber.dev](https://openchamber.dev/) | 2026-10-19 |
+| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.5.1 | [openchamber.dev](https://openchamber.dev/) | 2026-10-19 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.12.0 | [paseo.sh](https://paseo.sh) | 2026-10-19 |
 | [pi-app](bucket/pi-app.json) | Desktop app for the pi coding agent runtime with timeline... | 0.7.6 | [github.com](https://github.com/justhil/pi-app) | 2026-10-19 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.22 | [github.com](https://github.com/DetachHead/rebased) | 2026-10-19 |
