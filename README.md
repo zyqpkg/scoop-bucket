@@ -19,17 +19,18 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [deskbox](bucket/deskbox.json) | A free, open-source Windows desktop organizer with native... | 1.5.9 | [github.com](https://github.com/Tianyu199509/DeskBox) | 2026-10-23 |
+| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.17 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-10-23 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.26 | [kiro.dev](https://kiro.dev) | 2026-10-23 |
 | [lody](bucket/lody.json) | Desktop app to manage all your code agents with real-time... | 0.107.2 | [lody.ai](https://lody.ai/) | 2026-10-23 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1332 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-23 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1332 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-23 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.5.1 | [openchamber.dev](https://openchamber.dev/) | 2026-10-23 |
+| [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.211.1 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-10-23 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.11.1 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-10-22 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.10.22-27dcf5f | [cursor.com](https://cursor.com/cli) | 2026-10-22 |
-| [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.6.0 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-10-22 |
+| [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.6.1 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-10-22 |
 | [gooey-pi](bucket/gooey-pi.json) | GooeyPi - Desktop UI for the pi coding agent | 1.1.20 | [github.com](https://github.com/am-will/gooey-pi) | 2026-10-22 |
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.75.2 | [cursor.com](https://cursor.com/grokbot) | 2026-10-22 |
-| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.17 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-10-22 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1331 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-22 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1331 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-22 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.4.0 | [github.com](https://github.com/earendil-works/pi) | 2026-10-22 |
 | [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 0.9.9 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-10-22 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.77 | [qoder.com](https://qoder.com) | 2026-10-22 |
@@ -47,7 +48,6 @@ scoop install zyqpkg/<app-name>
 | [mangodisk](bucket/mangodisk.json) | Safety-first disk cleaner and space analyzer, with duplic... | 1.2.0 | [mangodisk.app](https://mangodisk.app/) | 2026-10-20 |
 | [mangodisk-cli](bucket/mangodisk-cli.json) | Command-line interface for MangoDisk — safety-first disk ... | 1.2.0 | [mangodisk.app](https://mangodisk.app/) | 2026-10-20 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.52 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-10-20 |
-| [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.211.1 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-10-20 |
 | [tun2proxy](bucket/tun2proxy.json) |  | 0.8.6 | [github.com](https://github.com/tun2proxy/tun2proxy) | 2026-10-20 |
 | [weasel-nightly](bucket/weasel-nightly.json) | Rime for Windows (Nightly Build) | 0.17.4.95.82b50c9 | [rime.im](https://rime.im/) | 2026-10-20 |
 | [workbuddy](bucket/workbuddy.json) | WorkBuddy - AI Agent for Everyday Office Work | 5.8.4.41366630-73952edb | [workbuddy.ai](https://www.workbuddy.ai/) | 2026-10-20 |
