@@ -1,6 +1,5 @@
-{
-    "version": "0.1.1332",
-    "description": "Terminal-only CLI for Magpie — one gateway to pick and route every coding agent's LLM API",
+﻿{
+    "version": "0.1.1332",    "description": "Terminal-only CLI for Magpie — one gateway to pick and route every coding agent's LLM API",
     "homepage": "https://usemagpie.ai/",
     "license": "MIT",
     "notes": [

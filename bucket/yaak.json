@@ -1,4 +1,4 @@
-{
+﻿{
     "version": "2026.10.7",
     "description": "A fast, privacy-first API client for REST, GraphQL, SSE, WebSocket, and gRPC – built with Tauri, Rust, and React.",
     "homepage": "https://github.com/zyqfork/yaak",

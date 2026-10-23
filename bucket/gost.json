@@ -1,4 +1,4 @@
-{
+﻿{
     "version": "3.3.1",
     "description": "GO Simple Tunnel - 多协议隧道与代理，支持 HTTP/SOCKS5/Shadowsocks/端口转发/反向代理/TUN 等",
     "homepage": "https://github.com/go-gost/gost",

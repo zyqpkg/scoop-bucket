@@ -1,4 +1,4 @@
-{
+﻿{
     "version": "1.4.4",
     "description": "CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作流效率。",
     "homepage": "https://github.com/dark-hxx/CLI-Manager",

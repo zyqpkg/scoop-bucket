@@ -1,4 +1,4 @@
-{
+﻿{
     "version": "2026-07-12-12-50-a09be9b-f860bd9",
     "description": "FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimMouse)",
     "homepage": "https://github.com/AnimMouse/ffmpeg-autobuild",

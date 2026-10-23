@@ -1,4 +1,4 @@
-{
+﻿{
     "version": "0.7.0",
     "description": "Tailscale without Tailscale — netcat over WireGuard with DERP relay, no control plane required.",
     "homepage": "https://github.com/tailscale/tailcat",
