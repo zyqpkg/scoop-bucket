@@ -18,7 +18,9 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [deskbox](bucket/deskbox.json) | A free, open-source Windows desktop organizer with native... | 1.5.9 | [github.com](https://github.com/Tianyu199509/DeskBox) | 2026-10-23 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.26 | [kiro.dev](https://kiro.dev) | 2026-10-23 |
+| [lody](bucket/lody.json) | Desktop app to manage all your code agents with real-time... | 0.107.2 | [lody.ai](https://lody.ai/) | 2026-10-23 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.5.1 | [openchamber.dev](https://openchamber.dev/) | 2026-10-23 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.11.1 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-10-22 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.10.22-27dcf5f | [cursor.com](https://cursor.com/cli) | 2026-10-22 |
@@ -63,7 +65,6 @@ scoop install zyqpkg/<app-name>
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.4.4 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-10-16 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.22 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-10-16 |
 | [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.8.3.41334564-db0e9b51 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-10-16 |
-| [deskbox](bucket/deskbox.json) | A free, open-source Windows desktop organizer with native... | 1.5.9 | [github.com](https://github.com/Tianyu199509/DeskBox) | 2026-10-14 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-10-14-fbd2ae23927f | [herdr.dev](https://herdr.dev) | 2026-10-14 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.20.1 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-10-13 |
 | [innounpacker](bucket/innounpacker.json) | Inno Setup Unpacker | 2.2.13 | [rathlev-home.de](https://www.rathlev-home.de/index-e.html?tools/prog-e.html#unpack) | 2026-10-11 |
