@@ -37,8 +37,8 @@ scoop install zyqpkg/<app-name>
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.17 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-10-23 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.26 | [kiro.dev](https://kiro.dev) | 2026-10-23 |
 | [lody](bucket/lody.json) | Desktop app to manage all your code agents with real-time... | 0.107.2 | [lody.ai](https://lody.ai/) | 2026-10-23 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1354 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-23 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1354 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-23 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1362 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-23 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1362 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-23 |
 | [mangodisk-cli](bucket/mangodisk-cli.json) | Command-line interface for MangoDisk — safety-first disk ... | 1.2.0 | [mangodisk.app](https://mangodisk.app/) | 2026-10-23 |
 | [monsterdeleter](bucket/monsterdeleter.json) | 小怪兽删除器 MonsterDeleter - 面向 Windows 10/11 的桌面删除工具。在资源管理器中右... | 1.1.0 | [github.com](https://github.com/SuperPrintf/MonsterDeleter) | 2026-10-23 |
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.9.1 | [github.com](https://github.com/cxasm/notepad--) | 2026-10-23 |
@@ -46,6 +46,7 @@ scoop install zyqpkg/<app-name>
 | [octop](bucket/octop.json) | A smarter, self-hosted AI assistant — multi-user, multi-a... | 1.0.2 | [github.com](https://github.com/TencentCloud/Octop) | 2026-10-23 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.12.6 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-23 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.5.1 | [openchamber.dev](https://openchamber.dev/) | 2026-10-23 |
+| [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.0.0 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-10-23 |
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.5.5.1 | [pixpin.com](https://pixpin.com/) | 2026-10-23 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.17.0 | [pixwit.cn](https://pixwit.cn/) | 2026-10-23 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.78 | [qoder.com](https://qoder.com) | 2026-10-23 |
@@ -60,11 +61,10 @@ scoop install zyqpkg/<app-name>
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.10.22-27dcf5f | [cursor.com](https://cursor.com/cli) | 2026-10-22 |
 | [gooey-pi](bucket/gooey-pi.json) | GooeyPi - Desktop UI for the pi coding agent | 1.1.20 | [github.com](https://github.com/am-will/gooey-pi) | 2026-10-22 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.4.0 | [github.com](https://github.com/earendil-works/pi) | 2026-10-22 |
-| [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.0.0 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-10-22 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.1.2 | [t3.codes](https://t3.codes) | 2026-10-22 |
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 8.3.14 | [feishu.cn](https://www.feishu.cn/) | 2026-10-21 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.3.1 | [nyaterm.app](https://nyaterm.app) | 2026-10-21 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.237 | [github.com](https://github.com/stablyai/orca) | 2026-10-21 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.238 | [github.com](https://github.com/stablyai/orca) | 2026-10-21 |
 | [codebuddycn](bucket/codebuddycn.json) | An AI-powered IDE | 4.12.2.41207131 | [codebuddy.cn](https://www.codebuddy.cn/ide/) | 2026-10-20 |
 | [mangodisk](bucket/mangodisk.json) | Safety-first disk cleaner and space analyzer, with duplic... | 1.2.0 | [mangodisk.app](https://mangodisk.app/) | 2026-10-20 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.52 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-10-20 |
