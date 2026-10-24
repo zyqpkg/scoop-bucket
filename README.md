@@ -21,9 +21,9 @@ scoop install zyqpkg/<app-name>
 | [astrlink](bucket/astrlink.json) | A local AI gateway for AI agents, unifying your subscript... | 0.2.18 | [astrlink.com](https://astrlink.com/) | 2026-10-24 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.6.3 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-10-24 |
 | [lody](bucket/lody.json) | Desktop app to manage all your code agents with real-time... | 0.108.1 | [lody.ai](https://lody.ai/) | 2026-10-24 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1424 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-24 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1424 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-24 |
-| [netcatty](bucket/netcatty.json) | SSH workspace, SFTP, and terminals in one | 1.1.86 | [netcatty.app](https://netcatty.app) | 2026-10-24 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1438 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-24 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1438 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-24 |
+| [netcatty](bucket/netcatty.json) | SSH workspace, SFTP, and terminals in one | 1.1.88 | [netcatty.app](https://netcatty.app) | 2026-10-24 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.239 | [github.com](https://github.com/stablyai/orca) | 2026-10-24 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.13.0 | [paseo.sh](https://paseo.sh) | 2026-10-24 |
 | [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.0.1 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-10-24 |
@@ -40,7 +40,7 @@ scoop install zyqpkg/<app-name>
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.12 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-10-23 |
 | [ffmpeg-nonfree](bucket/ffmpeg-nonfree.json) | FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimM... | 2026-07-12-12-50-a09be9b-f860bd9 | [github.com](https://github.com/AnimMouse/ffmpeg-autobuild) | 2026-10-23 |
 | [gost](bucket/gost.json) | GO Simple Tunnel - 多协议隧道与代理，支持 HTTP/SOCKS5/Shadowsocks/端口... | 3.3.1 | [github.com](https://github.com/go-gost/gost) | 2026-10-23 |
-| [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.75.5 | [cursor.com](https://cursor.com/grokbot) | 2026-10-23 |
+| [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.75.8 | [cursor.com](https://cursor.com/grokbot) | 2026-10-23 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.21.010 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-10-23 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.17 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-10-23 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.26 | [kiro.dev](https://kiro.dev) | 2026-10-23 |
@@ -56,7 +56,7 @@ scoop install zyqpkg/<app-name>
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.78 | [qoder.com](https://qoder.com) | 2026-10-23 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.78 | [qoder.com.cn](https://qoder.com.cn) | 2026-10-23 |
 | [RevokeMsgPatcher](bucket/RevokeMsgPatcher.json) | PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）。 | 2.1 | [github.com](https://github.com/huiyadanli/RevokeMsgPatcher) | 2026-10-23 |
-| [snowair](bucket/snowair.json) | 轻量化的截图与标注工具，涵盖截图、录屏、演示、贴图、OCR 识别、翻译等功能 | 0.1.8 | [github.com](https://github.com/CM-idea/SnowAir) | 2026-10-23 |
+| [snowair](bucket/snowair.json) | 轻量化的截图与标注工具，涵盖截图、录屏、演示、贴图、OCR 识别、翻译等功能 | 0.1.9 | [github.com](https://github.com/CM-idea/SnowAir) | 2026-10-23 |
 | [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.3.3 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-10-23 |
 | [tailcat](bucket/tailcat.json) | Tailscale without Tailscale — netcat over WireGuard with ... | 0.7.0 | [github.com](https://github.com/tailscale/tailcat) | 2026-10-23 |
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.211.1 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-10-23 |
@@ -110,7 +110,7 @@ scoop install zyqpkg/<app-name>
 | [busybox](bucket/busybox.json) | A single binary that contains many common Unix tools. | 6075-g169694ebd | [frippery.org](https://frippery.org/busybox) | 2026-08-31 |
 | [screencapture](bucket/screencapture.json) | A feature-rich screen capture software with just a single... | 2.5.15 | [github.com](https://github.com/xland/ScreenCapture) | 2026-08-25 |
 | [5ire](bucket/5ire.json) | 5ire is a cross-platform desktop AI assistant, MCP client... | 0.15.4 | [5ire.app](https://5ire.app/) | 2026-08-18 |
-| [kafkaesque](bucket/kafkaesque.json) | A GUI client for Kafka with features for browsing, produc... | 2.9.7 | [github.com](https://github.com/patschuh/KafkaEsque) | 2026-08-18 |
+| [kafkaesque](bucket/kafkaesque.json) | A GUI client for Kafka with features for browsing, produc... | 2.9.8 | [github.com](https://github.com/patschuh/KafkaEsque) | 2026-08-18 |
 | [voicebox](bucket/voicebox.json) | The open-source voice synthesis studio | 0.5.0 | [voicebox.sh](https://voicebox.sh/) | 2026-08-18 |
 | [weasel](bucket/weasel.json) | Rime for Windows | 0.17.4 | [rime.im](https://rime.im/) | 2026-08-18 |
 | [websocat](bucket/websocat.json) | A command-line client for WebSockets, like netcat (or cur... | 1.14.1 | [github.com](https://github.com/vi/websocat) | 2026-08-18 |
