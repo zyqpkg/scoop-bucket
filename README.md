@@ -18,13 +18,15 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
-| [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.6.2 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-10-24 |
+| [astrlink](bucket/astrlink.json) | A local AI gateway for AI agents, unifying your subscript... | 0.2.18 | [astrlink.com](https://astrlink.com/) | 2026-10-24 |
+| [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.6.3 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-10-24 |
 | [lody](bucket/lody.json) | Desktop app to manage all your code agents with real-time... | 0.108.1 | [lody.ai](https://lody.ai/) | 2026-10-24 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1398 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-24 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1398 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-24 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1413 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-24 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1413 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-24 |
+| [netcatty](bucket/netcatty.json) | SSH workspace, SFTP, and terminals in one | 1.1.86 | [netcatty.app](https://netcatty.app) | 2026-10-24 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.239 | [github.com](https://github.com/stablyai/orca) | 2026-10-24 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.13.0 | [paseo.sh](https://paseo.sh) | 2026-10-24 |
-| [astrlink](bucket/astrlink.json) | A local AI gateway for AI agents, unifying your subscript... | 0.2.18 | [astrlink.com](https://astrlink.com/) | 2026-10-23 |
+| [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.0.1 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-10-24 |
 | [bongocat](bucket/bongocat.json) | 跨平台桌宠 BongoCat，为桌面增添乐趣！ | 2.3.1 | [github.com](https://github.com/ayangweb/BongoCat) | 2026-10-23 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.4.4 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-10-23 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.5.3 | [github.com](https://github.com/Ruszero01/clippi) | 2026-10-23 |
@@ -48,7 +50,6 @@ scoop install zyqpkg/<app-name>
 | [octop](bucket/octop.json) | A smarter, self-hosted AI assistant — multi-user, multi-a... | 1.0.2 | [github.com](https://github.com/TencentCloud/Octop) | 2026-10-23 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.12.6 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-23 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.5.1 | [openchamber.dev](https://openchamber.dev/) | 2026-10-23 |
-| [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.0.1 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-10-23 |
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.5.5.1 | [pixpin.com](https://pixpin.com/) | 2026-10-23 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.17.0 | [pixwit.cn](https://pixwit.cn/) | 2026-10-23 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.78 | [qoder.com](https://qoder.com) | 2026-10-23 |
@@ -76,13 +77,12 @@ scoop install zyqpkg/<app-name>
 | [pi-app](bucket/pi-app.json) | Desktop app for the pi coding agent runtime with timeline... | 0.7.6 | [github.com](https://github.com/justhil/pi-app) | 2026-10-19 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.22 | [github.com](https://github.com/DetachHead/rebased) | 2026-10-19 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.15.56 | [wechat.com](https://www.wechat.com/) | 2026-10-19 |
-| [netcatty](bucket/netcatty.json) | SSH workspace, SFTP, and terminals in one | 1.1.86 | [netcatty.app](https://netcatty.app) | 2026-10-18 |
 | [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.2.0 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-18 |
 | [thinkrail-desktop](bucket/thinkrail-desktop.json) | The worktree IDE for the pi coding agent (Desktop Edition) | 0.2.0 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-18 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.22 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-10-16 |
 | [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.8.3.41334564-db0e9b51 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-10-16 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-10-14-fbd2ae23927f | [herdr.dev](https://herdr.dev) | 2026-10-14 |
-| [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.20.1 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-10-13 |
+| [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.21.0 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-10-13 |
 | [innounpacker](bucket/innounpacker.json) | Inno Setup Unpacker | 2.2.13 | [rathlev-home.de](https://www.rathlev-home.de/index-e.html?tools/prog-e.html#unpack) | 2026-10-11 |
 | [escrcpy](bucket/escrcpy.json) | Graphical Scrcpy to display and control Android devices, ... | 3.3.1 | [github.com](https://github.com/viarotel-org/escrcpy) | 2026-10-10 |
 | [wsl-dashboard](bucket/wsl-dashboard.json) | A modern, high-performance, lightweight, and low-memory W... | 0.12.0 | [github.com](https://github.com/owu/wsl-dashboard) | 2026-10-10 |

@@ -1,12 +1,12 @@
 {
-    "version": "0.20.1",
+    "version": "0.21.0",
     "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
     "homepage": "https://github.com/vastsa/PI-Desktop",
     "license": "LGPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vastsa/PI-Desktop/releases/download/v0.20.1/PI-Desktop-Setup-0.20.1.exe#/dl.7z",
-            "hash": "sha512:e5fb5e508f2645573e215260006abb32a8cb35429d55b6738e2fcd9253ae14f8164b5b4c9b8034028a07a7bb8cd99654d644839c493f1f474d99cf0d37b57ec1"
+            "url": "https://github.com/vastsa/PI-Desktop/releases/download/v0.21.0/PI-Desktop-Setup-0.21.0.exe#/dl.7z",
+            "hash": "sha512:259b78f6131f2679f4e61c62775b2e17b7a7a90643baa3ca1f33ef7266d1b57346cd4d2c3108a0b7e21e11ed30b0089bdbd5089c7edad3cf50325d3da241a26b"
         }
     },
     "installer": {
