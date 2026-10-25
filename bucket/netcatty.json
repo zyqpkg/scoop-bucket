@@ -1,12 +1,12 @@
 {
-    "version": "1.1.88",
+    "version": "1.1.89",
     "description": "SSH workspace, SFTP, and terminals in one",
     "homepage": "https://netcatty.app",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/binaricat/Netcatty/releases/download/v1.1.88/Netcatty-1.1.88-win-x64.zip",
-            "hash": "8d5777bc56abce54a63a4f21795608e4012f39bad89579a7649048644ed889e7"
+            "url": "https://github.com/binaricat/Netcatty/releases/download/v1.1.89/Netcatty-1.1.89-win-x64.zip",
+            "hash": "6c6901639c9c615876fd8d1fbfb69ee9aa6b1971c95f0b013a2c13f7ac26b9fc"
         }
     },
     "bin": "Netcatty.exe",
