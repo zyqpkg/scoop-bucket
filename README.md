@@ -18,17 +18,18 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1489 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-25 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1489 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-25 |
+| [gooey-pi](bucket/gooey-pi.json) | GooeyPi - Desktop UI for the pi coding agent | 1.1.21 | [github.com](https://github.com/am-will/gooey-pi) | 2026-10-25 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1542 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-25 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1542 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-25 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.240 | [github.com](https://github.com/stablyai/orca) | 2026-10-25 |
 | [astrlink](bucket/astrlink.json) | A local AI gateway for AI agents, unifying your subscript... | 0.2.18 | [astrlink.com](https://astrlink.com/) | 2026-10-24 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.6.3 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-10-24 |
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.75.8 | [cursor.com](https://cursor.com/grokbot) | 2026-10-24 |
 | [kafkaesque](bucket/kafkaesque.json) | A GUI client for Kafka with features for browsing, produc... | 2.9.8 | [github.com](https://github.com/patschuh/KafkaEsque) | 2026-10-24 |
 | [lody](bucket/lody.json) | Desktop app to manage all your code agents with real-time... | 0.108.1 | [lody.ai](https://lody.ai/) | 2026-10-24 |
 | [netcatty](bucket/netcatty.json) | SSH workspace, SFTP, and terminals in one | 1.1.88 | [netcatty.app](https://netcatty.app) | 2026-10-24 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.240 | [github.com](https://github.com/stablyai/orca) | 2026-10-24 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.13.0 | [paseo.sh](https://paseo.sh) | 2026-10-24 |
-| [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.0.2 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-10-24 |
+| [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.0.3 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-10-24 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.21.0 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-10-24 |
 | [snowair](bucket/snowair.json) | 轻量化的截图与标注工具，涵盖截图、录屏、演示、贴图、OCR 识别、翻译等功能 | 0.1.9 | [github.com](https://github.com/CM-idea/SnowAir) | 2026-10-24 |
 | [bongocat](bucket/bongocat.json) | 跨平台桌宠 BongoCat，为桌面增添乐趣！ | 2.3.1 | [github.com](https://github.com/ayangweb/BongoCat) | 2026-10-23 |
@@ -64,7 +65,6 @@ scoop install zyqpkg/<app-name>
 | [yaak](bucket/yaak.json) | A fast, privacy-first API client for REST, GraphQL, SSE, ... | 2026.10.7 | [github.com](https://github.com/zyqfork/yaak) | 2026-10-23 |
 | [ztools](bucket/ztools.json) | 高性能、可扩展的应用启动器和插件平台，uTools 的开源实现，支持 macOS 和 Windows | 3.2.0 | [github.com](https://github.com/ZToolsCenter/ZTools) | 2026-10-23 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.10.22-27dcf5f | [cursor.com](https://cursor.com/cli) | 2026-10-22 |
-| [gooey-pi](bucket/gooey-pi.json) | GooeyPi - Desktop UI for the pi coding agent | 1.1.21 | [github.com](https://github.com/am-will/gooey-pi) | 2026-10-22 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.4.0 | [github.com](https://github.com/earendil-works/pi) | 2026-10-22 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.1.2 | [t3.codes](https://t3.codes) | 2026-10-22 |
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 8.3.14 | [feishu.cn](https://www.feishu.cn/) | 2026-10-21 |
@@ -76,7 +76,7 @@ scoop install zyqpkg/<app-name>
 | [weasel-nightly](bucket/weasel-nightly.json) | Rime for Windows (Nightly Build) | 0.17.4.95.82b50c9 | [rime.im](https://rime.im/) | 2026-10-20 |
 | [workbuddy](bucket/workbuddy.json) | WorkBuddy - AI Agent for Everyday Office Work | 5.8.4.41366630-73952edb | [workbuddy.ai](https://www.workbuddy.ai/) | 2026-10-20 |
 | [apiflow](bucket/apiflow.json) | Free, AI-Powered API Tool like Postman. Supports API test... | 0.9.83 | [github.com](https://github.com/trueleaf/apiflow) | 2026-10-19 |
-| [pi-app](bucket/pi-app.json) | Desktop app for the pi coding agent runtime with timeline... | 0.7.6 | [github.com](https://github.com/justhil/pi-app) | 2026-10-19 |
+| [pi-app](bucket/pi-app.json) | Desktop app for the pi coding agent runtime with timeline... | 0.7.7 | [github.com](https://github.com/justhil/pi-app) | 2026-10-19 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.22 | [github.com](https://github.com/DetachHead/rebased) | 2026-10-19 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.1.15.56 | [wechat.com](https://www.wechat.com/) | 2026-10-19 |
 | [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.2.0 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-18 |
