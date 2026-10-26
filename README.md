@@ -18,6 +18,7 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [orcaterm](bucket/orcaterm.json) | OrcaTerm (腾讯云智能终端) - 连接 AI Agent、代码与云服务器的高效易用 AI 终端工具 | 1.6.6 | [orcaterm.com](https://orcaterm.com/) | 2026-10-26 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.12.1 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-10-25 |
 | [gooey-pi](bucket/gooey-pi.json) | GooeyPi - Desktop UI for the pi coding agent | 1.1.21 | [github.com](https://github.com/am-will/gooey-pi) | 2026-10-25 |
 | [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1559 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-25 |

@@ -1,0 +1,42 @@
+{
+    "version": "1.6.6",
+    "description": "OrcaTerm (腾讯云智能终端) - 连接 AI Agent、代码与云服务器的高效易用 AI 终端工具",
+    "homepage": "https://orcaterm.com/",
+    "license": {
+        "identifier": "Proprietary",
+        "url": "https://orcaterm.com/doc/service"
+    },
+    "notes": "OrcaTerm 依赖系统 Microsoft Edge WebView2 Runtime（Windows 10/11 通常已内置）。",
+    "architecture": {
+        "64bit": {
+            "url": "https://orcaterm-desktop-1258344699.cos.accelerate.myqcloud.com/release/latest/OrcaTerm-latest-win-x64.exe#/dl.7z",
+            "hash": "f42940c099bc32fbe668adfea25fd5353f2b711b1e705536638aa1f78b28c173"
+        }
+    },
+    "installer": {
+        "script": "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\uninstall.exe\" -Force -Recurse -ErrorAction SilentlyContinue"
+    },
+    "bin": [
+        [
+            "OrcaTerm.exe",
+            "orcaterm"
+        ]
+    ],
+    "shortcuts": [
+        [
+            "OrcaTerm.exe",
+            "OrcaTerm"
+        ]
+    ],
+    "checkver": {
+        "url": "https://orcaterm.com/cgi/api?action=GetChangelog",
+        "jsonpath": "$.data.Response.list[-1:].version"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://orcaterm-desktop-1258344699.cos.accelerate.myqcloud.com/release/latest/OrcaTerm-latest-win-x64.exe#/dl.7z"
+            }
+        }
+    }
+}

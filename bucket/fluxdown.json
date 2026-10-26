@@ -24,6 +24,7 @@
             "FluxDown"
         ]
     ],
+    "persist": "portable_data",
     "checkver": {
         "github": "https://github.com/zerx-lab/FluxDown",
         "regex": "tag/v([\\d.]+)"
