@@ -18,17 +18,17 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1661 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-27 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1661 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-27 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.242 | [github.com](https://github.com/stablyai/orca) | 2026-10-27 |
 | [astrlink](bucket/astrlink.json) | A local AI gateway for AI agents, unifying your subscript... | 0.2.19 | [astrlink.com](https://astrlink.com/) | 2026-10-26 |
 | [bongocat](bucket/bongocat.json) | 跨平台桌宠 BongoCat，为桌面增添乐趣！ | 2.4.0 | [github.com](https://github.com/ayangweb/BongoCat) | 2026-10-26 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.6.3 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-10-26 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.18 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-10-26 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1659 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-26 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1659 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-26 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.16 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-10-26 |
 | [netcatty](bucket/netcatty.json) | SSH workspace, SFTP, and terminals in one | 1.1.90 | [netcatty.app](https://netcatty.app) | 2026-10-26 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.13.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-26 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.5.2 | [openchamber.dev](https://openchamber.dev/) | 2026-10-26 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.242 | [github.com](https://github.com/stablyai/orca) | 2026-10-26 |
 | [orcaterm](bucket/orcaterm.json) | OrcaTerm (腾讯云智能终端) - 连接 AI Agent、代码与云服务器的高效易用 AI 终端工具 | 1.6.6 | [orcaterm.com](https://orcaterm.com/) | 2026-10-26 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.13.2 | [paseo.sh](https://paseo.sh) | 2026-10-26 |
 | [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.0.4 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-10-26 |
