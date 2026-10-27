@@ -23,8 +23,8 @@ scoop install zyqpkg/<app-name>
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.5.4 | [github.com](https://github.com/Ruszero01/clippi) | 2026-10-27 |
 | [ego-lite](bucket/ego-lite.json) | The fastest browser for AI agents to run browser automati... | 0.6.1.13 | [lite.ego.app](https://lite.ego.app/) | 2026-10-27 |
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.77.0 | [cursor.com](https://cursor.com/grokbot) | 2026-10-27 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1707 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-27 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1707 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-27 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1714 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-27 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1714 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-27 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.3.2 | [nyaterm.app](https://nyaterm.app) | 2026-10-27 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.13.1 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-27 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.242 | [github.com](https://github.com/stablyai/orca) | 2026-10-27 |
