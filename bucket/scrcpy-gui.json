@@ -1,12 +1,12 @@
 {
-    "version": "2.4.5",
+    "version": "2.5.0",
     "description": "A simple & beautiful GUI application for scrcpy",
     "homepage": "http://tomotoes.com/scrcpy-gui/",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.4.5/Scrcpy.GUI-2.4.5-win-x64.exe#/scrcpy-gui-2.4.5.win64.zip",
-            "hash": "7ac266f618517a777d65a0404b6187618f689add67230a3d6a1eca0104e2975f",
+            "url": "https://github.com/SimonAKing/scrcpy-gui/releases/download/v2.5.0/Scrcpy.GUI-2.5.0-win-x64.exe#/scrcpy-gui-2.5.0.win64.zip",
+            "hash": "10c69d05ffc9eadc1d80dc27a50de81f30bc2824a411b1bd9a942c11f1e64bc6",
             "installer": {
                 "script": [
                     "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
