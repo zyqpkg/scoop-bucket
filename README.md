@@ -22,20 +22,21 @@ scoop install zyqpkg/<app-name>
 | [bongocat](bucket/bongocat.json) | 跨平台桌宠 BongoCat，为桌面增添乐趣！ | 2.4.0 | [github.com](https://github.com/ayangweb/BongoCat) | 2026-10-26 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.6.3 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-10-26 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.18 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-10-26 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1642 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-26 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1642 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-26 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1659 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-26 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1659 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-26 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.16 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-10-26 |
 | [netcatty](bucket/netcatty.json) | SSH workspace, SFTP, and terminals in one | 1.1.90 | [netcatty.app](https://netcatty.app) | 2026-10-26 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.13.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-26 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.5.2 | [openchamber.dev](https://openchamber.dev/) | 2026-10-26 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.241 | [github.com](https://github.com/stablyai/orca) | 2026-10-26 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.242 | [github.com](https://github.com/stablyai/orca) | 2026-10-26 |
 | [orcaterm](bucket/orcaterm.json) | OrcaTerm (腾讯云智能终端) - 连接 AI Agent、代码与云服务器的高效易用 AI 终端工具 | 1.6.6 | [orcaterm.com](https://orcaterm.com/) | 2026-10-26 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.13.2 | [paseo.sh](https://paseo.sh) | 2026-10-26 |
+| [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.0.4 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-10-26 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.79 | [qoder.com](https://qoder.com) | 2026-10-26 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.79 | [qoder.com.cn](https://qoder.com.cn) | 2026-10-26 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.12.1 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-10-25 |
 | [gooey-pi](bucket/gooey-pi.json) | GooeyPi - Desktop UI for the pi coding agent | 1.1.21 | [github.com](https://github.com/am-will/gooey-pi) | 2026-10-25 |
 | [pi-app](bucket/pi-app.json) | Desktop app for the pi coding agent runtime with timeline... | 0.7.7 | [github.com](https://github.com/justhil/pi-app) | 2026-10-25 |
-| [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.0.4 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-10-25 |
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.75.8 | [cursor.com](https://cursor.com/grokbot) | 2026-10-24 |
 | [kafkaesque](bucket/kafkaesque.json) | A GUI client for Kafka with features for browsing, produc... | 2.9.8 | [github.com](https://github.com/patschuh/KafkaEsque) | 2026-10-24 |
 | [lody](bucket/lody.json) | Desktop app to manage all your code agents with real-time... | 0.108.1 | [lody.ai](https://lody.ai/) | 2026-10-24 |
@@ -58,7 +59,6 @@ scoop install zyqpkg/<app-name>
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.9.1 | [github.com](https://github.com/cxasm/notepad--) | 2026-10-23 |
 | [nyaterm-preview](bucket/nyaterm-preview.json) | NyaTerm Preview - GPUI native rewrite preview of the mode... | 2.0.0-preview.9 | [nyaterm.app](https://nyaterm.app) | 2026-10-23 |
 | [octop](bucket/octop.json) | A smarter, self-hosted AI assistant — multi-user, multi-a... | 1.0.2 | [github.com](https://github.com/TencentCloud/Octop) | 2026-10-23 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.13.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-23 |
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.5.5.1 | [pixpin.com](https://pixpin.com/) | 2026-10-23 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.17.0 | [pixwit.cn](https://pixwit.cn/) | 2026-10-23 |
 | [RevokeMsgPatcher](bucket/RevokeMsgPatcher.json) | PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）。 | 2.1 | [github.com](https://github.com/huiyadanli/RevokeMsgPatcher) | 2026-10-23 |
