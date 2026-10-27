@@ -22,8 +22,8 @@ scoop install zyqpkg/<app-name>
 | [cindycn](bucket/cindycn.json) | Cindy (国内版) - 想到，就能做到。开源、开箱即用的 AI Agent (中国大陆节点) | 0.1.115 | [cindy.cn](https://cindy.cn) | 2026-10-27 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.5.4 | [github.com](https://github.com/Ruszero01/clippi) | 2026-10-27 |
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.77.0 | [cursor.com](https://cursor.com/grokbot) | 2026-10-27 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1689 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-27 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1689 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-27 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1707 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-27 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1707 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-27 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.13.1 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-27 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.242 | [github.com](https://github.com/stablyai/orca) | 2026-10-27 |
 | [scrcpy-gui](bucket/scrcpy-gui.json) | A simple & beautiful GUI application for scrcpy | 2.5.0 | [tomotoes.com](http://tomotoes.com/scrcpy-gui/) | 2026-10-27 |
@@ -37,7 +37,7 @@ scoop install zyqpkg/<app-name>
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.5.2 | [openchamber.dev](https://openchamber.dev/) | 2026-10-26 |
 | [orcaterm](bucket/orcaterm.json) | OrcaTerm (腾讯云智能终端) - 连接 AI Agent、代码与云服务器的高效易用 AI 终端工具 | 1.6.6 | [orcaterm.com](https://orcaterm.com/) | 2026-10-26 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.13.2 | [paseo.sh](https://paseo.sh) | 2026-10-26 |
-| [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.0.4 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-10-26 |
+| [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.0.5 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-10-26 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.79 | [qoder.com](https://qoder.com) | 2026-10-26 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.79 | [qoder.com.cn](https://qoder.com.cn) | 2026-10-26 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 1.12.1 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-10-25 |
@@ -74,7 +74,7 @@ scoop install zyqpkg/<app-name>
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.10.22-27dcf5f | [cursor.com](https://cursor.com/cli) | 2026-10-22 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.4.0 | [github.com](https://github.com/earendil-works/pi) | 2026-10-22 |
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 8.3.14 | [feishu.cn](https://www.feishu.cn/) | 2026-10-21 |
-| [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.3.1 | [nyaterm.app](https://nyaterm.app) | 2026-10-21 |
+| [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.3.2 | [nyaterm.app](https://nyaterm.app) | 2026-10-21 |
 | [codebuddycn](bucket/codebuddycn.json) | An AI-powered IDE | 4.12.2.41207131 | [codebuddy.cn](https://www.codebuddy.cn/ide/) | 2026-10-20 |
 | [mangodisk](bucket/mangodisk.json) | Safety-first disk cleaner and space analyzer, with duplic... | 1.2.0 | [mangodisk.app](https://mangodisk.app/) | 2026-10-20 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.52 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-10-20 |
