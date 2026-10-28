@@ -28,8 +28,8 @@ scoop install zyqpkg/<app-name>
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.77.0 | [cursor.com](https://cursor.com/grokbot) | 2026-10-27 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.20 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-10-27 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.51 | [kiro.dev](https://kiro.dev) | 2026-10-27 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1787 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-27 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1787 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-27 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1788 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-27 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1788 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-27 |
 | [mangodisk](bucket/mangodisk.json) | Safety-first disk cleaner and space analyzer, with duplic... | 1.2.1 | [mangodisk.app](https://mangodisk.app/) | 2026-10-27 |
 | [mangodisk-cli](bucket/mangodisk-cli.json) | Command-line interface for MangoDisk — safety-first disk ... | 1.2.1 | [mangodisk.app](https://mangodisk.app/) | 2026-10-27 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 1.3.2 | [nyaterm.app](https://nyaterm.app) | 2026-10-27 |
@@ -43,7 +43,7 @@ scoop install zyqpkg/<app-name>
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.2.0.9 | [wechat.com](https://www.wechat.com/) | 2026-10-27 |
 | [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.9.3.42398134-d4692421 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-10-27 |
 | [astrlink](bucket/astrlink.json) | A local AI gateway for AI agents, unifying your subscript... | 0.2.19 | [astrlink.com](https://astrlink.com/) | 2026-10-26 |
-| [bongocat](bucket/bongocat.json) | 跨平台桌宠 BongoCat，为桌面增添乐趣！ | 2.4.0 | [github.com](https://github.com/ayangweb/BongoCat) | 2026-10-26 |
+| [bongocat](bucket/bongocat.json) | 跨平台桌宠 BongoCat，为桌面增添乐趣！ | 2.4.1 | [github.com](https://github.com/ayangweb/BongoCat) | 2026-10-26 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.6.3 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-10-26 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.16 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-10-26 |
 | [netcatty](bucket/netcatty.json) | SSH workspace, SFTP, and terminals in one | 1.1.90 | [netcatty.app](https://netcatty.app) | 2026-10-26 |
