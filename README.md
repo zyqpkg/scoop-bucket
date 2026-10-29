@@ -18,8 +18,8 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1988 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-29 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1988 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-29 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.2001 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-29 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.2001 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-29 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 2.0.0 | [nyaterm.app](https://nyaterm.app) | 2026-10-29 |
 | [nyaterm-tauri](bucket/nyaterm-tauri.json) | A modern remote terminal workspace (Legacy Tauri/WebView2... | 1.3.2 | [nyaterm.app](https://nyaterm.app) | 2026-10-29 |
 | [altserver](bucket/altserver.json) | A home for apps that push the boundaries of iOS. No jailb... | 1.8.1 | [altstore.io](https://altstore.io/) | 2026-10-28 |
@@ -33,7 +33,7 @@ scoop install zyqpkg/<app-name>
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.62 | [kiro.dev](https://kiro.dev) | 2026-10-28 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.13.3 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-28 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.5.3 | [openchamber.dev](https://openchamber.dev/) | 2026-10-28 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.243 | [github.com](https://github.com/stablyai/orca) | 2026-10-28 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.244 | [github.com](https://github.com/stablyai/orca) | 2026-10-28 |
 | [orcaterm](bucket/orcaterm.json) | OrcaTerm (腾讯云智能终端) - 连接 AI Agent、代码与云服务器的高效易用 AI 终端工具 | 1.6.7 | [orcaterm.com](https://orcaterm.com/) | 2026-10-28 |
 | [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.0.7 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-10-28 |
 | [workbuddy](bucket/workbuddy.json) | WorkBuddy - AI Agent for Everyday Office Work | 5.9.3.42398134-d4692421 | [workbuddy.ai](https://www.workbuddy.ai/) | 2026-10-28 |

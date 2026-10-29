@@ -1,5 +1,5 @@
 {
-    "version": "0.1.1988",
+    "version": "0.1.2001",
     "description": "Terminal-only CLI for Magpie — one gateway to pick and route every coding agent's LLM API",
     "homepage": "https://usemagpie.ai/",
     "license": "MIT",
@@ -9,12 +9,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/yetone/magpie-releases/releases/download/v0.1.1988/magpie-cli-windows-amd64.exe#/magpie-cli.exe",
-            "hash": "c23c89f794ca53fff638790660bf931f5ed30a86e11011bd6ab82c4983544161"
+            "url": "https://github.com/yetone/magpie-releases/releases/download/v0.1.2001/magpie-cli-windows-amd64.exe#/magpie-cli.exe",
+            "hash": "2c3321b76e0586641bfa0e9455c090c1b1ef73bdce2c4a5b3a39fdab649455b5"
         },
         "arm64": {
-            "url": "https://github.com/yetone/magpie-releases/releases/download/v0.1.1988/magpie-cli-windows-arm64.exe#/magpie-cli.exe",
-            "hash": "5d36851182755c2353b5e7bdf1c7e02f224b730b87936c4f871804df8c3085d3"
+            "url": "https://github.com/yetone/magpie-releases/releases/download/v0.1.2001/magpie-cli-windows-arm64.exe#/magpie-cli.exe",
+            "hash": "bf03017707d00ebaf91549c6ff02f23a463d9f5e357a035927900ff8a4031093"
         }
     },
     "bin": [
