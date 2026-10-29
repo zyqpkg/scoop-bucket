@@ -18,36 +18,36 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
-| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 2.1.2 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-10-29 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.2090 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-29 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.2090 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-29 |
+| [cindy](bucket/cindy.json) | Consider it done. The open-source AI agent that works out... | 0.1.120 | [cindy.app](https://cindy.app) | 2026-10-29 |
+| [cindycn](bucket/cindycn.json) | Cindy (国内版) - 想到，就能做到。开源、开箱即用的 AI Agent (中国大陆节点) | 0.1.120 | [cindy.cn](https://cindy.cn) | 2026-10-29 |
+| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 2.1.3 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-10-29 |
+| [ego-lite](bucket/ego-lite.json) | The fastest browser for AI agents to run browser automati... | 0.6.2.5 | [lite.ego.app](https://lite.ego.app/) | 2026-10-29 |
+| [ffmpeg-nonfree](bucket/ffmpeg-nonfree.json) | FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimM... | 2026-10-29-16-21-2602f39-89ebf7b | [github.com](https://github.com/AnimMouse/ffmpeg-autobuild) | 2026-10-29 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.2110 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-29 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.2110 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-29 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 2.0.0 | [nyaterm.app](https://nyaterm.app) | 2026-10-29 |
 | [nyaterm-tauri](bucket/nyaterm-tauri.json) | A modern remote terminal workspace (Legacy Tauri/WebView2... | 1.3.2 | [nyaterm.app](https://nyaterm.app) | 2026-10-29 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.244 | [github.com](https://github.com/stablyai/orca) | 2026-10-29 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.14.0 | [paseo.sh](https://paseo.sh) | 2026-10-29 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.81 | [qoder.com](https://qoder.com) | 2026-10-29 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.81 | [qoder.com.cn](https://qoder.com.cn) | 2026-10-29 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.1.5 | [t3.codes](https://t3.codes) | 2026-10-29 |
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.212.1 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-10-29 |
 | [altserver](bucket/altserver.json) | A home for apps that push the boundaries of iOS. No jailb... | 1.8.1 | [altstore.io](https://altstore.io/) | 2026-10-28 |
 | [bongocat](bucket/bongocat.json) | 跨平台桌宠 BongoCat，为桌面增添乐趣！ | 2.4.1 | [github.com](https://github.com/ayangweb/BongoCat) | 2026-10-28 |
-| [cindy](bucket/cindy.json) | Consider it done. The open-source AI agent that works out... | 0.1.120 | [cindy.app](https://cindy.app) | 2026-10-28 |
-| [cindycn](bucket/cindycn.json) | Cindy (国内版) - 想到，就能做到。开源、开箱即用的 AI Agent (中国大陆节点) | 0.1.120 | [cindy.cn](https://cindy.cn) | 2026-10-28 |
-| [ffmpeg-nonfree](bucket/ffmpeg-nonfree.json) | FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimM... | 2026-10-29-16-21-2602f39-89ebf7b | [github.com](https://github.com/AnimMouse/ffmpeg-autobuild) | 2026-10-28 |
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.78.1 | [cursor.com](https://cursor.com/grokbot) | 2026-10-28 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.25 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-10-28 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.62 | [kiro.dev](https://kiro.dev) | 2026-10-28 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.13.3 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-28 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.14.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-28 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.5.3 | [openchamber.dev](https://openchamber.dev/) | 2026-10-28 |
 | [orcaterm](bucket/orcaterm.json) | OrcaTerm (腾讯云智能终端) - 连接 AI Agent、代码与云服务器的高效易用 AI 终端工具 | 1.6.7 | [orcaterm.com](https://orcaterm.com/) | 2026-10-28 |
 | [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.0.7 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-10-28 |
-| [workbuddy](bucket/workbuddy.json) | WorkBuddy - AI Agent for Everyday Office Work | 5.9.3.42398134-d4692421 | [workbuddy.ai](https://www.workbuddy.ai/) | 2026-10-28 |
+| [workbuddy](bucket/workbuddy.json) | WorkBuddy - AI Agent for Everyday Office Work | 5.9.4.42593613-fa0a0901 | [workbuddy.ai](https://www.workbuddy.ai/) | 2026-10-28 |
 | [busybox](bucket/busybox.json) | A single binary that contains many common Unix tools. | 6354-g5f09fb446 | [frippery.org](https://frippery.org/busybox) | 2026-10-27 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.5.4 | [github.com](https://github.com/Ruszero01/clippi) | 2026-10-27 |
-| [ego-lite](bucket/ego-lite.json) | The fastest browser for AI agents to run browser automati... | 0.6.2.5 | [lite.ego.app](https://lite.ego.app/) | 2026-10-27 |
 | [gost](bucket/gost.json) | GO Simple Tunnel - 多协议隧道与代理，支持 HTTP/SOCKS5/Shadowsocks/端口... | 3.3.2 | [github.com](https://github.com/go-gost/gost) | 2026-10-27 |
 | [mangodisk](bucket/mangodisk.json) | Safety-first disk cleaner and space analyzer, with duplic... | 1.2.1 | [mangodisk.app](https://mangodisk.app/) | 2026-10-27 |
 | [mangodisk-cli](bucket/mangodisk-cli.json) | Command-line interface for MangoDisk — safety-first disk ... | 1.2.1 | [mangodisk.app](https://mangodisk.app/) | 2026-10-27 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.81 | [qoder.com](https://qoder.com) | 2026-10-27 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.81 | [qoder.com.cn](https://qoder.com.cn) | 2026-10-27 |
 | [scrcpy-gui](bucket/scrcpy-gui.json) | A simple & beautiful GUI application for scrcpy | 2.5.0 | [tomotoes.com](http://tomotoes.com/scrcpy-gui/) | 2026-10-27 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.2.0.9 | [wechat.com](https://www.wechat.com/) | 2026-10-27 |
 | [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.9.3.42398134-d4692421 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-10-27 |
@@ -72,7 +72,7 @@ scoop install zyqpkg/<app-name>
 | [monsterdeleter](bucket/monsterdeleter.json) | 小怪兽删除器 MonsterDeleter - 面向 Windows 10/11 的桌面删除工具。在资源管理器中右... | 1.1.0 | [github.com](https://github.com/SuperPrintf/MonsterDeleter) | 2026-10-23 |
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.9.1 | [github.com](https://github.com/cxasm/notepad--) | 2026-10-23 |
 | [octop](bucket/octop.json) | A smarter, self-hosted AI assistant — multi-user, multi-a... | 1.0.2 | [github.com](https://github.com/TencentCloud/Octop) | 2026-10-23 |
-| [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.5.5.1 | [pixpin.com](https://pixpin.com/) | 2026-10-23 |
+| [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.6.6.0 | [pixpin.com](https://pixpin.com/) | 2026-10-23 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.17.0 | [pixwit.cn](https://pixwit.cn/) | 2026-10-23 |
 | [RevokeMsgPatcher](bucket/RevokeMsgPatcher.json) | PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）。 | 2.1 | [github.com](https://github.com/huiyadanli/RevokeMsgPatcher) | 2026-10-23 |
 | [syncclipboard](bucket/syncclipboard.json) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution | 3.3.3 | [github.com](https://github.com/Jeric-X/SyncClipboard) | 2026-10-23 |
@@ -88,8 +88,8 @@ scoop install zyqpkg/<app-name>
 | [weasel-nightly](bucket/weasel-nightly.json) | Rime for Windows (Nightly Build) | 0.17.4.95.82b50c9 | [rime.im](https://rime.im/) | 2026-10-20 |
 | [apiflow](bucket/apiflow.json) | Free, AI-Powered API Tool like Postman. Supports API test... | 0.9.83 | [github.com](https://github.com/trueleaf/apiflow) | 2026-10-19 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.22 | [github.com](https://github.com/DetachHead/rebased) | 2026-10-19 |
-| [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.2.0 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-18 |
-| [thinkrail-desktop](bucket/thinkrail-desktop.json) | The worktree IDE for the pi coding agent (Desktop Edition) | 0.2.0 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-18 |
+| [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.3.0 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-18 |
+| [thinkrail-desktop](bucket/thinkrail-desktop.json) | The worktree IDE for the pi coding agent (Desktop Edition) | 0.3.0 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-18 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.22 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-10-16 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-10-14-fbd2ae23927f | [herdr.dev](https://herdr.dev) | 2026-10-14 |
 | [innounpacker](bucket/innounpacker.json) | Inno Setup Unpacker | 2.2.13 | [rathlev-home.de](https://www.rathlev-home.de/index-e.html?tools/prog-e.html#unpack) | 2026-10-11 |
