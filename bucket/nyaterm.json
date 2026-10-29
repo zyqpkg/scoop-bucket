@@ -1,8 +1,13 @@
 {
     "version": "2.0.0",
-    "description": "A modern remote terminal workspace - SSH/SFTP/Telnet/Serial client with tabbed workspace, AI assistant, GPU/Docker/process monitoring",
+    "description": "A modern remote terminal workspace - SSH/SFTP/Telnet/Serial client with tabbed workspace, AI assistant, GPU/Docker/process monitoring (Rust + GPUI native)",
     "homepage": "https://nyaterm.app",
     "license": "MIT",
+    "notes": [
+        "NyaTerm 2.0.0 is the official Rust + GPUI native rewrite, replacing the legacy Tauri/WebView architecture.",
+        "IMPORTANT: Back up your data directory and export a .nya snapshot before upgrading from 1.x.",
+        "Migration guide: https://nyaterm.app/docs/getting-started/migration-v2"
+    ],
     "architecture": {
         "64bit": {
             "url": "https://github.com/nyakang/nyaterm/releases/download/v2.0.0/NyaTerm_2.0.0_windows_x64_portable.zip",
@@ -13,21 +18,14 @@
             "hash": "1b19549e5623745dbf6eb80eaffc0f983ca9c18842e16ccc9ec914526dcce305"
         }
     },
-    "pre_install": [
-        "$src = Join-Path $dir 'NyaTerm-portable'",
-        "if (Test-Path -LiteralPath $src) {",
-        "    Get-ChildItem -LiteralPath $src -Force | ForEach-Object {",
-        "        # Zip may contain an empty stub named nyaterm-portable; skip it to avoid case-insensitive collision.",
-        "        if ($_.Name -ieq 'nyaterm-portable') {",
-        "            Remove-Item -LiteralPath $_.FullName -Force -ErrorAction SilentlyContinue",
-        "        } else {",
-        "            Move-Item -LiteralPath $_.FullName -Destination $dir -Force",
-        "        }",
-        "    }",
-        "    Remove-Item -LiteralPath $src -Force -Recurse -ErrorAction SilentlyContinue",
-        "}"
+    "extract_dir": "NyaTerm-portable",
+    "bin": [
+        "NyaTerm.exe",
+        [
+            "NyaTerm.exe",
+            "nyaterm"
+        ]
     ],
-    "bin": "NyaTerm.exe",
     "shortcuts": [
         [
             "NyaTerm.exe",
@@ -41,10 +39,18 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/nyakang/nyaterm/releases/download/v$version/NyaTerm_$version_windows_x64_portable.zip"
+                "url": "https://github.com/nyakang/nyaterm/releases/download/v$version/NyaTerm_$version_windows_x64_portable.zip",
+                "hash": {
+                    "url": "https://github.com/nyakang/nyaterm/releases/download/v$version/SHA256SUMS",
+                    "regex": "(?i)([a-fA-F0-9]{64})\\s+NyaTerm_$version_windows_x64_portable\\.zip"
+                }
             },
             "arm64": {
-                "url": "https://github.com/nyakang/nyaterm/releases/download/v$version/NyaTerm_$version_windows_arm64_portable.zip"
+                "url": "https://github.com/nyakang/nyaterm/releases/download/v$version/NyaTerm_$version_windows_arm64_portable.zip",
+                "hash": {
+                    "url": "https://github.com/nyakang/nyaterm/releases/download/v$version/SHA256SUMS",
+                    "regex": "(?i)([a-fA-F0-9]{64})\\s+NyaTerm_$version_windows_arm64_portable\\.zip"
+                }
             }
         }
     }
