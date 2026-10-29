@@ -18,6 +18,7 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [altserver](bucket/altserver.json) | A home for apps that push the boundaries of iOS. No jailb... | 1.8.1 | [altstore.io](https://altstore.io/) | 2026-10-28 |
 | [bongocat](bucket/bongocat.json) | 跨平台桌宠 BongoCat，为桌面增添乐趣！ | 2.4.1 | [github.com](https://github.com/ayangweb/BongoCat) | 2026-10-28 |
 | [cindy](bucket/cindy.json) | Consider it done. The open-source AI agent that works out... | 0.1.119 | [cindy.app](https://cindy.app) | 2026-10-28 |
 | [cindycn](bucket/cindycn.json) | Cindy (国内版) - 想到，就能做到。开源、开箱即用的 AI Agent (中国大陆节点) | 0.1.119 | [cindy.cn](https://cindy.cn) | 2026-10-28 |
@@ -25,8 +26,9 @@ scoop install zyqpkg/<app-name>
 | [ffmpeg-nonfree](bucket/ffmpeg-nonfree.json) | FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimM... | 2026-10-28-17-43-28fda48-89ebf7b | [github.com](https://github.com/AnimMouse/ffmpeg-autobuild) | 2026-10-28 |
 | [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.78.1 | [cursor.com](https://cursor.com/grokbot) | 2026-10-28 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.25 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-10-28 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1970 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-28 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1970 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-28 |
+| [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.62 | [kiro.dev](https://kiro.dev) | 2026-10-28 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.1986 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-28 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.1986 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-28 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 2.0.0 | [nyaterm.app](https://nyaterm.app) | 2026-10-28 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.13.3 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-28 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.5.3 | [openchamber.dev](https://openchamber.dev/) | 2026-10-28 |
@@ -38,7 +40,6 @@ scoop install zyqpkg/<app-name>
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.5.4 | [github.com](https://github.com/Ruszero01/clippi) | 2026-10-27 |
 | [ego-lite](bucket/ego-lite.json) | The fastest browser for AI agents to run browser automati... | 0.6.1.13 | [lite.ego.app](https://lite.ego.app/) | 2026-10-27 |
 | [gost](bucket/gost.json) | GO Simple Tunnel - 多协议隧道与代理，支持 HTTP/SOCKS5/Shadowsocks/端口... | 3.3.2 | [github.com](https://github.com/go-gost/gost) | 2026-10-27 |
-| [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.62 | [kiro.dev](https://kiro.dev) | 2026-10-27 |
 | [mangodisk](bucket/mangodisk.json) | Safety-first disk cleaner and space analyzer, with duplic... | 1.2.1 | [mangodisk.app](https://mangodisk.app/) | 2026-10-27 |
 | [mangodisk-cli](bucket/mangodisk-cli.json) | Command-line interface for MangoDisk — safety-first disk ... | 1.2.1 | [mangodisk.app](https://mangodisk.app/) | 2026-10-27 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.80 | [qoder.com](https://qoder.com) | 2026-10-27 |
@@ -106,7 +107,6 @@ scoop install zyqpkg/<app-name>
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.67.17 | [github.com](https://github.com/op7418/CodePilot) | 2026-09-22 |
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.33.3 | [github.com](https://github.com/zyqfork/llmchat) | 2026-09-18 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.09.01 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-09-17 |
-| [altserver](bucket/altserver.json) | A home for apps that push the boundaries of iOS. No jailb... | 1.8.1 | [altstore.io](https://altstore.io/) | 2026-09-14 |
 | [intelligent-terminal](bucket/intelligent-terminal.json) | A fork of Windows Terminal with native agent integration,... | 0.2.2572.0 | [github.com](https://github.com/microsoft/intelligent-terminal) | 2026-09-14 |
 | [aionui](bucket/aionui.json) | Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude ... | 2.2.2 | [aionui.com](https://www.aionui.com) | 2026-09-09 |
 | [kafka-king](bucket/kafka-king.json) | A beautiful Kafka GUI desktop client, supports multiple c... | 0.47 | [github.com](https://github.com/Bronya0/Kafka-King) | 2026-09-09 |
