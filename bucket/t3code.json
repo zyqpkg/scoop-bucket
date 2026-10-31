@@ -1,12 +1,12 @@
 {
-    "version": "0.1.5",
+    "version": "0.1.6",
     "description": "The open-source control plane for coding agents. Orchestrate Claude Code, Codex, OpenCode, Cursor, and Grok from one surface.",
     "homepage": "https://t3.codes",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.5/T3-Code-0.1.5-x64.exe#/dl.7z",
-            "hash": "sha512:ffd31a014c12ab6b9e727c6f335d33819d38286a7dbe200bd9fded53c9bf97dcaedd06de794277cc606b512f6accd211035eecc2cf70a2b3b8882cbe8d75f77f"
+            "url": "https://github.com/pingdotgg/t3code/releases/download/v0.1.6/T3-Code-0.1.6-x64.exe#/dl.7z",
+            "hash": "sha512:d9c258ae6efb911fe9fa1d1c2118e2982d93db93490ddb03b40c44e02177c7e7066e89ba8b24481c88a49ce3131c0e02fcc7b88e7bbfff789c04c2cffaebe16a"
         }
     },
     "installer": {
