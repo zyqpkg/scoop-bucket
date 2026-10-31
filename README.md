@@ -18,13 +18,14 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.2437 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-31 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.2437 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-31 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.2473 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-31 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.2473 | [usemagpie.ai](https://usemagpie.ai/) | 2026-10-31 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.14.2 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-31 |
-| [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.0.8 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-10-31 |
+| [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.0.9 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-10-31 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.23 | [github.com](https://github.com/DetachHead/rebased) | 2026-10-31 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.1.6 | [t3.codes](https://t3.codes) | 2026-10-31 |
 | [tun2proxy](bucket/tun2proxy.json) |  | 0.8.7 | [github.com](https://github.com/tun2proxy/tun2proxy) | 2026-10-31 |
+| [weasel-nightly](bucket/weasel-nightly.json) | Rime for Windows (Nightly Build) | 0.17.4.98.f96ed24 | [rime.im](https://rime.im/) | 2026-10-31 |
 | [cindy](bucket/cindy.json) | Consider it done. The open-source AI agent that works out... | 0.1.121 | [cindy.app](https://cindy.app) | 2026-10-30 |
 | [cindycn](bucket/cindycn.json) | Cindy (国内版) - 想到，就能做到。开源、开箱即用的 AI Agent (中国大陆节点) | 0.1.121 | [cindy.cn](https://cindy.cn) | 2026-10-30 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 2.1.4 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-10-30 |
@@ -88,7 +89,6 @@ scoop install zyqpkg/<app-name>
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 8.3.14 | [feishu.cn](https://www.feishu.cn/) | 2026-10-21 |
 | [codebuddycn](bucket/codebuddycn.json) | An AI-powered IDE | 4.12.2.41207131 | [codebuddy.cn](https://www.codebuddy.cn/ide/) | 2026-10-20 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.52 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-10-20 |
-| [weasel-nightly](bucket/weasel-nightly.json) | Rime for Windows (Nightly Build) | 0.17.4.98.f96ed24 | [rime.im](https://rime.im/) | 2026-10-20 |
 | [apiflow](bucket/apiflow.json) | Free, AI-Powered API Tool like Postman. Supports API test... | 0.9.83 | [github.com](https://github.com/trueleaf/apiflow) | 2026-10-19 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.22 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-10-16 |
 | [herdr](bucket/herdr.json) | Agent multiplexer that lives in your terminal | 2026-10-14-fbd2ae23927f | [herdr.dev](https://herdr.dev) | 2026-10-14 |
