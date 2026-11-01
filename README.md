@@ -18,16 +18,17 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [ffmpeg-nonfree](bucket/ffmpeg-nonfree.json) | FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimM... | 2026-11-01-12-16-e2740a3-89ebf7b | [github.com](https://github.com/AnimMouse/ffmpeg-autobuild) | 2026-11-01 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.6.5 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-11-01 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.2634 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-01 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.2634 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-01 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.2644 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-01 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.2644 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-01 |
 | [mangodisk](bucket/mangodisk.json) | Safety-first disk cleaner and space analyzer, with duplic... | 1.2.2 | [mangodisk.app](https://mangodisk.app/) | 2026-11-01 |
 | [mangodisk-cli](bucket/mangodisk-cli.json) | Command-line interface for MangoDisk — safety-first disk ... | 1.2.2 | [mangodisk.app](https://mangodisk.app/) | 2026-11-01 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 2.0.1 | [nyaterm.app](https://nyaterm.app) | 2026-11-01 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.15.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-01 |
 | [snowair](bucket/snowair.json) | 轻量化的截图与标注工具，涵盖截图、录屏、演示、贴图、OCR 识别、翻译等功能 | 0.1.14 | [github.com](https://github.com/CM-idea/SnowAir) | 2026-11-01 |
 | [wsl-dashboard](bucket/wsl-dashboard.json) | A modern, high-performance, lightweight, and low-memory W... | 0.13.0 | [github.com](https://github.com/owu/wsl-dashboard) | 2026-11-01 |
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.16.3 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-11-01 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.15.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-10-31 |
 | [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.0.9 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-10-31 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.23 | [github.com](https://github.com/DetachHead/rebased) | 2026-10-31 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.1.6 | [t3.codes](https://t3.codes) | 2026-10-31 |
@@ -43,7 +44,6 @@ scoop install zyqpkg/<app-name>
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.213.1 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-10-30 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.2.0.12 | [wechat.com](https://www.wechat.com/) | 2026-10-30 |
 | [ego-lite](bucket/ego-lite.json) | The fastest browser for AI agents to run browser automati... | 0.6.2.5 | [lite.ego.app](https://lite.ego.app/) | 2026-10-29 |
-| [ffmpeg-nonfree](bucket/ffmpeg-nonfree.json) | FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimM... | 2026-11-01-12-16-e2740a3-89ebf7b | [github.com](https://github.com/AnimMouse/ffmpeg-autobuild) | 2026-10-29 |
 | [nyaterm-tauri](bucket/nyaterm-tauri.json) | A modern remote terminal workspace (Legacy Tauri/WebView2... | 1.3.2 | [nyaterm.app](https://nyaterm.app) | 2026-10-29 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.14.0 | [paseo.sh](https://paseo.sh) | 2026-10-29 |
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.6.6.0 | [pixpin.com](https://pixpin.com/) | 2026-10-29 |
