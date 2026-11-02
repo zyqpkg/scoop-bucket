@@ -20,8 +20,8 @@ scoop install zyqpkg/<app-name>
 |-----|-------------|---------|----------|--------------|
 | [ffmpeg-nonfree](bucket/ffmpeg-nonfree.json) | FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimM... | 2026-11-01-12-16-e2740a3-89ebf7b | [github.com](https://github.com/AnimMouse/ffmpeg-autobuild) | 2026-11-01 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.6.5 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-11-01 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.2644 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-01 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.2644 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-01 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.2663 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-01 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.2663 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-01 |
 | [mangodisk](bucket/mangodisk.json) | Safety-first disk cleaner and space analyzer, with duplic... | 1.2.2 | [mangodisk.app](https://mangodisk.app/) | 2026-11-01 |
 | [mangodisk-cli](bucket/mangodisk-cli.json) | Command-line interface for MangoDisk — safety-first disk ... | 1.2.2 | [mangodisk.app](https://mangodisk.app/) | 2026-11-01 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 2.0.1 | [nyaterm.app](https://nyaterm.app) | 2026-11-01 |
@@ -49,8 +49,8 @@ scoop install zyqpkg/<app-name>
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.6.6.0 | [pixpin.com](https://pixpin.com/) | 2026-10-29 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.81 | [qoder.com](https://qoder.com) | 2026-10-29 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.81 | [qoder.com.cn](https://qoder.com.cn) | 2026-10-29 |
-| [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.3.0 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-29 |
-| [thinkrail-desktop](bucket/thinkrail-desktop.json) | The worktree IDE for the pi coding agent (Desktop Edition) | 0.3.0 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-29 |
+| [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.3.1 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-29 |
+| [thinkrail-desktop](bucket/thinkrail-desktop.json) | The worktree IDE for the pi coding agent (Desktop Edition) | 0.3.1 | [thinkrail.ai](https://thinkrail.ai) | 2026-10-29 |
 | [workbuddy](bucket/workbuddy.json) | WorkBuddy - AI Agent for Everyday Office Work | 5.9.4.42593613-fa0a0901 | [workbuddy.ai](https://www.workbuddy.ai/) | 2026-10-29 |
 | [altserver](bucket/altserver.json) | A home for apps that push the boundaries of iOS. No jailb... | 1.8.1 | [altstore.io](https://altstore.io/) | 2026-10-28 |
 | [bongocat](bucket/bongocat.json) | 跨平台桌宠 BongoCat，为桌面增添乐趣！ | 2.4.1 | [github.com](https://github.com/ayangweb/BongoCat) | 2026-10-28 |
