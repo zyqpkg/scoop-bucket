@@ -1,0 +1,27 @@
+{
+    "version": "0.13.1",
+    "description": "水杉输入法 - 开源的 Windows TSF 输入法 (Metasequoia IME)",
+    "homepage": "https://github.com/metasequoiaime/MSIME-Windows",
+    "license": "GPL-3.0-only",
+    "url": "https://github.com/metasequoiaime/MSIME-Windows/releases/download/v0.13.1/MetasequoiaIME_Setup_v0.13.1.exe",
+    "hash": "051716e2714f59e8e985488b9056008564d84051850d9d36201af6fffd93aeee",
+    "installer": {
+        "script": [
+            "if (-not (is_admin)) { error 'Administrator privileges are required to install the IME (TSF DLL must be registered in System32/SysWOW64).'; break }",
+            "Start-Process -FilePath \"$dir\\MetasequoiaIME_Setup_v$version.exe\" -ArgumentList '/VERYSILENT', \"/DIR=$dir\" -Wait -NoNewWindow",
+            "Remove-Item \"$dir\\MetasequoiaIME_Setup_v$version.exe\" -Force -ErrorAction SilentlyContinue"
+        ]
+    },
+    "shortcuts": [
+        [
+            "server\\MetasequoiaImeSettings.exe",
+            "水杉输入法"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/metasequoiaime/MSIME-Windows"
+    },
+    "autoupdate": {
+        "url": "https://github.com/metasequoiaime/MSIME-Windows/releases/download/v$version/MetasequoiaIME_Setup_v$version.exe"
+    }
+}
