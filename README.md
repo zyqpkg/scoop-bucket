@@ -19,9 +19,10 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.86 | [kiro.dev](https://kiro.dev) | 2026-11-03 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.2790 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-03 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.2790 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-03 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.2812 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-03 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.2812 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-03 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.16.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-03 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.247 | [github.com](https://github.com/stablyai/orca) | 2026-11-03 |
 | [orcaterm](bucket/orcaterm.json) | OrcaTerm (腾讯云智能终端) - 连接 AI Agent、代码与云服务器的高效易用 AI 终端工具 | 1.6.8 | [orcaterm.com](https://orcaterm.com/) | 2026-11-03 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.19.1 | [pixwit.cn](https://pixwit.cn/) | 2026-11-03 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.5.5 | [github.com](https://github.com/Ruszero01/clippi) | 2026-11-02 |
@@ -33,10 +34,9 @@ scoop install zyqpkg/<app-name>
 | [gost](bucket/gost.json) | GO Simple Tunnel - 多协议隧道与代理，支持 HTTP/SOCKS5/Shadowsocks/端口... | 3.3.3 | [github.com](https://github.com/go-gost/gost) | 2026-11-02 |
 | [notepad--](bucket/notepad--.json) | Notepad-- 轻量级跨平台文本编辑器，支持 Win/Linux/Mac，国产可替代 | 3.9.2 | [github.com](https://github.com/cxasm/notepad--) | 2026-11-02 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.6.0 | [openchamber.dev](https://openchamber.dev/) | 2026-11-02 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.247 | [github.com](https://github.com/stablyai/orca) | 2026-11-02 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.5.0 | [github.com](https://github.com/earendil-works/pi) | 2026-11-02 |
 | [rustdesk](bucket/rustdesk.json) | An open-source remote desktop software, written in Rust. | 1.5.1 | [github.com](https://github.com/rustdesk/rustdesk) | 2026-11-02 |
-| [snowair](bucket/snowair.json) | 轻量化的截图与标注工具，涵盖截图、录屏、演示、贴图、OCR 识别、翻译等功能 | 0.1.15 | [github.com](https://github.com/CM-idea/SnowAir) | 2026-11-02 |
+| [snowair](bucket/snowair.json) | 轻量化的截图与标注工具，涵盖截图、录屏、演示、贴图、OCR 识别、翻译等功能 | 0.1.16 | [github.com](https://github.com/CM-idea/SnowAir) | 2026-11-02 |
 | [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.3.1 | [thinkrail.ai](https://thinkrail.ai) | 2026-11-02 |
 | [thinkrail-desktop](bucket/thinkrail-desktop.json) | The worktree IDE for the pi coding agent (Desktop Edition) | 0.3.1 | [thinkrail.ai](https://thinkrail.ai) | 2026-11-02 |
 | [ffmpeg-nonfree](bucket/ffmpeg-nonfree.json) | FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimM... | 2026-11-01-12-16-e2740a3-89ebf7b | [github.com](https://github.com/AnimMouse/ffmpeg-autobuild) | 2026-11-01 |
@@ -58,7 +58,7 @@ scoop install zyqpkg/<app-name>
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.2.0.12 | [wechat.com](https://www.wechat.com/) | 2026-10-30 |
 | [ego-lite](bucket/ego-lite.json) | The fastest browser for AI agents to run browser automati... | 0.6.2.5 | [lite.ego.app](https://lite.ego.app/) | 2026-10-29 |
 | [nyaterm-tauri](bucket/nyaterm-tauri.json) | A modern remote terminal workspace (Legacy Tauri/WebView2... | 1.3.2 | [nyaterm.app](https://nyaterm.app) | 2026-10-29 |
-| [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.14.0 | [paseo.sh](https://paseo.sh) | 2026-10-29 |
+| [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.15.0 | [paseo.sh](https://paseo.sh) | 2026-10-29 |
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.6.6.0 | [pixpin.com](https://pixpin.com/) | 2026-10-29 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.81 | [qoder.com](https://qoder.com) | 2026-10-29 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.81 | [qoder.com.cn](https://qoder.com.cn) | 2026-10-29 |
@@ -70,7 +70,7 @@ scoop install zyqpkg/<app-name>
 | [busybox](bucket/busybox.json) | A single binary that contains many common Unix tools. | 6354-g5f09fb446 | [frippery.org](https://frippery.org/busybox) | 2026-10-27 |
 | [scrcpy-gui](bucket/scrcpy-gui.json) | A simple & beautiful GUI application for scrcpy | 2.5.0 | [tomotoes.com](http://tomotoes.com/scrcpy-gui/) | 2026-10-27 |
 | [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.9.3.42398134-d4692421 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-10-27 |
-| [astrlink](bucket/astrlink.json) | A local AI gateway for AI agents, unifying your subscript... | 0.2.19 | [astrlink.com](https://astrlink.com/) | 2026-10-26 |
+| [astrlink](bucket/astrlink.json) | A local AI gateway for AI agents, unifying your subscript... | 0.2.20 | [astrlink.com](https://astrlink.com/) | 2026-10-26 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.16 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-10-26 |
 | [netcatty](bucket/netcatty.json) | SSH workspace, SFTP, and terminals in one | 1.1.90 | [netcatty.app](https://netcatty.app) | 2026-10-26 |
 | [gooey-pi](bucket/gooey-pi.json) | GooeyPi - Desktop UI for the pi coding agent | 1.1.21 | [github.com](https://github.com/am-will/gooey-pi) | 2026-10-25 |
