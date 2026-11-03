@@ -1,6 +1,6 @@
 {
     "version": "0.13.1",
-    "description": "水杉输入法 - 开源的 Windows TSF 输入法 (Metasequoia IME)",
+    "description": "水杉输入法 - 开源的 Windows TSF 输入法 (Metasequoia IME)。安装包为全局安装，程序文件写入 C:\\Program Files\\metasequoiaime，需要管理员权限",
     "homepage": "https://github.com/metasequoiaime/MSIME-Windows",
     "license": "GPL-3.0-only",
     "url": "https://github.com/metasequoiaime/MSIME-Windows/releases/download/v0.13.1/MetasequoiaIME_Setup_v0.13.1.exe",
@@ -8,16 +8,12 @@
     "installer": {
         "script": [
             "if (-not (is_admin)) { error 'Administrator privileges are required to install the IME (TSF DLL must be registered in System32/SysWOW64).'; break }",
-            "Start-Process -FilePath \"$dir\\MetasequoiaIME_Setup_v$version.exe\" -ArgumentList '/VERYSILENT', \"/DIR=$dir\" -Wait -NoNewWindow",
-            "Remove-Item \"$dir\\MetasequoiaIME_Setup_v$version.exe\" -Force -ErrorAction SilentlyContinue"
+            "Start-Process -FilePath \"$dir\\MetasequoiaIME_Setup_v$version.exe\" -ArgumentList '/VERYSILENT' -Wait -NoNewWindow"
         ]
     },
-    "shortcuts": [
-        [
-            "server\\MetasequoiaImeSettings.exe",
-            "水杉输入法"
-        ]
-    ],
+    "uninstaller": {
+        "script": "Invoke-ExternalCommand \"$dir\\unins000.exe\" -ArgumentList '/VERYSILENT' -RunAs | Out-Null"
+    },
     "checkver": {
         "github": "https://github.com/metasequoiaime/MSIME-Windows"
     },
