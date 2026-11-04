@@ -1,10 +1,10 @@
 {
-    "version": "0.13.1",
+    "version": "0.13.2",
     "description": "水杉输入法 - 开源的 Windows TSF 输入法 (Metasequoia IME)。安装包为全局安装，程序文件写入 C:\\Program Files\\metasequoiaime，需要管理员权限",
     "homepage": "https://github.com/metasequoiaime/MSIME-Windows",
     "license": "GPL-3.0-only",
-    "url": "https://github.com/metasequoiaime/MSIME-Windows/releases/download/v0.13.1/MetasequoiaIME_Setup_v0.13.1.exe",
-    "hash": "051716e2714f59e8e985488b9056008564d84051850d9d36201af6fffd93aeee",
+    "url": "https://github.com/metasequoiaime/MSIME-Windows/releases/download/v0.13.2/MetasequoiaIME_Setup_v0.13.2.exe",
+    "hash": "34db47d0d6894164f83c665cccb809de9e8e3ff36f975fed63d3069f02108a7d",
     "installer": {
         "script": [
             "if (-not (is_admin)) { error 'Administrator privileges are required to install the IME (TSF DLL must be registered in System32/SysWOW64).'; break }",
