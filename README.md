@@ -20,8 +20,9 @@ scoop install zyqpkg/<app-name>
 |-----|-------------|---------|----------|--------------|
 | [airsnip](bucket/airsnip.json) | 1 MB 的 Windows 截图标注工具，绿色免安装单文件，支持标注、长截图、贴图 | 0.7.0 | [github.com](https://github.com/bd-dxg/airsnip) | 2026-11-04 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.24.0 | [chatboxai.app](https://chatboxai.app/) | 2026-11-04 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.2906 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-04 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.2906 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-04 |
+| [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.78.1 | [cursor.com](https://cursor.com/grokbot) | 2026-11-04 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.2908 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-04 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.2908 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-04 |
 | [msime](bucket/msime.json) | 水杉输入法 - 开源的 Windows TSF 输入法 (Metasequoia IME)。安装包为全局安装，程序... | 0.13.2 | [github.com](https://github.com/metasequoiaime/MSIME-Windows) | 2026-11-04 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.6.1 | [openchamber.dev](https://openchamber.dev/) | 2026-11-04 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.248 | [github.com](https://github.com/stablyai/orca) | 2026-11-04 |
@@ -69,7 +70,6 @@ scoop install zyqpkg/<app-name>
 | [workbuddy](bucket/workbuddy.json) | WorkBuddy - AI Agent for Everyday Office Work | 5.9.4.42593613-fa0a0901 | [workbuddy.ai](https://www.workbuddy.ai/) | 2026-10-29 |
 | [altserver](bucket/altserver.json) | A home for apps that push the boundaries of iOS. No jailb... | 1.8.1 | [altstore.io](https://altstore.io/) | 2026-10-28 |
 | [bongocat](bucket/bongocat.json) | 跨平台桌宠 BongoCat，为桌面增添乐趣！ | 2.4.1 | [github.com](https://github.com/ayangweb/BongoCat) | 2026-10-28 |
-| [grok-bot](bucket/grok-bot.json) | AI teammates that use apps and websites to complete work | 0.78.1 | [cursor.com](https://cursor.com/grokbot) | 2026-10-28 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.25 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-10-28 |
 | [busybox](bucket/busybox.json) | A single binary that contains many common Unix tools. | 6354-g5f09fb446 | [frippery.org](https://frippery.org/busybox) | 2026-10-27 |
 | [scrcpy-gui](bucket/scrcpy-gui.json) | A simple & beautiful GUI application for scrcpy | 2.5.0 | [tomotoes.com](http://tomotoes.com/scrcpy-gui/) | 2026-10-27 |
