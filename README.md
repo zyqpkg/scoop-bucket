@@ -22,24 +22,24 @@ scoop install zyqpkg/<app-name>
 | [astrlink](bucket/astrlink.json) | A local AI gateway for AI agents, unifying your subscript... | 0.2.21 | [astrlink.com](https://astrlink.com/) | 2026-11-04 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.24.0 | [chatboxai.app](https://chatboxai.app/) | 2026-11-04 |
 | [grok-bot](bucket/grok-bot.json) | Always-on AI agents from xAI and Cursor that work autonom... | 0.78.5 | [x.ai](https://x.ai/bot) | 2026-11-04 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.2910 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-04 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.2910 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-04 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.2966 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-04 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.2966 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-04 |
 | [msime](bucket/msime.json) | 水杉输入法 - 开源的 Windows TSF 输入法 (Metasequoia IME)。安装包为全局安装，程序... | 0.13.2 | [github.com](https://github.com/metasequoiaime/MSIME-Windows) | 2026-11-04 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.6.1 | [openchamber.dev](https://openchamber.dev/) | 2026-11-04 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.248 | [github.com](https://github.com/stablyai/orca) | 2026-11-04 |
-| [snowair](bucket/snowair.json) | 轻量化的截图与标注工具，涵盖截图、录屏、演示、贴图、OCR 识别、翻译等功能 | 0.1.17 | [github.com](https://github.com/CM-idea/SnowAir) | 2026-11-04 |
+| [snowair](bucket/snowair.json) | 轻量化的截图与标注工具，涵盖截图、录屏、演示、贴图、OCR 识别、翻译等功能 | 0.1.18 | [github.com](https://github.com/CM-idea/SnowAir) | 2026-11-04 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.1.7 | [t3.codes](https://t3.codes) | 2026-11-04 |
-| [cindy](bucket/cindy.json) | Consider it done. The open-source AI agent that works out... | 0.1.124 | [cindy.app](https://cindy.app) | 2026-11-03 |
-| [cindycn](bucket/cindycn.json) | Cindy (国内版) - 想到，就能做到。开源、开箱即用的 AI Agent (中国大陆节点) | 0.1.124 | [cindy.cn](https://cindy.cn) | 2026-11-03 |
-| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 2.2.0 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-11-03 |
+| [cindy](bucket/cindy.json) | Consider it done. The open-source AI agent that works out... | 0.1.125 | [cindy.app](https://cindy.app) | 2026-11-03 |
+| [cindycn](bucket/cindycn.json) | Cindy (国内版) - 想到，就能做到。开源、开箱即用的 AI Agent (中国大陆节点) | 0.1.125 | [cindy.cn](https://cindy.cn) | 2026-11-03 |
+| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 2.2.1 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-11-03 |
 | [ego-lite](bucket/ego-lite.json) | The fastest browser for AI agents to run browser automati... | 0.6.2.7 | [lite.ego.app](https://lite.ego.app/) | 2026-11-03 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.86 | [kiro.dev](https://kiro.dev) | 2026-11-03 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.16.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-03 |
 | [orcaterm](bucket/orcaterm.json) | OrcaTerm (腾讯云智能终端) - 连接 AI Agent、代码与云服务器的高效易用 AI 终端工具 | 1.6.8 | [orcaterm.com](https://orcaterm.com/) | 2026-11-03 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.15.0 | [paseo.sh](https://paseo.sh) | 2026-11-03 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.19.1 | [pixwit.cn](https://pixwit.cn/) | 2026-11-03 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.82 | [qoder.com](https://qoder.com) | 2026-11-03 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.82 | [qoder.com.cn](https://qoder.com.cn) | 2026-11-03 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.83 | [qoder.com](https://qoder.com) | 2026-11-03 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.83 | [qoder.com.cn](https://qoder.com.cn) | 2026-11-03 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.5.5 | [github.com](https://github.com/Ruszero01/clippi) | 2026-11-02 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.12.3.42658816 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-11-02 |
 | [codebuddycn](bucket/codebuddycn.json) | An AI-powered IDE | 4.12.3.42658816 | [codebuddy.cn](https://www.codebuddy.cn/ide/) | 2026-11-02 |
