@@ -20,8 +20,8 @@ scoop install zyqpkg/<app-name>
 |-----|-------------|---------|----------|--------------|
 | [intelligent-terminal](bucket/intelligent-terminal.json) | A fork of Windows Terminal with native agent integration,... | 0.3.3083.0 | [github.com](https://github.com/microsoft/intelligent-terminal) | 2026-11-05 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.26 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-11-05 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3007 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-05 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3007 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-05 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3015 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-05 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3015 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-05 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 2.0.2 | [nyaterm.app](https://nyaterm.app) | 2026-11-05 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.249 | [github.com](https://github.com/stablyai/orca) | 2026-11-05 |
 | [airsnip](bucket/airsnip.json) | 1 MB 的 Windows 截图标注工具，绿色免安装单文件，支持标注、长截图、贴图 | 0.7.0 | [github.com](https://github.com/bd-dxg/airsnip) | 2026-11-04 |
@@ -42,7 +42,7 @@ scoop install zyqpkg/<app-name>
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.86 | [kiro.dev](https://kiro.dev) | 2026-11-03 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.16.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-03 |
 | [orcaterm](bucket/orcaterm.json) | OrcaTerm (腾讯云智能终端) - 连接 AI Agent、代码与云服务器的高效易用 AI 终端工具 | 1.6.8 | [orcaterm.com](https://orcaterm.com/) | 2026-11-03 |
-| [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.15.0 | [paseo.sh](https://paseo.sh) | 2026-11-03 |
+| [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.15.1 | [paseo.sh](https://paseo.sh) | 2026-11-03 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.19.1 | [pixwit.cn](https://pixwit.cn/) | 2026-11-03 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.5.5 | [github.com](https://github.com/Ruszero01/clippi) | 2026-11-02 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.12.3.42658816 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-11-02 |
