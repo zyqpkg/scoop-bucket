@@ -18,8 +18,8 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3079 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-06 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3079 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-06 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3097 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-06 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3097 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-06 |
 | [openmausbot](bucket/openmausbot.json) | Open-source Grok Bot alternative — local-first AI bots wi... | 0.1.142 | [mausbot.com](https://mausbot.com) | 2026-11-06 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.23 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-11-06 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.24.1 | [chatboxai.app](https://chatboxai.app/) | 2026-11-05 |
@@ -45,9 +45,9 @@ scoop install zyqpkg/<app-name>
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.6.1 | [openchamber.dev](https://openchamber.dev/) | 2026-11-04 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.83 | [qoder.com](https://qoder.com) | 2026-11-04 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.83 | [qoder.com.cn](https://qoder.com.cn) | 2026-11-04 |
-| [snowair](bucket/snowair.json) | 轻量化的截图与标注工具，涵盖截图、录屏、演示、贴图、OCR 识别、翻译等功能 | 0.1.18 | [github.com](https://github.com/CM-idea/SnowAir) | 2026-11-04 |
+| [snowair](bucket/snowair.json) | 轻量化的截图与标注工具，涵盖截图、录屏、演示、贴图、OCR 识别、翻译等功能 | 0.1.19 | [github.com](https://github.com/CM-idea/SnowAir) | 2026-11-04 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.1.7 | [t3.codes](https://t3.codes) | 2026-11-04 |
-| [ego-lite](bucket/ego-lite.json) | The fastest browser for AI agents to run browser automati... | 0.6.2.7 | [lite.ego.app](https://lite.ego.app/) | 2026-11-03 |
+| [ego-lite](bucket/ego-lite.json) | The fastest browser for AI agents to run browser automati... | 0.6.2.8 | [lite.ego.app](https://lite.ego.app/) | 2026-11-03 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.86 | [kiro.dev](https://kiro.dev) | 2026-11-03 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.16.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-03 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.19.1 | [pixwit.cn](https://pixwit.cn/) | 2026-11-03 |
@@ -63,14 +63,14 @@ scoop install zyqpkg/<app-name>
 | [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.3.1 | [thinkrail.ai](https://thinkrail.ai) | 2026-11-02 |
 | [thinkrail-desktop](bucket/thinkrail-desktop.json) | The worktree IDE for the pi coding agent (Desktop Edition) | 0.3.1 | [thinkrail.ai](https://thinkrail.ai) | 2026-11-02 |
 | [ffmpeg-nonfree](bucket/ffmpeg-nonfree.json) | FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimM... | 2026-11-01-12-16-e2740a3-89ebf7b | [github.com](https://github.com/AnimMouse/ffmpeg-autobuild) | 2026-11-01 |
-| [mangodisk](bucket/mangodisk.json) | Safety-first disk cleaner and space analyzer, with duplic... | 1.2.2 | [mangodisk.app](https://mangodisk.app/) | 2026-11-01 |
-| [mangodisk-cli](bucket/mangodisk-cli.json) | Command-line interface for MangoDisk — safety-first disk ... | 1.2.2 | [mangodisk.app](https://mangodisk.app/) | 2026-11-01 |
+| [mangodisk](bucket/mangodisk.json) | Safety-first disk cleaner and space analyzer, with duplic... | 1.2.3 | [mangodisk.app](https://mangodisk.app/) | 2026-11-01 |
+| [mangodisk-cli](bucket/mangodisk-cli.json) | Command-line interface for MangoDisk — safety-first disk ... | 1.2.3 | [mangodisk.app](https://mangodisk.app/) | 2026-11-01 |
 | [wsl-dashboard](bucket/wsl-dashboard.json) | A modern, high-performance, lightweight, and low-memory W... | 0.13.0 | [github.com](https://github.com/owu/wsl-dashboard) | 2026-11-01 |
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.16.3 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-11-01 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.23 | [github.com](https://github.com/DetachHead/rebased) | 2026-10-31 |
 | [tun2proxy](bucket/tun2proxy.json) |  | 0.8.7 | [github.com](https://github.com/tun2proxy/tun2proxy) | 2026-10-31 |
 | [weasel-nightly](bucket/weasel-nightly.json) | Rime for Windows (Nightly Build) | 0.17.4.98.f96ed24 | [rime.im](https://rime.im/) | 2026-10-31 |
-| [lody](bucket/lody.json) | Desktop app to manage all your code agents with real-time... | 0.109.0 | [lody.ai](https://lody.ai/) | 2026-10-30 |
+| [lody](bucket/lody.json) | Desktop app to manage all your code agents with real-time... | 0.110.0 | [lody.ai](https://lody.ai/) | 2026-10-30 |
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.213.1 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-10-30 |
 | [nyaterm-tauri](bucket/nyaterm-tauri.json) | A modern remote terminal workspace (Legacy Tauri/WebView2... | 1.3.2 | [nyaterm.app](https://nyaterm.app) | 2026-10-29 |
 | [pixpin](bucket/pixpin.json) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.6.6.0 | [pixpin.com](https://pixpin.com/) | 2026-10-29 |

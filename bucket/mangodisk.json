@@ -1,13 +1,13 @@
 {
-    "version": "1.2.2",
+    "version": "1.2.3",
     "description": "Safety-first disk cleaner and space analyzer, with duplicate cleanup, app uninstall, startup management, and system maintenance",
     "homepage": "https://mangodisk.app/",
     "license": "GPL-3.0-only",
     "notes": "Requires 64-bit Windows 10 or later with Microsoft Edge WebView2 Runtime.",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/harry0703/MangoDisk/releases/download/v1.2.2/MangoDisk-1.2.2-windows-portable.exe#/MangoDisk.exe",
-            "hash": "3741a9e7f3e9b5205522484e5b6a482b51cce48b99ff25cef7ec497e9cbf3be1"
+            "url": "https://github.com/harry0703/MangoDisk/releases/download/v1.2.3/MangoDisk-1.2.3-windows-portable.exe#/MangoDisk.exe",
+            "hash": "4618da55e3c313e230946ccf8a1eda56af7196d22088fca8d46bc1a9ded70b77"
         }
     },
     "shortcuts": [
