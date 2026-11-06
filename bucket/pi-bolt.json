@@ -1,12 +1,12 @@
 {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "description": "Pi, the coding agent, compiled ahead of time to native code. Starts 3x sooner than Pi on Bun and uses about a third of its CPU.",
     "homepage": "https://github.com/opensec-git/Pi-Bolt",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/opensec-git/Pi-Bolt/releases/download/bolt-v1.1.1/pi-bolt-win32-x64.zip",
-            "hash": "1e9bf2ae962ddf4e9079c10ce21c9f4d25cbe1b7f310270cfa58f0bdbc2649b2"
+            "url": "https://github.com/opensec-git/Pi-Bolt/releases/download/bolt-v1.1.2/pi-bolt-win32-x64.zip",
+            "hash": "d471b9b7be8e5020aef0a1f7dc335e3f089450f7b1bcf9db466977dbc49adce1"
         }
     },
     "extract_dir": "pi-bolt-win32-x64",
