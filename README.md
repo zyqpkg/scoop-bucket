@@ -19,6 +19,7 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [ego-lite](bucket/ego-lite.json) | The fastest browser for AI agents to run browser automati... | 0.6.2.8 | [lite.ego.app](https://lite.ego.app/) | 2026-11-06 |
+| [junie](bucket/junie.json) | Junie CLI - JetBrains agentic coding tool with an interac... | 3959.5 | [junie.jetbrains.com](https://junie.jetbrains.com/docs/junie-cli.html) | 2026-11-06 |
 | [lody](bucket/lody.json) | Desktop app to manage all your code agents with real-time... | 0.110.0 | [lody.ai](https://lody.ai/) | 2026-11-06 |
 | [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3136 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-06 |
 | [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3136 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-06 |
