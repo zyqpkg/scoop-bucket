@@ -1,12 +1,12 @@
 {
-    "version": "3.8.52",
+    "version": "3.8.53",
     "description": "Free AI gateway for connecting AI coding tools to multiple providers.",
     "homepage": "https://github.com/diegosouzapw/OmniRoute",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.52/OmniRoute.3.8.52.exe#/dl.7z",
-            "hash": "555b34ea494c1709c00800487ee1c1e95a7c4a8a77cc4d0046bf463d56b56c79",
+            "url": "https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.53/OmniRoute.3.8.53.exe#/dl.7z",
+            "hash": "613fa0255720dd1f4f84f7b19cc2f7d458b15e76826373b763d59e0f7fbd3f1f",
             "installer": {
                 "script": [
                     "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
