@@ -20,8 +20,8 @@ scoop install zyqpkg/<app-name>
 |-----|-------------|---------|----------|--------------|
 | [ego-lite](bucket/ego-lite.json) | The fastest browser for AI agents to run browser automati... | 0.6.2.8 | [lite.ego.app](https://lite.ego.app/) | 2026-11-06 |
 | [lody](bucket/lody.json) | Desktop app to manage all your code agents with real-time... | 0.110.0 | [lody.ai](https://lody.ai/) | 2026-11-06 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3097 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-06 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3097 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-06 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3099 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-06 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3099 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-06 |
 | [mangodisk](bucket/mangodisk.json) | Safety-first disk cleaner and space analyzer, with duplic... | 1.2.3 | [mangodisk.app](https://mangodisk.app/) | 2026-11-06 |
 | [mangodisk-cli](bucket/mangodisk-cli.json) | Command-line interface for MangoDisk — safety-first disk ... | 1.2.3 | [mangodisk.app](https://mangodisk.app/) | 2026-11-06 |
 | [openmausbot](bucket/openmausbot.json) | Open-source Grok Bot alternative — local-first AI bots wi... | 0.1.142 | [mausbot.com](https://mausbot.com) | 2026-11-06 |
