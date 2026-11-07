@@ -18,15 +18,19 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
-| [airsnip](bucket/airsnip.json) | 1 MB 的 Windows 截图标注工具，绿色免安装单文件，支持标注、长截图、贴图 | 0.8.1 | [github.com](https://github.com/bd-dxg/airsnip) | 2026-11-07 |
+| [airsnip](bucket/airsnip.json) | 1 MB 的 Windows 截图标注工具，绿色免安装单文件，支持标注、长截图、贴图 | 0.9.0 | [github.com](https://github.com/bd-dxg/airsnip) | 2026-11-07 |
 | [ffmpeg-nonfree](bucket/ffmpeg-nonfree.json) | FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimM... | 2026-11-07-00-17-e196e57-89ebf7b | [github.com](https://github.com/AnimMouse/ffmpeg-autobuild) | 2026-11-07 |
 | [grok-bot](bucket/grok-bot.json) | Always-on AI agents from xAI and Cursor that work autonom... | 0.79.3 | [x.ai](https://x.ai/bot) | 2026-11-07 |
+| [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.22.032 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-11-07 |
 | [lody](bucket/lody.json) | Desktop app to manage all your code agents with real-time... | 0.110.1 | [lody.ai](https://lody.ai/) | 2026-11-07 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3233 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-07 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3233 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-07 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3260 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-07 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3260 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-07 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.18.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-07 |
 | [openmausbot](bucket/openmausbot.json) | Open-source Grok Bot alternative — local-first AI bots wi... | 0.1.146 | [mausbot.com](https://mausbot.com) | 2026-11-07 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.253 | [github.com](https://github.com/stablyai/orca) | 2026-11-07 |
+| [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.1.4 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-11-07 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.4.1 | [github.com](https://github.com/throneproj/Throne) | 2026-11-07 |
+| [todayai](bucket/todayai.json) | 懂你所想，为你先行的个人 AI 助理（Today 中国版） | 1.24.0 | [todayai.cn](https://todayai.cn) | 2026-11-07 |
 | [cindy](bucket/cindy.json) | Consider it done. The open-source AI agent that works out... | 0.1.128 | [cindy.app](https://cindy.app) | 2026-11-06 |
 | [cindycn](bucket/cindycn.json) | Cindy (国内版) - 想到，就能做到。开源、开箱即用的 AI Agent (中国大陆节点) | 0.1.128 | [cindy.cn](https://cindy.cn) | 2026-11-06 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.5.0 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-11-06 |
@@ -36,17 +40,14 @@ scoop install zyqpkg/<app-name>
 | [mangodisk](bucket/mangodisk.json) | Safety-first disk cleaner and space analyzer, with duplic... | 1.2.3 | [mangodisk.app](https://mangodisk.app/) | 2026-11-06 |
 | [mangodisk-cli](bucket/mangodisk-cli.json) | Command-line interface for MangoDisk — safety-first disk ... | 1.2.3 | [mangodisk.app](https://mangodisk.app/) | 2026-11-06 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.53 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-11-06 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.252 | [github.com](https://github.com/stablyai/orca) | 2026-11-06 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.15.3 | [paseo.sh](https://paseo.sh) | 2026-11-06 |
-| [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.1.3 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-11-06 |
 | [processon](bucket/processon.json) | ProcessOn is a free online flowchart, mind map, and colla... | 5.14.24 | [processon.com](https://www.processon.com) | 2026-11-06 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.84 | [qoder.com](https://qoder.com) | 2026-11-06 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.84 | [qoder.com.cn](https://qoder.com.cn) | 2026-11-06 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.85 | [qoder.com](https://qoder.com) | 2026-11-06 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.85 | [qoder.com.cn](https://qoder.com.cn) | 2026-11-06 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.23 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-11-06 |
 | [snowair](bucket/snowair.json) | 轻量化的截图与标注工具，涵盖截图、录屏、演示、贴图、OCR 识别、翻译等功能 | 0.1.19 | [github.com](https://github.com/CM-idea/SnowAir) | 2026-11-06 |
 | [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.3.2 | [thinkrail.ai](https://thinkrail.ai) | 2026-11-06 |
 | [thinkrail-desktop](bucket/thinkrail-desktop.json) | The worktree IDE for the pi coding agent (Desktop Edition) | 0.3.2 | [thinkrail.ai](https://thinkrail.ai) | 2026-11-06 |
-| [todayai](bucket/todayai.json) | 懂你所想，为你先行的个人 AI 助理（Today 中国版） | 1.24.0 | [todayai.cn](https://todayai.cn) | 2026-11-06 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.24.1 | [chatboxai.app](https://chatboxai.app/) | 2026-11-05 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 2.3.1 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-11-05 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.11.05-86047df | [cursor.com](https://cursor.com/cli) | 2026-11-05 |
@@ -95,7 +96,6 @@ scoop install zyqpkg/<app-name>
 | [codux-agent](bucket/codux-agent.json) | Codux headless host agent for remote terminals, Git, and ... | 2.0.3 | [github.com](https://github.com/duxweb/codux) | 2026-10-23 |
 | [ContextMenuManager](bucket/ContextMenuManager.json) | 🖱️ 纯粹的 Windows 右键菜单管理程序。A pure Windows context menu mana... | 4.0.0.9 | [github.com](https://github.com/Jack251970/ContextMenuManager) | 2026-10-23 |
 | [deskbox](bucket/deskbox.json) | A free, open-source Windows desktop organizer with native... | 1.5.9 | [github.com](https://github.com/Tianyu199509/DeskBox) | 2026-10-23 |
-| [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.22.032 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-10-23 |
 | [monsterdeleter](bucket/monsterdeleter.json) | 小怪兽删除器 MonsterDeleter - 面向 Windows 10/11 的桌面删除工具。在资源管理器中右... | 1.1.0 | [github.com](https://github.com/SuperPrintf/MonsterDeleter) | 2026-10-23 |
 | [octop](bucket/octop.json) | A smarter, self-hosted AI assistant — multi-user, multi-a... | 1.0.2 | [github.com](https://github.com/TencentCloud/Octop) | 2026-10-23 |
 | [RevokeMsgPatcher](bucket/RevokeMsgPatcher.json) | PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）。 | 2.1 | [github.com](https://github.com/huiyadanli/RevokeMsgPatcher) | 2026-10-23 |
