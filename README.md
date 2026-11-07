@@ -23,12 +23,14 @@ scoop install zyqpkg/<app-name>
 | [grok-bot](bucket/grok-bot.json) | Always-on AI agents from xAI and Cursor that work autonom... | 0.79.3 | [x.ai](https://x.ai/bot) | 2026-11-07 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.22.032 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-11-07 |
 | [lody](bucket/lody.json) | Desktop app to manage all your code agents with real-time... | 0.110.1 | [lody.ai](https://lody.ai/) | 2026-11-07 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3260 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-07 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3260 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-07 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3287 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-07 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3287 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-07 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.18.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-07 |
-| [openmausbot](bucket/openmausbot.json) | Open-source Grok Bot alternative — local-first AI bots wi... | 0.1.146 | [mausbot.com](https://mausbot.com) | 2026-11-07 |
+| [openmausbot](bucket/openmausbot.json) | Open-source Grok Bot alternative — local-first AI bots wi... | 0.1.147 | [mausbot.com](https://mausbot.com) | 2026-11-07 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.253 | [github.com](https://github.com/stablyai/orca) | 2026-11-07 |
 | [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.1.4 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-11-07 |
+| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.85 | [qoder.com](https://qoder.com) | 2026-11-07 |
+| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.85 | [qoder.com.cn](https://qoder.com.cn) | 2026-11-07 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.4.1 | [github.com](https://github.com/throneproj/Throne) | 2026-11-07 |
 | [todayai](bucket/todayai.json) | 懂你所想，为你先行的个人 AI 助理（Today 中国版） | 1.24.0 | [todayai.cn](https://todayai.cn) | 2026-11-07 |
 | [cindy](bucket/cindy.json) | Consider it done. The open-source AI agent that works out... | 0.1.128 | [cindy.app](https://cindy.app) | 2026-11-06 |
@@ -42,18 +44,16 @@ scoop install zyqpkg/<app-name>
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.53 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-11-06 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.15.3 | [paseo.sh](https://paseo.sh) | 2026-11-06 |
 | [processon](bucket/processon.json) | ProcessOn is a free online flowchart, mind map, and colla... | 5.14.24 | [processon.com](https://www.processon.com) | 2026-11-06 |
-| [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.85 | [qoder.com](https://qoder.com) | 2026-11-06 |
-| [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.85 | [qoder.com.cn](https://qoder.com.cn) | 2026-11-06 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.23 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-11-06 |
 | [snowair](bucket/snowair.json) | 轻量化的截图与标注工具，涵盖截图、录屏、演示、贴图、OCR 识别、翻译等功能 | 0.1.19 | [github.com](https://github.com/CM-idea/SnowAir) | 2026-11-06 |
 | [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.3.2 | [thinkrail.ai](https://thinkrail.ai) | 2026-11-06 |
 | [thinkrail-desktop](bucket/thinkrail-desktop.json) | The worktree IDE for the pi coding agent (Desktop Edition) | 0.3.2 | [thinkrail.ai](https://thinkrail.ai) | 2026-11-06 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.24.1 | [chatboxai.app](https://chatboxai.app/) | 2026-11-05 |
-| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 2.3.1 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-11-05 |
+| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 2.4.0 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-11-05 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.11.05-86047df | [cursor.com](https://cursor.com/cli) | 2026-11-05 |
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.15 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-11-05 |
 | [intelligent-terminal](bucket/intelligent-terminal.json) | A fork of Windows Terminal with native agent integration,... | 0.3.3083.0 | [github.com](https://github.com/microsoft/intelligent-terminal) | 2026-11-05 |
-| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.27 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-11-05 |
+| [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.28 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-11-05 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 2.0.2 | [nyaterm.app](https://nyaterm.app) | 2026-11-05 |
 | [orcaterm](bucket/orcaterm.json) | OrcaTerm (腾讯云智能终端) - 连接 AI Agent、代码与云服务器的高效易用 AI 终端工具 | 1.6.9 | [orcaterm.com](https://orcaterm.com/) | 2026-11-05 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.2.0.13 | [wechat.com](https://www.wechat.com/) | 2026-11-05 |
