@@ -1,12 +1,12 @@
 {
-    "version": "1.4.0",
+    "version": "1.4.1",
     "description": "Qt based cross-platform GUI proxy configuration manager (backend: sing-box)",
     "homepage": "https://github.com/throneproj/Throne",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/throneproj/Throne/releases/download/1.4.0/Throne-1.4.0-windows64.zip",
-            "hash": "bf60358021da1623f0d29120d20579e196d84fc375fca194ea54761f778fc839"
+            "url": "https://github.com/throneproj/Throne/releases/download/1.4.1/Throne-1.4.1-windows64.zip",
+            "hash": "c0fb62af75fd6a100a216c019b167a3bd924ebdc059b2bbbe68a684702293890"
         }
     },
     "extract_dir": "Throne",
