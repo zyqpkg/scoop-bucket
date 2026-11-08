@@ -18,8 +18,8 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3305 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-08 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3305 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-08 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3308 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-08 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3308 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-08 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.18.1 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-08 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.7.0 | [openchamber.dev](https://openchamber.dev/) | 2026-11-08 |
 | [rakazo](bucket/rakazo.json) | Open-source Grok Bot alternative. Choose your own model a... | 0.8.0 | [rakazo.com](https://rakazo.com) | 2026-11-08 |
