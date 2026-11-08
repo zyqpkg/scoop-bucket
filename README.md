@@ -18,6 +18,12 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3305 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-08 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3305 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-08 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.18.1 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-08 |
+| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.7.0 | [openchamber.dev](https://openchamber.dev/) | 2026-11-08 |
+| [rakazo](bucket/rakazo.json) | Open-source Grok Bot alternative. Choose your own model a... | 0.8.0 | [rakazo.com](https://rakazo.com) | 2026-11-08 |
+| [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.24 | [github.com](https://github.com/DetachHead/rebased) | 2026-11-08 |
 | [airsnip](bucket/airsnip.json) | 1 MB 的 Windows 截图标注工具，绿色免安装单文件，支持标注、长截图、贴图 | 0.9.0 | [github.com](https://github.com/bd-dxg/airsnip) | 2026-11-07 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 2.4.0 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-11-07 |
 | [ffmpeg-nonfree](bucket/ffmpeg-nonfree.json) | FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimM... | 2026-11-07-00-17-e196e57-89ebf7b | [github.com](https://github.com/AnimMouse/ffmpeg-autobuild) | 2026-11-07 |
@@ -25,9 +31,6 @@ scoop install zyqpkg/<app-name>
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.22.032 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-11-07 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.28 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-11-07 |
 | [lody](bucket/lody.json) | Desktop app to manage all your code agents with real-time... | 0.110.1 | [lody.ai](https://lody.ai/) | 2026-11-07 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3305 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-07 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3305 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-07 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.18.1 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-07 |
 | [openmausbot](bucket/openmausbot.json) | Open-source Grok Bot alternative — local-first AI bots wi... | 0.1.148 | [mausbot.com](https://mausbot.com) | 2026-11-07 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.253 | [github.com](https://github.com/stablyai/orca) | 2026-11-07 |
 | [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.1.4 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-11-07 |
@@ -60,7 +63,6 @@ scoop install zyqpkg/<app-name>
 | [astrlink](bucket/astrlink.json) | A local AI gateway for AI agents, unifying your subscript... | 0.2.21 | [astrlink.com](https://astrlink.com/) | 2026-11-04 |
 | [hfs](bucket/hfs.json) | A web file server to run on your computer | 3.4.0 | [rejetto.com](https://rejetto.com/hfs) | 2026-11-04 |
 | [msime](bucket/msime.json) | 水杉输入法 - 开源的 Windows TSF 输入法 (Metasequoia IME)。安装包为全局安装，程序... | 0.13.2 | [github.com](https://github.com/metasequoiaime/MSIME-Windows) | 2026-11-04 |
-| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.7.0 | [openchamber.dev](https://openchamber.dev/) | 2026-11-04 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.1.7 | [t3.codes](https://t3.codes) | 2026-11-04 |
 | [pixwit](bucket/pixwit.json) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、丰富标注、桌面贴图；全屏/区域录屏；视频裁剪、删除中间段、压... | 1.19.1 | [pixwit.cn](https://pixwit.cn/) | 2026-11-03 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.5.5 | [github.com](https://github.com/Ruszero01/clippi) | 2026-11-02 |
@@ -74,7 +76,6 @@ scoop install zyqpkg/<app-name>
 | [rustdesk](bucket/rustdesk.json) | An open-source remote desktop software, written in Rust. | 1.5.1 | [github.com](https://github.com/rustdesk/rustdesk) | 2026-11-02 |
 | [wsl-dashboard](bucket/wsl-dashboard.json) | A modern, high-performance, lightweight, and low-memory W... | 0.13.0 | [github.com](https://github.com/owu/wsl-dashboard) | 2026-11-01 |
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.16.3 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-11-01 |
-| [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.24 | [github.com](https://github.com/DetachHead/rebased) | 2026-10-31 |
 | [tun2proxy](bucket/tun2proxy.json) |  | 0.8.7 | [github.com](https://github.com/tun2proxy/tun2proxy) | 2026-10-31 |
 | [weasel-nightly](bucket/weasel-nightly.json) | Rime for Windows (Nightly Build) | 0.17.4.98.f96ed24 | [rime.im](https://rime.im/) | 2026-10-31 |
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.213.1 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-10-30 |
