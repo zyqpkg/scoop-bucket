@@ -19,8 +19,8 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [iloader](bucket/iloader.json) | Free open-source iOS sideloading companion — install Side... | 2.4.1 | [iloader.app](https://iloader.app) | 2026-11-09 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3354 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-09 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3354 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-09 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3358 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-09 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3358 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-09 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.254 | [github.com](https://github.com/stablyai/orca) | 2026-11-09 |
 | [sideloadly](bucket/sideloadly.json) | Sideload IPAs on iOS, Apple Silicon Macs, and Apple TV — ... | 0.71.0 | [sideloadly.io](https://sideloadly.io) | 2026-11-09 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.24.2 | [chatboxai.app](https://chatboxai.app/) | 2026-11-08 |
