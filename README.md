@@ -18,6 +18,7 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [sideloadly](bucket/sideloadly.json) | Sideload IPAs on iOS, Apple Silicon Macs, and Apple TV — ... | 0.71.0 | [sideloadly.io](https://sideloadly.io) | 2026-11-09 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.24.2 | [chatboxai.app](https://chatboxai.app/) | 2026-11-08 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.12.4.43368774 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-11-08 |
 | [codebuddycn](bucket/codebuddycn.json) | An AI-powered IDE | 4.12.4.43368774 | [codebuddy.cn](https://www.codebuddy.cn/ide/) | 2026-11-08 |
