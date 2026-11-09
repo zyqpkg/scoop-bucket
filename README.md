@@ -23,8 +23,8 @@ scoop install zyqpkg/<app-name>
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.12.4.43368774 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-11-08 |
 | [codebuddycn](bucket/codebuddycn.json) | An AI-powered IDE | 4.12.4.43368774 | [codebuddy.cn](https://www.codebuddy.cn/ide/) | 2026-11-08 |
 | [ffmpeg-nonfree](bucket/ffmpeg-nonfree.json) | FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimM... | 2026-11-08-12-26-cc58378-89ebf7b | [github.com](https://github.com/AnimMouse/ffmpeg-autobuild) | 2026-11-08 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3347 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-08 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3347 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-08 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3354 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-08 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3354 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-08 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 2.0.3 | [nyaterm.app](https://nyaterm.app) | 2026-11-08 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.18.2 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-08 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.7.0 | [openchamber.dev](https://openchamber.dev/) | 2026-11-08 |
@@ -41,7 +41,7 @@ scoop install zyqpkg/<app-name>
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.22.032 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-11-07 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.28 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-11-07 |
 | [lody](bucket/lody.json) | Desktop app to manage all your code agents with real-time... | 0.110.1 | [lody.ai](https://lody.ai/) | 2026-11-07 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.253 | [github.com](https://github.com/stablyai/orca) | 2026-11-07 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.254 | [github.com](https://github.com/stablyai/orca) | 2026-11-07 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.85 | [qoder.com](https://qoder.com) | 2026-11-07 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.85 | [qoder.com.cn](https://qoder.com.cn) | 2026-11-07 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.4.1 | [github.com](https://github.com/throneproj/Throne) | 2026-11-07 |
