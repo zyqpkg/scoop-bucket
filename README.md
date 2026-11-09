@@ -31,7 +31,7 @@ scoop install zyqpkg/<app-name>
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.18.2 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-08 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.7.0 | [openchamber.dev](https://openchamber.dev/) | 2026-11-08 |
 | [openmausbot](bucket/openmausbot.json) | Open-source Grok Bot alternative — local-first AI bots wi... | 0.1.149 | [mausbot.com](https://mausbot.com) | 2026-11-08 |
-| [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.1.6 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-11-08 |
+| [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.1.7 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-11-08 |
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.22.0 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-11-08 |
 | [rakazo](bucket/rakazo.json) | Open-source Grok Bot alternative. Choose your own model a... | 0.8.0 | [rakazo.com](https://rakazo.com) | 2026-11-08 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.24 | [github.com](https://github.com/DetachHead/rebased) | 2026-11-08 |
