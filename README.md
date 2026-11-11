@@ -18,6 +18,7 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [notion-cli](bucket/notion-cli.json) | Notion CLI - authenticate with Notion, deploy Notion Work... | 0.23.28 | [developers.notion.com](https://developers.notion.com/cli/get-started/overview) | 2026-11-11 |
 | [airsnip](bucket/airsnip.json) | 1 MB 的 Windows 截图标注工具，绿色免安装单文件，支持标注、长截图、贴图 | 0.10.0 | [github.com](https://github.com/bd-dxg/airsnip) | 2026-11-10 |
 | [astrlink](bucket/astrlink.json) | A local AI gateway for AI agents, unifying your subscript... | 0.2.22 | [astrlink.com](https://astrlink.com/) | 2026-11-10 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.24.3 | [chatboxai.app](https://chatboxai.app/) | 2026-11-10 |
