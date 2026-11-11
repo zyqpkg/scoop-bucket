@@ -18,7 +18,11 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.11.10-731fb78 | [cursor.com](https://cursor.com/cli) | 2026-11-11 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3681 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-11 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3681 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-11 |
 | [notion-cli](bucket/notion-cli.json) | Notion CLI - authenticate with Notion, deploy Notion Work... | 0.23.28 | [developers.notion.com](https://developers.notion.com/cli/get-started/overview) | 2026-11-11 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.256 | [github.com](https://github.com/stablyai/orca) | 2026-11-11 |
 | [airsnip](bucket/airsnip.json) | 1 MB 的 Windows 截图标注工具，绿色免安装单文件，支持标注、长截图、贴图 | 0.10.0 | [github.com](https://github.com/bd-dxg/airsnip) | 2026-11-10 |
 | [astrlink](bucket/astrlink.json) | A local AI gateway for AI agents, unifying your subscript... | 0.2.22 | [astrlink.com](https://astrlink.com/) | 2026-11-10 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.24.3 | [chatboxai.app](https://chatboxai.app/) | 2026-11-10 |
@@ -31,8 +35,6 @@ scoop install zyqpkg/<app-name>
 | [junie](bucket/junie.json) | Junie CLI - JetBrains agentic coding tool with an interac... | 4020.7 | [junie.jetbrains.com](https://junie.jetbrains.com/docs/junie-cli.html) | 2026-11-10 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.154 | [kiro.dev](https://kiro.dev) | 2026-11-10 |
 | [lody](bucket/lody.json) | Desktop app to manage all your code agents with real-time... | 0.111.0 | [lody.ai](https://lody.ai/) | 2026-11-10 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3665 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-10 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3665 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-10 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.18.7 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-10 |
 | [openmausbot](bucket/openmausbot.json) | Open-source Grok Bot alternative — local-first AI bots wi... | 0.1.152 | [mausbot.com](https://mausbot.com) | 2026-11-10 |
 | [orcaterm](bucket/orcaterm.json) | OrcaTerm (腾讯云智能终端) - 连接 AI Agent、代码与云服务器的高效易用 AI 终端工具 | 1.6.10 | [orcaterm.com](https://orcaterm.com/) | 2026-11-10 |
@@ -49,7 +51,6 @@ scoop install zyqpkg/<app-name>
 | [hfs](bucket/hfs.json) | A web file server to run on your computer | 3.4.1 | [rejetto.com](https://rejetto.com/hfs) | 2026-11-09 |
 | [iloader](bucket/iloader.json) | Free open-source iOS sideloading companion — install Side... | 2.4.1 | [iloader.app](https://iloader.app) | 2026-11-09 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 2.0.4 | [nyaterm.app](https://nyaterm.app) | 2026-11-09 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.256 | [github.com](https://github.com/stablyai/orca) | 2026-11-09 |
 | [processon](bucket/processon.json) | ProcessOn is a free online flowchart, mind map, and colla... | 5.14.25 | [processon.com](https://www.processon.com) | 2026-11-09 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.86 | [qoder.com](https://qoder.com) | 2026-11-09 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.86 | [qoder.com.cn](https://qoder.com.cn) | 2026-11-09 |
@@ -74,7 +75,6 @@ scoop install zyqpkg/<app-name>
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.23 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-11-06 |
 | [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.3.2 | [thinkrail.ai](https://thinkrail.ai) | 2026-11-06 |
 | [thinkrail-desktop](bucket/thinkrail-desktop.json) | The worktree IDE for the pi coding agent (Desktop Edition) | 0.3.2 | [thinkrail.ai](https://thinkrail.ai) | 2026-11-06 |
-| [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.11.10-731fb78 | [cursor.com](https://cursor.com/cli) | 2026-11-05 |
 | [dify-plugin](bucket/dify-plugin.json) | A CLI tool is provided for plugin development on local en... | 0.6.15 | [github.com](https://github.com/langgenius/dify-plugin-daemon) | 2026-11-05 |
 | [intelligent-terminal](bucket/intelligent-terminal.json) | A fork of Windows Terminal with native agent integration,... | 0.3.3083.0 | [github.com](https://github.com/microsoft/intelligent-terminal) | 2026-11-05 |
 | [msime](bucket/msime.json) | 水杉输入法 - 开源的 Windows TSF 输入法 (Metasequoia IME)。安装包为全局安装，程序... | 0.13.2 | [github.com](https://github.com/metasequoiaime/MSIME-Windows) | 2026-11-04 |
