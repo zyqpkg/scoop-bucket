@@ -18,9 +18,9 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
-| [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.11.10-731fb78 | [cursor.com](https://cursor.com/cli) | 2026-11-11 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3681 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-11 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3681 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-11 |
+| [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.11.11-043ef28 | [cursor.com](https://cursor.com/cli) | 2026-11-11 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3719 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-11 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3719 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-11 |
 | [notion-cli](bucket/notion-cli.json) | Notion CLI - authenticate with Notion, deploy Notion Work... | 0.23.28 | [developers.notion.com](https://developers.notion.com/cli/get-started/overview) | 2026-11-11 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.256 | [github.com](https://github.com/stablyai/orca) | 2026-11-11 |
 | [airsnip](bucket/airsnip.json) | 1 MB 的 Windows 截图标注工具，绿色免安装单文件，支持标注、长截图、贴图 | 0.10.0 | [github.com](https://github.com/bd-dxg/airsnip) | 2026-11-10 |
@@ -35,12 +35,12 @@ scoop install zyqpkg/<app-name>
 | [junie](bucket/junie.json) | Junie CLI - JetBrains agentic coding tool with an interac... | 4020.7 | [junie.jetbrains.com](https://junie.jetbrains.com/docs/junie-cli.html) | 2026-11-10 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.154 | [kiro.dev](https://kiro.dev) | 2026-11-10 |
 | [lody](bucket/lody.json) | Desktop app to manage all your code agents with real-time... | 0.111.0 | [lody.ai](https://lody.ai/) | 2026-11-10 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.18.7 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-10 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.18.8 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-10 |
 | [openmausbot](bucket/openmausbot.json) | Open-source Grok Bot alternative — local-first AI bots wi... | 0.1.152 | [mausbot.com](https://mausbot.com) | 2026-11-10 |
 | [orcaterm](bucket/orcaterm.json) | OrcaTerm (腾讯云智能终端) - 连接 AI Agent、代码与云服务器的高效易用 AI 终端工具 | 1.6.10 | [orcaterm.com](https://orcaterm.com/) | 2026-11-10 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.15.4 | [paseo.sh](https://paseo.sh) | 2026-11-10 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.5.2 | [github.com](https://github.com/earendil-works/pi) | 2026-11-10 |
-| [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.2.0 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-11-10 |
+| [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.2.1 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-11-10 |
 | [rakazo](bucket/rakazo.json) | Open-source Grok Bot alternative. Choose your own model a... | 0.9.0 | [rakazo.com](https://rakazo.com) | 2026-11-10 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.1.8 | [t3.codes](https://t3.codes) | 2026-11-10 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.2.0.52 | [wechat.com](https://www.wechat.com/) | 2026-11-10 |
@@ -64,7 +64,7 @@ scoop install zyqpkg/<app-name>
 | [pi-desktop](bucket/pi-desktop.json) | Local-first AI coding agent desktop: Electron + Rust host... | 0.22.0 | [github.com](https://github.com/vastsa/PI-Desktop) | 2026-11-08 |
 | [rebased](bucket/rebased.json) | A git client based on the IntelliJ platform. | 1.1.24 | [github.com](https://github.com/DetachHead/rebased) | 2026-11-08 |
 | [RevokeMsgPatcher](bucket/RevokeMsgPatcher.json) | PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）。 | 2.2 | [github.com](https://github.com/huiyadanli/RevokeMsgPatcher) | 2026-11-08 |
-| [todayai](bucket/todayai.json) | 懂你所想，为你先行的个人 AI 助理（Today 中国版） | 1.25.1 | [todayai.cn](https://todayai.cn) | 2026-11-08 |
+| [todayai](bucket/todayai.json) | 懂你所想，为你先行的个人 AI 助理（Today 中国版） | 1.25.3 | [todayai.cn](https://todayai.cn) | 2026-11-08 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.22.032 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-11-07 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.28 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-11-07 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.4.1 | [github.com](https://github.com/throneproj/Throne) | 2026-11-07 |
