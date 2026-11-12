@@ -19,25 +19,27 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [airsnip](bucket/airsnip.json) | 1 MB 的 Windows 截图标注工具，绿色免安装单文件，支持标注、长截图、贴图 | 0.11.0 | [github.com](https://github.com/bd-dxg/airsnip) | 2026-11-11 |
+| [astrlink](bucket/astrlink.json) | A local AI gateway for AI agents, unifying your subscript... | 0.2.23 | [astrlink.com](https://astrlink.com/) | 2026-11-11 |
 | [cindy](bucket/cindy.json) | Consider it done. The open-source AI agent that works out... | 0.1.133 | [cindy.app](https://cindy.app) | 2026-11-11 |
 | [cindycn](bucket/cindycn.json) | Cindy (国内版) - 想到，就能做到。开源、开箱即用的 AI Agent (中国大陆节点) | 0.1.133 | [cindy.cn](https://cindy.cn) | 2026-11-11 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 2.6.6 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-11-11 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.11.11-b912975 | [cursor.com](https://cursor.com/cli) | 2026-11-11 |
+| [ferrite](bucket/ferrite.json) | A fast, lightweight text editor for Markdown, JSON, YAML,... | 0.3.1 | [github.com](https://github.com/OlaProeis/Ferrite) | 2026-11-11 |
 | [grok-bot](bucket/grok-bot.json) | Always-on AI agents from xAI and Cursor that work autonom... | 1.0.1 | [x.ai](https://x.ai/bot) | 2026-11-11 |
 | [lody](bucket/lody.json) | Desktop app to manage all your code agents with real-time... | 0.111.1 | [lody.ai](https://lody.ai/) | 2026-11-11 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3812 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-11 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3812 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-11 |
-| [notion-cli](bucket/notion-cli.json) | Notion CLI - authenticate with Notion, deploy Notion Work... | 0.23.28 | [developers.notion.com](https://developers.notion.com/cli/get-started/overview) | 2026-11-11 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3827 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-11 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3827 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-11 |
+| [notion-cli](bucket/notion-cli.json) | Notion CLI - authenticate with Notion, deploy Notion Work... | 0.23.29 | [developers.notion.com](https://developers.notion.com/cli/get-started/overview) | 2026-11-11 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.18.9 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-11 |
-| [openmausbot](bucket/openmausbot.json) | Open-source Grok Bot alternative — local-first AI bots wi... | 0.1.153 | [mausbot.com](https://mausbot.com) | 2026-11-11 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.256 | [github.com](https://github.com/stablyai/orca) | 2026-11-11 |
+| [openmausbot](bucket/openmausbot.json) | Open-source Grok Bot alternative — local-first AI bots wi... | 0.1.154 | [mausbot.com](https://mausbot.com) | 2026-11-11 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.257 | [github.com](https://github.com/stablyai/orca) | 2026-11-11 |
 | [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.2.1 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-11-11 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.87 | [qoder.com](https://qoder.com) | 2026-11-11 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.87 | [qoder.com.cn](https://qoder.com.cn) | 2026-11-11 |
+| [rakazo](bucket/rakazo.json) | Open-source Grok Bot alternative. Choose your own model a... | 0.10.0 | [rakazo.com](https://rakazo.com) | 2026-11-11 |
 | [rustdesk](bucket/rustdesk.json) | An open-source remote desktop software, written in Rust. | 1.5.3 | [github.com](https://github.com/rustdesk/rustdesk) | 2026-11-11 |
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.1.9 | [t3.codes](https://t3.codes) | 2026-11-11 |
 | [todayai](bucket/todayai.json) | 懂你所想，为你先行的个人 AI 助理（Today 中国版） | 1.25.3 | [todayai.cn](https://todayai.cn) | 2026-11-11 |
-| [astrlink](bucket/astrlink.json) | A local AI gateway for AI agents, unifying your subscript... | 0.2.23 | [astrlink.com](https://astrlink.com/) | 2026-11-10 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.24.3 | [chatboxai.app](https://chatboxai.app/) | 2026-11-10 |
 | [ego-lite](bucket/ego-lite.json) | The fastest browser for AI agents to run browser automati... | 0.6.2.10 | [lite.ego.app](https://lite.ego.app/) | 2026-11-10 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.6.7 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-11-10 |
@@ -46,7 +48,6 @@ scoop install zyqpkg/<app-name>
 | [orcaterm](bucket/orcaterm.json) | OrcaTerm (腾讯云智能终端) - 连接 AI Agent、代码与云服务器的高效易用 AI 终端工具 | 1.6.10 | [orcaterm.com](https://orcaterm.com/) | 2026-11-10 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.15.4 | [paseo.sh](https://paseo.sh) | 2026-11-10 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.5.2 | [github.com](https://github.com/earendil-works/pi) | 2026-11-10 |
-| [rakazo](bucket/rakazo.json) | Open-source Grok Bot alternative. Choose your own model a... | 0.10.0 | [rakazo.com](https://rakazo.com) | 2026-11-10 |
 | [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.2.0.52 | [wechat.com](https://www.wechat.com/) | 2026-11-10 |
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.17.2 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-11-10 |
 | [altserver](bucket/altserver.json) | A home for apps that push the boundaries of iOS. No jailb... | 1.8.4 | [altstore.io](https://altstore.io/) | 2026-11-09 |
@@ -126,7 +127,7 @@ scoop install zyqpkg/<app-name>
 | [5ire](bucket/5ire.json) | 5ire is a cross-platform desktop AI assistant, MCP client... | 0.15.4 | [5ire.app](https://5ire.app/) | 2026-08-18 |
 | [voicebox](bucket/voicebox.json) | The open-source voice synthesis studio | 0.5.0 | [voicebox.sh](https://voicebox.sh/) | 2026-08-18 |
 | [weasel](bucket/weasel.json) | Rime for Windows | 0.17.4 | [rime.im](https://rime.im/) | 2026-08-18 |
-| [websocat](bucket/websocat.json) | A command-line client for WebSockets, like netcat (or cur... | 1.14.1 | [github.com](https://github.com/vi/websocat) | 2026-08-18 |
+| [websocat](bucket/websocat.json) | A command-line client for WebSockets, like netcat (or cur... | 1.14.2 | [github.com](https://github.com/vi/websocat) | 2026-08-18 |
 | [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.5.0.160 | [github.com](https://github.com/martona/clipp) | 2026-08-17 |
 | [PingFangSC](bucket/PingFangSC.json) |  | 19.0d5e3 | [blog.dsrkafuu.net](https://blog.dsrkafuu.net/post/2020/extract-sf-pingfang) | 2026-07-24 |
 | [tcpview](bucket/tcpview.json) | Active socket command-line viewer. | 4.19 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/tcpview) | 2026-07-24 |
@@ -138,7 +139,6 @@ scoop install zyqpkg/<app-name>
 | [tun2socks](bucket/tun2socks.json) | tun2socks - powered by gVisor TCP/IP stack. | 2.7.0 | [github.com](https://github.com/xjasonlyu/tun2socks) | 2026-07-12 |
 | [efibooteditor](bucket/efibooteditor.json) | EFI Boot Editor - tool for managing UEFI boot entries | 1.5.7 | [github.com](https://github.com/Neverous/efibooteditor) | 2026-06-26 |
 | [magika](bucket/magika.json) | Fast and accurate AI-powered file content type detection ... | 1.1.0 | [github.com](https://github.com/google/magika) | 2026-06-17 |
-| [ferrite](bucket/ferrite.json) | A fast, lightweight text editor for Markdown, JSON, YAML,... | 0.3.1 | [github.com](https://github.com/OlaProeis/Ferrite) | 2026-05-22 |
 | [clipdiary](bucket/clipdiary.json) | A clipboard manager with history and snippets for frequen... | 5.7 | [clipdiary.com](https://clipdiary.com/) | 2026-03-17 |
 | [tim](bucket/tim.json) | Tencent TIM, lightweight alternative to QQ | 3.5.0.22143 | [office.qq.com](https://office.qq.com/) | 2026-03-11 |
 | [markitdown](bucket/markitdown.json) | Python tool for converting files and office documents (PD... | 1.0.3 | [github.com](https://github.com/zyqfork/markitdown) | 2026-03-03 |
