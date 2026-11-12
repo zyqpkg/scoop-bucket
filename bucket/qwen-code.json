@@ -1,0 +1,28 @@
+{
+    "version": "0.27.2",
+    "description": "An open-source AI coding agent that lives in your terminal.",
+    "homepage": "https://qwen.ai/qwencode",
+    "license": "Apache-2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.27.2/qwen-code-win-x64.zip",
+            "hash": "e13431f3cbcf1ff235c04ce691820a1e9d80069ba621171115ce99c70a78a8f1"
+        }
+    },
+    "extract_dir": "qwen-code",
+    "bin": "bin\\qwen.cmd",
+    "checkver": {
+        "url": "https://api.github.com/repos/QwenLM/qwen-code/releases",
+        "regex": "\"tag_name\":\\s*\"v([\\d.]+)\""
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/QwenLM/qwen-code/releases/download/v$version/qwen-code-win-x64.zip"
+            }
+        },
+        "hash": {
+            "url": "https://github.com/QwenLM/qwen-code/releases/download/v$version/SHA256SUMS"
+        }
+    }
+}

@@ -18,6 +18,7 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [qwen-code](bucket/qwen-code.json) | An open-source AI coding agent that lives in your termina... | 0.27.2 | [qwen.ai](https://qwen.ai/qwencode) | 2026-11-12 |
 | [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3835 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-12 |
 | [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3835 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-12 |
 | [notion-cli](bucket/notion-cli.json) | Notion CLI - authenticate with Notion, deploy Notion Work... | 0.23.29 | [developers.notion.com](https://developers.notion.com/cli/get-started/overview) | 2026-11-12 |
