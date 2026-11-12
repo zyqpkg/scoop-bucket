@@ -18,9 +18,10 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [airsnip](bucket/airsnip.json) | 1 MB 的 Windows 截图标注工具，绿色免安装单文件，支持标注、长截图、贴图 | 0.11.1 | [github.com](https://github.com/bd-dxg/airsnip) | 2026-11-12 |
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 8.6.10 | [feishu.cn](https://www.feishu.cn/) | 2026-11-12 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3873 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-12 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3873 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-12 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3901 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-12 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3901 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-12 |
 | [notion-cli](bucket/notion-cli.json) | Notion CLI - authenticate with Notion, deploy Notion Work... | 0.23.29 | [developers.notion.com](https://developers.notion.com/cli/get-started/overview) | 2026-11-12 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.19.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-12 |
 | [openmausbot](bucket/openmausbot.json) | Open-source Grok Bot alternative — local-first AI bots wi... | 0.1.154 | [mausbot.com](https://mausbot.com) | 2026-11-12 |
@@ -29,10 +30,9 @@ scoop install zyqpkg/<app-name>
 | [snowair](bucket/snowair.json) | 轻量化的截图与标注工具，涵盖截图、录屏、演示、贴图、OCR 识别、翻译等功能 | 0.1.21 | [github.com](https://github.com/CM-idea/SnowAir) | 2026-11-12 |
 | [sshyard](bucket/sshyard.json) | Native desktop SSH / SFTP client with terminals, file man... | 1.1.2 | [sshyard.com](https://sshyard.com) | 2026-11-12 |
 | [websocat](bucket/websocat.json) | A command-line client for WebSockets, like netcat (or cur... | 1.14.2 | [github.com](https://github.com/vi/websocat) | 2026-11-12 |
-| [airsnip](bucket/airsnip.json) | 1 MB 的 Windows 截图标注工具，绿色免安装单文件，支持标注、长截图、贴图 | 0.11.1 | [github.com](https://github.com/bd-dxg/airsnip) | 2026-11-11 |
 | [astrlink](bucket/astrlink.json) | A local AI gateway for AI agents, unifying your subscript... | 0.2.23 | [astrlink.com](https://astrlink.com/) | 2026-11-11 |
-| [cindy](bucket/cindy.json) | Consider it done. The open-source AI agent that works out... | 0.1.133 | [cindy.app](https://cindy.app) | 2026-11-11 |
-| [cindycn](bucket/cindycn.json) | Cindy (国内版) - 想到，就能做到。开源、开箱即用的 AI Agent (中国大陆节点) | 0.1.133 | [cindy.cn](https://cindy.cn) | 2026-11-11 |
+| [cindy](bucket/cindy.json) | Consider it done. The open-source AI agent that works out... | 0.1.135 | [cindy.app](https://cindy.app) | 2026-11-11 |
+| [cindycn](bucket/cindycn.json) | Cindy (国内版) - 想到，就能做到。开源、开箱即用的 AI Agent (中国大陆节点) | 0.1.135 | [cindy.cn](https://cindy.cn) | 2026-11-11 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 2.6.6 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-11-11 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.11.11-b912975 | [cursor.com](https://cursor.com/cli) | 2026-11-11 |
 | [ferrite](bucket/ferrite.json) | A fast, lightweight text editor for Markdown, JSON, YAML,... | 0.3.1 | [github.com](https://github.com/OlaProeis/Ferrite) | 2026-11-11 |
@@ -116,7 +116,7 @@ scoop install zyqpkg/<app-name>
 | [innounpacker](bucket/innounpacker.json) | Inno Setup Unpacker | 2.2.13 | [rathlev-home.de](https://www.rathlev-home.de/index-e.html?tools/prog-e.html#unpack) | 2026-10-11 |
 | [escrcpy](bucket/escrcpy.json) | Graphical Scrcpy to display and control Android devices, ... | 3.3.1 | [github.com](https://github.com/viarotel-org/escrcpy) | 2026-10-10 |
 | [chat2db](bucket/chat2db.json) | An intelligent and versatile general-purpose SQL client a... | 5.3.8 | [github.com](https://github.com/OtterMind/Chat2DB) | 2026-10-09 |
-| [deepchat](bucket/deepchat.json) | A smart assistant that connects powerful AI to your perso... | 1.1.3 | [github.com](https://github.com/thinkinaixyz/deepchat) | 2026-10-09 |
+| [deepchat](bucket/deepchat.json) | A smart assistant that connects powerful AI to your perso... | 1.1.4 | [github.com](https://github.com/thinkinaixyz/deepchat) | 2026-10-09 |
 | [flectar-mail](bucket/flectar-mail.json) | A lightweight native email, calendar, and contacts client | 0.1.0-alpha.7 | [github.com](https://github.com/flectar/mail) | 2026-10-08 |
 | [codepilot](bucket/codepilot.json) | AI-powered coding assistant desktop application with Clau... | 0.67.17 | [github.com](https://github.com/op7418/CodePilot) | 2026-09-22 |
 | [llmchat](bucket/llmchat.json) | Built on a deep refactoring of NextChat: A more elegant a... | 2.33.3 | [github.com](https://github.com/zyqfork/llmchat) | 2026-09-18 |
