@@ -18,6 +18,12 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3835 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-12 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3835 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-12 |
+| [notion-cli](bucket/notion-cli.json) | Notion CLI - authenticate with Notion, deploy Notion Work... | 0.23.29 | [developers.notion.com](https://developers.notion.com/cli/get-started/overview) | 2026-11-12 |
+| [openmausbot](bucket/openmausbot.json) | Open-source Grok Bot alternative — local-first AI bots wi... | 0.1.154 | [mausbot.com](https://mausbot.com) | 2026-11-12 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.257 | [github.com](https://github.com/stablyai/orca) | 2026-11-12 |
+| [websocat](bucket/websocat.json) | A command-line client for WebSockets, like netcat (or cur... | 1.14.2 | [github.com](https://github.com/vi/websocat) | 2026-11-12 |
 | [airsnip](bucket/airsnip.json) | 1 MB 的 Windows 截图标注工具，绿色免安装单文件，支持标注、长截图、贴图 | 0.11.0 | [github.com](https://github.com/bd-dxg/airsnip) | 2026-11-11 |
 | [astrlink](bucket/astrlink.json) | A local AI gateway for AI agents, unifying your subscript... | 0.2.23 | [astrlink.com](https://astrlink.com/) | 2026-11-11 |
 | [cindy](bucket/cindy.json) | Consider it done. The open-source AI agent that works out... | 0.1.133 | [cindy.app](https://cindy.app) | 2026-11-11 |
@@ -27,12 +33,7 @@ scoop install zyqpkg/<app-name>
 | [ferrite](bucket/ferrite.json) | A fast, lightweight text editor for Markdown, JSON, YAML,... | 0.3.1 | [github.com](https://github.com/OlaProeis/Ferrite) | 2026-11-11 |
 | [grok-bot](bucket/grok-bot.json) | Always-on AI agents from xAI and Cursor that work autonom... | 1.0.1 | [x.ai](https://x.ai/bot) | 2026-11-11 |
 | [lody](bucket/lody.json) | Desktop app to manage all your code agents with real-time... | 0.111.1 | [lody.ai](https://lody.ai/) | 2026-11-11 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3827 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-11 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3827 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-11 |
-| [notion-cli](bucket/notion-cli.json) | Notion CLI - authenticate with Notion, deploy Notion Work... | 0.23.29 | [developers.notion.com](https://developers.notion.com/cli/get-started/overview) | 2026-11-11 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.18.9 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-11 |
-| [openmausbot](bucket/openmausbot.json) | Open-source Grok Bot alternative — local-first AI bots wi... | 0.1.154 | [mausbot.com](https://mausbot.com) | 2026-11-11 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.257 | [github.com](https://github.com/stablyai/orca) | 2026-11-11 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.19.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-11 |
 | [pi-bolt](bucket/pi-bolt.json) | Pi, the coding agent, compiled ahead of time to native co... | 1.2.1 | [github.com](https://github.com/opensec-git/Pi-Bolt) | 2026-11-11 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.87 | [qoder.com](https://qoder.com) | 2026-11-11 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.87 | [qoder.com.cn](https://qoder.com.cn) | 2026-11-11 |
@@ -127,7 +128,6 @@ scoop install zyqpkg/<app-name>
 | [5ire](bucket/5ire.json) | 5ire is a cross-platform desktop AI assistant, MCP client... | 0.15.4 | [5ire.app](https://5ire.app/) | 2026-08-18 |
 | [voicebox](bucket/voicebox.json) | The open-source voice synthesis studio | 0.5.0 | [voicebox.sh](https://voicebox.sh/) | 2026-08-18 |
 | [weasel](bucket/weasel.json) | Rime for Windows | 0.17.4 | [rime.im](https://rime.im/) | 2026-08-18 |
-| [websocat](bucket/websocat.json) | A command-line client for WebSockets, like netcat (or cur... | 1.14.2 | [github.com](https://github.com/vi/websocat) | 2026-08-18 |
 | [clipp](bucket/clipp.json) | Cross-platform peer-to-peer clipboard sync for trusted de... | 1.5.0.160 | [github.com](https://github.com/martona/clipp) | 2026-08-17 |
 | [PingFangSC](bucket/PingFangSC.json) |  | 19.0d5e3 | [blog.dsrkafuu.net](https://blog.dsrkafuu.net/post/2020/extract-sf-pingfang) | 2026-07-24 |
 | [tcpview](bucket/tcpview.json) | Active socket command-line viewer. | 4.19 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/tcpview) | 2026-07-24 |
