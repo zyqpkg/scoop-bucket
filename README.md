@@ -18,16 +18,18 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
-| [sshyard](bucket/sshyard.json) | Native desktop SSH / SFTP client with terminals, file mana... | 1.1.2 | [sshyard.com](https://sshyard.com) | 2026-11-12 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3853 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-12 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3853 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-12 |
+| [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 8.6.10 | [feishu.cn](https://www.feishu.cn/) | 2026-11-12 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.3873 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-12 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.3873 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-12 |
 | [notion-cli](bucket/notion-cli.json) | Notion CLI - authenticate with Notion, deploy Notion Work... | 0.23.29 | [developers.notion.com](https://developers.notion.com/cli/get-started/overview) | 2026-11-12 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.19.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-12 |
 | [openmausbot](bucket/openmausbot.json) | Open-source Grok Bot alternative — local-first AI bots wi... | 0.1.154 | [mausbot.com](https://mausbot.com) | 2026-11-12 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.257 | [github.com](https://github.com/stablyai/orca) | 2026-11-12 |
 | [qwen-code](bucket/qwen-code.json) | An open-source AI coding agent that lives in your terminal. | 0.27.2 | [qwen.ai](https://qwen.ai/qwencode) | 2026-11-12 |
+| [snowair](bucket/snowair.json) | 轻量化的截图与标注工具，涵盖截图、录屏、演示、贴图、OCR 识别、翻译等功能 | 0.1.21 | [github.com](https://github.com/CM-idea/SnowAir) | 2026-11-12 |
+| [sshyard](bucket/sshyard.json) | Native desktop SSH / SFTP client with terminals, file man... | 1.1.2 | [sshyard.com](https://sshyard.com) | 2026-11-12 |
 | [websocat](bucket/websocat.json) | A command-line client for WebSockets, like netcat (or cur... | 1.14.2 | [github.com](https://github.com/vi/websocat) | 2026-11-12 |
-| [airsnip](bucket/airsnip.json) | 1 MB 的 Windows 截图标注工具，绿色免安装单文件，支持标注、长截图、贴图 | 0.11.0 | [github.com](https://github.com/bd-dxg/airsnip) | 2026-11-11 |
+| [airsnip](bucket/airsnip.json) | 1 MB 的 Windows 截图标注工具，绿色免安装单文件，支持标注、长截图、贴图 | 0.11.1 | [github.com](https://github.com/bd-dxg/airsnip) | 2026-11-11 |
 | [astrlink](bucket/astrlink.json) | A local AI gateway for AI agents, unifying your subscript... | 0.2.23 | [astrlink.com](https://astrlink.com/) | 2026-11-11 |
 | [cindy](bucket/cindy.json) | Consider it done. The open-source AI agent that works out... | 0.1.133 | [cindy.app](https://cindy.app) | 2026-11-11 |
 | [cindycn](bucket/cindycn.json) | Cindy (国内版) - 想到，就能做到。开源、开箱即用的 AI Agent (中国大陆节点) | 0.1.133 | [cindy.cn](https://cindy.cn) | 2026-11-11 |
@@ -55,13 +57,11 @@ scoop install zyqpkg/<app-name>
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.17.2 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-11-10 |
 | [altserver](bucket/altserver.json) | A home for apps that push the boundaries of iOS. No jailb... | 1.8.4 | [altstore.io](https://altstore.io/) | 2026-11-09 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.5.6 | [github.com](https://github.com/Ruszero01/clippi) | 2026-11-09 |
-| [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 8.6.10 | [feishu.cn](https://www.feishu.cn/) | 2026-11-09 |
 | [hfs](bucket/hfs.json) | A web file server to run on your computer | 3.4.1 | [rejetto.com](https://rejetto.com/hfs) | 2026-11-09 |
 | [iloader](bucket/iloader.json) | Free open-source iOS sideloading companion — install Side... | 2.4.1 | [iloader.app](https://iloader.app) | 2026-11-09 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 2.0.4 | [nyaterm.app](https://nyaterm.app) | 2026-11-09 |
 | [processon](bucket/processon.json) | ProcessOn is a free online flowchart, mind map, and colla... | 5.14.25 | [processon.com](https://www.processon.com) | 2026-11-09 |
 | [sideloadly](bucket/sideloadly.json) | Sideload IPAs on iOS, Apple Silicon Macs, and Apple TV — ... | 0.71.0 | [sideloadly.io](https://sideloadly.io) | 2026-11-09 |
-| [snowair](bucket/snowair.json) | 轻量化的截图与标注工具，涵盖截图、录屏、演示、贴图、OCR 识别、翻译等功能 | 0.1.21 | [github.com](https://github.com/CM-idea/SnowAir) | 2026-11-09 |
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.214.1 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-11-09 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.12.4.43368774 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-11-08 |
 | [codebuddycn](bucket/codebuddycn.json) | An AI-powered IDE | 4.12.4.43368774 | [codebuddy.cn](https://www.codebuddy.cn/ide/) | 2026-11-08 |
