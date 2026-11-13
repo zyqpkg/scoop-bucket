@@ -19,11 +19,11 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [astrlink](bucket/astrlink.json) | A local AI gateway for AI agents, unifying your subscript... | 0.2.25 | [astrlink.com](https://astrlink.com/) | 2026-11-13 |
-| [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.11.01 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-11-13 |
+| [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.11.02 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-11-13 |
 | [grok-bot](bucket/grok-bot.json) | Always-on AI agents from xAI and Cursor that work autonom... | 1.0.3 | [x.ai](https://x.ai/bot) | 2026-11-13 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.178 | [kiro.dev](https://kiro.dev) | 2026-11-13 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.4013 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-13 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.4013 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-13 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.4026 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-13 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.4026 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-13 |
 | [mangodisk](bucket/mangodisk.json) | Safety-first disk cleaner and space analyzer, with duplic... | 2.0.0 | [mangodisk.app](https://mangodisk.app/) | 2026-11-13 |
 | [mangodisk-cli](bucket/mangodisk-cli.json) | Command-line interface for MangoDisk — safety-first disk ... | 2.0.0 | [mangodisk.app](https://mangodisk.app/) | 2026-11-13 |
 | [msime](bucket/msime.json) | 水杉输入法 - 开源的 Windows TSF 输入法 (Metasequoia IME)。安装包为全局安装，程序... | 0.13.2 | [github.com](https://github.com/metasequoiaime/MSIME-Windows) | 2026-11-13 |
@@ -68,10 +68,10 @@ scoop install zyqpkg/<app-name>
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.5.6 | [github.com](https://github.com/Ruszero01/clippi) | 2026-11-09 |
 | [hfs](bucket/hfs.json) | A web file server to run on your computer | 3.4.1 | [rejetto.com](https://rejetto.com/hfs) | 2026-11-09 |
 | [iloader](bucket/iloader.json) | Free open-source iOS sideloading companion — install Side... | 2.4.1 | [iloader.app](https://iloader.app) | 2026-11-09 |
-| [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 2.0.4 | [nyaterm.app](https://nyaterm.app) | 2026-11-09 |
+| [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 2.0.5 | [nyaterm.app](https://nyaterm.app) | 2026-11-09 |
 | [processon](bucket/processon.json) | ProcessOn is a free online flowchart, mind map, and colla... | 5.14.25 | [processon.com](https://www.processon.com) | 2026-11-09 |
 | [sideloadly](bucket/sideloadly.json) | Sideload IPAs on iOS, Apple Silicon Macs, and Apple TV — ... | 0.71.0 | [sideloadly.io](https://sideloadly.io) | 2026-11-09 |
-| [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.214.1 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-11-09 |
+| [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.215.0 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-11-09 |
 | [codebuddy](bucket/codebuddy.json) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙伴，集成设计到开发的全栈 IDE | 4.12.4.43368774 | [codebuddy.ai](https://www.codebuddy.ai/) | 2026-11-08 |
 | [codebuddycn](bucket/codebuddycn.json) | An AI-powered IDE | 4.12.4.43368774 | [codebuddy.cn](https://www.codebuddy.cn/ide/) | 2026-11-08 |
 | [ffmpeg-nonfree](bucket/ffmpeg-nonfree.json) | FFmpeg nonfree autobuild with FDK-AAC and DeckLink (AnimM... | 2026-11-08-12-26-cc58378-89ebf7b | [github.com](https://github.com/AnimMouse/ffmpeg-autobuild) | 2026-11-08 |
@@ -99,7 +99,7 @@ scoop install zyqpkg/<app-name>
 | [busybox](bucket/busybox.json) | A single binary that contains many common Unix tools. | 6354-g5f09fb446 | [frippery.org](https://frippery.org/busybox) | 2026-10-27 |
 | [scrcpy-gui](bucket/scrcpy-gui.json) | A simple & beautiful GUI application for scrcpy | 2.5.0 | [tomotoes.com](http://tomotoes.com/scrcpy-gui/) | 2026-10-27 |
 | [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.9.3.42398134-d4692421 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-10-27 |
-| [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.16 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-10-26 |
+| [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.17 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-10-26 |
 | [netcatty](bucket/netcatty.json) | SSH workspace, SFTP, and terminals in one | 1.1.90 | [netcatty.app](https://netcatty.app) | 2026-10-26 |
 | [gooey-pi](bucket/gooey-pi.json) | GooeyPi - Desktop UI for the pi coding agent | 1.1.21 | [github.com](https://github.com/am-will/gooey-pi) | 2026-10-25 |
 | [pi-app](bucket/pi-app.json) | Desktop app for the pi coding agent runtime with timeline... | 0.7.7 | [github.com](https://github.com/justhil/pi-app) | 2026-10-25 |
