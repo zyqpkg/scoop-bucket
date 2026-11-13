@@ -22,8 +22,8 @@ scoop install zyqpkg/<app-name>
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.11.01 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-11-13 |
 | [grok-bot](bucket/grok-bot.json) | Always-on AI agents from xAI and Cursor that work autonom... | 1.0.3 | [x.ai](https://x.ai/bot) | 2026-11-13 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.178 | [kiro.dev](https://kiro.dev) | 2026-11-13 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.4012 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-13 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.4012 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-13 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.4013 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-13 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.4013 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-13 |
 | [mangodisk](bucket/mangodisk.json) | Safety-first disk cleaner and space analyzer, with duplic... | 2.0.0 | [mangodisk.app](https://mangodisk.app/) | 2026-11-13 |
 | [mangodisk-cli](bucket/mangodisk-cli.json) | Command-line interface for MangoDisk — safety-first disk ... | 2.0.0 | [mangodisk.app](https://mangodisk.app/) | 2026-11-13 |
 | [msime](bucket/msime.json) | 水杉输入法 - 开源的 Windows TSF 输入法 (Metasequoia IME)。安装包为全局安装，程序... | 0.13.2 | [github.com](https://github.com/metasequoiaime/MSIME-Windows) | 2026-11-13 |
