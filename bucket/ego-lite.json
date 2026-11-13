@@ -1,12 +1,12 @@
 {
-    "version": "0.6.3.12",
+    "version": "0.6.3.14",
     "description": "The fastest browser for AI agents to run browser automation (ego lite)",
     "homepage": "https://lite.ego.app/",
     "license": "MIT",
     "architecture": {
         "64bit": {
             "url": "https://cdn.ego.app/setup/windows/x64/egoliteSetup.exe",
-            "hash": "7e1a9f48dee0cd05ca56278411c605e27eddfc982b7373d358c940ec638cac06"
+            "hash": "b2e5881312201d2b03c306c1446d4ce996b92fa45611a9f60b224a1082cc5a65"
         }
     },
     "installer": {
