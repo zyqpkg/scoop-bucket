@@ -8,23 +8,14 @@
     "installer": {
         "script": [
             "if (-not (is_admin)) { error 'Administrator privileges are required to install the IME (TSF DLL must be registered in System32/SysWOW64).'; break }",
-            "$dataDir = Join-Path $env:LOCALAPPDATA 'metasequoiaime'",
-            "$keepDir = \"${dataDir}.scoop-keep\"",
-            "if (Test-Path $keepDir) { Remove-Item $dataDir -Recurse -Force -ErrorAction SilentlyContinue; Rename-Item -Path $keepDir -NewName 'metasequoiaime' }",
             "Start-Process -FilePath \"$dir\\MetasequoiaIME_Setup_v$version.exe\" -ArgumentList '/VERYSILENT' -Wait -NoNewWindow"
         ]
     },
-    "uninstaller": {
-        "script": [
-            "$dataDir = Join-Path $env:LOCALAPPDATA 'metasequoiaime'",
-            "$keepDir = \"${dataDir}.scoop-keep\"",
-            "Stop-Process -Name 'MetasequoiaImeServer','MetasequoiaImeWatchdog','MetasequoiaImeSettings' -Force -ErrorAction SilentlyContinue",
-            "if (Test-Path $keepDir) { throw 'Stale metasequoiaime.scoop-keep from an interrupted update; resolve it manually before continuing.' }",
-            "if ((Test-Path $dataDir) -and -not (Test-Path $keepDir)) { Rename-Item -Path $dataDir -NewName 'metasequoiaime.scoop-keep' }",
-            "if ((Test-Path $dataDir) -and -not (Test-Path $keepDir)) { throw 'Cannot preserve MSIME user data; aborting uninstall.' }",
-            "Invoke-ExternalCommand \"$dir\\unins000.exe\" -ArgumentList '/VERYSILENT' -RunAs | Out-Null"
-        ]
-    },
+    "notes": [
+        "This is a global install: program files go to C:\\Program Files\\metasequoiaime; Scoop only keeps the installer.",
+        "Upgrades run the official setup.exe in place (no uninstall), which preserves config.toml, user dictionaries and skins. Do not add an uninstaller hook: the Inno uninstaller deletes the whole data dir.",
+        "To fully remove the IME, run C:\\Program Files\\metasequoiaime\\unins000.exe after 'scoop uninstall msime'."
+    ],
     "checkver": {
         "github": "https://github.com/metasequoiaime/MSIME-Windows"
     },
