@@ -18,18 +18,19 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
-| [astrlink](bucket/astrlink.json) | A local AI gateway for AI agents, unifying your subscript... | 0.2.27 | [astrlink.com](https://astrlink.com/) | 2026-11-13 |
+| [grok-bot](bucket/grok-bot.json) | Always-on AI agents from xAI and Cursor that work autonom... | 1.1.0 | [x.ai](https://x.ai/bot) | 2026-11-14 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.4177 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-14 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.4177 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-14 |
+| [snowair](bucket/snowair.json) | 轻量化的截图与标注工具，涵盖截图、录屏、演示、贴图、OCR 识别、翻译等功能 | 0.1.23 | [github.com](https://github.com/CM-idea/SnowAir) | 2026-11-14 |
+| [astrlink](bucket/astrlink.json) | A local AI gateway for AI agents, unifying your subscript... | 0.2.28 | [astrlink.com](https://astrlink.com/) | 2026-11-13 |
 | [cindy](bucket/cindy.json) | Consider it done. The open-source AI agent that works out... | 0.1.136 | [cindy.app](https://cindy.app) | 2026-11-13 |
 | [cindycn](bucket/cindycn.json) | Cindy (国内版) - 想到，就能做到。开源、开箱即用的 AI Agent (中国大陆节点) | 0.1.136 | [cindy.cn](https://cindy.cn) | 2026-11-13 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 2.6.9 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-11-13 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.11.13-eacade1 | [cursor.com](https://cursor.com/cli) | 2026-11-13 |
 | [ego-lite](bucket/ego-lite.json) | The fastest browser for AI agents to run browser automati... | 0.6.3.14 | [lite.ego.app](https://lite.ego.app/) | 2026-11-13 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.11.02 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-11-13 |
-| [grok-bot](bucket/grok-bot.json) | Always-on AI agents from xAI and Cursor that work autonom... | 1.1.0 | [x.ai](https://x.ai/bot) | 2026-11-13 |
 | [junie](bucket/junie.json) | Junie CLI - JetBrains agentic coding tool with an interac... | 4020.10 | [junie.jetbrains.com](https://junie.jetbrains.com/docs/junie-cli.html) | 2026-11-13 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.178 | [kiro.dev](https://kiro.dev) | 2026-11-13 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.4138 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-13 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.4138 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-13 |
 | [mangodisk](bucket/mangodisk.json) | Safety-first disk cleaner and space analyzer, with duplic... | 2.0.0 | [mangodisk.app](https://mangodisk.app/) | 2026-11-13 |
 | [mangodisk-cli](bucket/mangodisk-cli.json) | Command-line interface for MangoDisk — safety-first disk ... | 2.0.0 | [mangodisk.app](https://mangodisk.app/) | 2026-11-13 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.17 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-11-13 |
@@ -38,12 +39,11 @@ scoop install zyqpkg/<app-name>
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 2.0.5 | [nyaterm.app](https://nyaterm.app) | 2026-11-13 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.20.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-13 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.7.1 | [openchamber.dev](https://openchamber.dev/) | 2026-11-13 |
-| [openmausbot](bucket/openmausbot.json) | Open-source Grok Bot alternative — local-first AI bots wi... | 0.1.155 | [mausbot.com](https://mausbot.com) | 2026-11-13 |
+| [openmausbot](bucket/openmausbot.json) | Open-source Grok Bot alternative — local-first AI bots wi... | 0.1.158 | [mausbot.com](https://mausbot.com) | 2026-11-13 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.258 | [github.com](https://github.com/stablyai/orca) | 2026-11-13 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.89 | [qoder.com](https://qoder.com) | 2026-11-13 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.89 | [qoder.com.cn](https://qoder.com.cn) | 2026-11-13 |
 | [qwen-code](bucket/qwen-code.json) | An open-source AI coding agent that lives in your terminal. | 0.27.3 | [qwen.ai](https://qwen.ai/qwencode) | 2026-11-13 |
-| [snowair](bucket/snowair.json) | 轻量化的截图与标注工具，涵盖截图、录屏、演示、贴图、OCR 识别、翻译等功能 | 0.1.23 | [github.com](https://github.com/CM-idea/SnowAir) | 2026-11-13 |
 | [sshyard](bucket/sshyard.json) | Native desktop SSH / SFTP client with terminals, file man... | 1.2.0 | [sshyard.com](https://sshyard.com) | 2026-11-13 |
 | [todayai](bucket/todayai.json) | 懂你所想，为你先行的个人 AI 助理（Today 中国版） | 1.26.0 | [todayai.cn](https://todayai.cn) | 2026-11-13 |
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.215.0 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-11-13 |
