@@ -19,14 +19,15 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [astrlink](bucket/astrlink.json) | A local AI gateway for AI agents, unifying your subscript... | 0.2.29 | [astrlink.com](https://astrlink.com/) | 2026-11-14 |
+| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 2.6.10 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-11-14 |
 | [grok-bot](bucket/grok-bot.json) | Always-on AI agents from xAI and Cursor that work autonom... | 1.1.0 | [x.ai](https://x.ai/bot) | 2026-11-14 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.4205 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-14 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.4205 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-14 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.4220 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-14 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.4220 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-14 |
+| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.20.2 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-14 |
 | [openmausbot](bucket/openmausbot.json) | Open-source Grok Bot alternative — local-first AI bots wi... | 0.1.158 | [mausbot.com](https://mausbot.com) | 2026-11-14 |
 | [snowair](bucket/snowair.json) | 轻量化的截图与标注工具，涵盖截图、录屏、演示、贴图、OCR 识别、翻译等功能 | 0.1.23 | [github.com](https://github.com/CM-idea/SnowAir) | 2026-11-14 |
 | [cindy](bucket/cindy.json) | Consider it done. The open-source AI agent that works out... | 0.1.136 | [cindy.app](https://cindy.app) | 2026-11-13 |
 | [cindycn](bucket/cindycn.json) | Cindy (国内版) - 想到，就能做到。开源、开箱即用的 AI Agent (中国大陆节点) | 0.1.136 | [cindy.cn](https://cindy.cn) | 2026-11-13 |
-| [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 2.6.10 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-11-13 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.11.13-eacade1 | [cursor.com](https://cursor.com/cli) | 2026-11-13 |
 | [ego-lite](bucket/ego-lite.json) | The fastest browser for AI agents to run browser automati... | 0.6.3.14 | [lite.ego.app](https://lite.ego.app/) | 2026-11-13 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.11.02 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-11-13 |
@@ -38,9 +39,8 @@ scoop install zyqpkg/<app-name>
 | [msime](bucket/msime.json) | 水杉输入法 - 开源的 Windows TSF 输入法 (Metasequoia IME)。安装包为全局安装，程序... | 0.13.2 | [github.com](https://github.com/metasequoiaime/MSIME-Windows) | 2026-11-13 |
 | [notion-cli](bucket/notion-cli.json) | Notion CLI - authenticate with Notion, deploy Notion Work... | 0.23.30 | [developers.notion.com](https://developers.notion.com/cli/get-started/overview) | 2026-11-13 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 2.0.5 | [nyaterm.app](https://nyaterm.app) | 2026-11-13 |
-| [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.20.1 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-13 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.7.1 | [openchamber.dev](https://openchamber.dev/) | 2026-11-13 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.258 | [github.com](https://github.com/stablyai/orca) | 2026-11-13 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.259 | [github.com](https://github.com/stablyai/orca) | 2026-11-13 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.89 | [qoder.com](https://qoder.com) | 2026-11-13 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.89 | [qoder.com.cn](https://qoder.com.cn) | 2026-11-13 |
 | [qwen-code](bucket/qwen-code.json) | An open-source AI coding agent that lives in your terminal. | 0.27.3 | [qwen.ai](https://qwen.ai/qwencode) | 2026-11-13 |
@@ -81,7 +81,7 @@ scoop install zyqpkg/<app-name>
 | [RevokeMsgPatcher](bucket/RevokeMsgPatcher.json) | PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）。 | 2.2 | [github.com](https://github.com/huiyadanli/RevokeMsgPatcher) | 2026-11-08 |
 | [i4tools](bucket/i4tools.json) | 简单好用的多功能苹果设备管理助手 | 9.22.032 | [i4.cn](https://i4.cn/pro_pc.html) | 2026-11-07 |
 | [kilo](bucket/kilo.json) | Kilo - all-in-one agentic engineering platform. Build, sh... | 7.8.28 | [github.com](https://github.com/Kilo-Org/kilocode) | 2026-11-07 |
-| [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.4.1 | [github.com](https://github.com/throneproj/Throne) | 2026-11-07 |
+| [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.4.2 | [github.com](https://github.com/throneproj/Throne) | 2026-11-07 |
 | [cli-manager](bucket/cli-manager.json) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作... | 1.5.0 | [github.com](https://github.com/dark-hxx/CLI-Manager) | 2026-11-06 |
 | [omniroute](bucket/omniroute.json) | Free AI gateway for connecting AI coding tools to multipl... | 3.8.53 | [github.com](https://github.com/diegosouzapw/OmniRoute) | 2026-11-06 |
 | [rdcman](bucket/rdcman.json) | Remote Desktop Connection Manager | 3.23 | [learn.microsoft.com](https://learn.microsoft.com/sysinternals/downloads/rdcman) | 2026-11-06 |
