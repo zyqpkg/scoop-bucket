@@ -18,15 +18,17 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [airsnip](bucket/airsnip.json) | 1 MB 的 Windows 截图标注工具，绿色免安装单文件，支持标注、长截图、贴图 | 0.12.0 | [github.com](https://github.com/bd-dxg/airsnip) | 2026-11-15 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.4257 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-15 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.4257 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-15 |
+| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.7.2 | [openchamber.dev](https://openchamber.dev/) | 2026-11-15 |
 | [astrlink](bucket/astrlink.json) | A local AI gateway for AI agents, unifying your subscript... | 0.2.29 | [astrlink.com](https://astrlink.com/) | 2026-11-14 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 2.6.10 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-11-14 |
 | [grok-bot](bucket/grok-bot.json) | Always-on AI agents from xAI and Cursor that work autonom... | 1.1.0 | [x.ai](https://x.ai/bot) | 2026-11-14 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.4226 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-14 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.4226 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-14 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.20.2 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-14 |
 | [openmausbot](bucket/openmausbot.json) | Open-source Grok Bot alternative — local-first AI bots wi... | 0.1.158 | [mausbot.com](https://mausbot.com) | 2026-11-14 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.259 | [github.com](https://github.com/stablyai/orca) | 2026-11-14 |
-| [snowair](bucket/snowair.json) | 轻量化的截图与标注工具，涵盖截图、录屏、演示、贴图、OCR 识别、翻译等功能 | 0.1.23 | [github.com](https://github.com/CM-idea/SnowAir) | 2026-11-14 |
+| [snowair](bucket/snowair.json) | 轻量化的截图与标注工具，涵盖截图、录屏、演示、贴图、OCR 识别、翻译等功能 | 0.1.24 | [github.com](https://github.com/CM-idea/SnowAir) | 2026-11-14 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.4.2 | [github.com](https://github.com/throneproj/Throne) | 2026-11-14 |
 | [cindy](bucket/cindy.json) | Consider it done. The open-source AI agent that works out... | 0.1.136 | [cindy.app](https://cindy.app) | 2026-11-13 |
 | [cindycn](bucket/cindycn.json) | Cindy (国内版) - 想到，就能做到。开源、开箱即用的 AI Agent (中国大陆节点) | 0.1.136 | [cindy.cn](https://cindy.cn) | 2026-11-13 |
@@ -41,14 +43,12 @@ scoop install zyqpkg/<app-name>
 | [msime](bucket/msime.json) | 水杉输入法 - 开源的 Windows TSF 输入法 (Metasequoia IME)。安装包为全局安装，程序... | 0.13.2 | [github.com](https://github.com/metasequoiaime/MSIME-Windows) | 2026-11-13 |
 | [notion-cli](bucket/notion-cli.json) | Notion CLI - authenticate with Notion, deploy Notion Work... | 0.23.30 | [developers.notion.com](https://developers.notion.com/cli/get-started/overview) | 2026-11-13 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 2.0.5 | [nyaterm.app](https://nyaterm.app) | 2026-11-13 |
-| [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.7.2 | [openchamber.dev](https://openchamber.dev/) | 2026-11-13 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.89 | [qoder.com](https://qoder.com) | 2026-11-13 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.89 | [qoder.com.cn](https://qoder.com.cn) | 2026-11-13 |
-| [qwen-code](bucket/qwen-code.json) | An open-source AI coding agent that lives in your terminal. | 0.27.3 | [qwen.ai](https://qwen.ai/qwencode) | 2026-11-13 |
-| [sshyard](bucket/sshyard.json) | Native desktop SSH / SFTP client with terminals, file man... | 1.2.0 | [sshyard.com](https://sshyard.com) | 2026-11-13 |
+| [qwen-code](bucket/qwen-code.json) | An open-source AI coding agent that lives in your terminal. | 0.27.4 | [qwen.ai](https://qwen.ai/qwencode) | 2026-11-13 |
+| [sshyard](bucket/sshyard.json) | Native desktop SSH / SFTP client with terminals, file man... | 1.2.1 | [sshyard.com](https://sshyard.com) | 2026-11-13 |
 | [todayai](bucket/todayai.json) | 懂你所想，为你先行的个人 AI 助理（Today 中国版） | 1.26.0 | [todayai.cn](https://todayai.cn) | 2026-11-13 |
 | [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.215.0 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-11-13 |
-| [airsnip](bucket/airsnip.json) | 1 MB 的 Windows 截图标注工具，绿色免安装单文件，支持标注、长截图、贴图 | 0.12.0 | [github.com](https://github.com/bd-dxg/airsnip) | 2026-11-12 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.24.4 | [chatboxai.app](https://chatboxai.app/) | 2026-11-12 |
 | [deepchat](bucket/deepchat.json) | A smart assistant that connects powerful AI to your perso... | 1.1.4 | [github.com](https://github.com/thinkinaixyz/deepchat) | 2026-11-12 |
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 8.6.13 | [feishu.cn](https://www.feishu.cn/) | 2026-11-12 |
@@ -99,7 +99,7 @@ scoop install zyqpkg/<app-name>
 | [bongocat](bucket/bongocat.json) | 跨平台桌宠 BongoCat，为桌面增添乐趣！ | 2.4.1 | [github.com](https://github.com/ayangweb/BongoCat) | 2026-10-28 |
 | [busybox](bucket/busybox.json) | A single binary that contains many common Unix tools. | 6354-g5f09fb446 | [frippery.org](https://frippery.org/busybox) | 2026-10-27 |
 | [scrcpy-gui](bucket/scrcpy-gui.json) | A simple & beautiful GUI application for scrcpy | 2.5.0 | [tomotoes.com](http://tomotoes.com/scrcpy-gui/) | 2026-10-27 |
-| [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.9.3.42398134-d4692421 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-10-27 |
+| [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.11.3.43806934-ecace0f7 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-10-27 |
 | [netcatty](bucket/netcatty.json) | SSH workspace, SFTP, and terminals in one | 1.1.90 | [netcatty.app](https://netcatty.app) | 2026-10-26 |
 | [gooey-pi](bucket/gooey-pi.json) | GooeyPi - Desktop UI for the pi coding agent | 1.1.21 | [github.com](https://github.com/am-will/gooey-pi) | 2026-10-25 |
 | [pi-app](bucket/pi-app.json) | Desktop app for the pi coding agent runtime with timeline... | 0.7.7 | [github.com](https://github.com/justhil/pi-app) | 2026-10-25 |
