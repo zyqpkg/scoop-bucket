@@ -19,25 +19,25 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
 | [airsnip](bucket/airsnip.json) | 1 MB 的 Windows 截图标注工具，绿色免安装单文件，支持标注、长截图、贴图 | 0.12.0 | [github.com](https://github.com/bd-dxg/airsnip) | 2026-11-15 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.4269 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-15 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.4269 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-15 |
+| [astrlink](bucket/astrlink.json) | A local AI gateway for AI agents, unifying your subscript... | 0.2.30 | [astrlink.com](https://astrlink.com/) | 2026-11-15 |
+| [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.11.11 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-11-15 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.4278 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-15 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.4278 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-15 |
 | [openchamber](bucket/openchamber.json) | Desktop and web interface for OpenCode AI agent | 2.7.2 | [openchamber.dev](https://openchamber.dev/) | 2026-11-15 |
+| [openmausbot](bucket/openmausbot.json) | Open-source Grok Bot alternative — local-first AI bots wi... | 0.1.161 | [mausbot.com](https://mausbot.com) | 2026-11-15 |
 | [qwen-code](bucket/qwen-code.json) | An open-source AI coding agent that lives in your terminal. | 0.27.4 | [qwen.ai](https://qwen.ai/qwencode) | 2026-11-15 |
 | [snowair](bucket/snowair.json) | 轻量化的截图与标注工具，涵盖截图、录屏、演示、贴图、OCR 识别、翻译等功能 | 0.1.24 | [github.com](https://github.com/CM-idea/SnowAir) | 2026-11-15 |
 | [sshyard](bucket/sshyard.json) | Native desktop SSH / SFTP client with terminals, file man... | 1.3.1 | [sshyard.com](https://sshyard.com) | 2026-11-15 |
 | [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.11.3.43806934-ecace0f7 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-11-15 |
-| [astrlink](bucket/astrlink.json) | A local AI gateway for AI agents, unifying your subscript... | 0.2.30 | [astrlink.com](https://astrlink.com/) | 2026-11-14 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 2.6.10 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-11-14 |
 | [grok-bot](bucket/grok-bot.json) | Always-on AI agents from xAI and Cursor that work autonom... | 1.1.0 | [x.ai](https://x.ai/bot) | 2026-11-14 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.20.2 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-14 |
-| [openmausbot](bucket/openmausbot.json) | Open-source Grok Bot alternative — local-first AI bots wi... | 0.1.160 | [mausbot.com](https://mausbot.com) | 2026-11-14 |
 | [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.259 | [github.com](https://github.com/stablyai/orca) | 2026-11-14 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.4.2 | [github.com](https://github.com/throneproj/Throne) | 2026-11-14 |
 | [cindy](bucket/cindy.json) | Consider it done. The open-source AI agent that works out... | 0.1.136 | [cindy.app](https://cindy.app) | 2026-11-13 |
 | [cindycn](bucket/cindycn.json) | Cindy (国内版) - 想到，就能做到。开源、开箱即用的 AI Agent (中国大陆节点) | 0.1.136 | [cindy.cn](https://cindy.cn) | 2026-11-13 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.11.13-eacade1 | [cursor.com](https://cursor.com/cli) | 2026-11-13 |
 | [ego-lite](bucket/ego-lite.json) | The fastest browser for AI agents to run browser automati... | 0.6.3.14 | [lite.ego.app](https://lite.ego.app/) | 2026-11-13 |
-| [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.11.11 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-11-13 |
 | [junie](bucket/junie.json) | Junie CLI - JetBrains agentic coding tool with an interac... | 4020.10 | [junie.jetbrains.com](https://junie.jetbrains.com/docs/junie-cli.html) | 2026-11-13 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.178 | [kiro.dev](https://kiro.dev) | 2026-11-13 |
 | [mangodisk](bucket/mangodisk.json) | Safety-first disk cleaner and space analyzer, with duplic... | 2.0.0 | [mangodisk.app](https://mangodisk.app/) | 2026-11-13 |
