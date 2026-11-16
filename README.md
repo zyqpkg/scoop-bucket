@@ -18,8 +18,9 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.4295 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-16 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.4295 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-16 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.4299 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-16 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.4299 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-16 |
+| [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace | 2.0.5 | [nyaterm.app](https://nyaterm.app) | 2026-11-16 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.20.3 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-16 |
 | [airsnip](bucket/airsnip.json) | 1 MB 的 Windows 截图标注工具，绿色免安装单文件，支持标注、长截图、贴图 | 0.12.0 | [github.com](https://github.com/bd-dxg/airsnip) | 2026-11-15 |
 | [astrlink](bucket/astrlink.json) | A local AI gateway for AI agents, unifying your subscript... | 0.2.30 | [astrlink.com](https://astrlink.com/) | 2026-11-15 |
@@ -45,7 +46,6 @@ scoop install zyqpkg/<app-name>
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.17 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-11-13 |
 | [msime](bucket/msime.json) | 水杉输入法 - 开源的 Windows TSF 输入法 (Metasequoia IME)。安装包为全局安装，程序... | 0.13.2 | [github.com](https://github.com/metasequoiaime/MSIME-Windows) | 2026-11-13 |
 | [notion-cli](bucket/notion-cli.json) | Notion CLI - authenticate with Notion, deploy Notion Work... | 0.23.30 | [developers.notion.com](https://developers.notion.com/cli/get-started/overview) | 2026-11-13 |
-| [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace - SSH/SFTP/Telnet/Seri... | 2.0.5 | [nyaterm.app](https://nyaterm.app) | 2026-11-13 |
 | [qodercli](bucket/qodercli.json) | Qoder CLI - An AI programming assistant for intelligent c... | 1.1.89 | [qoder.com](https://qoder.com) | 2026-11-13 |
 | [qoderclicn](bucket/qoderclicn.json) | QoderWork CLI - A local file operation tool for efficient... | 1.1.89 | [qoder.com.cn](https://qoder.com.cn) | 2026-11-13 |
 | [todayai](bucket/todayai.json) | 懂你所想，为你先行的个人 AI 助理（Today 中国版） | 1.26.0 | [todayai.cn](https://todayai.cn) | 2026-11-13 |
@@ -67,7 +67,7 @@ scoop install zyqpkg/<app-name>
 | [orcaterm](bucket/orcaterm.json) | OrcaTerm (腾讯云智能终端) - 连接 AI Agent、代码与云服务器的高效易用 AI 终端工具 | 1.6.10 | [orcaterm.com](https://orcaterm.com/) | 2026-11-10 |
 | [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.15.4 | [paseo.sh](https://paseo.sh) | 2026-11-10 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.5.2 | [github.com](https://github.com/earendil-works/pi) | 2026-11-10 |
-| [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.2.0.52 | [wechat.com](https://www.wechat.com/) | 2026-11-10 |
+| [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.2.0.53 | [wechat.com](https://www.wechat.com/) | 2026-11-10 |
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.17.2 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-11-10 |
 | [altserver](bucket/altserver.json) | A home for apps that push the boundaries of iOS. No jailb... | 1.8.4 | [altstore.io](https://altstore.io/) | 2026-11-09 |
 | [clippi](bucket/clippi.json) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 \| Lightweight clipboard man... | 0.5.6 | [github.com](https://github.com/Ruszero01/clippi) | 2026-11-09 |
