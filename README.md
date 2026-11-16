@@ -18,11 +18,13 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.4309 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-16 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.4309 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-16 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.4322 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-16 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.4322 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-16 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace | 2.0.5 | [nyaterm.app](https://nyaterm.app) | 2026-11-16 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 18.20.3 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-16 |
-| [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.2.0.53 | [wechat.com](https://www.wechat.com/) | 2026-11-16 |
+| [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.16.0 | [paseo.sh](https://paseo.sh) | 2026-11-16 |
+| [pi-app](bucket/pi-app.json) | Desktop app for the pi coding agent runtime with timeline... | 0.7.8 | [github.com](https://github.com/justhil/pi-app) | 2026-11-16 |
+| [wechat](bucket/wechat.json) | Free messaging and calling app by Tencent | 4.2.0.1000 | [wechat.com](https://www.wechat.com/) | 2026-11-16 |
 | [airsnip](bucket/airsnip.json) | 1 MB 的 Windows 截图标注工具，绿色免安装单文件，支持标注、长截图、贴图 | 0.12.0 | [github.com](https://github.com/bd-dxg/airsnip) | 2026-11-15 |
 | [astrlink](bucket/astrlink.json) | A local AI gateway for AI agents, unifying your subscript... | 0.2.30 | [astrlink.com](https://astrlink.com/) | 2026-11-15 |
 | [fluentcleaner](bucket/fluentcleaner.json) | FluentCleaner is a modern Windows cleanup tool built with... | 26.11.11 | [github.com](https://github.com/builtbybel/FluentCleaner) | 2026-11-15 |
@@ -34,10 +36,10 @@ scoop install zyqpkg/<app-name>
 | [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.11.3.43806934-ecace0f7 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-11-15 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 2.6.10 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-11-14 |
 | [grok-bot](bucket/grok-bot.json) | Always-on AI agents from xAI and Cursor that work autonom... | 1.1.0 | [x.ai](https://x.ai/bot) | 2026-11-14 |
-| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.259 | [github.com](https://github.com/stablyai/orca) | 2026-11-14 |
+| [orca](bucket/orca.json) | Orca - an AI-native desktop IDE that turns natural langua... | 1.4.261 | [github.com](https://github.com/stablyai/orca) | 2026-11-14 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.4.2 | [github.com](https://github.com/throneproj/Throne) | 2026-11-14 |
-| [cindy](bucket/cindy.json) | Consider it done. The open-source AI agent that works out... | 0.1.136 | [cindy.app](https://cindy.app) | 2026-11-13 |
-| [cindycn](bucket/cindycn.json) | Cindy (国内版) - 想到，就能做到。开源、开箱即用的 AI Agent (中国大陆节点) | 0.1.136 | [cindy.cn](https://cindy.cn) | 2026-11-13 |
+| [cindy](bucket/cindy.json) | Consider it done. The open-source AI agent that works out... | 0.1.137 | [cindy.app](https://cindy.app) | 2026-11-13 |
+| [cindycn](bucket/cindycn.json) | Cindy (国内版) - 想到，就能做到。开源、开箱即用的 AI Agent (中国大陆节点) | 0.1.137 | [cindy.cn](https://cindy.cn) | 2026-11-13 |
 | [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.11.13-eacade1 | [cursor.com](https://cursor.com/cli) | 2026-11-13 |
 | [ego-lite](bucket/ego-lite.json) | The fastest browser for AI agents to run browser automati... | 0.6.3.14 | [lite.ego.app](https://lite.ego.app/) | 2026-11-13 |
 | [junie](bucket/junie.json) | Junie CLI - JetBrains agentic coding tool with an interac... | 4020.10 | [junie.jetbrains.com](https://junie.jetbrains.com/docs/junie-cli.html) | 2026-11-13 |
@@ -66,7 +68,6 @@ scoop install zyqpkg/<app-name>
 | [t3code](bucket/t3code.json) | The open-source control plane for coding agents. Orchestr... | 0.1.9 | [t3.codes](https://t3.codes) | 2026-11-11 |
 | [fluxdown](bucket/fluxdown.json) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒... | 0.6.7 | [fluxdown.zerx.dev](https://fluxdown.zerx.dev/) | 2026-11-10 |
 | [orcaterm](bucket/orcaterm.json) | OrcaTerm (腾讯云智能终端) - 连接 AI Agent、代码与云服务器的高效易用 AI 终端工具 | 1.6.10 | [orcaterm.com](https://orcaterm.com/) | 2026-11-10 |
-| [paseo](bucket/paseo.json) | Coding agents from your phone, desktop and CLI (Desktop E... | 0.16.0 | [paseo.sh](https://paseo.sh) | 2026-11-10 |
 | [pi](bucket/pi.json) | AI agent toolkit: unified LLM API, agent loop, TUI, codin... | 1.5.2 | [github.com](https://github.com/earendil-works/pi) | 2026-11-10 |
 | [zcode](bucket/zcode.json) | A full-featured Agentic Development Environment (ADE) bui... | 3.17.2 | [zcode.z.ai](https://zcode.z.ai/en) | 2026-11-10 |
 | [altserver](bucket/altserver.json) | A home for apps that push the boundaries of iOS. No jailb... | 1.8.4 | [altstore.io](https://altstore.io/) | 2026-11-09 |
@@ -102,7 +103,6 @@ scoop install zyqpkg/<app-name>
 | [scrcpy-gui](bucket/scrcpy-gui.json) | A simple & beautiful GUI application for scrcpy | 2.5.0 | [tomotoes.com](http://tomotoes.com/scrcpy-gui/) | 2026-10-27 |
 | [netcatty](bucket/netcatty.json) | SSH workspace, SFTP, and terminals in one | 1.1.90 | [netcatty.app](https://netcatty.app) | 2026-10-26 |
 | [gooey-pi](bucket/gooey-pi.json) | GooeyPi - Desktop UI for the pi coding agent | 1.1.21 | [github.com](https://github.com/am-will/gooey-pi) | 2026-10-25 |
-| [pi-app](bucket/pi-app.json) | Desktop app for the pi coding agent runtime with timeline... | 0.7.8 | [github.com](https://github.com/justhil/pi-app) | 2026-10-25 |
 | [kafkaesque](bucket/kafkaesque.json) | A GUI client for Kafka with features for browsing, produc... | 2.9.8 | [github.com](https://github.com/patschuh/KafkaEsque) | 2026-10-24 |
 | [codux](bucket/codux.json) | The high-performance AI coding terminal — desktop workspa... | 2.0.3 | [github.com](https://github.com/duxweb/codux) | 2026-10-23 |
 | [codux-agent](bucket/codux-agent.json) | Codux headless host agent for remote terminals, Git, and ... | 2.0.3 | [github.com](https://github.com/duxweb/codux) | 2026-10-23 |
