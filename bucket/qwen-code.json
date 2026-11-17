@@ -1,12 +1,12 @@
 {
-    "version": "0.27.4",
+    "version": "0.28.0",
     "description": "An open-source AI coding agent that lives in your terminal.",
     "homepage": "https://qwen.ai/qwencode",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.27.4/qwen-code-win-x64.zip",
-            "hash": "34a32216eb0d8aaed4eb8e9933cc95e19fbefe57a28d3c4029821c8017578e50"
+            "url": "https://github.com/QwenLM/qwen-code/releases/download/v0.28.0/qwen-code-win-x64.zip",
+            "hash": "9a758331884870e1d6073cc24f5a2545543127df0b6fb91db6a2e8a97bfd25ed"
         }
     },
     "extract_dir": "qwen-code",
