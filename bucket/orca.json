@@ -2,28 +2,37 @@
     "version": "1.4.263",
     "description": "Orca - an AI-native desktop IDE that turns natural language into full-stack applications. Build, run, and ship apps with an agentic interface.",
     "homepage": "https://github.com/stablyai/orca",
-    "license": "NOASSERTION",
+    "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/stablyai/orca/releases/download/v1.4.263/orca-windows-setup.exe",
+            "url": "https://github.com/stablyai/orca/releases/download/v1.4.263/orca-windows-setup.exe#/dl.7z",
             "hash": "da789cc1c5bae94009e04a44528e6128ce1901da5f121140a4e501dcb967ef6e"
         }
     },
-    "installer": {
-        "args": [
-            "/S",
-            "/allusers"
-        ],
-        "keep": true
-    },
+    "pre_install": [
+        "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
+        "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\`$R0\" -Force -Recurse -ErrorAction SilentlyContinue"
+    ],
+    "bin": [
+        "Orca.exe",
+        [
+            "resources\\bin\\orca.exe",
+            "orca"
+        ]
+    ],
+    "shortcuts": [
+        [
+            "Orca.exe",
+            "Orca"
+        ]
+    ],
     "checkver": {
-        "url": "https://github.com/stablyai/orca/releases",
-        "regex": "/stablyai/orca/releases/tag/v([0-9]+\\.[0-9]+\\.[0-9]+)\""
+        "github": "https://github.com/stablyai/orca"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/stablyai/orca/releases/download/v$version/orca-windows-setup.exe"
+                "url": "https://github.com/stablyai/orca/releases/download/v$version/orca-windows-setup.exe#/dl.7z"
             }
         }
     }
