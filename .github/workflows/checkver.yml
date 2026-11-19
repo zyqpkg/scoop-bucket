@@ -6,8 +6,8 @@ on:
     branches: [ main, master ]
     paths: [ bucket/** ]
   schedule:
-    # 每小时运行一次（避开整点 00/15/30/45 分高峰以减少调度延迟和丢弃）
-    - cron: '23 * * * *'
+    # 每 2 小时运行一次（避开整点 00/15/30/45 分高峰以减少调度延迟和丢弃）
+    - cron: '23 */2 * * *'
   workflow_dispatch:
     # 支持手动触发
 
@@ -19,7 +19,7 @@ jobs:
   checkver:
     # bot 自提交不需要再次触发检查
     if: github.actor != 'github-actions[bot]'
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     permissions:
       contents: write  # 允许 push 更新后的 manifest
 
@@ -30,45 +30,9 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
-      - name: Compute cache key
-        id: cache-key
-        shell: pwsh
+      - name: Clone Scoop core
         run: |
-          $ErrorActionPreference = 'Stop'
-          $isoWeek = [System.Globalization.ISOWeek]::GetWeekOfYear((Get-Date))
-          "week=$isoWeek" >> $env:GITHUB_OUTPUT
-
-      - name: Cache Scoop core
-        uses: actions/cache@v5
-        with:
-          path: |
-            ~/scoop/apps/scoop
-            ~/scoop/shims
-          key: scoop-core-${{ runner.os }}-${{ hashFiles('.github/workflows/checkver.yml') }}-w${{ steps.cache-key.outputs.week }}
-          restore-keys: |
-            scoop-core-${{ runner.os }}-
-            scoop-${{ runner.os }}-
-
-      - name: Install Scoop
-        shell: pwsh
-        run: |
-          $ErrorActionPreference = 'Stop'
-          $scoopRoot = Join-Path $env:USERPROFILE 'scoop'
-          $scoopPs1 = Join-Path $scoopRoot 'apps\scoop\current\bin\scoop.ps1'
-          $checkverPs1 = Join-Path $scoopRoot 'apps\scoop\current\bin\checkver.ps1'
-          if (-not (Test-Path $scoopPs1) -or -not (Test-Path $checkverPs1)) {
-            Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser -Force
-            Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
-            $scoopPs1 = Join-Path $scoopRoot 'apps\scoop\current\bin\scoop.ps1'
-            $checkverPs1 = Join-Path $scoopRoot 'apps\scoop\current\bin\checkver.ps1'
-          }
-          # checkver only needs the Scoop scripts. Do NOT run `scoop update` here:
-          # it migrates/updates the official main bucket and fails when the cached
-          # core has no ~/scoop/buckets ('main' bucket not found).
-          if (-not (Test-Path $checkverPs1)) {
-            throw "checkver.ps1 not found at $checkverPs1"
-          }
-          Write-Host "Using Scoop core at $scoopPs1 (bucket updates skipped)."
+          git clone --depth 1 https://github.com/ScoopInstaller/Scoop.git /tmp/scoop-core
 
       - name: Run checkver (update manifests with checkver)
         shell: pwsh
@@ -76,16 +40,17 @@ jobs:
         env:
           SCOOP_GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           $ErrorActionPreference = 'Stop'
           $bucketDir = Join-Path $env:GITHUB_WORKSPACE 'bucket'
-          & "$env:USERPROFILE\scoop\apps\scoop\current\bin\checkver.ps1" -Dir $bucketDir -App '*' -Update
+          & "/tmp/scoop-core/bin/checkver.ps1" -Dir $bucketDir -App '*' -Update
 
       - name: Regenerate README.md
         shell: pwsh
         run: |
           $ErrorActionPreference = 'Stop'
-          & (Join-Path $env:GITHUB_WORKSPACE '.github\scripts\update-readme.ps1')
+          & (Join-Path $env:GITHUB_WORKSPACE '.github/scripts/update-readme.ps1')
 
       - name: Commit and push if changed
         shell: pwsh
