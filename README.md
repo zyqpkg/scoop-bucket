@@ -28,6 +28,7 @@ scoop install zyqpkg/<app-name>
 | [magpie-cli](bucket/magpie-cli.json) [🌐](https://usemagpie.ai/) | Terminal-only CLI for Magpie — one gateway to ... | 0.1.4520 | 2026-11-19 |
 | [nyaterm](bucket/nyaterm.json) [🌐](https://nyaterm.app) | A modern remote terminal workspace | 2.0.6 | 2026-11-19 |
 | [omp](bucket/omp.json) [🌐](https://github.com/can1357/oh-my-pi) | AI Coding agent for the terminal — hash-anchor... | 19.0.0 | 2026-11-19 |
+| [orca](bucket/orca.json) [🌐](https://github.com/stablyai/orca) | Orca - an AI-native desktop IDE that turns natu... | 1.4.263 | 2026-11-19 |
 | [pixwit](bucket/pixwit.json) [🌐](https://pixwit.cn/) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、... | 1.19.1 | 2026-11-19 |
 | [rakazo](bucket/rakazo.json) [🌐](https://rakazo.com) | Open-source Grok Bot alternative. Choose your o... | 0.13.0 | 2026-11-19 |
 | [trae-cli](bucket/trae-cli.json) [🌐](https://docs.trae.cn/cli_get-started-with-trae-cli) | TRAE CLI - a code agent that helps with coding,... | 0.216.0 | 2026-11-19 |
@@ -40,7 +41,6 @@ scoop install zyqpkg/<app-name>
 | [hermes-desktop](bucket/hermes-desktop.json) [🌐](https://github.com/fathah/hermes-desktop) | Desktop Companion for Hermes Agent | 0.7.9 | 2026-11-18 |
 | [junie](bucket/junie.json) [🌐](https://junie.jetbrains.com/docs/junie-cli.html) | Junie CLI - JetBrains agentic coding tool with ... | 4100.8 | 2026-11-18 |
 | [lody](bucket/lody.json) [🌐](https://lody.ai/) | Desktop app to manage all your code agents with... | 0.113.1 | 2026-11-18 |
-| [orca](bucket/orca.json) [🌐](https://github.com/stablyai/orca) | Orca - an AI-native desktop IDE that turns natu... | 1.4.263 | 2026-11-18 |
 | [orcaterm](bucket/orcaterm.json) [🌐](https://orcaterm.com/) | OrcaTerm (腾讯云智能终端) - 连接 AI Agent、代码... | 1.6.11 | 2026-11-18 |
 | [paseo](bucket/paseo.json) [🌐](https://paseo.sh) | Coding agents from your phone, desktop and CLI ... | 0.16.2 | 2026-11-18 |
 | [qodercli](bucket/qodercli.json) [🌐](https://qoder.com) | Qoder CLI - An AI programming assistant for int... | 1.1.92 | 2026-11-18 |
