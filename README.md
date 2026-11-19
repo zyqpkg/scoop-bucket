@@ -22,8 +22,8 @@ scoop install zyqpkg/<app-name>
 | [finch](bucket/finch.json) | Lightweight, easy-to-use desktop AI agent with cross-sess... | 1.8.1 | [finchwork.app](https://finchwork.app/) | 2026-11-19 |
 | [intelligent-terminal](bucket/intelligent-terminal.json) | A fork of Windows Terminal with native agent integration,... | 0.3.3213.0 | [github.com](https://github.com/microsoft/intelligent-terminal) | 2026-11-19 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.236 | [kiro.dev](https://kiro.dev) | 2026-11-19 |
-| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.4515 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-19 |
-| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.4515 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-19 |
+| [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.4519 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-19 |
+| [magpie-cli](bucket/magpie-cli.json) | Terminal-only CLI for Magpie — one gateway to pick and ro... | 0.1.4519 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-19 |
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace | 2.0.6 | [nyaterm.app](https://nyaterm.app) | 2026-11-19 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 19.0.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-19 |
 | [rakazo](bucket/rakazo.json) | Open-source Grok Bot alternative. Choose your own model a... | 0.13.0 | [rakazo.com](https://rakazo.com) | 2026-11-19 |
