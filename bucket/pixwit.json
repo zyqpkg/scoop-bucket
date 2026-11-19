@@ -23,8 +23,7 @@
         "History"
     ],
     "checkver": {
-        "github": "https://github.com/yun-cun-li/PixWit",
-        "regex": "tag/v([\\d.]+)"
+        "github": "https://github.com/yun-cun-li/PixWit"
     },
     "autoupdate": {
         "architecture": {

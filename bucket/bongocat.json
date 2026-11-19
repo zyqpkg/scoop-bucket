@@ -30,8 +30,7 @@
         ]
     ],
     "checkver": {
-        "github": "https://github.com/ayangweb/BongoCat",
-        "regex": "tag/v([\\d.]+)"
+        "github": "https://github.com/ayangweb/BongoCat"
     },
     "autoupdate": {
         "architecture": {
