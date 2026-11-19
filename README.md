@@ -18,6 +18,8 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Homepage | Last Updated |
 |-----|-------------|---------|----------|--------------|
+| [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.11.19-f005e9d | [cursor.com](https://cursor.com/cli) | 2026-11-19 |
+| [finch](bucket/finch.json) | Lightweight, easy-to-use desktop AI agent with cross-sess... | 1.8.1 | [finchwork.app](https://finchwork.app/) | 2026-11-19 |
 | [intelligent-terminal](bucket/intelligent-terminal.json) | A fork of Windows Terminal with native agent integration,... | 0.3.3213.0 | [github.com](https://github.com/microsoft/intelligent-terminal) | 2026-11-19 |
 | [kiro](bucket/kiro.json) | An agentic IDE developed by AWS for structured, spec-driv... | 1.4.236 | [kiro.dev](https://kiro.dev) | 2026-11-19 |
 | [magpie](bucket/magpie.json) | One gateway to pick and route every coding agent's LLM AP... | 0.1.4515 | [usemagpie.ai](https://usemagpie.ai/) | 2026-11-19 |
@@ -25,12 +27,12 @@ scoop install zyqpkg/<app-name>
 | [nyaterm](bucket/nyaterm.json) | A modern remote terminal workspace | 2.0.6 | [nyaterm.app](https://nyaterm.app) | 2026-11-19 |
 | [omp](bucket/omp.json) | AI Coding agent for the terminal — hash-anchored edits, o... | 19.0.0 | [github.com](https://github.com/can1357/oh-my-pi) | 2026-11-19 |
 | [rakazo](bucket/rakazo.json) | Open-source Grok Bot alternative. Choose your own model a... | 0.13.0 | [rakazo.com](https://rakazo.com) | 2026-11-19 |
+| [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.216.0 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-11-19 |
 | [apiflow](bucket/apiflow.json) | Free, AI-Powered API Tool like Postman. Supports API test... | 0.9.84 | [github.com](https://github.com/trueleaf/apiflow) | 2026-11-18 |
 | [Chatbox](bucket/Chatbox.json) | User-friendly Desktop Client App for AI Models/LLMs | 1.24.6 | [chatboxai.app](https://chatboxai.app/) | 2026-11-18 |
 | [cindy](bucket/cindy.json) | Consider it done. The open-source AI agent that works out... | 0.1.140 | [cindy.app](https://cindy.app) | 2026-11-18 |
 | [cindycn](bucket/cindycn.json) | Cindy (国内版) - 想到，就能做到。开源、开箱即用的 AI Agent (中国大陆节点) | 0.1.140 | [cindy.cn](https://cindy.cn) | 2026-11-18 |
 | [codexplusplus](bucket/codexplusplus.json) | Codex App 的外部增强启动器和管理工具，通过 CDP 注入增强功能，不修改 Codex 原始安装文件 | 2.8.0 | [github.com](https://github.com/BigPizzaV3/CodexPlusPlus) | 2026-11-18 |
-| [cursor-cli](bucket/cursor-cli.json) | Cursor CLI - run Cursor agents from the terminal | 2026.11.19-f005e9d | [cursor.com](https://cursor.com/cli) | 2026-11-18 |
 | [grok-bot](bucket/grok-bot.json) | Always-on AI agents from xAI and Cursor that work autonom... | 1.2.3 | [x.ai](https://x.ai/bot) | 2026-11-18 |
 | [hermes-desktop](bucket/hermes-desktop.json) | Desktop Companion for Hermes Agent | 0.7.9 | [github.com](https://github.com/fathah/hermes-desktop) | 2026-11-18 |
 | [junie](bucket/junie.json) | Junie CLI - JetBrains agentic coding tool with an interac... | 4100.8 | [junie.jetbrains.com](https://junie.jetbrains.com/docs/junie-cli.html) | 2026-11-18 |
@@ -67,7 +69,6 @@ scoop install zyqpkg/<app-name>
 | [workbuddycn](bucket/workbuddycn.json) | WorkBuddy (CN) - AI-native desktop Agent WorkBench (China... | 5.11.3.43806934-ecace0f7 | [codebuddy.cn](https://www.codebuddy.cn/work/) | 2026-11-15 |
 | [throne](bucket/throne.json) | Qt based cross-platform GUI proxy configuration manager (... | 1.4.2 | [github.com](https://github.com/throneproj/Throne) | 2026-11-14 |
 | [mimocode](bucket/mimocode.json) | Terminal-native AI coding assistant with cross-session me... | 0.1.17 | [github.com](https://github.com/XiaomiMiMo/MiMo-Code) | 2026-11-13 |
-| [trae-cli](bucket/trae-cli.json) | TRAE CLI - a code agent that helps with coding, testing, ... | 0.216.0 | [docs.trae.cn](https://docs.trae.cn/cli_get-started-with-trae-cli) | 2026-11-13 |
 | [deepchat](bucket/deepchat.json) | A smart assistant that connects powerful AI to your perso... | 1.1.4 | [github.com](https://github.com/thinkinaixyz/deepchat) | 2026-11-12 |
 | [feishu](bucket/feishu.json) | Connect with teammates anytime and anywhere | 8.6.13 | [feishu.cn](https://www.feishu.cn/) | 2026-11-12 |
 | [thinkrail](bucket/thinkrail.json) | The worktree IDE for the pi coding agent | 0.4.0 | [thinkrail.ai](https://thinkrail.ai) | 2026-11-12 |
