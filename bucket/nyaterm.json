@@ -20,7 +20,29 @@
             "NyaTerm"
         ]
     ],
-    "persist": "data",
+    "post_install": [
+        "# The app always keeps its store in data/ next to the exe, so each Scoop version",
+        "# would otherwise start with an empty store. Point data/ at %USERPROFILE%\\.nyaterm",
+        "# so every version sees the same store and 'scoop cleanup' never deletes it.",
+        "$data = Join-Path $env:USERPROFILE '.nyaterm'",
+        "$link = Join-Path $dir 'data'",
+        "New-Item -ItemType Directory -Force -Path $data | Out-Null",
+        "# One-time migration: pre-portable builds kept the database at the root of the store.",
+        "$oldDb = Join-Path $data 'nyaterm.redb'",
+        "$cfg = Join-Path $data 'config'",
+        "$newDb = Join-Path $cfg 'nyaterm.redb'",
+        "if ((Test-Path $oldDb) -and -not (Test-Path $newDb)) { New-Item -ItemType Directory -Force -Path $cfg | Out-Null; Copy-Item $oldDb $newDb -Force }",
+        "if (Test-Path $link) { if ((Get-Item $link -Force).LinkType) { cmd /c rmdir \"$link\" } else { Remove-Item $link -Recurse -Force } }",
+        "New-Item -ItemType Junction -Path $link -Target $data | Out-Null"
+    ],
+    "uninstaller": {
+        "script": [
+            "# Drop the junction only. A reparse point must go via rmdir so the store",
+            "# in %USERPROFILE%\\.nyaterm is never touched.",
+            "$link = Join-Path $dir 'data'",
+            "if ((Test-Path $link) -and (Get-Item $link -Force).LinkType) { cmd /c rmdir \"$link\" }"
+        ]
+    },
     "checkver": {
         "github": "https://github.com/nyakang/nyaterm"
     },
