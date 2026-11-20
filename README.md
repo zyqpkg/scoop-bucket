@@ -18,6 +18,7 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Updated |
 |-----|-------------|---------|---------|
+| [astrlink](bucket/astrlink.json) [🌐](https://astrlink.com/) | A local AI gateway for AI agents, unifying your... | 0.3.2 | 2026-11-20 |
 | [busybox](bucket/busybox.json) [🌐](https://frippery.org/busybox) | A single binary that contains many common Unix ... | 6354-g5f09fb446 | 2026-11-20 |
 | [cindy](bucket/cindy.json) [🌐](https://cindy.app) | Consider it done. The open-source AI agent that... | 0.1.141 | 2026-11-20 |
 | [cindycn](bucket/cindycn.json) [🌐](https://cindy.cn) | Cindy (国内版) - 想到，就能做到。开源、开箱即用... | 0.1.141 | 2026-11-20 |
@@ -25,8 +26,8 @@ scoop install zyqpkg/<app-name>
 | [fluentcleaner](bucket/fluentcleaner.json) [🌐](https://github.com/builtbybel/FluentCleaner) | FluentCleaner is a modern Windows cleanup tool ... | 26.11.108 | 2026-11-20 |
 | [junie](bucket/junie.json) [🌐](https://junie.jetbrains.com/docs/junie-cli.html) | Junie CLI - JetBrains agentic coding tool with ... | 4100.10 | 2026-11-20 |
 | [kilo](bucket/kilo.json) [🌐](https://github.com/Kilo-Org/kilocode) | Kilo - all-in-one agentic engineering platform.... | 7.8.31 | 2026-11-20 |
-| [magpie](bucket/magpie.json) [🌐](https://usemagpie.ai/) | One gateway to pick and route every coding agen... | 0.1.4572 | 2026-11-20 |
-| [magpie-cli](bucket/magpie-cli.json) [🌐](https://usemagpie.ai/) | Terminal-only CLI for Magpie — one gateway to ... | 0.1.4572 | 2026-11-20 |
+| [magpie](bucket/magpie.json) [🌐](https://usemagpie.ai/) | One gateway to pick and route every coding agen... | 0.1.4573 | 2026-11-20 |
+| [magpie-cli](bucket/magpie-cli.json) [🌐](https://usemagpie.ai/) | Terminal-only CLI for Magpie — one gateway to ... | 0.1.4573 | 2026-11-20 |
 | [nyaterm](bucket/nyaterm.json) [🌐](https://nyaterm.app) | A modern remote terminal workspace | 2.0.7 | 2026-11-20 |
 | [omp](bucket/omp.json) [🌐](https://github.com/can1357/oh-my-pi) | AI Coding agent for the terminal — hash-anchor... | 19.0.1 | 2026-11-20 |
 | [openchamber](bucket/openchamber.json) [🌐](https://openchamber.dev/) | Desktop and web interface for OpenCode AI agent | 2.7.3 | 2026-11-20 |
@@ -70,7 +71,6 @@ scoop install zyqpkg/<app-name>
 | [ego-lite](bucket/ego-lite.json) [🌐](https://lite.ego.app/) | The fastest browser for AI agents to run browse... | 0.6.3.17 | 2026-11-16 |
 | [pi-app](bucket/pi-app.json) [🌐](https://github.com/justhil/pi-app) | Desktop app for the pi coding agent runtime wit... | 0.7.8 | 2026-11-16 |
 | [zcode](bucket/zcode.json) [🌐](https://zcode.z.ai/en) | A full-featured Agentic Development Environment... | 3.18.2 | 2026-11-16 |
-| [astrlink](bucket/astrlink.json) [🌐](https://astrlink.com/) | A local AI gateway for AI agents, unifying your... | 0.3.2 | 2026-11-15 |
 | [workbuddycn](bucket/workbuddycn.json) [🌐](https://www.codebuddy.cn/work/) | WorkBuddy (CN) - AI-native desktop Agent WorkBe... | 5.11.3.43806934... | 2026-11-15 |
 | [throne](bucket/throne.json) [🌐](https://github.com/throneproj/Throne) | Qt based cross-platform GUI proxy configuration... | 1.4.2 | 2026-11-14 |
 | [mimocode](bucket/mimocode.json) [🌐](https://github.com/XiaomiMiMo/MiMo-Code) | Terminal-native AI coding assistant with cross-... | 0.1.17 | 2026-11-13 |
@@ -119,7 +119,7 @@ scoop install zyqpkg/<app-name>
 | [yaak](bucket/yaak.json) [🌐](https://github.com/zyqfork/yaak) | A fast, privacy-first API client for REST, Grap... | 2026.10.7 | 2026-10-23 |
 | [ztools](bucket/ztools.json) [🌐](https://github.com/ZToolsCenter/ZTools) | 高性能、可扩展的应用启动器和插件平台，uTools 的... | 3.2.0 | 2026-10-23 |
 | [herdr](bucket/herdr.json) [🌐](https://herdr.dev) | Agent multiplexer that lives in your terminal | 2026-10-14-fbd2... | 2026-10-14 |
-| [innounpacker](bucket/innounpacker.json) [🌐](https://www.rathlev-home.de/index-e.html?tools/prog-e.html#unpack) | Inno Setup Unpacker | 2.2.13 | 2026-10-11 |
+| [innounpacker](bucket/innounpacker.json) [🌐](https://www.rathlev-home.de/index-e.html?tools/prog-e.html#unpack) | Inno Setup Unpacker | 2.2.14 | 2026-10-11 |
 | [escrcpy](bucket/escrcpy.json) [🌐](https://github.com/viarotel-org/escrcpy) | Graphical Scrcpy to display and control Android... | 3.3.1 | 2026-10-10 |
 | [chat2db](bucket/chat2db.json) [🌐](https://github.com/OtterMind/Chat2DB) | An intelligent and versatile general-purpose SQ... | 5.3.8 | 2026-10-09 |
 | [flectar-mail](bucket/flectar-mail.json) [🌐](https://github.com/flectar/mail) | A lightweight native email, calendar, and conta... | 0.1.0-alpha.7 | 2026-10-08 |
