@@ -18,6 +18,7 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Updated |
 |-----|-------------|---------|---------|
+| [clipdiary](bucket/clipdiary.json) [🌐](https://clipdiary.com/) | A clipboard manager with history and snippets f... | 5.73 | 2026-11-20 |
 | [bongocat](bucket/bongocat.json) [🌐](https://github.com/ayangweb/BongoCat) | 跨平台桌宠 BongoCat，为桌面增添乐趣！ | 2.4.1 | 2026-11-19 |
 | [cursor-cli](bucket/cursor-cli.json) [🌐](https://cursor.com/cli) | Cursor CLI - run Cursor agents from the terminal | 2026.11.19-f005e9d | 2026-11-19 |
 | [finch](bucket/finch.json) [🌐](https://finchwork.app/) | Lightweight, easy-to-use desktop AI agent with ... | 1.8.1 | 2026-11-19 |
@@ -142,7 +143,6 @@ scoop install zyqpkg/<app-name>
 | [tun2socks](bucket/tun2socks.json) [🌐](https://github.com/xjasonlyu/tun2socks) | tun2socks - powered by gVisor TCP/IP stack. | 2.7.0 | 2026-07-12 |
 | [efibooteditor](bucket/efibooteditor.json) [🌐](https://github.com/Neverous/efibooteditor) | EFI Boot Editor - tool for managing UEFI boot e... | 1.5.7 | 2026-06-26 |
 | [magika](bucket/magika.json) [🌐](https://github.com/google/magika) | Fast and accurate AI-powered file content type ... | 1.1.0 | 2026-06-17 |
-| [clipdiary](bucket/clipdiary.json) [🌐](https://clipdiary.com/) | A clipboard manager with history and snippets f... | 5.73 | 2026-03-17 |
 | [tim](bucket/tim.json) [🌐](https://office.qq.com/) | Tencent TIM, lightweight alternative to QQ | 3.5.0.22143 | 2026-03-11 |
 | [markitdown](bucket/markitdown.json) [🌐](https://github.com/zyqfork/markitdown) | Python tool for converting files and office doc... | 1.0.3 | 2026-03-03 |
 | [launcherx](bucket/launcherx.json) [🌐](https://github.com/Apollo199999999/LauncherX) | LauncherX - Modern app launcher for Windows | 2.2.0 | 2026-02-09 |
