@@ -10,17 +10,6 @@
         }
     },
     "extract_dir": "clipdiary_portable",
-    "pre_install": [
-        "ensure $persist_dir | Out-Null",
-        "if (!(Test-Path \"$persist_dir\\diary.db\")) {",
-        "    $oldDb = Get-ChildItem (Split-Path $dir) -Filter 'diary.db' -Recurse | Select-Object -First 1",
-        "    if ($oldDb) { Copy-Item $oldDb.FullName \"$persist_dir\\diary.db\" -Force } else { New-Item \"$persist_dir\\diary.db\" -ItemType File -Force | Out-Null }",
-        "}",
-        "if (!(Test-Path \"$persist_dir\\clipdiary.cfg\")) {",
-        "    $oldCfg = Get-ChildItem (Split-Path $dir) -Filter 'clipdiary.cfg' -Recurse | Select-Object -First 1",
-        "    if ($oldCfg) { Copy-Item $oldCfg.FullName \"$persist_dir\\clipdiary.cfg\" -Force } else { New-Item \"$persist_dir\\clipdiary.cfg\" -ItemType File -Force | Out-Null }",
-        "}"
-    ],
     "bin": "clipdiary-portable.exe",
     "shortcuts": [
         [
@@ -31,6 +20,7 @@
     "persist": [
         "clipdiary.cfg",
         "diary.db",
+        "snippets.sdb",
         "Backup",
         "ClipVault"
     ],
