@@ -19,10 +19,7 @@
     ],
     "persist": [
         "clipdiary.cfg",
-        "diary.db",
-        "snippets.sdb",
-        "Backup",
-        "ClipVault"
+        "diary.db"
     ],
     "checkver": {
         "url": "https://clipdiary.com/download",
