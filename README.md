@@ -70,7 +70,7 @@ scoop install zyqpkg/<app-name>
 | [ego-lite](bucket/ego-lite.json) [🌐](https://lite.ego.app/) | The fastest browser for AI agents to run browse... | 0.6.3.17 | 2026-11-16 |
 | [pi-app](bucket/pi-app.json) [🌐](https://github.com/justhil/pi-app) | Desktop app for the pi coding agent runtime wit... | 0.7.8 | 2026-11-16 |
 | [zcode](bucket/zcode.json) [🌐](https://zcode.z.ai/en) | A full-featured Agentic Development Environment... | 3.18.2 | 2026-11-16 |
-| [astrlink](bucket/astrlink.json) [🌐](https://astrlink.com/) | A local AI gateway for AI agents, unifying your... | 0.2.30 | 2026-11-15 |
+| [astrlink](bucket/astrlink.json) [🌐](https://astrlink.com/) | A local AI gateway for AI agents, unifying your... | 0.3.2 | 2026-11-15 |
 | [workbuddycn](bucket/workbuddycn.json) [🌐](https://www.codebuddy.cn/work/) | WorkBuddy (CN) - AI-native desktop Agent WorkBe... | 5.11.3.43806934... | 2026-11-15 |
 | [throne](bucket/throne.json) [🌐](https://github.com/throneproj/Throne) | Qt based cross-platform GUI proxy configuration... | 1.4.2 | 2026-11-14 |
 | [mimocode](bucket/mimocode.json) [🌐](https://github.com/XiaomiMiMo/MiMo-Code) | Terminal-native AI coding assistant with cross-... | 0.1.17 | 2026-11-13 |

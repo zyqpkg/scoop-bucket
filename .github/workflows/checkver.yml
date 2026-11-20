@@ -38,10 +38,13 @@ jobs:
         shell: pwsh
         timeout-minutes: 30
         env:
+          SCOOP: /tmp/scoop
+          SCOOP_CACHE: /tmp/scoop/cache
           SCOOP_GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          New-Item -ItemType Directory -Path /tmp/scoop/cache -Force | Out-Null
           $bucketDir = Join-Path $env:GITHUB_WORKSPACE 'bucket'
           $checkverScript = "/tmp/scoop-core/bin/checkver.ps1"
           $manifests = Get-ChildItem -Path $bucketDir -Filter '*.json' | Sort-Object Name
