@@ -29,6 +29,7 @@ scoop install zyqpkg/<app-name>
 | [kilo](bucket/kilo.json) [🌐](https://github.com/Kilo-Org/kilocode) | Kilo - all-in-one agentic engineering platform.... | 7.8.31 | 2026-11-20 |
 | [magpie](bucket/magpie.json) [🌐](https://usemagpie.ai/) | One gateway to pick and route every coding agen... | 0.1.4573 | 2026-11-20 |
 | [magpie-cli](bucket/magpie-cli.json) [🌐](https://usemagpie.ai/) | Terminal-only CLI for Magpie — one gateway to ... | 0.1.4573 | 2026-11-20 |
+| [mirasim](bucket/mirasim.json) [🌐](https://mirasim.ai/) | Collaborative workspace for commanding coding a... | 0.0.827 | 2026-11-20 |
 | [nyaterm](bucket/nyaterm.json) [🌐](https://nyaterm.app) | A modern remote terminal workspace | 2.0.7 | 2026-11-20 |
 | [omp](bucket/omp.json) [🌐](https://github.com/can1357/oh-my-pi) | AI Coding agent for the terminal — hash-anchor... | 19.0.1 | 2026-11-20 |
 | [openchamber](bucket/openchamber.json) [🌐](https://openchamber.dev/) | Desktop and web interface for OpenCode AI agent | 2.7.3 | 2026-11-20 |
