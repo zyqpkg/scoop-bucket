@@ -18,7 +18,7 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Updated |
 |-----|-------------|---------|---------|
-| [astrlink](bucket/astrlink.json) [🌐](https://astrlink.com/) | A local AI gateway for AI agents, unifying your... | 0.3.2 | 2026-11-20 |
+| [astrlink](bucket/astrlink.json) [🌐](https://astrlink.com/) | A local AI gateway for AI agents, unifying your... | 0.3.3 | 2026-11-20 |
 | [busybox](bucket/busybox.json) [🌐](https://frippery.org/busybox) | A single binary that contains many common Unix ... | 6354-g5f09fb446 | 2026-11-20 |
 | [cindy](bucket/cindy.json) [🌐](https://cindy.app) | Consider it done. The open-source AI agent that... | 0.1.141 | 2026-11-20 |
 | [cindycn](bucket/cindycn.json) [🌐](https://cindy.cn) | Cindy (国内版) - 想到，就能做到。开源、开箱即用... | 0.1.141 | 2026-11-20 |
@@ -27,14 +27,14 @@ scoop install zyqpkg/<app-name>
 | [innounpacker](bucket/innounpacker.json) [🌐](https://www.rathlev-home.de/index-e.html?tools/prog-e.html#unpack) | Inno Setup Unpacker | 2.2.14 | 2026-11-20 |
 | [junie](bucket/junie.json) [🌐](https://junie.jetbrains.com/docs/junie-cli.html) | Junie CLI - JetBrains agentic coding tool with ... | 4100.10 | 2026-11-20 |
 | [kilo](bucket/kilo.json) [🌐](https://github.com/Kilo-Org/kilocode) | Kilo - all-in-one agentic engineering platform.... | 7.8.31 | 2026-11-20 |
-| [magpie](bucket/magpie.json) [🌐](https://usemagpie.ai/) | One gateway to pick and route every coding agen... | 0.1.4574 | 2026-11-20 |
-| [magpie-cli](bucket/magpie-cli.json) [🌐](https://usemagpie.ai/) | Terminal-only CLI for Magpie — one gateway to ... | 0.1.4574 | 2026-11-20 |
-| [mirasim](bucket/mirasim.json) [🌐](https://mirasim.ai/) | Collaborative workspace for commanding coding a... | 0.0.827 | 2026-11-20 |
+| [magpie](bucket/magpie.json) [🌐](https://usemagpie.ai/) | One gateway to pick and route every coding agen... | 0.1.4595 | 2026-11-20 |
+| [magpie-cli](bucket/magpie-cli.json) [🌐](https://usemagpie.ai/) | Terminal-only CLI for Magpie — one gateway to ... | 0.1.4595 | 2026-11-20 |
+| [mirasim](bucket/mirasim.json) [🌐](https://mirasim.ai/) | Collaborative workspace for commanding coding a... | 0.0.828 | 2026-11-20 |
 | [nyaterm](bucket/nyaterm.json) [🌐](https://nyaterm.app) | A modern remote terminal workspace | 2.0.7 | 2026-11-20 |
 | [omp](bucket/omp.json) [🌐](https://github.com/can1357/oh-my-pi) | AI Coding agent for the terminal — hash-anchor... | 19.0.1 | 2026-11-20 |
 | [openchamber](bucket/openchamber.json) [🌐](https://openchamber.dev/) | Desktop and web interface for OpenCode AI agent | 2.7.3 | 2026-11-20 |
 | [openmausbot](bucket/openmausbot.json) [🌐](https://mausbot.com) | Open-source Grok Bot alternative — local-first... | 0.1.173 | 2026-11-20 |
-| [orca](bucket/orca.json) [🌐](https://github.com/stablyai/orca) | Orca - an AI-native desktop IDE that turns natu... | 1.4.265 | 2026-11-20 |
+| [orca](bucket/orca.json) [🌐](https://github.com/stablyai/orca) | Orca - an AI-native desktop IDE that turns natu... | 1.4.266 | 2026-11-20 |
 | [pi-desktop](bucket/pi-desktop.json) [🌐](https://github.com/vastsa/PI-Desktop) | Local-first AI coding agent desktop: Electron +... | 0.23.0 | 2026-11-20 |
 | [qodercli](bucket/qodercli.json) [🌐](https://qoder.com) | Qoder CLI - An AI programming assistant for int... | 1.1.93 | 2026-11-20 |
 | [qoderclicn](bucket/qoderclicn.json) [🌐](https://qoder.com.cn) | QoderWork CLI - A local file operation tool for... | 1.1.93 | 2026-11-20 |
@@ -66,7 +66,7 @@ scoop install zyqpkg/<app-name>
 | [notion-cli](bucket/notion-cli.json) [🌐](https://developers.notion.com/cli/get-started/overview) | Notion CLI - authenticate with Notion, deploy N... | 0.23.31 | 2026-11-17 |
 | [omniroute](bucket/omniroute.json) [🌐](https://github.com/diegosouzapw/OmniRoute) | Free AI gateway for connecting AI coding tools ... | 3.8.54 | 2026-11-17 |
 | [qwen-code](bucket/qwen-code.json) [🌐](https://qwen.ai/qwencode) | An open-source AI coding agent that lives in yo... | 0.28.0 | 2026-11-17 |
-| [t3code](bucket/t3code.json) [🌐](https://t3.codes) | The open-source control plane for coding agents... | 0.1.10 | 2026-11-17 |
+| [t3code](bucket/t3code.json) [🌐](https://t3.codes) | The open-source control plane for coding agents... | 0.1.11 | 2026-11-17 |
 | [wechat](bucket/wechat.json) [🌐](https://www.wechat.com/) | Free messaging and calling app by Tencent | 4.2.0.53 | 2026-11-17 |
 | [workbuddy](bucket/workbuddy.json) [🌐](https://www.workbuddy.ai/) | WorkBuddy - AI Agent for Everyday Office Work | 5.11.4.44121853... | 2026-11-17 |
 | [cli-manager](bucket/cli-manager.json) [🌐](https://github.com/dark-hxx/CLI-Manager) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目... | 1.5.1 | 2026-11-16 |
@@ -88,7 +88,7 @@ scoop install zyqpkg/<app-name>
 | [altserver](bucket/altserver.json) [🌐](https://altstore.io/) | A home for apps that push the boundaries of iOS... | 1.8.4 | 2026-11-09 |
 | [clippi](bucket/clippi.json) [🌐](https://github.com/Ruszero01/clippi) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 &#1... | 0.5.6 | 2026-11-09 |
 | [hfs](bucket/hfs.json) [🌐](https://rejetto.com/hfs) | A web file server to run on your computer | 3.4.1 | 2026-11-09 |
-| [iloader](bucket/iloader.json) [🌐](https://iloader.app) | Free open-source iOS sideloading companion — i... | 2.4.1 | 2026-11-09 |
+| [iloader](bucket/iloader.json) [🌐](https://iloader.app) | Free open-source iOS sideloading companion — i... | 2.4.2 | 2026-11-09 |
 | [processon](bucket/processon.json) [🌐](https://www.processon.com) | ProcessOn is a free online flowchart, mind map,... | 5.14.25 | 2026-11-09 |
 | [sideloadly](bucket/sideloadly.json) [🌐](https://sideloadly.io) | Sideload IPAs on iOS, Apple Silicon Macs, and A... | 0.71.0 | 2026-11-09 |
 | [codebuddy](bucket/codebuddy.json) [🌐](https://www.codebuddy.ai/) | 腾讯云代码助手 CodeBuddy - AI 时代的智能编程伙... | 4.12.4.43368774 | 2026-11-08 |
