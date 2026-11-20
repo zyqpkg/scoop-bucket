@@ -18,6 +18,7 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Updated |
 |-----|-------------|---------|---------|
+| [busybox](bucket/busybox.json) [🌐](https://frippery.org/busybox) | A single binary that contains many common Unix ... | 6354-g5f09fb446 | 2026-11-20 |
 | [cindy](bucket/cindy.json) [🌐](https://cindy.app) | Consider it done. The open-source AI agent that... | 0.1.141 | 2026-11-20 |
 | [cindycn](bucket/cindycn.json) [🌐](https://cindy.cn) | Cindy (国内版) - 想到，就能做到。开源、开箱即用... | 0.1.141 | 2026-11-20 |
 | [clipdiary](bucket/clipdiary.json) [🌐](https://clipdiary.com/) | A clipboard manager with history and snippets f... | 5.73 | 2026-11-20 |
@@ -103,7 +104,6 @@ scoop install zyqpkg/<app-name>
 | [weasel-nightly](bucket/weasel-nightly.json) [🌐](https://rime.im/) | Rime for Windows (Nightly Build) | 0.17.4.98.f96ed24 | 2026-10-31 |
 | [nyaterm-tauri](bucket/nyaterm-tauri.json) [🌐](https://nyaterm.app) | A modern remote terminal workspace (Legacy Taur... | 1.3.2 | 2026-10-29 |
 | [pixpin](bucket/pixpin.json) [🌐](https://pixpin.com/) | 截图、录屏、OCR - 一款快速灵活的工具 | 3.6.6.0 | 2026-10-29 |
-| [busybox](bucket/busybox.json) [🌐](https://frippery.org/busybox) | A single binary that contains many common Unix ... | 6354-g5f09fb446 | 2026-10-27 |
 | [scrcpy-gui](bucket/scrcpy-gui.json) [🌐](http://tomotoes.com/scrcpy-gui/) | A simple & beautiful GUI application for scrcpy | 2.5.0 | 2026-10-27 |
 | [netcatty](bucket/netcatty.json) [🌐](https://netcatty.app) | SSH workspace, SFTP, and terminals in one | 1.1.90 | 2026-10-26 |
 | [gooey-pi](bucket/gooey-pi.json) [🌐](https://github.com/am-will/gooey-pi) | GooeyPi - Desktop UI for the pi coding agent | 1.1.21 | 2026-10-25 |
