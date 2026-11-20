@@ -42,9 +42,26 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          $ErrorActionPreference = 'Stop'
           $bucketDir = Join-Path $env:GITHUB_WORKSPACE 'bucket'
-          & "/tmp/scoop-core/bin/checkver.ps1" -Dir $bucketDir -App '*' -Update
+          $checkverScript = "/tmp/scoop-core/bin/checkver.ps1"
+          $manifests = Get-ChildItem -Path $bucketDir -Filter '*.json' | Sort-Object Name
+          $failedApps = [System.Collections.Generic.List[string]]::new()
+
+          Write-Host "Starting checkver for $($manifests.Count) manifests with error isolation..."
+          foreach ($m in $manifests) {
+              $app = $m.BaseName
+              try {
+                  & $checkverScript -Dir $bucketDir -App $app -Update -ErrorAction Stop
+              } catch {
+                  Write-Warning "Checkver failed for ${app}: $_"
+                  $failedApps.Add($app)
+              }
+          }
+
+          if ($failedApps.Count -gt 0) {
+              Write-Host "::warning::The following $($failedApps.Count) app(s) failed checkver: $($failedApps -join ', ')"
+          }
+          Write-Host "Checkver run finished. Proceeding to README update and commit."
 
       - name: Regenerate README.md
         shell: pwsh
