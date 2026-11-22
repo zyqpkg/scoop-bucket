@@ -18,21 +18,25 @@ scoop install zyqpkg/<app-name>
 
 | App | Description | Version | Updated |
 |-----|-------------|---------|---------|
+| [cursor-cli](bucket/cursor-cli.json) [🌐](https://cursor.com/cli) | Cursor CLI - run Cursor agents from the terminal | 2026.11.22-e9042b2 | 2026-11-22 |
+| [magpie](bucket/magpie.json) [🌐](https://usemagpie.ai/) | One gateway to pick and route every coding agen... | 0.1.4679 | 2026-11-22 |
+| [magpie-cli](bucket/magpie-cli.json) [🌐](https://usemagpie.ai/) | Terminal-only CLI for Magpie — one gateway to ... | 0.1.4679 | 2026-11-22 |
+| [mirasim](bucket/mirasim.json) [🌐](https://mirasim.ai/) | Collaborative workspace for commanding coding a... | 0.0.834 | 2026-11-22 |
+| [openchamber](bucket/openchamber.json) [🌐](https://openchamber.dev/) | Desktop and web interface for OpenCode AI agent | 2.8.0 | 2026-11-22 |
+| [pi-bolt](bucket/pi-bolt.json) [🌐](https://github.com/opensec-git/Pi-Bolt) | Pi, the coding agent, compiled ahead of time to... | 1.3.0 | 2026-11-22 |
+| [snowair](bucket/snowair.json) [🌐](https://github.com/CM-idea/SnowAir) | 轻量化的截图与标注工具，涵盖截图、录屏、演示、... | 0.1.26 | 2026-11-22 |
+| [sshyard](bucket/sshyard.json) [🌐](https://sshyard.com) | Native desktop SSH / SFTP client with terminals... | 1.6.2 | 2026-11-22 |
 | [astrlink](bucket/astrlink.json) [🌐](https://astrlink.com/) | A local AI gateway for AI agents, unifying your... | 0.3.5 | 2026-11-21 |
 | [codepilot](bucket/codepilot.json) [🌐](https://github.com/op7418/CodePilot) | AI-powered coding assistant desktop application... | 0.68.0 | 2026-11-21 |
-| [magpie](bucket/magpie.json) [🌐](https://usemagpie.ai/) | One gateway to pick and route every coding agen... | 0.1.4665 | 2026-11-21 |
-| [magpie-cli](bucket/magpie-cli.json) [🌐](https://usemagpie.ai/) | Terminal-only CLI for Magpie — one gateway to ... | 0.1.4665 | 2026-11-21 |
 | [mangodisk](bucket/mangodisk.json) [🌐](https://mangodisk.app/) | Safety-first disk cleaner and space analyzer, w... | 2.1.1 | 2026-11-21 |
 | [mangodisk-cli](bucket/mangodisk-cli.json) [🌐](https://mangodisk.app/) | Command-line interface for MangoDisk — safety-... | 2.1.1 | 2026-11-21 |
-| [mirasim](bucket/mirasim.json) [🌐](https://mirasim.ai/) | Collaborative workspace for commanding coding a... | 0.0.832 | 2026-11-21 |
 | [omp](bucket/omp.json) [🌐](https://github.com/can1357/oh-my-pi) | AI Coding agent for the terminal — hash-anchor... | 19.1.0 | 2026-11-21 |
-| [openmausbot](bucket/openmausbot.json) [🌐](https://mausbot.com) | Open-source Grok Bot alternative — local-first... | 0.1.176 | 2026-11-21 |
+| [openmausbot](bucket/openmausbot.json) [🌐](https://mausbot.com) | Open-source Grok Bot alternative — local-first... | 0.1.177 | 2026-11-21 |
 | [orca](bucket/orca.json) [🌐](https://github.com/stablyai/orca) | Orca - an AI-native desktop IDE that turns natu... | 1.4.269 | 2026-11-21 |
-| [paseo](bucket/paseo.json) [🌐](https://paseo.sh) | Coding agents from your phone, desktop and CLI ... | 0.17.1 | 2026-11-21 |
+| [paseo](bucket/paseo.json) [🌐](https://paseo.sh) | Coding agents from your phone, desktop and CLI ... | 0.17.2 | 2026-11-21 |
 | [qodercli](bucket/qodercli.json) [🌐](https://qoder.com) | Qoder CLI - An AI programming assistant for int... | 1.1.95 | 2026-11-21 |
 | [qoderclicn](bucket/qoderclicn.json) [🌐](https://qoder.com.cn) | QoderWork CLI - A local file operation tool for... | 1.1.95 | 2026-11-21 |
-| [qwen-code](bucket/qwen-code.json) [🌐](https://qwen.ai/qwencode) | An open-source AI coding agent that lives in yo... | 0.28.3 | 2026-11-21 |
-| [sshyard](bucket/sshyard.json) [🌐](https://sshyard.com) | Native desktop SSH / SFTP client with terminals... | 1.6.1 | 2026-11-21 |
+| [qwen-code](bucket/qwen-code.json) [🌐](https://qwen.ai/qwencode) | An open-source AI coding agent that lives in yo... | 0.28.4 | 2026-11-21 |
 | [syncclipboard](bucket/syncclipboard.json) [🌐](https://github.com/Jeric-X/SyncClipboard) | 跨平台剪贴板同步方案 / Cross-Platform Cipboard ... | 3.3.4 | 2026-11-21 |
 | [voicebox](bucket/voicebox.json) [🌐](https://voicebox.sh/) | The open-source voice synthesis studio | 0.6.0 | 2026-11-21 |
 | [airsnip](bucket/airsnip.json) [🌐](https://github.com/bd-dxg/airsnip) | 1 MB 的 Windows 截图标注工具，绿色免安装单文件... | 0.14.0 | 2026-11-20 |
@@ -46,19 +50,17 @@ scoop install zyqpkg/<app-name>
 | [junie](bucket/junie.json) [🌐](https://junie.jetbrains.com/docs/junie-cli.html) | Junie CLI - JetBrains agentic coding tool with ... | 4100.11 | 2026-11-20 |
 | [kilo](bucket/kilo.json) [🌐](https://github.com/Kilo-Org/kilocode) | Kilo - all-in-one agentic engineering platform.... | 7.8.32 | 2026-11-20 |
 | [kiro](bucket/kiro.json) [🌐](https://kiro.dev) | An agentic IDE developed by AWS for structured,... | 1.5.11 | 2026-11-20 |
-| [nyaterm](bucket/nyaterm.json) [🌐](https://nyaterm.app) | A modern remote terminal workspace | 2.0.7 | 2026-11-20 |
-| [openchamber](bucket/openchamber.json) [🌐](https://openchamber.dev/) | Desktop and web interface for OpenCode AI agent | 2.8.0 | 2026-11-20 |
+| [nyaterm](bucket/nyaterm.json) [🌐](https://nyaterm.app) | A modern remote terminal workspace | 2.0.8 | 2026-11-20 |
 | [pi](bucket/pi.json) [🌐](https://github.com/earendil-works/pi) | AI agent toolkit: unified LLM API, agent loop, ... | 1.6.0 | 2026-11-20 |
 | [pi-desktop](bucket/pi-desktop.json) [🌐](https://github.com/vastsa/PI-Desktop) | Local-first AI coding agent desktop: Electron +... | 0.23.0 | 2026-11-20 |
 | [t3code](bucket/t3code.json) [🌐](https://t3.codes) | The open-source control plane for coding agents... | 0.1.11 | 2026-11-20 |
 | [todayai](bucket/todayai.json) [🌐](https://todayai.cn) | 懂你所想，为你先行的个人 AI 助理（Today 中国版） | 1.27.1 | 2026-11-20 |
 | [bongocat](bucket/bongocat.json) [🌐](https://github.com/ayangweb/BongoCat) | 跨平台桌宠 BongoCat，为桌面增添乐趣！ | 2.4.1 | 2026-11-19 |
-| [cursor-cli](bucket/cursor-cli.json) [🌐](https://cursor.com/cli) | Cursor CLI - run Cursor agents from the terminal | 2026.11.22-e9042b2 | 2026-11-19 |
 | [finch](bucket/finch.json) [🌐](https://finchwork.app/) | Lightweight, easy-to-use desktop AI agent with ... | 1.8.1 | 2026-11-19 |
 | [fluxdown](bucket/fluxdown.json) [🌐](https://fluxdown.zerx.dev/) | Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitT... | 0.6.8 | 2026-11-19 |
 | [intelligent-terminal](bucket/intelligent-terminal.json) [🌐](https://github.com/microsoft/intelligent-terminal) | A fork of Windows Terminal with native agent in... | 0.3.3213.0 | 2026-11-19 |
 | [pixwit](bucket/pixwit.json) [🌐](https://pixwit.cn/) | 截图 · 录屏 · 简易剪辑 - 单屏截图、历史记录、... | 1.19.1 | 2026-11-19 |
-| [rakazo](bucket/rakazo.json) [🌐](https://rakazo.com) | Open-source Grok Bot alternative. Choose your o... | 0.13.0 | 2026-11-19 |
+| [rakazo](bucket/rakazo.json) [🌐](https://rakazo.com) | Open-source Grok Bot alternative. Choose your o... | 0.14.0 | 2026-11-19 |
 | [trae-cli](bucket/trae-cli.json) [🌐](https://docs.trae.cn/cli_get-started-with-trae-cli) | TRAE CLI - a code agent that helps with coding,... | 0.216.0 | 2026-11-19 |
 | [apiflow](bucket/apiflow.json) [🌐](https://github.com/trueleaf/apiflow) | Free, AI-Powered API Tool like Postman. Support... | 0.9.84 | 2026-11-18 |
 | [Chatbox](bucket/Chatbox.json) [🌐](https://chatboxai.app/) | User-friendly Desktop Client App for AI Models/... | 1.24.6 | 2026-11-18 |
@@ -67,7 +69,6 @@ scoop install zyqpkg/<app-name>
 | [hermes-desktop](bucket/hermes-desktop.json) [🌐](https://github.com/fathah/hermes-desktop) | Desktop Companion for Hermes Agent | 0.7.9 | 2026-11-18 |
 | [lody](bucket/lody.json) [🌐](https://lody.ai/) | Desktop app to manage all your code agents with... | 0.113.1 | 2026-11-18 |
 | [orcaterm](bucket/orcaterm.json) [🌐](https://orcaterm.com/) | OrcaTerm (腾讯云智能终端) - 连接 AI Agent、代码... | 1.6.11 | 2026-11-18 |
-| [snowair](bucket/snowair.json) [🌐](https://github.com/CM-idea/SnowAir) | 轻量化的截图与标注工具，涵盖截图、录屏、演示、... | 0.1.26 | 2026-11-18 |
 | [fluentcleaner-classic](bucket/fluentcleaner-classic.json) [🌐](https://github.com/builtbybel/FluentCleaner) | FluentCleaner Classic - a modern Windows cleanu... | 1.0.0 | 2026-11-17 |
 | [msime](bucket/msime.json) [🌐](https://github.com/metasequoiaime/MSIME-Windows) | 水杉输入法 - 开源的 Windows TSF 输入法 (Metaseq... | 0.14.1 | 2026-11-17 |
 | [notion-cli](bucket/notion-cli.json) [🌐](https://developers.notion.com/cli/get-started/overview) | Notion CLI - authenticate with Notion, deploy N... | 0.23.31 | 2026-11-17 |
@@ -87,7 +88,6 @@ scoop install zyqpkg/<app-name>
 | [thinkrail-desktop](bucket/thinkrail-desktop.json) [🌐](https://thinkrail.ai) | The worktree IDE for the pi coding agent (Deskt... | 0.4.0 | 2026-11-12 |
 | [websocat](bucket/websocat.json) [🌐](https://github.com/vi/websocat) | A command-line client for WebSockets, like netc... | 1.14.2 | 2026-11-12 |
 | [ferrite](bucket/ferrite.json) [🌐](https://github.com/OlaProeis/Ferrite) | A fast, lightweight text editor for Markdown, J... | 0.3.1 | 2026-11-11 |
-| [pi-bolt](bucket/pi-bolt.json) [🌐](https://github.com/opensec-git/Pi-Bolt) | Pi, the coding agent, compiled ahead of time to... | 1.3.0 | 2026-11-11 |
 | [rustdesk](bucket/rustdesk.json) [🌐](https://github.com/rustdesk/rustdesk) | An open-source remote desktop software, written... | 1.5.3 | 2026-11-11 |
 | [altserver](bucket/altserver.json) [🌐](https://altstore.io/) | A home for apps that push the boundaries of iOS... | 1.8.4 | 2026-11-09 |
 | [clippi](bucket/clippi.json) [🌐](https://github.com/Ruszero01/clippi) | 轻量化剪贴板管理工具，使用 Rust + GPUI 构建 &#1... | 0.5.6 | 2026-11-09 |
