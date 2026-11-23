@@ -18,6 +18,39 @@
         ]
     ],
     "persist": "data",
+    "post_install": [
+        "$nmhost = \"$dir\\misterdownloadmanager-nmhost.exe\"",
+        "if (Test-Path $nmhost) {",
+        "    # nmhost refuses to register while the portable 'data' folder sits next to it, so hide it for the call.",
+        "    # Registering from $dir (the 'current' junction) keeps the registry paths valid across updates.",
+        "    $data = \"$dir\\data\"",
+        "    if (Test-Path $data) { Rename-Item $data \"$dir\\data.tmp-nmhost\" }",
+        "    try {",
+        "        Push-Location $dir",
+        "        & $nmhost --register | Out-Null",
+        "        if ($LASTEXITCODE -ne 0) { warn 'Browser integration was not registered, see notes.' }",
+        "    } finally {",
+        "        Pop-Location",
+        "        if (Test-Path \"$dir\\data.tmp-nmhost\") { Rename-Item \"$dir\\data.tmp-nmhost\" $data }",
+        "    }",
+        "}"
+    ],
+    "uninstaller": {
+        "script": [
+            "$nmhost = \"$dir\\misterdownloadmanager-nmhost.exe\"",
+            "if (Test-Path $nmhost) { Push-Location $dir; & $nmhost --unregister | Out-Null; Pop-Location }"
+        ]
+    },
+    "notes": [
+        "The portable build ships without the installer, so browser integration is wired up by this manifest:",
+        "the native messaging host is registered for Chrome, Chromium, Edge, Brave and Firefox on install and removed on uninstall.",
+        "To finish the setup:",
+        "  1. Load the extension from '$dir\\extension\\chromium' via chrome://extensions (Developer mode -> Load unpacked).",
+        "     Chromium stores also offer it as 'Mister Download Manager'.",
+        "  2. In the app enable Options -> General -> 'Use advanced browser integration' and tick the browsers to capture from.",
+        "Undo the registration manually with: & \"$dir\\misterdownloadmanager-nmhost.exe\" --unregister",
+        "Docs: https://misterdownloadmanager.com/zh-hans/help/portable.html"
+    ],
     "checkver": {
         "github": "https://github.com/anefzaoui/misterdownloadmanager"
     },
