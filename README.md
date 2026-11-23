@@ -19,8 +19,8 @@ scoop install zyqpkg/<app-name>
 | App | Description | Version | Updated |
 |-----|-------------|---------|---------|
 | [fluentcleaner](bucket/fluentcleaner.json) [🌐](https://github.com/builtbybel/FluentCleaner) | FluentCleaner is a modern Windows cleanup tool ... | 26.11.123 | 2026-11-23 |
-| [magpie](bucket/magpie.json) [🌐](https://usemagpie.ai/) | One gateway to pick and route every coding agen... | 0.1.4705 | 2026-11-23 |
-| [magpie-cli](bucket/magpie-cli.json) [🌐](https://usemagpie.ai/) | Terminal-only CLI for Magpie — one gateway to ... | 0.1.4705 | 2026-11-23 |
+| [magpie](bucket/magpie.json) [🌐](https://usemagpie.ai/) | One gateway to pick and route every coding agen... | 0.1.4707 | 2026-11-23 |
+| [magpie-cli](bucket/magpie-cli.json) [🌐](https://usemagpie.ai/) | Terminal-only CLI for Magpie — one gateway to ... | 0.1.4707 | 2026-11-23 |
 | [mirasim](bucket/mirasim.json) [🌐](https://mirasim.ai/) | Collaborative workspace for commanding coding a... | 0.0.835 | 2026-11-23 |
 | [misterdownloadmanager](bucket/misterdownloadmanager.json) [🌐](https://misterdownloadmanager.com) | Open-source, clean-room download manager writte... | 0.5.2 | 2026-11-23 |
 | [omp](bucket/omp.json) [🌐](https://github.com/can1357/oh-my-pi) | AI Coding agent for the terminal — hash-anchor... | 19.1.1 | 2026-11-23 |
