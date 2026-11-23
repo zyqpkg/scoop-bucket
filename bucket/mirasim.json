@@ -1,12 +1,12 @@
 {
-    "version": "0.0.835",
+    "version": "0.0.836",
     "description": "Collaborative workspace for commanding coding agents — run Claude Code, Codex and Mira Bot together with shared context",
     "homepage": "https://mirasim.ai/",
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://cdn-assets.mirasim.ai/mirasim/releases/v0.0.835/Mirasim-0.0.835-win-x64.exe#/dl.7z",
-            "hash": "ac9a1e2cac66a317614c70d48fc976ce32a8968ee6facdf39d5e3ceb043c1de6",
+            "url": "https://cdn-assets.mirasim.ai/mirasim/releases/v0.0.836/Mirasim-0.0.836-win-x64.exe#/dl.7z",
+            "hash": "15837dae2fea2a6ccb3d0a8f9c817d2f9bd4eef70be28ed8b803032ada838fca",
             "installer": {
                 "script": [
                     "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -15,8 +15,8 @@
             }
         },
         "arm64": {
-            "url": "https://cdn-assets.mirasim.ai/mirasim/releases/v0.0.835/Mirasim-0.0.835-win-arm64.exe#/dl.7z",
-            "hash": "bf4009350703d3d2fc21b943b510a37fceafe6d146bc24112f923fe33715d92c",
+            "url": "https://cdn-assets.mirasim.ai/mirasim/releases/v0.0.836/Mirasim-0.0.836-win-arm64.exe#/dl.7z",
+            "hash": "a9baed17ef8515a7250726df9d16ca9b62efd6c025d042591aaa61dd0d0405b2",
             "installer": {
                 "script": [
                     "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.7z\" \"$dir\"",

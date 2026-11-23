@@ -20,9 +20,9 @@ scoop install zyqpkg/<app-name>
 |-----|-------------|---------|---------|
 | [fluentcleaner](bucket/fluentcleaner.json) [🌐](https://github.com/builtbybel/FluentCleaner) | FluentCleaner is a modern Windows cleanup tool ... | 26.11.123 | 2026-11-23 |
 | [linger](bucket/linger.json) [🌐](https://heylinger.com) | Open-source personal agent that runs fully on y... | 0.1.6 | 2026-11-23 |
-| [magpie](bucket/magpie.json) [🌐](https://usemagpie.ai/) | One gateway to pick and route every coding agen... | 0.1.4708 | 2026-11-23 |
-| [magpie-cli](bucket/magpie-cli.json) [🌐](https://usemagpie.ai/) | Terminal-only CLI for Magpie — one gateway to ... | 0.1.4708 | 2026-11-23 |
-| [mirasim](bucket/mirasim.json) [🌐](https://mirasim.ai/) | Collaborative workspace for commanding coding a... | 0.0.835 | 2026-11-23 |
+| [magpie](bucket/magpie.json) [🌐](https://usemagpie.ai/) | One gateway to pick and route every coding agen... | 0.1.4709 | 2026-11-23 |
+| [magpie-cli](bucket/magpie-cli.json) [🌐](https://usemagpie.ai/) | Terminal-only CLI for Magpie — one gateway to ... | 0.1.4709 | 2026-11-23 |
+| [mirasim](bucket/mirasim.json) [🌐](https://mirasim.ai/) | Collaborative workspace for commanding coding a... | 0.0.836 | 2026-11-23 |
 | [misterdownloadmanager](bucket/misterdownloadmanager.json) [🌐](https://misterdownloadmanager.com) | Open-source, clean-room download manager writte... | 0.5.2 | 2026-11-23 |
 | [omp](bucket/omp.json) [🌐](https://github.com/can1357/oh-my-pi) | AI Coding agent for the terminal — hash-anchor... | 19.1.1 | 2026-11-23 |
 | [openclip](bucket/openclip.json) [🌐](https://github.com/zouyq/openclip) | Clipboard manager with history, search and snip... | 6.0.0 | 2026-11-23 |
@@ -82,7 +82,7 @@ scoop install zyqpkg/<app-name>
 | [workbuddy](bucket/workbuddy.json) [🌐](https://www.workbuddy.ai/) | WorkBuddy - AI Agent for Everyday Office Work | 5.11.4.44121853... | 2026-11-17 |
 | [cli-manager](bucket/cli-manager.json) [🌐](https://github.com/dark-hxx/CLI-Manager) | CLI-Manager: 用于集中管理基于CLI 的多个开发项目... | 1.5.1 | 2026-11-16 |
 | [ego-lite](bucket/ego-lite.json) [🌐](https://lite.ego.app/) | The fastest browser for AI agents to run browse... | 0.6.3.17 | 2026-11-16 |
-| [pi-app](bucket/pi-app.json) [🌐](https://github.com/justhil/pi-app) | Desktop app for the pi coding agent runtime wit... | 0.7.8 | 2026-11-16 |
+| [pi-app](bucket/pi-app.json) [🌐](https://github.com/justhil/pi-app) | Desktop app for the pi coding agent runtime wit... | 0.8.0 | 2026-11-16 |
 | [zcode](bucket/zcode.json) [🌐](https://zcode.z.ai/en) | A full-featured Agentic Development Environment... | 3.18.2 | 2026-11-16 |
 | [workbuddycn](bucket/workbuddycn.json) [🌐](https://www.codebuddy.cn/work/) | WorkBuddy (CN) - AI-native desktop Agent WorkBe... | 5.11.3.43806934... | 2026-11-15 |
 | [throne](bucket/throne.json) [🌐](https://github.com/throneproj/Throne) | Qt based cross-platform GUI proxy configuration... | 1.4.2 | 2026-11-14 |
