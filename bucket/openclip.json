@@ -24,9 +24,6 @@
         ]
     ],
     "persist": "data",
-    "post_uninstall": [
-        "Remove-ItemProperty -Path 'HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Run' -Name OpenClip -ErrorAction SilentlyContinue"
-    ],
     "checkver": {
         "github": "https://github.com/zouyq/openclip"
     },
@@ -39,6 +36,8 @@
     },
     "notes": [
         "Data (config, diary.db, backups, snippet libraries) lives in scoop\\persist\\openclip\\data",
-        "and survives upgrades and uninstalls. Drop an existing diary.db in there to import history."
+        "and survives upgrades and uninstalls. Drop an existing diary.db in there to import history.",
+        "If you enabled 'run on Windows startup', the HKCU Run entry is left behind after uninstall.",
+        "Remove it with: Remove-ItemProperty 'HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Run' OpenClip"
     ]
 }
