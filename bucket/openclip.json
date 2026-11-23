@@ -28,8 +28,7 @@
         "Remove-ItemProperty -Path 'HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Run' -Name OpenClip -ErrorAction SilentlyContinue"
     ],
     "checkver": {
-        "github": "https://github.com/zouyq/openclip",
-        "regex": "v([\\d.]+)"
+        "github": "https://github.com/zouyq/openclip"
     },
     "autoupdate": {
         "architecture": {
