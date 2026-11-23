@@ -5,9 +5,9 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/anefzaoui/misterdownloadmanager/releases/download/v0.5.2/MisterDownloadManager-0.5.2-portable.zip",
-            "hash": "0907a6c6aed5c4967e89549e883147d2b33b073e6f8b0d914dff84d32f3b7cf7",
-            "extract_dir": "MisterDownloadManager-0.5.2-portable"
+            "url": "https://github.com/anefzaoui/misterdownloadmanager/releases/download/v0.5.2/MisterDownloadManager-0.5.2-x64.zip",
+            "hash": "703c1676c90e34869dfd8e7fb675e06c9093bb5e23db92232a6a7534a50b9f63",
+            "extract_dir": "MisterDownloadManager-0.5.2-x64"
         }
     },
     "bin": "misterdownloadmanager-cli.exe",
@@ -17,22 +17,12 @@
             "Mister Download Manager"
         ]
     ],
-    "persist": "data",
     "post_install": [
         "$nmhost = \"$dir\\misterdownloadmanager-nmhost.exe\"",
         "if (Test-Path $nmhost) {",
-        "    # nmhost refuses to register while the portable 'data' folder sits next to it, so hide it for the call.",
-        "    # Registering from $dir (the 'current' junction) keeps the registry paths valid across updates.",
-        "    $data = \"$dir\\data\"",
-        "    if (Test-Path $data) { Rename-Item $data \"$dir\\data.tmp-nmhost\" }",
-        "    try {",
-        "        Push-Location $dir",
-        "        & $nmhost --register | Out-Null",
-        "        if ($LASTEXITCODE -ne 0) { warn 'Browser integration was not registered, see notes.' }",
-        "    } finally {",
-        "        Pop-Location",
-        "        if (Test-Path \"$dir\\data.tmp-nmhost\") { Rename-Item \"$dir\\data.tmp-nmhost\" $data }",
-        "    }",
+        "    Push-Location $dir",
+        "    try { & $nmhost --register | Out-Null } finally { Pop-Location }",
+        "    if ($LASTEXITCODE -ne 0) { warn 'Browser integration was not registered, see notes.' }",
         "}"
     ],
     "uninstaller": {
@@ -42,13 +32,14 @@
         ]
     },
     "notes": [
-        "The portable build ships without the installer, so browser integration is wired up by this manifest:",
-        "the native messaging host is registered for Chrome, Chromium, Edge, Brave and Firefox on install and removed on uninstall.",
-        "To finish the setup:",
-        "  1. Load the extension from '$dir\\extension\\chromium' via chrome://extensions (Developer mode -> Load unpacked).",
-        "     Chromium stores also offer it as 'Mister Download Manager'.",
+        "Browser integration is registered by this manifest for Chrome, Chromium, Edge, Brave and Firefox,",
+        "and removed again on uninstall. To finish the setup:",
+        "  1. Load the extension from '$dir\\extension\\chromium' via chrome://extensions (Developer mode -> Load unpacked),",
+        "     or install it from the browser's add-on store as 'Mister Download Manager'.",
         "  2. In the app enable Options -> General -> 'Use advanced browser integration' and tick the browsers to capture from.",
         "Undo the registration manually with: & \"$dir\\misterdownloadmanager-nmhost.exe\" --unregister",
+        "Settings are kept in %APPDATA%\\misterdownloadmanager. The portable zip is not used here: its 'data' folder",
+        "next to misterdownloadmanager.exe puts MDM in portable mode, which refuses to register browser integration.",
         "Docs: https://misterdownloadmanager.com/zh-hans/help/portable.html"
     ],
     "checkver": {
@@ -57,8 +48,8 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/anefzaoui/misterdownloadmanager/releases/download/v$version/MisterDownloadManager-$version-portable.zip",
-                "extract_dir": "MisterDownloadManager-$version-portable"
+                "url": "https://github.com/anefzaoui/misterdownloadmanager/releases/download/v$version/MisterDownloadManager-$version-x64.zip",
+                "extract_dir": "MisterDownloadManager-$version-x64"
             }
         },
         "hash": {
