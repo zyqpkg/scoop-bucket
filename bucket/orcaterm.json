@@ -1,5 +1,5 @@
 {
-    "version": "1.6.11",
+    "version": "1.6.12",
     "description": "OrcaTerm (腾讯云智能终端) - 连接 AI Agent、代码与云服务器的高效易用 AI 终端工具",
     "homepage": "https://orcaterm.com/",
     "license": {
@@ -10,7 +10,7 @@
     "architecture": {
         "64bit": {
             "url": "https://orcaterm-desktop-1258344699.cos.accelerate.myqcloud.com/release/latest/OrcaTerm-latest-win-x64.exe#/dl.7z",
-            "hash": "795bc4d59e802d6fbc4ef0b7b33daebe791b2c411f55626c547d73d98521ab4e"
+            "hash": "c1b4aa185072dd0545eb51dbf028ba68951f19b4ebf4aad4668df17aa0e6cab9"
         }
     },
     "installer": {
