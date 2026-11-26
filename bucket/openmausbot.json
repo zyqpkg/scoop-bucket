@@ -1,12 +1,12 @@
 {
-    "version": "0.1.181",
+    "version": "0.1.182",
     "description": "Open-source Grok Bot alternative — local-first AI bots with a computer they can use",
     "homepage": "https://mausbot.com",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/milind-soni/OpenMausBot/releases/download/v0.1.181/OpenMausBot-0.1.181-setup.exe#/dl.7z",
-            "hash": "sha512:35d902efe40e073e66f74c0b584e2c2598b5a76adc48336a7f3fb0c3a91d103069b55c9058f455e1abe700880d0d6d269f1a6230d4d1a638d5f505f2ebdbcf08"
+            "url": "https://github.com/milind-soni/OpenMausBot/releases/download/v0.1.182/OpenMausBot-0.1.182-setup.exe#/dl.7z",
+            "hash": "sha512:87956e1f53f6f5f969b118dcbb29445903b533edad03ec781bf61cc7255a938eced48f771846500b566d8128a353aa410fbcc26105176e95e8053fa1c90ef135"
         }
     },
     "installer": {
